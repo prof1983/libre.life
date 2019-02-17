@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Round table. Neuromarketing. - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Round table. Neuromarketing.</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p class="h">
+NeuroNet, NeuroRuble, NeuroFoundation, NeuroCapital!
+</p>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/economy/en">Economy</a></nav>
+
+</main>
+<footer><div>7523-10-26 - 7524-10-26</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
