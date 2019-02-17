@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Теория денег (Маркс) - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Теория денег (Маркс)</h1>
+
+<figure>
+<a href="00b.jpg"><img src="00.jpg"/></a>
+</figure>
+
+<p>
+Рекомендую посмотреть. Теория прибавочной стоимости и прибавочной ценности лежит в основе проекта LibreMoney.
+</p>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/uXyISpTU8iI?list=PL-_cKNuVAYAWRU6FrRMQaaYDnNXdys3PY" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/o_2gvIkZ9c4?list=PL-_cKNuVAYAWRU6FrRMQaaYDnNXdys3PY" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/iyX9LxFXgOQ?list=PL-_cKNuVAYAWRU6FrRMQaaYDnNXdys3PY" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+
+<p>
+Источник:
+<a href="http://libremoney.org/article/463/" target="_blank">libremoney.org/article/463</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/economy/ru">Экономика</a></nav>
+
+</main>
+<footer><div>7524-12-21 - 7524-12-21</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
