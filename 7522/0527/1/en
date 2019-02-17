@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Startup LibreMoney on spark.ru - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Startup LibreMoney on spark.ru</h1>
+
+<figure>
+<img src="00.png"/>
+</figure>
+
+<p>
+Registered project on spark.ru
+</p>
+
+
+<p class=h2>
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+<br/>
+<br/>
+
+<p class="h2"><a href="/money/libre/en">Libre.Money</a></p>
+
+</main>
+<footer><div>7524-05-27 - 7524-05-27</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
