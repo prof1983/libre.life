@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Know small home - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<p class="h2"><a href="/p/10/en">StupInno</a></p>
+
+
+<h1>Know small home</h1>
+
+<figure>
+<a href="img/00.jpg"><img src="img/00.jpg"/></a>
+</figure>
+
+
+<p class="h2">
+<a href="ru">RU</a>
+</p>
+
+
+</main>
+<footer><div>7523-03-16 - 7523-04-13</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
