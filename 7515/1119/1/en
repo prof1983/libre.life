@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Four Lives startup - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Four Lives startup</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+Startup - a young company, aimed at new markets. Creating his people - in the shower individualists and creators. Despite this algorithm for constructing startups rather is tough in nature. What determines their success at each stage, and how to avoid the inherent innovative disease?
+</p>
+
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+<p class="h2"><a href="/club/en">Club</a></p>
+
+</main>
+<footer><div>7523-04-24 - 7523-04-24</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
