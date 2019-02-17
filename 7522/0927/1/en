@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>The financial system of the future - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>The financial system of the future</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+Dear friends! We are with you now just take a step across the threshold of a new FinTech era...
+</p>
+
+<p class="h">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/economy/en">Economy</a></nav>
+
+</main>
+<footer><div>7523-07-18 - 7524-09-26</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
