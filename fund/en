@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Fund - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Fund</h1>
+
+<p class="h">
+The joint collection of resources for the implementation of various projects
+</p>
+
+<figure>
+<a href="img/00b.jpg"><img src="img/00.jpg"></a>
+</figure>
+
+<p>
+<a href="https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D0%BD%D0%B4" target="_blank"><b>Фонд</b></a> (фр. fond от лат. fundus) — совокупность систем и элементов, работающих одним целым для достижения общей цели.
+</p>
+
+<p>
+<a href="https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D0%BD%D0%B4_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)" target="_blank"><b>Фонд</b></a> — (фр. fond, от лат. fundus — основание) общественная организация, которая ведает (принимает и распоряжается) средствами, поступающими к ней для каких-нибудь социально значимых целей.
+</p>
+<!-- https://en.wikipedia.org/wiki/Fund -->
+
+
+
+
+<h2>What?</h2>
+
+<ul>
+<li><b>Nano-investing in projects.</b> For example, to finance the development of a unique technology that has a chance to be successful, and you will probably get in the future income of the investor.</li>
+<li><b>Financing products of the future.</b> For example, helping to finance the release of the inventor of the product, which is not yet on the market, and get the preference of its acquisition in the future.</li>
+<li><b>Social projects.</b> For example, the improvement of the children's playground in the yard of your house.</li>
+<li><b>Charitable projects.</b> For example, to assist in the treatment of patients with severe illness.</li>
+<li><b>Creative projects.</b> For example, help your favorite artists to record an album and get its electronic version.</li>
+</ul>
+
+
+
+
+<div class="blocks blocks-front">
+
+<a href="/co/invest/en"> <!-- equity crowdfunding -->
+<div>
+<figure>
+<img src="/co/invest/img/logo/300x300.jpg"/>
+</figure>
+<h3>Краудинвестинг</h3>
+<p>Соинвестинг</p>
+</div>
+
+</a>
+<a href="/co/fund/en"> <!-- fondos, donec, funding, financiamento, финансирование -->
+<div>
+<figure>
+<img src="/co/fund/img/logo/300x300.jpg"/>
+</figure>
+<h3>Cro</h3>
+<p>Совместное финансирование</p>
+</div>
+</a>
+
+</div>
+
+
+
+
+<!-- Соучастие - complicity, complicidad, cumplicidade -->
+<!--a href="mplici/ru">
+<div>
+<figure>
+<img src="mplici/img/logo/300x300.jpg"/>
+</figure>
+<h3>Complicity</h3>
+<p>Sharing resources</p>
+</div>
+</a-->
+
+
+<br/>
+<br/>
+
+<p class="h2"><a href="/co/en">Community</a></p>
+
+</main>
+<footer><div>7524-05-24 - 7524-05-24</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
