@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Our first video presentation ready - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Our first video presentation ready</h1>
+
+<figure>
+<a href="00b.jpg"><img src="00.jpg" /></a>
+</figure>
+
+<p>
+Our first video presentation is ready! — youtu.be/uVR2btiHrtQ … We are happy And soon in english, follow us! Lets make it better! And we realized this presentation using crowdfunding! Follow us, we are looking for partners :)
+</p>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/uVR2btiHrtQ" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+<p>
+Source:
+<a href="http://libremoney.org/article/363/" target="_blank">libremoney.org/article/363</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/money/libre/en">Libre.Money</a></nav>
+
+</main>
+<footer><div>7524-08-13 - 7524-08-13</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

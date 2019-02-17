@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Наша первая видеопрезентация готова - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Наша первая видеопрезентация готова</h1>
+
+<figure>
+<a href="00b.jpg"><img src="00.jpg" /></a>
+</figure>
+
+<p>
+Наша первая видеопрезентация готова! Мы счастливы — проект развивается и эту презентацию нам удалось реализовать с помощью краудфандига! Присоединяйтесь, нам очень нужны партнеры! :)
+</p>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/uVR2btiHrtQ" frameborder="0" allowfullscreen></iframe>
+<!-- https://youtu.be/uOfPDqxI5ps -->
+</figure>
+
+<p>
+Источник:
+<a href="http://libremoney.org/article/363/" target="_blank">libremoney.org/article/363</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/money/libre/ru">Libre.Money</a></nav>
+
+</main>
+<footer><div>7524-08-13 - 7524-08-13</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
