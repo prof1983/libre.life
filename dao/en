@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Decentralized Autonomous Organization (DAO) - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Decentralized Autonomous Organization (DAO)</h1>
+
+<figure>
+<a href="img/00.jpg"><img src="img/00.jpg"></a>
+</figure>
+
+<div class="blocks blocks-front">
+
+<a href="/money/en">
+<div>
+<figure>
+<img src="/money/img/logo/300x300.jpg"/>
+</figure>
+<h3>Money</h3>
+<p>The measure of value, medium of exchange, a store of value</p>
+</div>
+</a>
+
+<a href="/contract/en">
+<div>
+<figure>
+<img src="/contract/img/logo/300x300.jpg"/>
+</figure>
+<h3>Contracts</h3>
+<p>Smart contracts</p>
+</div>
+</a>
+
+<a href="/verify/en">
+<div>
+<figure>
+<img src="/verify/img/logo/300x300.jpg"/>
+</figure>
+<h3>Verify</h3>
+<p>Document certification</p>
+</div>
+</a>
+
+</div>
+
+
+<br/>
+
+
+<div class="blocks blocks-front">
+
+<a href="https://www.ethereum.org" target="_blank">
+<div>
+<figure>
+<img src="ethereum/300.png"/>
+</figure>
+<h3>Ethereum</h3>
+<p></p>
+</div>
+</a>
+
+<a href="http://bitshares.org" target="_blank">
+<div>
+<figure>
+<img src="bitshares/300.jpg"/>
+</figure>
+<h3>BitShares X</h3>
+<p></p>
+</div>
+</a>
+
+<a href="aira/en">
+<div>
+<figure>
+<img src="aira/300.jpg"/>
+</figure>
+<h3>AIRA</h3>
+<p></p>
+</div>
+</a>
+
+</div>
+
+
+<br/>
+<br/>
+
+
+
+
+<a name="pub"></a>
+<h2>Publications</h2>
+
+<div class="article">
+<a href="/7524/0501/3/en"><img src="/7524/0501/3/logo-320x200.jpg"></a>
+<p><a href="/7524/0501/3/en">Visions, Part 2: The Value of Blockchain Technology</a></p>
+<p>
+If you ask the average enthusiast Blokcheyn cryptocurrency or what one key advantage of the technology, there is a high probability that they will give you one specific predictable response: it does not require trust.
+<a href="/7524/0501/3/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7524/0501/2/en"><img src="/7524/0501/2/logo-320x200.jpg"></a>
+<p><a href="/7524/0501/2/en">Visions, Part 1: The Value of Blockchain Technology</a></p>
+<p>
+One of the questions that has perhaps been central to my own research in blockchain technology is: ultimately, what is it even useful for? Why do we need blockchains for anything, what kinds of services should be run on blockchain-like architectures, and why specifically should services be run on blockchains instead of just living on plain old servers? Exactly how much value do blockchains provide: are they absolutely essential, or are they just nice to have? And, perhaps most importantly of all, what is the “killer app” going to be?
+<a href="/7524/0501/2/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7524/0417/1/en"><img src="/7524/0417/1/logo-320x200.jpg"></a>
+<p><a href="/7524/0417/1/en">FinNet: Forsythe + Hackathon</a></p>
+<p>
+Photos and video from the event Forsythe + Hackathon towards FinNet (future finance).
+<a href="/7524/0417/1/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7524/0326/1/en"><img src="/7524/0326/1/logo-320x200.jpg"></a>
+<p><a href="/7524/0326/1/en">The General Theory of Decentralized Applications, Dapps</a></p>
+<p>
+A new model for building successful and massively scalable applications is emerging. Bitcoin led the way with its open-source, peer-to-peer nature, cryptographically-stored records (block chain), and limited number of tokens that power the use of its features.
+<a href="/7524/0326/1/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7524/0321/1/en"><img src="/7524/0321/1/logo-320x200.jpg"></a>
+<p><a href="/7524/0321/1/en">Crowdfunding to Ethereum</a></p>
+<p>
+Sometimes a good idea to require a lot of resources and collective efforts. You can ask for donations. But donors want to be sure that the whole project will receive adequate funding and startanet. In this case, crowdfunding is ideal: you declare a final amount which is necessary for the project and dates during which you plan to collect.
+<a href="/7524/0321/1/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7524/0308/1/en"><img src="/7524/0308/1/logo-320x200.jpg"></a>
+<p><a href="/7524/0308/1/en">Matan Field on the future of the organization</a></p>
+<p>
+What does the social biology of ants is to online reputation? What companies will dominate in the future? Shared his opinion Matan Field, Executive Director Backfeed.
+<a href="/7524/0308/1/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/1227/1/en"><img src="/7523/1227/1/logo-320x200.jpg"></a>
+<p><a href="/7523/1227/1/en">Decentralized everything: we understand in terms of</a></p>
+<p>
+What is actually decentralized organization? What is the difference between the organization and application, and that the first thing that makes a self-contained?
+<a href="/7523/1227/1/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/1103/1/en"><img src="/7523/1103/1/logo-320x200.jpg"></a>
+<p><a href="/7523/1103/1/en">Russian developers have created a platform for the management of the decentralized autonomous organizations</a></p>
+<p>
+Developers of Bitfork Develop presented its new project based on the Ethereum network - AIRA DAO.
+<a href="/7523/1103/1/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/1026/1/en"><img src="/7523/1026/1/logo-320x200.jpg"></a>
+<p><a href="/7523/1026/1/en">What should be the app for smart contracts?</a></p>
+<p>
+In the previous article in this series we mentioned about what you do not have enough clever contracts in order to become part of our everyday life. Of course, no intelligent contracts can not exist outside of the environment - the environment in which they can create, validate, and in which they will be carried out.
+<a href="/7523/1026/1/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/1019/1/en"><img src="/7523/1019/1/logo-320x200.jpg"></a>
+<p><a href="/7523/1019/1/en">What you need for the introduction of the smart business contracts</a></p>
+<p>
+Before we talk about the reasons why the smart contracts have not yet received the widest possible dissemination, let's first consider whether there is a business to do this and if there is a, then in what way. Indeed, the market - it is a certain form of life, which is completely subject to the laws of evolution.
+<a href="/7523/1019/1/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/1014/1/en"><img src="/7523/1014/1/logo-320x200.jpg"></a>
+<p><a href="/7523/1014/1/en">As decentralized autonomous organizations will change business</a></p>
+<p>
+Decentralized autonomous organizations (DAO) - one of the most discussed topics in the crypto-community. Let's try a little bit to find out what they are and what impact they will have on the business models of the future.
+<a href="/7523/1014/1/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/1012/1/en"><img src="/7523/1012/1/logo-320x200.jpg"></a>
+<p><a href="/7523/1012/1/en">Mass holakratiya</a></p>
+<p>
+In the spring of 2015 the company announced liquidation Zappos hierarchical management system and the transition to holakratii. Positions replaced with "role" and the responsibilities of each employee can establish themselves. Browser vc.ru figured out what happened to Zappos for half a year and how other companies have successfully used the principles holakratii.
+<a href="/7523/1012/1/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/1007/2/en"><img src="/7523/1007/2/logo-320x200.jpg"></a>
+<p><a href="/7523/1007/2/en">Decentralised kriptoplatformy and the future of crowdfunding</a></p>
+<p>
+Since its inception, Bitcoin gradually change the different industry - payments, money transfers, data storage, and more.
+<a href="/7523/1007/2/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/1002/2/en"><img src="/7523/1002/2/logo-320x200.jpg"></a>
+<p><a href="/7523/1002/2/en">Crypti launched an open testing platform distributed applications</a></p>
+<p>
+Platform for the development of distributed applications Crypti announced the beginning of public testing of its service Gaia (also known as Crypti v0.5.0).
+<a href="/7523/1002/2/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0914/1/en"><img src="/7523/0914/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0914/1/en">Cryptsy - how to construct a platform for the development of distributed applications on JS</a></p>
+<p>
+Crypto-platform of the second generation does not cease to attract the attention of users and despite the hype has died down somewhat since the release of NXT, in the community and then there are new projects and a platform for developing distributed applications.
+<a href="/7523/0914/1/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0830/1/en"><img src="/7523/0830/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0830/1/en">The Future of the Internet space: Blockchain applications</a></p>
+<p>
+Blockchain protocol will mutate and pervade everything we do on the Internet. The simplest applications that we are likely to see in the near future, will use blokcheyn both simple storage system, endowed with all the unique properties of this type of network.
+<a href="/7523/0830/1/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0829/1/en"><img src="/7523/0829/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0829/1/en">The Future of the Internet space: Very similar to the bitcoin</a></p>
+<p>
+Forget about money - it is not important, and the protocol that is behind it. It will mutate and pervade everything we do (or be able to do once) on the Internet. And do not say I did not warn you.
+<a href="/7523/0829/1/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0514/1/en"><img src="/7523/0514/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0514/1/en">Comprehension of DAO</a></p>
+<p>
+The fact that the abbreviation Decentralized autonomous organization that in English, which in Russian is consonant with one of the fundamental essences of ancient philosophical culture, I do not see anything surprising. Much more symbolic here, perhaps, it is that both concepts describe, in general, the same natural mechanism.
+<a href="/7523/0514/1/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0429/1/en"><img src="/7523/0429/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0429/1/en">Why introduce cryptocurrency on business or future business processes</a></p>
+<p>
+In a professional environment is a lot of discussion about where you can use the decentralized technology, in addition to the financial sphere. After all, as you know, opportunities and prospects of technology behind Bitcoins, is still not disclosed even half. One of the quite promising areas of the industry is the introduction of cryptocurrency to the enterprise.
+<a href="/7523/0429/1/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0310/2/en"><img src="/7523/0310/2/logo-320x200.jpg"></a>
+<p><a href="/7523/0310/2/en">Working with purse AlethZero cryptocurrency Ethereum (video)</a></p>
+<p>
+Transcript: "Working with a purse AlethZero cryptocurrency Ethereum»
+<a href="/7523/0310/2/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0303/1/en"><img src="/7523/0303/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0303/1/en">Smart contracts will help States to accept cryptocurrency</a></p>
+<p>
+Smart contracts are a form of computer protocols / programs / solutions that are able to provide a fully automated control and execution of the agreements, used in smart contract. The main value of the contracts is smart in that they can reduce the transaction costs of the performance of obligations under the contract and contribute to a relationship of trust between the parties to a contract by virtue of self-sufficiency smart contract for the execution of its terms without the third party.
+<a href="/7523/0303/1/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/1118/1/en"><img src="/7522/1118/1/logo-320x200.jpg"></a>
+<p><a href="/7522/1118/1/en">DACs VS the Corporation</a></p>
+<p>
+In certain corners of the crypto community, ‘Decentralized Autonomous Companies’ (DACs), or ‘Distributed Autonomous Organisations’ (DAOs) are all the rage. In the same way that Bitcoin is decentralizing money, DACs seem to offer the potential to decentralize the entire world of business, commerce, finance, and the economy.
+<a href="/7522/1118/1/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/1114/1/en"><img src="/7522/1114/1/logo-320x200.jpg"></a>
+<p><a href="/7522/1114/1/en">Review of decentralized technologies. Part 2</a></p>
+<p>
+The first part can be found here, there, I talked about the fact that such Blockchain, Ethereum, Ripple and Storj.io. Today we will speak about the interesting, new and not yet covered in the proper degree to Geektimes technology is Sidechains and smart deals.
+<a href="/7522/1114/1/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/1022/1/en"><img src="/7522/1022/1/logo-320x200.jpg"></a>
+<p><a href="/7522/1022/1/en">The decentralized alternative to Uber</a></p>
+<p>
+The trade unions of taxi drivers, sensing the real threat to their business from companies such as Uber and Lyft, unleashed them all over the world a real war. It seems that now they have incurred the same fate as that of Hollywood, attempted at the time to sue Napster: La'Zooz company recently introduced a decentralized alternative to the implementation of passenger transport services.
+<a href="/7522/1022/1/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/1010/1/en"><img src="/7522/1010/1/logo-320x200.jpg"></a>
+<p><a href="/7522/1010/1/em">The Imminent Decentralized Computing Revolution</a></p>
+<p>
+A mega-trend is brewing that could make bureaucratic hierarchies, middlemen and gatekeepers everywhere obsolete including social networks, banks, stock exchanges, electronic voting systems and even governments. It’s called decentralized computing, and it could fundamentally transform the way we connect to and exchange value on the Internet.
+<a href="/7522/1010/1/en">More...</a>
+</p>
+</div>
+
+
+
+
+<nav class="main-footer-nav"><a href="/economy/en">Economy</a></nav>
+
+</main>
+<footer><div>7523-03-24 - 7524-11-16</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

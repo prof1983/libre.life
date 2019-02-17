@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<link rel="stylesheet" href="/css/main.css"/>
+<title>AIRA - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>AIRA</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+NEXT GENERATION ORGANIZATIONS
+</p>
+
+<p>
+Build your own scalable trustful safe organization in AIRA DAO ENVIRONMENT
+</p>
+
+<p>
+A FEW WORDS ABOUT PROJECT
+</p>
+
+<p>
+The project has started in the summer of 2015 and is in active development. Join us or keep an eye on this site to follow the progress of AIRA DAO Environment.
+</p>
+
+<p>
+FUNDAMENTALS OF AIRA PROJECT
+</p>
+
+<ul>
+<li>Digital assets
+<li>Smart contracts
+<li>Opensource implementation
+<li>Decentralized democracy
+<li>Artificial intelligence
+</ul>
+
+
+
+
+<h2>Our team</h2>
+
+<p>
+<b>Sergey Lonshakov</b>
+<br/>
+Team lead, Project Architect, Ethereum smart contract developer, UI/UX designer
+<br/>
+ls@aira.life
+<br/>
+twitter: @EnsRationis
+</p>
+
+<p>
+<b>Evgene Radchenko</b>
+<br/>
+Project manager, Project Architect, Ethereum smart contract developer
+<br/>
+pm@aira.life
+</p>
+
+<p>
+<b>Anastasiia Bakai</b>
+<br/>
+Design Lead, UI/UX designer, web designer,  front-end developer (web)
+<br/>
+ui@aira.life
+</p>
+
+<p>
+<b>Alexander Kapitonov</b>
+<br/>
+PhD in Industrial Automation, Developer Matlab, Octave, Scilab, Labview, python, c.
+<br/>
+ak@aira.life
+</p>
+
+<p>
+<b>Alexander Krupenkin</b>
+<br/>
+Robotics/IoT developer, Project Architect
+<br/>
+Communication through Eugene: pm@aira.life
+</p>
+
+<p>
+<b>Semyon Pavlov</b>
+<br/>
+Robotics/IoT developer, js/C++ developer
+<br/>
+Communication through Eugene: pm@aira.life
+</p>
+
+<p>
+<b>Alexander</b>
+<br/>
+Web developer, Ethereum smart contract developer
+<br/>
+Communication through Eugene: pm@aira.life
+</p>
+
+<p>
+<b>Pavel</b>
+<br/>
+System administration, web administrator
+<br/>
+Communication through Eugene: pm@aira.life
+</p>
+
+<br>
+
+<p class="h3">
+<a href="http://aira.life/" target="_blank">aira.life</a>
+</p>
+
+<br/>
+<br/>
+
+<p class="h2"><a href="/dao/en">Decentralized Autonomous Organization (DAO)</a></p>
+
+</main>
+<footer><div>7524-02-23 - 7524-02-23</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
