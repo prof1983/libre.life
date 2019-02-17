@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>LibreMoney — Талисман - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>LibreMoney — Талисман</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<!--
+Встречайте талисман Libre.Money
+-->
+
+<p>
+Посмотрел на криптовалюту DogeCoin. Их основная фишка — это красивое изображение собаки на монетах. И это очень привлекает пользователей.
+Поэтому я решил тоже выбрать талисман для проекта LibreMoney. Набрал в поисковике слово «запасливое животное» и оказалось, что чаще всего с этим словосочетанием ассоциируется белка. Поэтому встречайте талисман:
+</p>
+
+<!--
+/money/libre/img/01.jpg
+/money/libre/img/02.jpg
+/money/libre/img/03.jpg
+/money/libre/img/04.jpg
+-->
+
+<figure>
+<a target="_blank" href="http://itmages.ru/image/view/1737025/f51525fe"><img src="http://storage7.static.itmages.ru/i/14/0621/s_1403378307_4187656_f51525fee0.jpg" /></a>
+<a target="_blank" href="http://itmages.ru/image/view/1737034/c65d784b"><img src="http://storage6.static.itmages.ru/i/14/0621/s_1403378867_7516806_c65d784b24.jpg" /></a>
+<a target="_blank" href="http://itmages.ru/image/view/1737040/e1adb3ff"><img src="http://storage7.static.itmages.ru/i/14/0621/s_1403379116_1134986_e1adb3ffd5.jpg" /></a>
+<a target="_blank" href="http://itmages.ru/image/view/1737036/e8e7f00c"><img src="http://storage8.static.itmages.ru/i/14/0621/s_1403378902_7753725_e8e7f00c3e.jpg" /></a>
+</figure>
+
+<p>
+Источник:
+<a href="http://libremoney.org/article/205" target="_blank">libremoney.org/article/205</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/money/libre/ru">Libre.Money</a></nav>
+
+</main>
+<footer><div>7524-06-21 - 7524-06-21</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
