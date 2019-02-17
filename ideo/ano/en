@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Apostles of the new order - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Apostles of the new order</h1>
+
+<figure>
+<img src="img/00.jpg"/>
+</figure>
+
+<p>
+Synopsis: A young boy decided to launch a startup in order to gain fame and earn some money, but it all went very wrong, and when the hero surrendered, then a mysterious mentor. He opened a window into the world of other possibilities, but warned that the price may be high.
+</p>
+
+<p>
+As a result of passing the test, the hero saves the world, reveals the sacred meaning of innovation and should be your destination.
+</p>
+
+<p class="h">
+<a href="https://www.facebook.com/alex.v.krol" target="_blank">Alex Krol</a>
+</p>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/HYnJO-f_drY" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/uOMeGYwTgPQ" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+<br/>
+
+<p class="h3">
+<a href="/ideo/tkr/en">The theory of caste and roles</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/ideo/en">Ideology</a></nav>
+
+</main>
+<footer><div>7523-12-06 - 7525-01-02</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

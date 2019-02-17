@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Апостолы нового порядка - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Апостолы нового порядка</h1>
+
+<figure>
+<img src="img/00.jpg"/>
+</figure>
+
+<p>
+Краткое содержание фильма: Молодой парень решил запустил стартап дабы обрести славу и заработать немного денег, но все пошло совсем не так, и когда герой сдался, то появился таинственный ментор. Он распахнул окно в мир иных возможностей, но предупредил, что цена может быть высокой.
+</p>
+
+<p>
+В результате, пройдя испытания, герой спасает мир, раскрывает сакральные смыслы инноваций и следует своему предназначению.
+</p>
+
+<p class="h">
+<a href="https://www.facebook.com/alex.v.krol" target="_blank">Алексей Крол</a>
+</p>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/FBOtTTuW774" frameborder="0" allowfullscreen></iframe>
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/2yJ_DyAXw1w" frameborder="0" allowfullscreen></iframe>
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Wo4Ermfq1Fo" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/RwJX-gUsXQM" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+
+
+<br/>
+
+<p>
+Коллеги, весной этого года мы завершили небольшой игровой фильм на тему инноваций.
+<br/>
+Любые отзывы и комментарии приветствуются. Команда проекта будет очень благодарна. Спасибо.
+<br/>
+Автор: alexeykrol
+<br/>
+2013-07-21
+<br/>
+<a href="http://www.pvsm.ru/tehnologii/39169" target="_blank">pvsm.ru/tehnologii/39169</a>
+<br/>
+<a href="http://habrahabr.ru/post/187342/" target="_blank">habrahabr.ru/post/187342</a>
+</p>
+
+<br/>
+
+<p class="h3">
+<a href="/ideo/tkr/ru">Теория Каст и Ролей</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/ideo/ru">Идеология</a></nav>
+
+</main>
+<footer><div>7523-12-06 - 7525-01-02</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

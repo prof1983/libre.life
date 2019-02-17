@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Идеология - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Идеология</h1>
+
+<figure>
+<img src="img/00.jpg"/>
+</figure>
+
+<p class="h" style="max-width: 600px;">
+<b>Мы - сообщество инноваторов и изобретателей.</b>
+</p>
+
+<p>
+Описание наших цели и принципов будет опубликовано позже в манифесте. А пока предлагаю прочитать то, что написано ниже.
+</p>
+
+
+<p>
+<b>Идеология</b> - совокупность системно упорядоченных взглядов, выражающая интересы различных социальных классов и других социальных групп, на основе которой осознаются и оцениваются отношения людей и их общностей к социальной действительности в целом и друг к другу и либо признаются установленные формы господства и власти (консервативные идеологии), либо обосновывается необходимость их преобразования и преодоления (радикальные и революционные идеологии). <a href="https://ru.wikipedia.org/wiki/%C8%E4%E5%EE%EB%EE%E3%E8%FF">Википедия</a>
+</p>
+
+
+<p class="h2">
+<a href="intro/ru">Введение</a>
+<br/>
+<a href="history/ru">Наше прошлое</a>
+<br/>
+<a href="future/ru">Наше будущее</a>
+<br/>
+<a href="cognitio/ru">Уровни и формы познания</a>
+<br/>
+<a href="tkr/ru">Теория каст и ролей</a>
+<br/>
+<a href="ano/ru">Апостолы нового порядка</a>
+<br/>
+<a href="/7523/0624/2/ru">Что такое ловушка бедности</a>
+<br/>
+<a href="god/ru">Новый год</a>
+<br/>
+<a href="rus/ru">Русские</a>
+</p>
+
+
+<figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yBVM5NHY-vE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br/>
+Анатолий Вассерман о разделении труда
+<!-- https://youtu.be/xM13Hst3oZ8 -->
+</figure>
+
+<figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TAKQUN5VNOM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br/>
+Анатолий Вассерман - О единстве мира
+<!-- http://youtu.be/HK3vLx4aybo -->
+</figure>
+
+
+
+
+<nav class="main-footer-nav"><a href="/ru">Главная</a></nav>
+
+</main>
+<footer><div>7523-03-12 - 7526-08-07</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

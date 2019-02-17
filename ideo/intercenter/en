@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Intercenter Ideology - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<p class="h2"><a href="/doc/en">Documentation</a></p>
+
+<h1>Intercenter Ideology</h1>
+
+<p class="h2">
+<a href="ru">RU</a>
+</p>
+
+<p>
+Source:
+<a href="http://intercenternetwork.org/">intercenternetwork.org</a>
+</p>
+
+
+<p class="h2"><a href="/doc/en">Documentation</a></p>
+
+</main>
+<footer><div>7523-03-20 - 7523-04-05</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

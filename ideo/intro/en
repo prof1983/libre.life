@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Intro - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Intro</h1>
+
+<p class="h" style="max-width: 600px;">
+<b>We - the community of innovators and inventors who create the future.</b>
+</p>
+
+<figure>
+<a href="img/maslou.jpg"><img src="img/maslou.jpg"></a>
+</figure>
+
+
+<p class="h2">
+<a href="ru">Read more... (RU)</a>
+</p>
+
+
+</main>
+<footer><div>7523-03-14 - 7523-04-23</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

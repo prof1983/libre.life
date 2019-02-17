@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Ideology - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Ideology</h1>
+
+<figure>
+<img src="img/00.jpg"/>
+</figure>
+
+<p class="h" style="max-width: 600px;">
+<b>We - the community of innovators and inventors.</b>
+</p>
+
+<p>
+The description of our goals and principles will be published later in the manifest. In the meantime, I suggest to read what is written below.
+</p>
+
+<p>
+<b>Ideology</b>, in the Althusserian sense, is "the imaginary relation to the real conditions of existence." It can be described as a set of conscious and unconscious ideas which make up one's goals, expectations, and motivations. An ideology is a comprehensive normative vision[further explanation needed], a way of looking at things, as argued in several philosophical tendencies (see political ideologies). It can also be a set of ideas proposed by the dominant class of society to all members of society (a "received consciousness" or product of socialization[further explanation needed], as suggested in some Marxist and Critical theory accounts. While the concept of "ideology" describes a set of ideas broad in its normative reach, an ideology is less encompassing than as expressed in concepts such as worldview, imaginary and ontology. <a href="https://en.wikipedia.org/wiki/Ideology">Wikipedia</a>
+</p>
+
+
+<p class="h2">
+<a href="intro/en">Introduction</a>
+<br/>
+<a href="history/en">Our past</a>
+<br/>
+<a href="future/en">Our Future</a>
+<br/>
+<a href="cognitio/en">Levels and forms of knowledge</a>
+<br/>
+<a href="tkr/en">The theory of caste and roles</a>
+<br/>
+<a href="ano/en">Apostles of the new order</a>
+<br/>
+<a href="/7523/0624/2/en">What is the poverty trap</a>
+<br/>
+<a href="god/en">New God</a>
+<br/>
+<a href="rus/en">Russian</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/en">Main</a></nav>
+
+</main>
+<footer><div>7523-03-12 - 7525-01-17</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

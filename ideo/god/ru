@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Новый год - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Новый год</h1>
+
+<p>
+Когда приходит Новый год?
+</p>
+
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/5LXqW_JRG3A" frameborder="0" allowfullscreen></iframe>
+<!--
+Рождество Христа-Солнца. Когда приходит Новый год? (Познавательное ТВ, Артём Войтенков)
+Познавательное ТВ
+Опубликовано: 23 дек. 2016 г.
+Артём Войтенков: Рождество Христа-Солнца. Когда приходит новый год? Новый год происходит после дня зимнего солнцестояния - в христианский праздник Рождества.
+Содержание:
+0:00:00 - программирование человека
+0:00:16 - автоматизм ритуалов
+0:02:52 - сатанинский шабаш Нового года
+0:03:45 - история празднования Нового года
+0:05:17 - врождённое чувство времени
+0:06:07 - смена суток по Солнцу
+0:06:35 - осенний крестьянский новый год
+0:07:59 - весенний славянский новый год 
+0:08:32 - определение Нового года по Солнцу
+0:12:02 - Солнце в галактике Млечный путь
+0:14:47 - рождество Креста
+0:16:48 - солнечная символика в церквях
+0:18:31 - как правильно отмечать Новый год
+0:19:42 - мифы про Христа-Солнце
+Чему не учат в школе и университете, о чём молчит официальная наука и не рассказывают по телевизору - смотрите на нашем канале Познавательное ТВ http://www.youtube.com/user/poznavate...
+Познавательное ТВ в соцсетях:
+Вконтакте: http://vk.com/poznavatelnoetv
+Одноклассники: http://ok.ru/group/55120471130139
+Facebook: http://www.facebook.com/poznavatelnoe.tv
+Twitter: https://twitter.com/PoznavatelnoeTV
+Telegram: https://telegram.me/poznavatelnoetv
+-->
+</figure>
+
+
+<figure>
+Бог Солнца - Христос и другие религии
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/1RgF4s1zz8U" frameborder="0" allowfullscreen></iframe>
+<!-- Копия: https://youtu.be/nia-lx7NBtk -->
+</figure>
+
+
+
+
+<nav class="main-footer-nav"><a href="/ideo/ru">Идеология</a></nav>
+
+</main>
+<footer><div>7524-12-24 - 7526-04-08</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
