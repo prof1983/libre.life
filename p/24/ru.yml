@@ -1,0 +1,1431 @@
+ru:
+  date:
+    formats:
+      default: "%d.%m.%Y"
+      short: "%d %b"
+      long: "%d %B %Y"
+    day_names: [воскресенье, понедельник, вторник, среда, четверг, пятница, суббота]
+    abbr_day_names: [Вс, Пн, Вт, Ср, Чт, Пт, Сб]
+    month_names: [null, января, февраля, марта, апреля, мая, июня, июля, августа, сентября, октября, ноября, декабря]
+    abbr_month_names: [null, янв., февр., марта, апр., мая, июня, июля, авг., сент., окт., нояб., дек.]
+    order:
+    - :day
+    - :month
+    - :year
+  time:
+    formats:
+      default: "%a, %d %b %Y, %H:%M:%S %z"
+      time: "%H:%M"
+      short: "%d %b, %H:%M"
+      long: "%d %B %Y, %H:%M"
+    am: "утра"
+    pm: "вечера"
+  datetime:
+    distance_in_words:
+      half_a_minute: "пол минуты"
+      less_than_x_seconds:
+        one: "меньше чем %{count} секунда"
+        few: "меньше чем %{count} секунды"
+        many: "меньше чем %{count} секунд"
+        other: "меньше чем %{count} секунд"
+      x_seconds:
+        one: "%{count} секунда"
+        few: "%{count} секунды"
+        many: "%{count} секунд"
+        other: "%{count} секунд"
+      less_than_x_minutes:
+        one: "меньше чем %{count} минута"
+        few: "меньше чем %{count} минуты"
+        many: "меньше чем %{count} минут"
+        other: "меньше чем %{count} минут"
+      x_minutes:
+        one: "%{count} минута"
+        few: "%{count} минуты"
+        many: "%{count} минут"
+        other: "%{count} минут"
+      about_x_hours:
+        one: "около %{count} часа"
+        few: "около %{count} часов"
+        many: "около %{count} часов"
+        other: "около %{count} часов"
+      x_days:
+        one: "%{count} день"
+        few: "%{count} дня"
+        many: "%{count} дней"
+        other: "%{count} дней"
+      about_x_months:
+        one: "около %{count} месяца"
+        few: "около %{count} месяцев"
+        many: "около %{count} месяцев"
+        other: "около %{count} месяцев"
+      x_months:
+        one: "%{count} месяц"
+        few: "%{count} месяца"
+        many: "%{count} месяцев"
+        other: "%{count} месяцев"
+      about_x_years:
+        one: "около %{count} года"
+        few: "около %{count} лет"
+        many: "около %{count} лет"
+        other: "около %{count} лет"
+      over_x_years:
+        one: "больше %{count} года"
+        few: "больше %{count} лет"
+        many: "больше %{count} лет"
+        other: "больше %{count} лет"
+  number:
+    human:
+      storage_units:
+        format: "%n %u"
+        units:
+          byte:
+            one: "байт"
+            few: "a55163fa7426f3d9af7f53c80849e243_pl_3"
+            many: "байта"
+            other: "байта"
+          kb: "KB"
+          mb: "МБ"
+          gb: "ГБ"
+          tb: "ТБ"
+  support:
+    array:
+      sentence_connector: "и"
+  activerecord:
+    errors:
+      messages:
+        inclusion: "имеет непредусмотренное значение"
+        exclusion: "имеет зарезервированное значение"
+        invalid: "имеет неверное значение"
+        confirmation: "не совпадает с подтверждением"
+        accepted: "нужно подтвердить"
+        empty: "не может быть пустым"
+        blank: "не может быть пустым"
+        too_long: "слишком длинный (максимум %{count} символов)"
+        too_short: "слишком короткий (минимум %{count} символов)"
+        wrong_length: "неверной длины (должен быть %{count} символов)"
+        taken: "уже существует"
+        not_a_number: "не является числом"
+        not_a_date: "неверная дата"
+        greater_than: "должно быть больше чем %{count}"
+        greater_than_or_equal_to: "должно быть больше или равно %{count}"
+        equal_to: "должно быть равно %{count}"
+        less_than: "должно быть меньше чем %{count}"
+        less_than_or_equal_to: "должно быть меньше или равно %{count}"
+        odd: "может иметь лишь нечетное значение"
+        even: "может иметь лишь четное значение"
+        greater_than_start_date: "должна быть позднее даты начала"
+        not_same_project: "не относится к тому же потоку задач"
+        circular_dependency: "Такая связь приведет к циклической зависимости"
+  actionview_instancetag_blank_option: Выберите, пожалуйста
+  general_text_No: 'Нет'
+  general_text_Yes: 'Да'
+  general_text_no: 'нет'
+  general_text_yes: 'да'
+  general_lang_name: 'Russian (Русский)'
+  general_csv_separator: ';'
+  general_csv_decimal_separator: ','
+  general_csv_encoding: UTF-8
+  general_pdf_encoding: ISO-8859-1
+  general_first_day_of_week: '1'
+  numbers:
+    two: два
+    three: три
+  general:
+    a: ' '
+    accept: принять
+    acceptance: одобрение
+    add: добавить
+    add_a_comment: Добавить комментарий...
+    add_a_tag: добавить ярлык
+    add_new_comment: добавить новый комментарий
+    add_new_item: добавить новый объект
+    add_todo: добавить в список дел
+    added: добавлен
+    ago: тому назад
+    agree: согласен
+    agreement: соглашение
+    block: заблокировать
+    bold: жирный
+    cancel: отменить
+    canceled: отменено
+    century: столетие
+    clear: очистить
+    close: закрыть
+    comment: комментировать
+    comment_on_this_item: комментировать этот обеъкт
+    comments: комментарии
+    day: день
+    days: дни
+    didnt_touch: не трогал
+    disagree: не согласен
+    done: сделано
+    dont_include: Не включает
+    dont_show_again: не показывать снова
+    enter_title_here: ввести заголовок здесь
+    estimate: оценка
+    filter: фильтр
+    filtered_results: Профильтрованные результаты
+    finish: закончить
+    full_screen: полный экран
+    giveup: попытка повторной передачи
+    go_to_top: Перейти к началу
+    hour: час
+    hours: часы
+    in: в
+    include_sub_workstreams: Включить подпотоки задач
+    inprogress: в процессе
+    italic: курсив
+    items_that_i: Объекты, которые я
+    join: присоединиться
+    just_now: только сейчас
+    key: ключ
+    leave: оставить
+    minute: минута
+    minutes: минуты
+    month: месяц
+    months: месяцы
+    needs_my: Нужен мой
+    neutral: нейтральный
+    new: новый
+    new_item: новый объект
+    open: открыть
+    prioritization: установление приоритетов
+    prioritized: выставлены приоритеты
+    quick_filter: быстрый фильтр
+    refresh: обновить
+    reject: отказать
+    restart: перезапустить
+    retro: ретро
+    save: сохранить
+    show_all: показывать все
+    show_more: Показать больше...
+    start: начать
+    tagged_with: С меткой
+    takeback: отказываться/принимать обратно
+    this: этот
+    todos: список заданий
+    updated_in_last: Последние обновления
+    upload_files: загрузить файлы
+    week: неделя
+    weeks: недели
+    x_days: '%{num} день/дня/ей'
+    x_hours: '%{num} час/а/ов'
+    x_months: '%{num} месяц/а/ев'
+    x_weeks: '%{num} неделя/и/ь'
+    year: год
+    years: года
+  issue:
+    accepted: принято
+    committed: завершено
+    done: сделано
+    from_a_to_b: С %{original} до %{updated}
+    new: новый
+    open: открыть
+  tracker:
+    bug: дефект
+    chore: поденная работа
+    feature: свойство
+  notice_account_reactivated: Ваша учетная запись восстановлена. .<br /> Добро пожаловать обратно! <br /><br /> <a href="/">Домой</a>
+  notice_account_canceled: Вы вышли из своей учетной записи. Спасибо за использование нашего сайта. <br /><br />Мы с удовольствием прочитаем ваш отзыв о том, как нам стать лучше.<br /><br /><a href="mailto:feedback@bettermeans.com">feedback@bettermeans.com</a>
+  notice_account_inactive_user: Учетная запись еще не активирована. Пожалуйста, проверьте свой email, чтобы активировать учетную запись.
+  notice_account_updated: Учетная запись успешно обновлена.
+  notice_account_invalid_creditentials: Неправильное имя пользователя или пароль
+  notice_account_password_updated: Пароль успешно обновлен.
+  notice_account_wrong_password: Неверный пароль
+  notice_account_register_done: Учетная запись успешно создана. Для активации Вашей учетной записи пройдите по ссылке, которая выслана Вам по электронной почте.
+  notice_account_unknown_email: Неизвестный пользователь.
+  notice_can_t_change_password: Для данной учетной записи используется источник внешней аутентификации. Невозможно изменить пароль.
+  notice_account_lost_email_sent: Вам отправлено письмо с инструкциями по выбору нового пароля.
+  notice_account_activated: Ваша учетная запись активирована. Вы можете войти.
+  notice_successful_create: Создание успешно.
+  notice_successful_update: Обновление успешно.
+  notice_successful_delete: Удаление успешно.
+  notice_successful_connection: Подключение успешно установлено.
+  notice_file_not_found: Страница, на которую Вы пытаетесь зайти, не существует или удалена.
+  notice_locking_conflict: Информация обновлена другим пользователем.
+  notice_not_authorized: У Вас нет прав для посещения данной страницы.
+  notice_email_sent: "Электронное письмо было отправлено на %{value}"
+  notice_email_error: "При отправлении письма (%{value}) возникла ошибка "
+  notice_feeds_access_key_reseted: Ваш ключ доступа RSS был сброшен.
+  notice_failed_to_save_issues: "Не удалось сохранить %{count} объект(ы) на %{total} выбранный: %{ids}."
+  notice_no_issue_selected: "Объект не выбран! Пожалуйста, проверьте объекты, которые вы хотите отредактировать."
+  notice_account_pending: "Ваша учетная запись создана и ожидает подтверждения администратора."
+  notice_default_data_loaded: Была загружена конфигурация по умолчанию.
+  notice_unable_delete_version: Невозможно удалить достигнутый результат.
+  notice_issue_done_ratios_updated: Параметр &laquo;готовность&raquo; обновлен.
+  notice_this_is_your_profie: "Это ваш общественный профиль. Для управления учетной записью <a href='/my/account'>нажмите сюда</a>"
+  error_old_invite: "Старое или неправильное приглашение"
+  error_bad_email_update: "Плохо сформированное почтовое отправление"
+  error_can_t_load_default_data: "Найстройки по умолчанию не могут быть загружены: %{value}"
+  error_issue_not_found_in_project: 'Объект не был найден или не принадлежит к данному потоку заданий'
+  error_no_tracker_in_project: 'No issue type is associated to this workstream. Please check the Workstream settings.'
+  error_no_default_issue_status: 'No default item status is defined. Please check your configuration (Go to "Administration -> Item statuses").'
+  error_can_not_reopen_issue_on_closed_version: 'Объект, присвоенный закрытому достигнутому результату, не может быть снова открыт'
+  error_can_not_archive_project: Этот проект не может быть заархивирован
+  error_issue_done_ratios_not_updated: "Параметр готовность задач не обновлен"
+  error_workflow_copy_source: 'Выберите исходный трекер или роль'
+  error_workflow_copy_target: 'Выберите целевые трекеры и роли'
+  error_general: 'Что-то пошло не так.'
+  warning_attachments_not_saved: "%{count} файл(ы) не мог/ли быть сохранены."
+  mail_subject_lost_password: "Ваш %{value} пароль"
+  mail_body_lost_password: 'Для изменения пароля пройдите по следующей ссылке:'
+  mail_subject_register: "Your %{value} account activation"
+  mail_body_register: 'Для активации учетной записи пройдите по следующей ссылке:'
+  mail_body_account_information_external: "Вы можете использовать свою %{value} учетную запись, чтобы войти."
+  mail_body_account_information: Информация о Вашей учетной записи
+  mail_subject_account_activation_request: "%{value} запрос на активацию учетной записи"
+  mail_subject_email_update_activation: "%{value} активация нового email "
+  mail_body_account_activation_request: "Новый пользователь (%{value}) зарегистрировался. Учетная запись ожидает вашего одобрения:"
+  mail_subject_reminder: "%{count} объект(ы) ожидается в ближайшие дни"
+  mail_body_reminder: "%{count} объект(ы), которым/и вы владеете, ожидается/ются в ближайший/ие %{days} день/дни:"
+  mail_subject_wiki_content_added: "'%{page}' страница wiki была добавлена"
+  mail_body_wiki_content_added: "'%{page}' страница wiki была добавлена %{author}."
+  mail_subject_wiki_content_updated: "'%{page}' страница wiki была обновлена"
+  mail_body_wiki_content_updated: "'%{page}' страница wiki была обновлена %{author}."
+  gui_validation_error: 1 ошибка
+  gui_validation_error_plural: "%{count} ошибки/ок"
+  role:
+    board: Доска
+    core_team: Ядро Команды
+    member: Участник
+    contributor: Помощник
+    non_member: Не-участник
+    active: Активный
+    clearance: Очистка
+    administrator: Администратор
+    anonymous: Анонимный пользователь
+  activity:
+    added: добавлен
+    announced: объявлен
+    attached: прикреплен
+    blocked: заблокирован
+    blocked_acceptance_of: заблокированное одобрение от
+    canceled: отменен
+    changed: изменен
+    changed_estimate_for: изменил свою оценку на
+    commented_on: прокомментировал
+    created: создан
+    deleted: удален
+    edited: отредактирован
+    finished: закончен
+    gave_up_on: отказался от
+    joined: присоединен
+    left: оставлен
+    moved: перенесен
+    passed_a: прошел
+    publicized: уведомлен
+    rejected: отказано
+    replied_to: ответил
+    restarted: перезагружен
+    started: запущен
+    updated: обновлен
+  field_hashed_password: хешированный пароль
+  field_tags: "Ключевые слова"
+  field_points: "Предполагаемые в среднем кредиты"
+  field_logo: "Логотип"
+  field_image_file: "Загрузить локальный файл"
+  field_image_file_url: "или URL-адрес изображения"
+  field_retro: Ретроспектива
+  field_volunteer: Волонтер
+  field_name: Имя
+  field_description: Описание
+  field_summary: Краткое описание
+  field_is_required: Обязательное
+  field_firstname: Имя
+  field_lastname: Фамилия
+  field_mail: Email
+  field_filename: Файл
+  field_filesize: Размер
+  field_downloads: Загрузки
+  field_author: Автор
+  field_created_at: Создан
+  field_updated_at: Обновлен
+  field_field_format: Формат
+  field_is_for_all: Для всех потоков задач
+  field_possible_values: Возможные значения
+  field_regexp: Регулярное выражение
+  field_min_length: Минимальная длина
+  field_max_length: Максимальная длина
+  field_value: Значение
+  field_category: Категория
+  field_title: Заголовок
+  field_project: Поток задач
+  field_item: Объект
+  field_status: Статус
+  field_notes: Примечания
+  field_is_closed: Объект закрыт
+  field_is_default: Значение по умолчанию
+  field_tracker: Тип
+  field_subject: Тема
+  field_due_date: Действителен до
+  field_expected_date: Ожидается к
+  field_assigned_to: Владелец
+  field_priority: Приоритет
+  field_fixed_version: Достигнутый результат
+  field_user: Пользователь
+  field_role: Роль
+  field_homepage: Стартовая страница
+  field_is_public: Общедоступный
+  field_parent: Подпоток задач
+  field_is_in_roadmap: Объекты, отображаемые в дорожной карте
+  field_login: Имя пользователя
+  field_mail_notification: 'Уведомления по Email '
+  field_admin: Администратор
+  field_last_login_on: Последнее подключение
+  field_language: Язык
+  field_effective_date: Дата
+  field_password: Пароль
+  field_new_password: Новый пароль
+  field_password_confirmation: Введите пароль еще раз
+  field_version: Достигнутый результат
+  field_type: Тип
+  field_host: Компьютер
+  field_port: Порт
+  field_account: Учетная запись
+  field_base_dn: BaseDN
+  field_attr_login: Атрибут Login
+  field_attr_firstname: Имя
+  field_attr_lastname: Фамилия
+  field_attr_mail: email
+  field_onthefly: Создание пользователя на лету
+  field_start_date: Дата начала
+  field_done_ratio: "Готовность"
+  field_auth_source: Режим аутентификации
+  field_hide_mail: Скрывать мой email
+  field_active_only_jumps: "Показывать в верхнем всплывающем меню только те потоки задачи, в которых я активен."
+  field_comments: Комментарий
+  field_wiki_comments: Заметки по исправлениям
+  field_url: URL
+  field_start_page: Домашняя страница
+  field_subproject: Подпоток задач
+  field_hours: час(а,ов)
+  field_activity: Деятельность
+  field_spent_on: Дата
+  field_identifier: Уникальный идентификатор
+  field_is_filter: Используется в качестве фильтра
+  field_issue_to: Аналогичный объект
+  field_issue: Аналогичный объект
+  field_delay: Отложить
+  field_assignable: Объектам может быть присвоена эта роль.
+  field_redirect_existing_links: Перенаправить существующие ссылки
+  field_estimated_hours: Оценка времени
+  field_column_names: Столбцы
+  field_time_zone: Часовой пояс
+  field_searchable: Доступно для поиска
+  field_default_value: Значение по умолчанию
+  field_comments_sorting: Отображение комментариев
+  field_parent_title: Родительская страница
+  field_parent_project: Родительский поток задач
+  field_editable: Редактируемое
+  field_watcher: Наблюдатель
+  field_identity_url: OpenID URL
+  field_content: Content
+  field_group_by: Группировать результаты по
+  field_sharing: Совместное использование
+  field_dpp: Оценочная шкала
+  field_hourly_rate_per_person: Почасовая ставка на человека
+  field_pri: Приоритет
+  setting_app_title: Название приложения
+  setting_app_subtitle: Подзаголовок приложения
+  setting_welcome_text: Текст приветствия
+  setting_default_language: Язык по умолчанию
+  setting_login_required: Необходима аутентификация
+  setting_self_registration: Саморегистрация
+  setting_attachment_max_size: Максимальный размер вложения
+  setting_issues_export_limit: Лимит экспорта объектов
+  setting_mail_from: Исходящий email адрес
+  setting_bcc_recipients: Использовать скрытые копии (BCC)
+  setting_plain_text_mail: Только простой текст (без HTML)
+  setting_host_name: Имя компьютера
+  setting_text_formatting: Форматирование текста
+  setting_wiki_compression: Сжатие истории Wiki
+  setting_feeds_limit: Ограничение количества заголовков для RSS потока
+  setting_default_projects_public: Новые потоки задач доступны общественности по умолчанию
+  setting_autofetch_changesets: Автоматически следить за изменениями хранилища
+  setting_commit_ref_keywords: Ключевые слова для поиска
+  setting_commit_fix_keywords: Назначение ключевых слов
+  setting_autologin: Автоматический вход
+  setting_date_format: Формат даты
+  setting_time_format: Формат времени
+  setting_cross_project_issue_relations: Разрешить связи между объектами пересекающихся потоков задач
+  setting_issue_list_default_columns: Колонки по умолчанию отображаются в списке объекта
+  setting_commit_logs_encoding: Кодирование сообщений о фиксации
+  setting_emails_footer: Подстрочные примечания письма
+  setting_protocol: Протокол
+  setting_per_page_options: Количество записей на страницу
+  setting_user_format: Формат отображения имени
+  setting_activity_days_default: Дни, отображаемые активность потока задач
+  setting_display_subprojects_issues: Отобразить объекты подпотоков задач на главной панели потоков задач по умолчанию
+  setting_enabled_scm: Разрешенные SCM
+  setting_mail_handler_body_delimiters: "Урезать письмо после одной из этих строк"
+  setting_mail_handler_api_enabled: Включить веб-сервис для входящих сообщений
+  setting_mail_handler_api_key: API ключ
+  setting_sequential_project_identifiers: Создание последовательных идентификаторов потока задач
+  setting_gravatar_enabled: Использовать аватар пользователя из Gravatar
+  setting_gravatar_default: Изображение Gravatar по умолчанию
+  setting_diff_max_lines_displayed: Максимальное число строк для diff
+  setting_file_max_size_displayed: Максимальный размер текстового файла для отображения
+  setting_openid: Разрешить OpenID для входа и регистрации
+  setting_password_min_length: Минимальная длина пароля
+  setting_new_project_user_role_id: Роль, данная пользователю без прав администрирования, который создает поток задач
+  setting_default_projects_modules: Модули, включенные по умолчанию, для новых потоков задач
+  setting_issue_done_ratio: Рассчитать конечное соотношение объекта с
+  setting_issue_done_ratio_issue_field: Использовать поле объекта
+  setting_issue_done_ratio_issue_status: Использовать статус объекта
+  setting_start_of_week: День начала недели
+  setting_rest_api_enabled: Включить веб-сервис REST
+  permission_view_project: Посмотреть поток заданий
+  permission_add_project: Создать поток заданий
+  permission_add_subprojects: Создать подпоток заданий
+  permission_edit_project: Редактировать поток заданий
+  permission_move_project: Перенести поток заданий
+  permission_select_project_modules: Выбрать модули потока заданий
+  permission_manage_members: Управление участниками
+  permission_manage_versions: Управление достигнутыми результатами
+  permission_manage_categories: Управление категориями объекта
+  permission_add_issues: Добавить объекты
+  permission_edit_issues: Редактировать объекты
+  permission_manage_issue_relations: Управлять связями объекта
+  permission_add_issue_notes: Добавление примечаний
+  permission_edit_issue_notes: Редактирование примечаний
+  permission_edit_own_issue_notes: Редактирование собственных примечаний
+  permission_move_issues: Перенести объекты
+  permission_delete_issues: Удалить объекты
+  permission_manage_public_queries: Управление общими запросами
+  permission_save_queries: Сохранение запросов
+  permission_view_gantt: Просмотр диаграммы Ганта
+  permission_view_calendar: Просмотр календаря
+  permission_view_issue_watchers: Просмотр списка наблюдателей
+  permission_add_issue_watchers: Добавление наблюдателей
+  permission_delete_issue_watchers: Удаление наблюдателей
+  permission_log_time: Учет затраченного времени
+  permission_view_time_entries: Просмотр затраченного времени
+  permission_edit_time_entries: Редактирование учета времени
+  permission_edit_own_time_entries: Редактирование собственного учета времени
+  permission_manage_news: Управление новостями
+  permission_comment_news: Комментирование новостей
+  permission_manage_documents: Управление документами
+  permission_view_documents: Просмотр документов
+  permission_manage_files: Управление файлами
+  permission_view_files: Просмотр файлов
+  permission_manage_wiki: Управление Wiki
+  permission_rename_wiki_pages: Переименование wiki-страниц
+  permission_delete_wiki_pages: Удаление wiki-страниц
+  permission_view_wiki_pages: Просмотр Wiki
+  permission_view_wiki_edits: Просмотр истории Wiki
+  permission_edit_wiki_pages: Редактирование wiki-страниц
+  permission_delete_wiki_pages_attachments: Удаление прикрепленных файлов
+  permission_protect_wiki_pages: Блокирование wiki-страниц
+  permission_view_changesets: Просмотр изменений хранилища
+  permission_commit_access: Изменение файлов в хранилище
+  permission_manage_boards: Управление обсуждениями
+  permission_view_messages: Просмотр сообщение
+  permission_add_messages: Отправка сообщений
+  permission_edit_messages: Редактирование сообщений
+  permission_edit_own_messages: Редактирование собственных сообщений
+  permission_delete_messages: Удаление сообщений
+  permission_delete_own_messages: Удаление собственных сообщений
+  project_module_issue_tracking: Отслеживание объектов
+  project_module_time_tracking: Учет времени
+  project_module_news: Новости
+  project_module_documents: Документы
+  project_module_files: Файлы
+  project_module_wiki: Wiki
+  project_module_boards: Обсуждения
+  title_member_nomination: "Motion to elect %{user} as a member"
+  title_core_member_nomination: "Действие, чтобы выбрать %{user} в Ядро Команды"
+  title_core_member_removal: "Действие, чтобы убрать %{user} из Ядра Команды"
+  title_member_removal: "Motion to remove %{user} as a member"
+  label_usage_over: "Your usage is over your plan's limits"
+  label_trial_expired: "Your trial period has expired"
+  label_email_update: Ваш новый адрес электронной почты
+  label_new_page: Новая страница
+  label_my_issues: Мои объекты
+  label_joined_issues: Зарегистрирован
+  label_joined: Зарегистрирован
+  label_projects_recent: Недавние потоки заданий
+  label_projects_active_in: Потоки заданий, в которых я принимаю участие
+  label_projects_all: Все мои потоки заданий
+  label_view_all: Посмотреть все
+  label_track_invites: Отследить все отправленные приглашения
+  label_unarchive_project: Разархивировать поток задач
+  label_unarchive_project_brackets: (разархивировать)
+  label_archive_project: Заархивировать поток задач
+  label_delete_project: Удалить поток заданий
+  label_move_project: Перенести поток заданий
+  label_note_to_recipient: Примечание для получателя (по желанию)
+  label_amount_to_transfer: Сумма перевода
+  label_select_recipient: Выбрать получателя
+  label_credit_transfers: Переводы кредитов
+  label_credit_transfer: "Перевести кредиты"
+  label_new_credit_transfer: Новый перевод
+  label_select_project: Выбрать проект потока задач
+  label_previous_credit_transfers: Ваша история
+  label_data_dump: дампа данные
+  text_data_dump: Загрузите локальную копию всех данных, которые относятся к потоку задач, которым вы владеете
+  label_issues: datadump.csv
+  label_type_of_workstream: Опции потока заданий
+  label_your_gravatar: Изображение профиля
+  label_team_with_access: Участники с разрешением (к этому потоку задач)
+  label_select_plan: Выбрать новый план
+  label_current_plan: Нынедействующий план
+  label_user: Пользователь
+  label_user_plural: Пользователи
+  label_user_new: Новый пользователь
+  label_user_anonymous: Аноним
+  label_project: Поток задач
+  label_project_new: Новый поток задач
+  label_project_plural: Потоки задач
+  label_x_projects:
+    zero: нет потоков задач
+    one: 1 поток задач
+    other: "%{count} потока/ов задач"
+  label_project_all: Все потоки задач
+  label_project_latest: Последние потоки задач
+  label_enterprise_latest: Последние общедоступные потоки задач
+  label_enterprise_active: Наиболее активные общедоступные потоки задач
+  label_enterprise_plural: Открытые предприятия
+  label_issue: Объект
+  label_issue_new: Новый объект
+  label_issue_plural: Объекты
+  label_issue_view_all: Посмотреть все объекты
+  label_issues_by: "Объекты %{value}"
+  label_issue_added: Объект добавлен
+  label_issue_updated: Объект обновлен
+  label_document: Документ
+  label_document_new: Новый документ
+  label_document_plural: Документы
+  label_document_added: Добавлен документ
+  label_quick_links: Быстрые ссылки
+  label_role: Роль
+  label_role_plural: Роли
+  label_role_new: Новая роль
+  label_role_and_permissions: Роли и права доступа
+  label_member: Участник
+  label_member_new: Новый участник
+  label_member_plural: Участники
+  label_team: Команда
+  label_active_team: Активные участники
+  label_dashboard: Панель управления
+  label_tracker: Тип
+  label_tracker_plural: Типы
+  label_tracker_new: Новый тип
+  label_workflow: Последовательность действий
+  label_issue_status: Статус объекта
+  label_issue_status_plural: Статусы объекта
+  label_issue_status_new: Новый статус
+  label_enumerations: Списки значений
+  label_enumeration_new: Новое значение
+  label_information: Информация
+  label_information_plural: Информация
+  label_personal_information: Персональная инофрмация
+  label_billing_information: Информация по биллингу
+  label_please_login: Пожалуйста, войдите.
+  label_register: Зарегистрироваться
+  label_login_with_open_id_option: или войти с помощью OpenID
+  label_password_lost: Восстановление пароля
+  label_home: Домашняя страница
+  label_my_home: Домой
+  label_my_page: Краткая информация
+  label_new_project: Новый поток задач
+  label_my_account: Учетная запись
+  label_my_projects: Мои потоки задач
+  label_projects_i_belong_to: Потоки задач, к которым я принадлежу
+  label_projects_i_started: Потоки заданий, который я начал
+  label_activities_i_belong_to: Недавняя активность
+  label_administration: Администрирование
+  label_login: Войти
+  label_logout: Выйти
+  label_help: Помощь
+  label_reported_issues: Отмеченные объекты
+  label_assigned_to_me_issues: Завершено
+  label_added_issues: Создано
+  label_recent_issues: недавний
+  label_assigned: собственный
+  label_last_login: Последнее подключение
+  label_registered_on: Зарегистрирован через
+  label_activity: Действия
+  label_overall_activity: Сводный отчет действий
+  label_user_activity: "%{value}'s activity"
+  label_new: Новый
+  label_logged_as: Вошли как
+  label_environment: Окружение
+  label_authentication: Аутентификация
+  label_auth_source: Режим аутентификации
+  label_auth_source_new: Новый режим аутентификации
+  label_auth_source_plural: Режимы аутентификации
+  label_subproject: Подпоток задач
+  label_subproject_plural: Подпотоки задач
+  label_subproject_new: Новый подпоток задач
+  label_new_item_in: Новый объект в
+  label_and_its_subprojects: "%{value} и его/ее подпотоки задач"
+  label_waiting_for_you: "%{notifications} waiting for you"
+  label_min_max_length: Минимальная - максимальная длина
+  label_list: Список
+  label_date: Дата
+  label_integer: Целый
+  label_float: С плавающей точкой
+  label_boolean: Логический
+  label_string: Текст
+  label_text: Длинный текст
+  label_attribute: Атрибут
+  label_attribute_plural: Атрибуты
+  label_download: "%{count} Download"
+  label_download_plural: "%{count} Downloads"
+  label_no_data: Здесь еще ничего нет
+  label_no_credits: У вас нет кредитов, которые можно перевести
+  label_change_status: Изменить статус
+  label_attachment: Файл
+  label_attachment_new: Новый файл
+  label_attachment_delete: Удалить файл
+  label_attachment_plural: Файлы
+  label_file_added: Добавлен файл
+  label_report: Отчет
+  label_report_plural: Отчеты
+  label_news: Новости
+  label_news_new: Добавить новость
+  label_news_plural: Новости
+  label_news_latest: Последние новости
+  label_news_view_all: Посмотреть все новости
+  label_activity_latest: Последние действия
+  label_activity_view_all: Просмотреть всю историю активности
+  label_news_added: Добавлена новость
+  label_settings: Настройки
+  label_overview: Обзор
+  label_version: Достигнутый результат
+  label_version_new: Новый достигнутый результат
+  label_version_plural: Достигнутые результаты
+  label_confirmation: Подтверждение
+  label_export_to: 'Экспортировать в'
+  label_read: Чтение...
+  label_public_projects: Общедоступные потоки задач
+  label_open_issues: открыто
+  label_open_issues_plural: открыто
+  label_closed_issues: закрыто
+  label_closed_issues_plural: закрыто
+  label_x_open_issues_abbr_on_total:
+    zero: 0 открыто / %{total}
+    one: 1 открыт/ %{total}
+    other: "%{count} open / %{total}"
+  label_x_open_issues_abbr:
+    zero: 0 открыто
+    one: 1 открыт
+    other: "%{count} open"
+  label_x_closed_issues_abbr:
+    zero: 0 закрыто
+    one: 1 закрыт
+    other: "%{count} closed"
+  label_total: Всего
+  label_permissions: Права доступа
+  label_current_status: Текущий статус
+  label_new_statuses_allowed: Разрешенные новые статусы
+  label_all: все
+  label_none: отсутствует
+  label_nobody: никто
+  label_next: Следующее
+  label_previous: Предыдущее
+  label_used_by: Используется
+  label_details: Подробности
+  label_add_note: Добавить замечание
+  label_per_page: На страницу
+  label_calendar: Календарь
+  label_months_from: месяцев(ца) с
+  label_gantt: Диаграмма Ганта
+  label_internal: Внутренний
+  label_last_changes: "last %{count} changes"
+  label_change_view_all: Просмотреть все изменения
+  label_personalize_page: Персонализировать данную страницу
+  label_comment: комментарий
+  label_comment_plural: Комментарии
+  label_x_comments:
+    zero: нет комментариев
+    one: 1 комментарий
+    other: "%{count} comments"
+  label_comment_add: Оставить комментарий
+  label_comment_added: Добавленный комментарий
+  label_comment_delete: Удалить комментарии
+  label_query: Сохраненный запрос
+  label_query_plural: Сохраненные запросы
+  label_query_new: Новый запрос
+  label_filter_add: Добавить фильтр
+  label_filter_plural: Фильтры
+  label_equals: является
+  label_not_equals: не является
+  label_in_less_than: менее чем
+  label_in_more_than: более чем
+  label_greater_or_equal: '>='
+  label_less_or_equal: '<='
+  label_in: в
+  label_today: сегодня
+  label_Today: Сегодня
+  label_same_day: В тот же день
+  label_all_time: всё время
+  label_yesterday: вчера
+  label_this_week: на этой неделе
+  label_last_week: последняя неделя
+  label_last_n_days: "last %{count} days"
+  label_this_month: этот месяц
+  label_last_month: последний месяц
+  label_this_year: этот год
+  label_date_range: временной интервал
+  label_less_than_ago: менее, чем дней(я) назад
+  label_more_than_ago: более, чем дней(я) назад
+  label_ago: дней(я) назад
+  label_ago_simple: тому назад
+  label_contains: содержит
+  label_not_contains: не содержит
+  label_day: день
+  label_day_plural: дней(я)
+  label_browse: Обзор
+  label_browse_workstreams: Посмотреть bettermeans
+  label_browse_activity: Просмотреть активность
+  label_modification: "%{count} change"
+  label_modification_plural: "%{count} changes"
+  label_branch: Ветвь
+  label_tag: Метка
+  label_revision: Редакция
+  label_revision_plural: Редакции
+  label_revision_id: "Revision %{value}"
+  label_associated_revisions: Связанные редакции
+  label_added: добавлено
+  label_modified: изменено
+  label_copied: скопировано
+  label_renamed: переименовано
+  label_deleted: удалено
+  label_moved: перенесено
+  label_archived: заархивировано
+  label_unarchived: разархивировано
+  label_project_description: Описание
+  label_message: Обсуждение
+  label_latest_revision: Последняя редакция
+  label_latest_revision_plural: Последние редакции
+  label_view_revisions: Просмотреть редакции
+  label_view_all_revisions: Показать все ревизии
+  label_max_size: Максимальный размер
+  label_sort_highest: В начало
+  label_sort_higher: Вверх
+  label_sort_lower: Вниз
+  label_sort_lowest: В конец
+  label_roadmap: Оперативный план
+  label_roadmap_due_in: "Due in %{value}"
+  label_roadmap_overdue: "%{value} late"
+  label_roadmap_no_issues: Нет объектов для данного достигнутого результата
+  label_search: Поиск
+  label_result_plural: Результаты
+  label_all_words: Все слова
+  label_wiki: Wiki
+  label_wiki_edit: Редактирование Wiki
+  label_wiki_edit_plural: Wiki
+  label_wikipage: Страница Wiki
+  label_wiki_page: Страница Wiki
+  label_wiki_page_plural: Страницы Wiki
+  label_index_by_title: Оглавление
+  label_index_by_date: История страниц
+  label_current_version: Текущий достигнутый результат
+  label_preview: Предпросмотр
+  label_feed_plural: RSS
+  label_changes_details: Подробности по всем изменениям
+  label_issue_tracking: Работать с поломкой
+  label_boards: Обсуждение
+  label_spent_time: Затраченное время
+  label_f_hour: "%{value} hour"
+  label_f_hour_plural: "%{value} hours"
+  label_time_tracking: Учет времени
+  label_change_plural: Правки
+  label_change: Правка
+  label_statistics: Статистика
+  label_commits_per_month: Изменений в месяц
+  label_commits_per_author: Изменений на пользователя
+  label_view_diff: Просмотреть отличия
+  label_diff_inline: в тексте
+  label_diff_side_by_side: рядом
+  label_options: Опции
+  label_copy_workflow_from: Скопировать последовательность действий из
+  label_permissions_report: Отчет по правам доступа
+  label_watched_issues: Просмотрено
+  label_watched: Просмотрено
+  label_related_issues: Аналогичные объекты
+  label_applied_status: Применимый статус
+  label_loading: Обрабатывается...
+  label_relation_new: Новое отношение
+  label_relation_delete: Удалить связь
+  label_relates_to: связана с
+  label_duplicates: дублирует
+  label_duplicated_by: дублируется
+  label_blocks: блокирует
+  label_blocked_by: блокируется
+  label_precedes: следующая
+  label_follows: предыдущая
+  label_end_to_start: с конца к началу
+  label_end_to_end: с конца к концу
+  label_start_to_start: с начала к началу
+  label_start_to_end: с начала к концу
+  label_stay_logged_in: Оставаться в системе
+  label_disabled: отключено
+  label_show_completed_versions: Показать завершенные достигнутые результаты
+  label_me: мне
+  label_board: Обсуждение
+  label_board_new: Новое обсуждение
+  label_board_plural: Обсуждения
+  label_topic_plural: Темы
+  label_message_plural: Сообщения
+  label_message_last: Последнее сообщение
+  label_message_new: Новое сообщение
+  label_topic_new: Новая тема
+  label_message_posted: Добавлено сообщение
+  label_reply_plural: Ответы
+  label_comments_plural: Комментарии
+  label_send_information: Отправить пользователю информацию по учетной записи
+  label_year: Год
+  label_month: Месяц
+  label_week: Неделя
+  label_date_from: С
+  label_date_to: по
+  label_language_based: На основе языка
+  label_sort_by: "Sort by %{value}"
+  label_send_test_email: Послать email для проверки
+  label_feeds_access_key: Ключ доступа к RSS
+  label_missing_feeds_access_key: Отсутствует ключ доступа к RSS
+  label_feeds_access_key_created_at: "RSS access key created %{value} ago"
+  label_module_plural: Модули
+  label_added_time_by: "Added by %{author} %{age} ago"
+  label_updated_time_by: "Updated by %{author} %{age} ago"
+  label_created_time_by: "Created %{age} ago by"
+  label_updated_time: "Updated %{value} ago"
+  label_jump_to_a_project: МОИ ПОТОКИ ЗАДАЧ
+  label_file_plural: Файлы
+  label_changeset_plural: Изменения
+  label_default_columns: Столбцы по умолчанию
+  label_no_change_option: (Нет изменений)
+  label_bulk_edit_selected_issues: Массовое редактирование выбранных объектов
+  label_theme: Тема
+  label_default: По умолчанию
+  label_search_titles_only: Только заголовки
+  label_user_mail_option_all: "Для любого события во всех моих потоках задач"
+  label_user_mail_option_selected: "Для любого события только в выбранных потоках задач..."
+  label_user_mail_option_none: "Only for things I watch or I'm involved in"
+  label_user_mail_no_self_notified: "Не извещать об изменениях, которые я сделал сам"
+  label_user_mail_no_emails: "Отключить уведомление по электронной почте"
+  label_user_mail_daily_digest: "Send me a daily summary of system updates to issues I'm involved in"
+  label_registration_activation_by_email: активация учетных записей по email
+  label_registration_manual_activation: активировать учетные записи вручную
+  label_registration_automatic_activation: автоматическая активация учетных записей
+  label_display_per_page: "На страницу: %{value}"
+  label_age: Возраст
+  label_change_properties: Изменить свойства
+  label_general: Общее
+  label_more: Больше
+  label_scm: Тип хранилища
+  label_plugins: Модули
+  label_ldap_authentication: Авторизация с помощью LDAP
+  label_downloads_abbr: Скачиваний
+  label_optional_description: Описание (необязательно)
+  label_add_another_file: Добавить ещё один файл
+  label_preferences: Предпочтения
+  label_chronological_order: В хронологическом порядке
+  label_reverse_chronological_order: В обратном порядке
+  label_planning: Планирование
+  label_incoming_emails: Приём сообщений
+  label_generate_key: Сгенерировать ключ
+  label_issue_watchers: Наблюдатели
+  label_example: Пример
+  label_display: Отображение
+  label_sort: Сортировать
+  label_ascending: По возрастанию
+  label_descending: По убыванию
+  label_date_from_to: С %{start} до %{end}
+  label_wiki_content_added: Добавлена wiki-страница
+  label_wiki_content_updated: Обновлена wiki-страница
+  label_group: Группа
+  label_group_plural: Группы
+  label_group_new: Новая группа
+  label_time_entry_plural: Затраченное время
+  label_commit_request_history: История владения
+  label_by: "%{author} %{age} тому назад"
+  label_requested_by: "Запрошен  %{author} %{age} тому назад"
+  label_offered_by: "Предложено %{author}  %{responder} %{age} тому назад"
+  label_accepted_by: "Принято %{responder} %{age} тому назад"
+  label_declined_by: "Отклонено %{responder} %{age} тому назад"
+  label_from_ago: "от %{author} %{age} тому назад"
+  label_taken_by: "Взято %{responder} %{age} тому назад"
+  label_recinded: "Отозвано %{age} тому назад"
+  label_released: "Выпущен %{age} тому назад"
+  label_not_sure: "Не уверен"
+  label_commitment: "Commitment"
+  label_commitment_offer: "Предложение обладания"
+  label_commitment_request: "Запрос на обладание"
+  label_notification: "Предупреждение"
+  label_notifications: "Предупреждения"
+  label_new_notification: "извещение"
+  label_new_notifications: "извещения"
+  label_response_sent: "Ответ отправлен"
+  label_response_ignored: "Запрос проигнорирован"
+  label_you: "Вы"
+  label_for: "для"
+  label_from: "от"
+  label_ignored: "Проигнорировано"
+  label_marked_as_read: "Отметить как прочитанное"
+  label_ownership_offered: "Обладание предложено"
+  label_ownership_offered_to: "Обладание предложено %{user}"
+  label_ownership_offer_declined: "Предложение обладания отклонено"
+  label_ownership_offer_accepted: "Предложение обладания принято"
+  label_ownership_offer_declined_from: "Предложение обладания от %{user} было отклонено"
+  label_ownership_offer_accepted_from: "Предложение обладания от %{user} было принято"
+  label_ownership_offer_withdrawn: "Отозвать предложение владения"
+  label_ownership_offer_withdrawn_to: "Предложение владения для пользователя %{user} было отозвано"
+  label_ownership_requested: "Запрошено право на обладание"
+  label_ownership_request_accepted: "Запрос права на обладание принят"
+  label_ownership_request_auto_accepted: "Ownership request auto accepted"
+  label_ownership_request_declined: "Ownership request declined"
+  label_ownership_request_accepted_from: "%{user}'s ownership request accepted"
+  label_ownership_request_declined_from: "%{user}'s ownership request declined"
+  label_ownership_request_recinded: "Ownership request recinded"
+  label_ownership_released: "Ownership released"
+  label_ownership_taken: "Ownership taken"
+  label_commit_request_plural: "Task ownership"
+  label_team_offer: "Приглашение Ядра Команды"
+  label_team_offer_plural: "Члены команды"
+  label_team_plural: "Команда"
+  label_team_invitation: "Приглашение Ядра Команды"
+  label_team_request: "Запрос Ядра Команды"
+  label_team_request_plural: "Запросы Ядра Команды"
+  label_accepted: "принято"
+  label_sent: "отправлено"
+  label_withdrawn: "отозванный"
+  label_declined: "отклоненный"
+  label_to_join_core_team_of: "чтобы присоединиться к %{project} Ядра Команды"
+  label_request: "Request"
+  label_invitation: "Приглашение"
+  label_was: "было"
+  label_your: 'Ваше'
+  label_to: "to"
+  label_note_from: "Note from %{author}"
+  label_sending_team_invitation: "%{author} хочет, чтобы вы присоединились к Ядру Команды для работы над %{project} потоком задач"
+  label_sending_team_request: "%{author} хочет, чтобы вы присоединились к Ядру Команды для работы над %{project} потоком задач"
+  label_team_view_all: "View team details"
+  label_team_view_all_enterprise: "View entire team"
+  label_member_role_plural: "Team Changes"
+  label_join_core_team: "Присоединиться к Ядру Команды"
+  label_leave_core_team: "Покинуть Ядро Команды"
+  label_request_to_join_core_team: "Запрос на присоединение к Ядру Команды"
+  label_invitation_to_join_core_team: "Пригласить в Ядро Команды"
+  label_team_points: "Core Points"
+  label_share: "Поделиться"
+  label_share_plural: "Shares"
+  label_credit_plural: "Кредиты"
+  label_credit: "Кредит"
+  label_retro_started: "Retrospective Started"
+  label_retro_ended: "Retrospective Ended"
+  label_motion_started: "New motion: %{title}"
+  label_credits: Кредиты
+  label_shares: Шары
+  label_credit_queue: Очередь кредитов (Активные кредиты)
+  label_credit_history: Кредитная история (Все кредиты)
+  label_my_credits: Мои кредиты
+  label_credits_breakdown: Распределение кредита
+  label_active_credits: Активные кредиты
+  label_outstanding_credits: Непогашенные кредиты
+  label_total_credits_issued: Общее количество выпущенных
+  label_youve_got_credits: "Вы получили кредиты!"
+  label_someone_joined_your_issue: "%{joiner} joined an issue assigned to you"
+  label_someone_added_you_to_their_issue: "%{sender} added you to an issue they own"
+  label_someone_removed_you_from_their_issue: "%{sender} removed you from an issue they own"
+  label_someone_left_your_issue: "%{joiner} left an issue assigned to you"
+  label_someone_mentioned_you: "%{mentioner} mentioned you"
+  label_agree: "Согласен"
+  label_disagree: "Не согласен"
+  label_block: "Block"
+  label_neutral: "Neutral"
+  label_history: "История"
+  label_select: "Выбрать"
+  label_no_mention: "No unread mentions"
+  label_mentions: "Упоминания"
+  label_Tip: Совет
+  label_see_more: просмотреть больше
+  label_version_sharing_none: Без совместного использования
+  label_version_sharing_descendants: К потокам задач
+  label_version_sharing_hierarchy: К иерархии потока задач
+  label_version_sharing_tree: К дереву потока задач
+  label_version_sharing_system: Ко всем потокам задач
+  label_update_issue_done_ratios: Обновить конечные соотношения объекта
+  label_copy_source: Источник
+  label_copy_target: Цель
+  label_copy_same_as_target: То же, что и у цели
+  label_display_used_statuses_only: Отображать только те статусы, которые используются в этом трекере
+  label_api_access_key: Ключ доступа к API
+  label_missing_api_access_key: Отсутствует ключ доступа к API
+  label_api_access_key_created_at: "API access key created %{value} ago"
+  label_dpp_scale: "Оценочная шкала"
+  label_motion: "Motion"
+  label_motions_new: Новое действие
+  label_motion_state0: "В процессе"
+  label_motion_state1: "Passed"
+  label_motion_state2: "Defeated"
+  label_motion_state3: "Отменено"
+  label_motion_vote_type1: "Unanimous Consensus"
+  label_motion_vote_type2: "Lazy Majority"
+  label_motion_vote_type3: "Share Majority"
+  label_motion_vote_type1_desc: "no blocks or disagrees"
+  label_motion_vote_type2_desc: "more agrees than disagree, no blocks"
+  label_motion_vote_type3_desc: "1 share = 1 vote. minimum 2/3 agree"
+  label_motion_vote_action1: "Заблокировать"
+  label_motion_vote_action9999: "Не согласен"
+  label_motion_vote_action10000: "Neutral"
+  label_motion_vote_action10001: "Согласен"
+  label_motion_vote_action_share_agree: "Agree with %{points} shares"
+  label_motion_vote_action_share_disagree: "Disagree with %{points} shares"
+  label_motion_vote_action_share_neutral: "Neutral with %{points} shares"
+  label_you_voted: "You voted: <b>%{action}</b>"
+  label_voted: "voted"
+  label_you_havent_voted: "You haven't cast your vote yet"
+  label_tally: "Tally"
+  label_motion_variation0: "General Motion"
+  label_motion_variation1: "Extraordinary Motion"
+  label_motion_variation2: "New Member Nomination"
+  label_motion_variation3: "Новое назначение участника Ядра Команды"
+  label_motion_variation4: "Motion to Remove Member"
+  label_motion_variation5: "Действия для удаления участника Ядра Команды"
+  label_motion_variation6: "Board Motion (public)"
+  label_motion_variation7: "Board Motion (private)"
+  label_motion_variation8: "Motion to Add Hourly Activity Type"
+  label_binding: "Привязывание"
+  label_non_binding: "Без привязывания"
+  label_agree_total: "Согласен со всем"
+  label_disagree_total: "Не согласен со всем"
+  label_hidden: "(пользователь скрыт)"
+  label_motions_active: "Active Motions"
+  label_motions_view_all: "View all Motions"
+  label_new_role: "New role: %{role_name}"
+  label_new_invitation: "Invitation to join %{project_name} as a %{role_name}"
+  label_drop_from_core_team: "Remove from Core"
+  label_nominate_to_core_team: "Nominate to Core"
+  label_drop_from_member: "Remove Membership"
+  label_nominate_to_member: "Nominate to Membership"
+  label_reputation: "Reputation Matrix"
+  label_assessment_accuracy: "Assessment Accuracy"
+  label_hourly_type: "Hourly type"
+  label_hourly_type_plural: "Hourly types"
+  label_hourly_type_new: "New hourly type"
+  label_hourly_rate_per_person: "Hourly rate per person"
+  label_hourly_cap: "Hourly cap"
+  label_invitation_new: "Пригласить людей"
+  label_invitation_others: "Пригласить других"
+  label_all_activity: "Просмотреть всю активность"
+  label_cancel_account: "Выйти из моего аккаунта"
+  field_b_first_name: "Имя"
+  field_b_last_name: "Фамилия"
+  field_b_address1: "Адрес"
+  field_b_address2: "Адрес (строка 2)"
+  field_b_city: "Город"
+  field_b_state: "Государство"
+  field_b_zip: "Индекс"
+  field_b_country: "Страна"
+  field_b_phone: "Номер телефона"
+  field_b_cc_type: "Тип"
+  field_b_cc_month: "Срок хранения"
+  field_b_cc_last_four: "Кредитная карта"
+  label_b_expiration: "Годен до:"
+  label_b_verification_code: "Верификационный код"
+  label_memberrole: "membership"
+  button_upgrade: Обновить
+  button_accept_invitation: Принять приглашение
+  button_working: обрабатывается...
+  button_change_plan: Изменить план
+  button_update_billing: Update Billing
+  button_login: Вход
+  button_submit: Принять
+  button_search: Поиск
+  button_save: Сохранить
+  button_check_all: Отметить все
+  button_uncheck_all: Очистить
+  button_delete: Удалить
+  button_create: Создать
+  button_resend: Переслать
+  button_create_and_continue: Создать и продолжить
+  button_test: Проверить
+  button_edit: Редактировать
+  button_add: Добавить
+  button_add_team_member: +Добавить кого-либо
+  button_change: Изменить
+  button_apply: Применить
+  button_clear: Очистить
+  button_lock: Заблокировать
+  button_unlock: Разблокировать
+  button_download: Загрузить
+  button_list: Список
+  button_view: Просмотреть
+  button_move: Переместить
+  button_move_and_follow: Переместить и перейти
+  button_back: Назад
+  button_cancel: Отмена
+  button_close: Закрыть
+  button_sort: Сортировать
+  button_log_time: Затраченное время
+  button_rollback: Откатиться к этому достигнутому результату
+  button_watch: Следить
+  button_unwatch: Не следить
+  button_reply: Комментарий
+  button_archive: Архивировать
+  button_unarchive: Разархивировать
+  button_reset: Сбросить
+  button_rename: Переименовать
+  button_change_password: Изменить пароль
+  button_copy: Копировать
+  button_copy_and_follow: Копировать и продолжить
+  button_annotate: Авторство
+  button_update: Обновить
+  button_comment: Комментировать
+  button_signup: Войти
+  button_configure: Параметры
+  button_quote: Цитировать
+  button_participate: Участвовать
+  button_request_commitment_request: Предложить владение
+  button_request_commitment_take: Стать владельцем
+  button_request_commitment_remove: Отозвать предложение владения
+  button_request_commitment_withdraw: Отозвать
+  button_request_commitment_remove_offer: Отозвать предложение владения
+  button_request_commitment_giveup: Освободиться от владения
+  button_request_commitment_transfer: Передать владение
+  button_request_commitment_accept: Принять
+  button_request_commitment_decline: Отклонить
+  button_request_commitment_offer: Предложить владение
+  button_team_offer_request: Запрос на присоединение к Ядру Команды
+  button_team_offer_take: Вступить в Ядро Команды
+  button_team_offer_withdraw_request: Отозвать запрос на вступление в Ядро Команды
+  button_team_offer_withdraw_invitation: Отозвать приглашение в Ядро Команды
+  button_team_offer_giveup: Отписаться от Ядра Команды
+  button_team_offer_accept: Принять
+  button_team_offer_decline: Отклонить
+  button_team_offer_invite: Выслать приглашение присоединиться к Ядру Команды
+  button_ignore: Проигнорировать
+  button_mark_as_read: Отметить как прочитанное
+  button_duplicate: Дублировать
+  button_show: Показать
+  button_activate: Активировать
+  button_deactivate: Отключить
+  button_dashboard: Панель инструментов
+  status_active: активен
+  status_registered: зарегистрирован
+  status_locked: заблокирован
+  version_status_open: открыт
+  version_status_locked: заблокирован
+  version_status_closed: закрыт
+  field_active: Активно
+  field_body: Тело (боди)
+  field_joined_by: Регистрация по
+  field_item_url: Постоянная ссылка
+  text_invite_role_instruction: Пригласить людей на эту функцию
+  text_resend_invite_message: "Add a personal comment to the invitation reminder"
+  text_reset_link: "Reset invitation code"
+  text_personalize_invitations: "Personalize your invitation"
+  text_email_instruction: "Enter up to 50 emails, one email per line"
+  text_invite_others_to_contribute: "Invite anyone to contribute to"
+  text_invite_others_to_contribute_personal: "OR - Send personalized, individual invitations"
+  text_confirm_delete_project: "Вы уверены, что хотите удалить этот поток задач? Это действие нельзя будет отменить!"
+  text_confirm_cancel_account: "Are you sure you want to cancel your account? This action cannot be undone!"
+  text_confirm_archive_project: "Вы уверены, что хотите заархивировать этот поток задач? Никто не сможет его больше увидеть. Вы можете разархивировать его в будущем."
+  text_confirm_unarchive_project: "Вы уверены, что хотите разархивировать этот поток задач?"
+  text_included_note: заметка
+  text_failed_to_transfer: Не удалось перевести кредиты. <br />
+  text_your_gravatar: Мы используем <a href="http://gravatar.com" target="blank">Gravatar</a> , чтобы отображать фото вашего профиля. <br /> Чтобы добавить/обновить фото <a href="http://gravatar.com" target="blank">создайте аккаунт здесь</a>, используя тот же адрес электронной почты, который вы использовали при регистрации на BetterMeans.
+  text_select_mail_notifications: Выберите действия, при которых будет отсылаться уведомление на электронную почту.
+  text_regexp_info: 'например: ^[A-Z0-9]+$'
+  text_min_max_length_info: 0 означает отсутствие ограничений
+  text_project_destroy_confirmation: Вы уверены, что хотите удалить поток заданий и связанные с ним данные?
+  text_subprojects_destroy_warning: "Его подпоток(и) задач: %{value} будет также удален."
+  text_workflow_edit: Выберите роль и тип для редактирования рабочего процесса
+  text_are_you_sure: Вы уверены?
+  text_journal_changed: "%{label} изменен с %{old} на %{new}"
+  text_journal_set_to: "%{label} set to %{value}"
+  text_journal_deleted: "%{label} удален (%{old})"
+  text_journal_added: "%{label} %{value} добавлен"
+  text_tip_task_begin_day: задание начинается сегодня
+  text_tip_task_end_day: задание заканчивается сегодня
+  text_tip_task_begin_end_day: задание начинается и заканчивается сегодня
+  text_project_identifier_info: 'Only lower case letters (a-z), numbers and dashes are allowed.<br />Once saved, the identifier can not be changed.'
+  text_caracters_maximum: "%{count} characters maximum."
+  text_caracters_minimum: "Must be at least %{count} characters long."
+  text_length_between: "Length between %{min} and %{max} characters."
+  text_tracker_no_workflow: Ни один рабочий процесс не определен для этого типа
+  text_unallowed_characters: Запрещенные символы
+  text_comma_separated: Допустимы несколько значений (через запятую).
+  text_issues_ref_in_commit_messages: Ссылка и исправление объектов в сообщениях фиксации
+  text_issue_added: "Item %{id} has been reported by %{author}."
+  text_issue_updated: "Объект %{id} был обновлен пользователем %{author}."
+  text_line_separated: Разрешено несколько значений (по одному значению в строку).
+  text_wiki_destroy_confirmation: Вы уверены, что хотите удалить эту wiki  и все ее содержимое?
+  text_user_mail_option: "В невыбранных потоках заданий Вы получите только сообщения о вещах, которые Вы просматриваете или в которые Вы вовлечены (например, объекты, автором или владельцем которых Вы являетесь)."
+  text_no_configuration_data: "Roles, types, item statuses and workflow have not been configured yet. It is highly recommended to load the default configuration. You will be able to modify it once loaded."
+  text_load_default_configuration: Загрузить конфигурацию по умолчанию
+  text_status_changed_by_changeset: "Applied in changeset %{value}."
+  text_issues_destroy_confirmation: 'Вы уверены, что хотите удалить выбранный(е) объект(ы)?'
+  text_select_project_modules: 'Выберите модули, которые хотите включить в этот поток задач'
+  text_default_administrator_account_changed: Учетная запись администратора по умолчанию изменена
+  text_file_repository_writable: Хранилище с доступом на запись
+  text_plugin_assets_writable: Каталог модулей доступен для записи
+  text_rmagick_available: Доступно использование RMagick (опционально)
+  text_destroy_time_entries_question: "%{hours} часов было зарегистрировано у объекта, который вы собираетесь удалить. Что вы хотите сделать?"
+  text_destroy_time_entries: Удалить зарегистрированное время
+  text_assign_time_entries_to_project: Привязать зарегистрированное время к потоку задач
+  text_reassign_time_entries: 'Повторно назначить зарегистрированное время этому объекту:'
+  text_user_wrote: "%{value} wrote:"
+  text_enumeration_destroy_question: "%{count} objects are assigned to this value."
+  text_enumeration_category_reassign_to: 'Назначить им следующее значение:'
+  text_email_delivery_not_configured: "Доставка Email не настроена, уведомления отключены.\nНастройте ваш SMTP сервер в файле confing/email.yml и перезапустите приложение, чтобы применить настройки."
+  text_diff_truncated: '... Этот diff ограничен, так как превышает максимальный отображаемый размер.'
+  text_wiki_page_destroy_question: "У этой страницы есть %{descendants} дочерняя(ие) страница-ы и потомок(и). Что вы хотите сделать?"
+  text_wiki_page_nullify_children: "Сделать дочерние страницы главными страницами"
+  text_wiki_page_destroy_children: "Удалить дочерние страницы и всех их потомков"
+  text_wiki_page_reassign_children: "Переопределить дочерние страницы на текущую страницу"
+  text_create_dialogue_choose_days: "Сколько вам потребуется времени, чтобы выполнить это <br />(начиная с того момента, когда вам это поручат)?"
+  text_select_user_dialogue_choose_user: "Выберите кого-нибудь, кому послать этот запрос"
+  text_you_are_the_new_owner_of: "Вы новый гордый владелец"
+  text_is_asking_ownership_for: "запрашивает право собственности на задачу, которую вы"
+  text_is_offering_ownership_for: "предлагает вам право собственности на задачу"
+  text_ownership_request_declined: "Запрос права собственности отклонен"
+  text_ownership_request_accepted: "Запрос права собственности принят"
+  text_your_ownsership_request_declined_for: "Ваш запрос на право собственности был отклонен для"
+  text_ownership_offer_accepted: "Предложение права собственности принято"
+  text_your_offer_was_accepted_for: "Ваше предложение было принято для"
+  text_ownership_offer_declined: "Предложение права собственности отклонено"
+  text_your_offer_was_declined_for: "Ваше предложение было отклонено для"
+  text_loading_dashboard: "Загрузка данных для обзорной панели..."
+  text_loading_dashboard_error: "Не удалось загрузить данные. Пожалуйста, проверьте ваше интернет соединение <a href=\"#\" onclick=\"refresh_local_data();return false;\">обновите</a>"
+  text_retro_started_for: "Ретроспектива для"
+  text_retro_started: " поток заданий начался. <br /> У вас есть 3 дня, чтобы дать обратную связь для своей команды по их вкладу в работу"
+  text_retro_ended_for: "Ретроспектива для"
+  text_retro_ended: " поток заданий закончился. <br /> Нажмите ниже, чтобы посмотреть отчет своей команды и ваш полный вклад в работу"
+  text_credits_transferred: "%{sender} перевел вам %{amount} кредитов в %{project}"
+  text_credits_distributed_for: "Поздравляем! Вы заработали %{amount} кредитов в работе над <strong>%{workstream}</strong>."
+  text_credits_are_a_gift: "Эти кредиты были подарены вам за ваш вклад в работу. Они не являются частью ни одной из ретроспектив."
+  text_credits_are_an_expense: "Эти кредиты являются возмещением определенных расходов. Они не являются частью ни одной из ретроспектив."
+  text_joiner_is_now_working_with_you: "%{joiner} теперь работает с вами над <br /> %{issue}"
+  text_joiner_is_no_longer_working_with_you: "%{joiner} больше не работает с вами над <br /> %{issue}"
+  text_you_are_now_working_with_you: "Теперь вы участник команды, которая работает над <br /> %{issue}"
+  text_you_are_no_longer_working_on: "Вы больше не участник команды, которая работает над <br /> %{issue}"
+  text_history_hidden_until_you_vote: "История голосования скрыта, потому что вы еще не проголосовали."
+  text_tally_hidden_until_you_vote: "Итоги голосования будут скрыты до тех пор, пока вы не проголосуете."
+  text_you_dont_have_shares_to_vote: "У вас должны быть шары, чтобы иметь вес в этом действии."
+  text_you_are_now_a_role: "Теперь вы <b>%{role_name}</b> в"
+  text_role_description_Administrator: "В роли Администратора вы можете обходить правила управления и напрямую добавлять/удалять участников и потоки заданий.<br /> Используйте эту роль очень бережно для настройки структур.<br /> Затем снимите с себя роль Администратора, когда будете готовы следовать модели управления \"Открытое Предприятие\"."
+  text_role_description_Contributor: "В роли Помощника вы можете зарабатывать кредиты и стать владельцем части <b>%{enterprise}</b>.<br /> Ваши голоса по всем вопросам будут видны всем и будут носить необязательный характер."
+  text_role_description_Member: "В роли Участника все ваши голоса носят обязательный характер.<br /> В дополнение ко всему, вы сможете назначать Помощников Участниками,<br /> и принимать участие в выборах членов Ядра Команды."
+  text_role_description_Core Team: "В роли члена Ядра Команды ваши голоса по всем вопросам носят обязательный характер,<br /> включая отбор новых Участников.<br /> Поздравляем!"
+  text_role_description_Core_Team: "В роли члена Ядра Команды ваши голоса по всем вопросам носят обязательный характер,<br /> включая отбор новых Участников.<br /> Поздравляем!"
+  text_role_description_Board: "В роли Члена Правления все ваши голоса носят обязательный характер."
+  text_member_nomination: "%{user} проходит выборы, чтобы стать Участником %{enterprise}. В роли Участника, все его голоса будут носить обязательный характер. В дополнение ко всему, у него будет возможность назначать Помощников Участниками и принимать участие в выборах членов Ядра Команды. Голоса этого ходатайства не будут видны для %{user}, но они смогут увидеть это обсуждение."
+  text_core_member_nomination: "%{user} проходит выборы, чтобы стать членом Ядра Команды %{enterprise}. В роли члена Ядра Команды, его голоса по всем вопросам будут носить обязательный характер, включая выборы новых Участников. Голоса этого ходатайства не будут видны для %{user}, но они смогут увидеть это обсуждение."
+  text_core_member_removal: "Это ходатайство о том, чтобы исключить %{user} из состава членов Ядра Команды %{enterprise}. Если ходатайство будет удовлетворено, то %{user} станут Участниками. В роли Участников, их голоса так же будут носить обязательный характер. Их акции и кредиты будут оставлены без изменений. Голоса этого ходатайства не будут видны для %{user}, но они смогут увидеть это обсуждение."
+  text_member_removal: "Это ходатайство о том, чтобы исключить %{user} из состава Участников %{enterprise}. Если ходатайство будет удовлетворено, то %{user} станут Помощниками. В роли Помощников, их голоса будут носить необязательный характер. Их акции и кредиты будут оставлены без изменений. Голоса этого ходатайства не будут видны для %{user}, но они смогут увидеть это обсуждение."
+  text_issue_edit_footer: "Вы можете прокомментировать эту проблему по email, просто ответив на это письмо."
+  text_message_edit_footer: "Вы можете ответить на это сообщение по email, просто ответив на это письмо."
+  text_invitation_note_default: "Эй!\nМы использовали bettermeans.com, чтобы работать над %{project}.\n\nBettermeans позволяет нам работать вместе на равных, является прозрачной, демократической средой для достижения общих целей.\n\nПожалуйста, примите это приглашение, чтобы присоединиться к нам.\n\nС наилучшими пожеланиями,\n%{user}."
+  text_you_are_invited: "Вас пригласили принять участие."
+  text_generic_invitation: "Эта ссылка позволяет любому человеку принять участие в роли <strong>Помощника</strong> в этом потоке заданий."
+  text_generic_invitation_2: "Так же вы можете воспользоваться формой ниже, чтобы  выслать персональные приглашения друзьям на разные роли."
+  text_generic_invitation_long: "Ссылка ниже позволяет кому угодно стать Помощником в этом потоке заданий.<br /><br /> Она может быть использована неограниченное число раз. Она будет являться действительной, пока вы не решите изменить её.<br /> Отсылайте её по email или размещайте везде, где люди смогут пройти по ней и присоединиться к работе над вашим потоком заданий."
+  text_personal_invitation: "Используйте форму ниже, чтобы отсылать персонализированные приглашения потенциальным членам команды.<br /><br /> Это наилучший путь, т.к. люди чаще откликаются на персональные обращения и им не нужно будет подтверждать свой email адрес.<br /><br /> Так же это является и наиболее безопасным путем, т.к. приглашение является одноразовым и становится недействительным после определённого промежутка времени."
+  text_active_team_explanation: "<strong>Активные участники (для этого потока заданий)</strong><br /><br /> Активные участники - это люди, которые были вовлечены в этот поток заданий в течении прошедших 2х недель.<br /><br /> Роли Помощников, Участников, Членов Ядра Команды заданы в родительском(корневом) потоке заданий и применяются ко всем под-потокам.<br /><br /> Например: если кто-то является членом Ядра Команды в каком-либо потоке заданий, тогда он будет иметь ту же роль и во всех под-потоках. При этом, пользователь может проявлять активность в одних под-потоках и быть совсем неактивным в других."
+  text_email_updated: "Адрес электронной почты успешно обновлен"
+  text_usage_over: "Вы превысили использование текущего тарифного плана.<br /> Пожалуйста, улучшите ваш тарифный план так скоро, насколько это возможно."
+  text_trial_expired: "Пробный период истек.<br /> Пожалуйста, обновите вашу платежную информацию, чтобы перейти на другой тарифный план."
+  text_role_invitation_description_Administrator: "У Администраторов больше всего власти.<br /><br /> Администратор может обходить правила управления и напрямую добавлять/удалять участников и потоки заданий, все их голоса носят обязательный характер.<br /><br /> Используйте эту роль очень бережно для настройки структур. Затем перейдите к использованию других ролей для ежедневного сотрудничества."
+  text_role_invitation_description_Contributor: "Это является первым этапом участия в Открытом Предприятии.<br /><br /> Голоса Помощников по всем вопросам будут видны всем и носят необязательный характер.<br /><br /> Это означает, что голос Помощников присутствует, но их голосование напрямую не влияет на предмет голосования, т.е. их голос не имеет веса.<br /><br /> Помощник может зарабатывать кредиты и оказывать помощь в работе потока заданий."
+  text_role_invitation_description_Member: "Участники - это \"сердце\" Открытого Предприятия.<br /><br /> Все голоса Участников носят обязательный характер.<br /><br /> В дополнение Участники могут назначать Помощников на роли Участников, а так же могут голосовать на выборах членов Ядра Команды.<br /><br /> Приглашайте на эту роль только тех людей, с которыми у вас совпадают взгляды и ценности."
+  text_role_invitation_description_Core_Team: "У члена Ядра Команды голоса носят обязательный характер, они очень близки к Участникам.<br /><br /> Основным различием является то, что член Ядра Команды может участвовать в выборах новых Участников.<br /><br /> Проще говоря, они являются хранителями принципов организации и удерживают позиции для членства.<br /><br /> Члены Ядра Команды отчитываются перед всеми участниками с другими ролями и их задачей является представлять их голос."
+  text_role_invitation_description_Board: "В роли Члена Правления все ваши голоса носят обязательный характер и у вас такие же привилегии, как и у членов Ядра Команды.<br /><br /> Эта роль всего лишь указывает на меньшую обязанность быть вовлеченным в ежедневную работу."
+  text_project_locked: "Этот поток временно заблокирован за неуплату."
+  default_role_administrator: Администратор
+  default_role_citizen: Член Ядра Команды
+  default_role_contributor: Участник/помощник
+  default_tracker_task: Задание
+  default_tracker_subtask: Подзадача
+  default_doc_category_public: Общедоступная документация
+  default_doc_category_private: Личная документация
+  default_priority_low: Низкий
+  default_priority_normal: Нормальный
+  default_priority_high: Высокий
+  default_priority_urgent: Срочный
+  default_activity_default: Разное
+  default_activity_planning: Планирование
+  default_activity_execution: Выполнение
+  default_issue_tracker_gift: Подарок
+  default_issue_tracker_expense: Расход
+  default_issue_tracker_recurring: Текущее
+  default_issue_tracker_hourly: Ежечасно
+  default_issue_tracker_feature: Характеристика
+  default_issue_tracker_bug: Ошибка
+  default_issue_tracker_chore: Поденная работа
+  enumeration_issue_priorities: Приоритеты объекта
+  enumeration_doc_categories: Категории документов
+  enumeration_activities: Действия (учет времени)
+  enumeration_system_activity: Активность системы
+  help_reset_link: Сброс этой ссылки меняет код приглашения. Это отключает предыдущую ссылку(и) и препятствует кому-либо зарегистрированному ее использовать. <br /> <br /> Это действие не влияет на персональные приглашения,высланные вами.
+  help_how_do_i_join_a_team: Как мне присоединиться к этой команде?
+  help_how_do_i_join_a_team_title: Присоединяемся к команде
+  help_how_do_i_join_a_team_description: "Существует 2 уровня членства в команде: Помощник и член Ядра Команды.<br /><br /> <strong>Стать Помощником</strong><br /> Перед тем, как стать членом Ядра Команды, сначала нужно сделать свой вклад в работу команды.<br /> Вы становитесь Помощником для потока заданий с помощью запроса и получения права владения существующими задачами.<br /> Другой способ стать Помощником - быть членом Ядра Команды в любом дочернем потоке задач.<br /><br /> <strong>Стать членом Ядра Команды</strong><bt /> Как только вы стали Помощником, вы можете сделать запрос (или получить приглашение), чтобы присоединиться к членам Ядра Команды.<br /><br /> Так же вы можете присоединиться к Ядру Команды потока задач напрямую, если вы являетесь членом Ядра Команды родительского потока задач."
+  help_core_points_title: Очки Ядра
+  help_core_points_description: "Очки Ядра - это способ одобрения и признания друг друга для членов команды. Так же, Очки Ядра сигнализируют об уверенности в навыках и ценностях друг друга.<br /><br /> Когда кто-то из членов Ядра Команды чувствует, что команда становится лучше с кем-то, они могут дать этому человеку Очки Ядра. Это работает и в противоположной ситуации: если кто-то чувствует, что кто-то приносит вред команде, они могут отнять у этого человека Очки Ядра.<br /><br /> Когда Очки Ядра члена команды больше нуля, они приглашаются стать членами Ядра Команды. Если этот показатель падает ниже нуля, они опять становятся Помощниками.<br /><br /> Все голосования проводятся тайно для того, чтобы свести к минимуму внутреполитический фактор.<br /> Показатель Очков Ядра складывается из голосов существующих членов Ядра Команды потока задач и родительских потоков задач."
+  help_dpp: Объекты в рабочем потоке оцениваются в кредитах.<br/><br/>Каждый рабочий поток имеет разный размер возможной оценки. Размер изменяется в зависимости от сложности/детализации типа работы над тем или иным рабочим потоком.
+  help_select_scale: Объекты в рабочем потоке оцениваются в баллах.<br/><br/>Каждый рабочий поток может иметь различные размеры оплаты.<br/><br/>Выберите размер, который лучше всего покрывает размеры рабочего объекта. Этот показатель меняется в зависимости от характера работы для конкретного рабочего потока.
+  help_assessment_accuracy: "Shows the accuracy with which this user was able to assess their contribution, and their team's contribution in retrospectives. <br /><br />Assessment accuracy is averaged over time. More weight is given to the more recent retrospectives, and more weight is given to retrospectives with more credits.<br /><br />For example: A postive self assessment accuracy score of +7 means the user tends to overrate themselves by 7 percentage points on average. <br /><br /> An 'other' assessment score of &plusmn 16 means the user tends have a total bias of plus or minus 16 percentage points when rating their peers. <br /><br /> The closer both these numbers are to zero, the more accurate the user is in their assessment of self and other. "
+  help_your_assessment: "<strong>Ваша оценка</strong><br /> Ваш взгляд на то, какой вклад в выполнение внесли лично вы и ваши коллеги в данной ретроспективе. Каков процент выполненной вами работы по отношению к работе, выполненной коллегами. В течении ретроспективы, каждому участнику команды будет предложено оценить вклад других участников. Как только ретроспектива будет окончена, оценки будут усреднены и отображены здесь."
+  help_team_assessment: "<strong>Оценка команды</strong><br /> Это усреднённое процентное выражение вклада в работу по оценке ваших коллег. Самооценка каждого человека не учитывается при усреднении, в этом числе учтены лишь оценки коллег."
+  help_final_assessment: "Средние показатели всей команды распределяются пропорционально по 100%"
+  help_confidence: "<strong>Уверенность оценки</strong><br /> Передвиньте слайдер таким образом, чтобы значение отражало степень вашей уверенности в самооценке и оценке ваших коллег.<br /> Меньшее значение уверенности будет означать, что ваши оценки будут иметь меньший вес. Так же это подразумевает меньшее влияние расхождения между самооценкой и оценкой команды."
+  help_accuracy: "<strong>Точность и смещение</strong><br /> Эта колонка показывает точность пользователей, участвовавших в данной ретроспективе, в которой у них была возможность оценить самих себя и своих коллег."
+  help_item_url: "<strong>Постоянная ссылка</strong><br/> Вы можете скопировать эту ссылку, чтобы использовать для прямого перехода на эту страницу."
+  help_volunteer: "All work done on this workstream is on a volunteer basis. It will not be compensated for in money, barter, or any other monetary means.<br /><br /> That's not to say good karma won't come your way!<br /><br />This is our small contribution to the volunteer world. Please report any abuse to abuse@bettermeans.com"
+  help_volunteer_credits: "Вся работа, выполненная в этом рабочем потоке, основывается на волонтерском принципе. Она не будет оплачена деньгами, бартером или каким-либо другим монетарным способом.<br /><br /> Кредиты используются здесь, чтобы отследить вклад пользователя, и показать, кто что делал для этого рабочего потока в течение всего времени. Эти кредиты - это не обещание каких-либо вознаграждений или оплаты."
+  help_no_my_workstreams: "Вы еще не создали ни одного потока задач."
+  help_no_workstreams_i_belong_to: "Вы еще не являетесь членом какого-либо потока задач, который бы начали не вы."
+  help_no_workstreams_active: "В последнее время Вы не принимали участия в потоках задач."
+  help_no_workstreams: "Вы еще не вовлечены ни в один поток задач.<br /> Создайте свой поток задач или присоединитесь к какому-либо, чтобы начать..."
+  help_no_workstreams_archived: "У вас нет заархивированных потоков задач."
+  help_activities_i_belong_to: "Этот поток активности показывает всю вашу активность в потоках задач, которыми вы владеете и/или к которым принадлежите."
+  help_this_workstream_is_private: "Это частный поток задач. Когда поток задач сделан частным, всем участникам (т.е. участники, ядро команды, доска и администраторы) дается  постоянное разрешение на участие в нем. Также разрешение дается всем активным вкладчикам. <br /><br /> Если вы хотите управлять допуском участников к частному потоку задач, используйте панель управления участниками под настройками."
+  help_issue_tracking: "Это простой элемент платформы, который позволяет вам отследить все рабочие элементы через Обзорную панель и просмотр элементов. Однако, есть одна ситуация, когда вы могли бы отключить этот элемент. Когда вы создаете корневой поток задач для вашей организации и планируете создавать множество дочерних потоков, где будет происходить отслеживание всех работ. При этом останутся другие элементы, такие как обсуждения и wiki, но без обзорной панели и отслеживания рабочих элементов."
+  help_news: "Этот модуль позволяет вам проверять или сообщать о последних новостях. Новости используются для трансляции событий вашей команде. Например, получение награды или выпуск новой продукции."
+  help_documents: "Этот модуль позволяет вам загрузить документ, чтобы поделиться с вашей командой."
+  help_files: "Этот модуль позволяет вам загрузить файлы, чтобы поделиться с вашей командой."
+  help_wiki: "Wikis  - это отличный инструмент для совместной работы и поэтому мы предоставляем каждому рабочему потоку возможность иметь wiki. Wikis  - это, по существу, онлайн документы и каждый, у кого есть доступ, может не только прочитать, но также и отредактировать и улучшить их онлайн."
+  help_boards: "Этот модуль создает доску для обсуждений для вашего потока задач, где вы сможете обсуждать различные вещи. Если у кого-то есть идея, которую еще никто не предложил как ходатайство или рабочий элемент, и он хочет обсудить её с другими, то он может начать новую тему. Вы так же могли бы использовать доску обсуждений для обсуждения основной стратегии, новых возможных потоков задач или всего, что приходит на ум."
+  help_motions: "Motions are used to make large important decisions that are project-wide. This is a democratic mechanism to make decisions together. There are different types of motions, to learn more about motions <a href='http://help.bettermeans.com/motions' target='blank'>click here</a>."
+  help_credits: "Кредиты - это более открытый и демократичный способ оценки работы и выдачи компенсации. Мы действительно очень рады предложить вам их в качестве опции и настоятельно рекомендуем <a href='http://help.bettermeans.com/faq/credits' target='blank'> узнать больше о кредитах</a>."
+  help_revision_notes: "Дополнительно: Добавление примечаний к этой версии wiki. Эти заметки будут показываться в истории версии wiki"
+  help_mentions: "Mentions happen when someone mentions you by using the '@' symbol before your username in any comments or descriptions. <br /><br />For example if somebody adds this comment to an issue:<br /><strong>'I think @%{login} should take a look at this'</strong><br />it would appear in your mentions"
+  help_section_project_show: "<strong>Welcome to the Overview Page.</strong>  From here you can get working and invite others to join in the fun. Take a look around <br /> If you want to start a new workstream and are not sure what to do next or want tips for getting started <a href= 'http://help.bettermeans.com/quickstart' target='blank'>click here.</a><br /> If you are joining an existing workstream and you are unsure what you are looking at, we are here to help, <a href= 'http://help.bettermeans.com/quickstart' target='blank'>click here.</a><br />We would recommend following the links above and/or taking <a href= 'http://help.bettermeans.com' target='blank'> the tour</a> before you begin."
+  help_section_project_dashboard: "Добро пожаловать в вашу обзорную панель!|<strong>Это то место, где творится магия!</strong> Здесь вы получите полное представление о работе внутри потока задач. У каждого потока задач и его дочерних потоков есть свои обзорные панели.<br /><br /><strong>Начните с добавления чего-нибудь нового</strong> (нажмите на кнопку \"Новый элемент\" в начале столбца \"Новое\").<br /><br />Так же вы можете <strong>предлагать идеи, комментировать, соглашаться или быть против идей, расставлять приоритеты и оценивать</strong>.<br /><br />Нажмите на маленький ключик рядом с кнопкой \"Новый элемент\", чтобы посмотреть шпаргалку, которая подскажет вам значения всех иконок, которые вы видите на Обзорной панели. Пока вы вливаетесь в работу, вы можете познакомиться с <strong>фильтрами и поисковыми функциями в правом верхнем углу экрана.</strong><br /><br />Чтобы узнать больше о голосованиях и о том, как работает Обзорная панель <a href= 'http://help.bettermeans.com/dashboard' target='blank'>взгляните на этот раздел помощи</a>, или посмотрите этот 9-минутный тур по нашему сайту.<br /><br /><object width='560' height='340'><param name='movie' value='http://www.youtube.com/v/0wJAf229YUs?fs=1&amp;hl=..'></param><param name='allowFullScreen' value='true'></param><param name='allowscriptaccess' value='always'></param><embed src='http://www.youtube.com/v/0wJAf229YUs?fs=1&amp;hl=..' type='application/x-shockwave-flash' allowscriptaccess='always' allowfullscreen='true' width='560' height='340'></embed></object><br /><br /><br />"
+  help_section_project_wiki: "<strong>Wikis - это отличный инструмент для совместной работы и поэтому в каждом рабочем потоке есть wiki.</strong> Вы можете начать конструировать свою собственную wiki здесь, а также вы можете создать различные страницы, нажав <a href='wiki'>Стартовая страница</a> (в синем поле справа). Wikis - это, по существу, онлайн документы и каждый, у кого есть доступ, может не только прочитать, но также и отредактировать и поспособствовать развитию онлайн. <br />Взгляните на различные кнопки действий (справа в сером поле), это будет полезно при работе с Wiki."
+  help_section_project_news: "<strong>Проверяйте или сообщайте о последних новостях здесь.</strong> Новости используются для трансляции событий в вашей команде. Например, получение награды или выпуск новой продукции."
+  help_section_project_discussion: "Как и на многих других досках для обсуждений, вы можете обсуждать здесь различные вещи. Если у вас есть идея, которую вы еще не готовы предложить в качестве ходатайства или рабочего элемента, и хотите обсудить её с другими людьми, то <strong>создайте новую тему.</strong> Вы так же могли бы использовать доску обсуждений для обсуждения основной стратегии, новых возможных потоков задач, новой аудитории или всего, что приходит на ум."
+  help_section_project_activity: "<strong>Будьте в курсе \"горячих\" моментов вашей работы, используя ленту активности.</strong> Лента активности - это очень полезный инструмент для того, чтобы отслеживать последнюю активность в ваших потоках задач и их дочерних потоках. Все обновления, комментарии, новые элементы, изменения статусов элементов и все, что касается изменений в потоке задач, будет отображено здесь. Если вы хотите узнать больше, <a href= 'http://help.bettermeans.com/activity_stream' target='blank'>нажмите здесь</a>."
+  help_section_project_team: "<strong>How great is your team!</strong> Use this page to track the roles people are playing for this workstream. Remember, these roles apply to all sub workstreams as well.<br /><br />You can also use the links on the right to invite more team members. <a href='http://help.bettermeans.com/invitations' target='blank'> Learn more about invitations here</a>.<br /><br /> There are no job titles in an Open Enterprise, but there are levels of engagement that each come with different voting privileges, <a href= 'http://help.bettermeans.com/membership' target='blank'> learn more about that here.</a><br /><br /> "
+  help_section_project_credits: "<strong>This page tracks all the credits for your project.</strong> Credits are a way of tracking relative contribution. They are an indicator of what peers have given each other. <br />Credits can be used in many ways depending on how your organization or project runs. They can represent actual money in which case this is an accounts payable page, or they could represent relative contribution in which case this is a contribution tracking page. To learn more about how credits can work, <a href= 'http://help.bettermeans.com/credits' target='blank'> click here.</a>"
+  help_section_my_account: "<strong>Это страница вашего аккаунта.</strong> В отличие от вашего общего профиля эта страница видна только вам.<br /><br /> Здесь вы можете делать такие важные вещи, как менять пароль, настройки электронной почты и другие предпочтения.  Вы также можете просмотреть текущие уровни использования и, при необходимости вы можете изменить свой тарифный план с BetterMeans. <br /><br /> Если у вас есть вопросы по поводу вашего аккаунта, свяжитесь с нами:  <a href='mailto:billing@bettermeans.com'>billing@bettermeans.com</a>"
+  help_section_welcome_index: "Welcome on board!|<strong>Get started by creating your own workstream, or browsing around and contributing to existing ones</strong><br /><br />We highly recommend this overview of how things work on bettermeans:<br /><br /><object width='560' height='340'><param name='movie' value='http://www.youtube.com/v/0wJAf229YUs?fs=1&amp;hl=en_US&amp;rel=0'></param><param name='allowFullScreen' value='true'></param><param name='allowscriptaccess' value='always'></param><embed src='http://www.youtube.com/v/0wJAf229YUs?fs=1&amp;hl=en_US&amp;rel=0' type='application/x-shockwave-flash' allowscriptaccess='always' allowfullscreen='true' width='560' height='340'></embed></object><br /><br />You can also <a href='http://help.bettermeans.com' target='blank'>visit our help site for a more info</a> and answers to frequently asked questions.<br /><br />Please don't forget to send as all the feedback you have!<br /><br /><br />"
+  help_section_project_map: "Это карта"
+  help_section_project_settings: "Use settings sparingly. If you're admin and core team, make sure to use core team tools when possible in order for things to stay democratic."
+  help_section_motion_new: "Motions are used to make large important decisions that are project-wide. Notice the dropdown menu with the different types of motions. This is a democratic mechanism to make decisions together. To learn more about motions <a href= 'http://help.bettermeans.com/motions' >click here</a>"
+  help_section_project_new: >-
+    A Workstream is our lingo for a group or set of work.<br /><br /> A workstream
+    could be a <strong>department</strong> of your organization or it could be a <strong>specific
+    project</strong> that you are working on by your self or with others. In creating
+    a workstreams there are a few important things to pay attention to:<br /><br /><ul><li>
+    <strong>Public</strong>: A public workstream means that anyone can see your work
+    and can comment and contribute. If you do not want to have this transparency with
+    the community, you can uncheck this box and you are then creating a private workstream.
+    As the creator, you control who has access, but also note that you have to pay
+    for private workstreams. <a href= 'http://help.bettermeans.com/workstreams' target='blank'>
+    Read more about tradeoffs. </a> </li><li> <strong>Volunteer</strong>: This is
+    a signal to everyone working with you that all work in this workstream is fully
+    volunteer.</li><li> <strong>Credits</strong>: Credits are a more open and democratic
+    way of valuing work and awarding compensation. We are really excited about offering
+    this as an option and we strongly encourage you to <a href= 'http://help.bettermeans.com/credits'
+    target='blank'> learn more about credits. </a></li></ul> Still have questions,
+    <a href= 'http://help.bettermeans.com/support' target='blank'> get in touch</a><br
+    /><br />
+  help_section_invitation_new: "Use invitations to enroll team members to join your workstream.<br /><br /> When you send someone an invitation, they will be prompted to create a bettermeans account (if they don't have one already), and <strong>automatically added as a contributor</strong> to your workstream.<br /><br />You can only invite people to a root workstream. Their membership in a workstream applies to all sub work streams as well. In other words,<strong> a person can't belong to a sub workstream, and not belong to its parent workstream.</strong><br /><br /> <a href='http://help.bettermeans.com/invitations' target='blank'>Learn more in our help section.</a><br /><br /><br />"
+  help_section_browse_workstreams: "<strong>Добро пожаловать в сообщество BetterMeans.</strong> В отличие от вашей домашней страницы эта страница является обзорной для всей платформы BetterMeans.  <a href='http://help.bettermeans.com/' target='blank'>Узнать больше о платформе BetterMeans</a>"
+  help_section_retrospective_show: "<strong>Это ретроспектива.</strong> В ретроспективе присуждается компенсация в соответствии с вашей самооценкой и оценкой ваших коллег. Это отличная возможность получать награду за ваш вклад в работу.<br /> Просмотрите все выполненные рабочие элементы и дайте процентную оценку того, сколько по-вашему мнению каждый участник выполнил работы в процентах. Также у вас есть шанс сказать, насколько вы уверены, используя слайдер снизу. Чтобы узнать больше о ретроспективах, <a href='http://help.bettermeans.com/retrospectives' target='blank'>нажмите здесь.</a>"
+  help_section_free: Сохраняйте свою работу открытой и инклюзивной, и мы не возьмем с вас ни копейки, не важно, насколько вы разрастетесь.

@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Correlation Center - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Correlation Center</h1>
+
+<figure>
+<a href="00.jpg"><img src="00.jpg" width="1024"></a>
+</figure>
+
+<p>
+Прототип Центра Координации (по идеи из Проекта Венера)
+<br/>
+Correlation Center Concept (original idea by The Venus Project)
+</p>
+
+<p>
+Связан с проектами
+<a href="/sys/ru">Расчётная Система</a>
+<a href="/platform/ru">IT-платформа «Расчетный центр для кооперативов»</a>
+<a href="/p/36/ru">FreePe</a>
+</p>
+
+<p>
+Друзья, кто готов принять участие в разработке ресурсо-экономической платформы для управления хозяйством на любом уровне от огорода до планеты? Если интересно - обязательно напишите в личку, запишу вас для просмотра (на трансляцию) или для участия (через скайп, cloud9, github).
+<br/>
+Константин Дьяченко
+</p>
+
+
+<!--figure>
+<img src="SolarSystem.gif" width="640">
+</figure-->
+
+
+
+
+<h2>Ссылки</h2>
+
+<p>
+<a href="proto">Прототип внешнего вида от Данила Дашкевича</a>
+</p>
+
+<p>
+<a href="https://vk.com/correlationcenter" target="_blank">vk.com/correlationcenter</a>
+<br/>
+<a href="https://vk.com/konard" target="_blank">vk.com/konard</a>
+<br/>
+<a href="https://github.com/AKMAxelerator/CorrelationCenterConcept" target="_blank">github.com/AKMAxelerator/CorrelationCenterConcept</a>
+<br/>
+<a href="https://ide.c9.io/akmaxelerator/fobos" target="_blank">ide.c9.io/akmaxelerator/fobos</a>
+<br/>
+<a href="https://fobos-akmaxelerator.c9.io" target="_blank">fobos-akmaxelerator.c9.io</a>
+<br/>
+<a href="https://better.boon.gl/projects/68/dashboard" target="_blank">better.boon.gl/projects/68/dashboard</a>
+</p>
+
+<p>
+<a href="http://better.libre.life"><b>better.libre.life</b></a>
+<br/>
+<a href="https://better.boon.gl">better.boon.gl</a>
+<br/>
+<a href="https://github.com/mockdeep/better">github.com/mockdeep/better</a> - Репозиторий беттера актуальный
+<br/>
+<a href="https://www.transifex.com/boondotgl/better">transifex.com/boondotgl/better</a> - Файл перевода (<a href="ru.yml">копия</a>)
+<br/>
+<a href="http://www.twitch.tv/drakonard">twitch.tv/drakonard</a> - Видеотрансляция от <a href="https://vk.com/konard">Константин Дьяченко</a>
+<br/>
+<a href="http://www.twitch.tv/prof1983">twitch.tv/prof1983</a> - Видеотрансляция от <a href="https://vk.com/prof1983">Ярослав Логинов</a>
+</p>
+
+<p>
+<a href="https://github.com/bettermeans/bettermeans" target="_blank">github.com/bettermeans/bettermeans</a>
+<br/>
+<a href="https://www.transifex.com/elfpavlik/bettermeans" target="_blank">transifex.com/elfpavlik/bettermeans</a>
+<br/>
+<a href="http://alternativeto.net/software/bettermeans" target="_blank">alternativeto.net/software/bettermeans</a
+<br/>
+<a href="http://opensourceecology.org/wiki/Bettermeans" target="_blank">opensourceecology.org/wiki/Bettermeans</a>
+<br/>
+<a href="https://www.facebook.com/bettermeans" target="_blank">fb.com/bettermeans</a>
+</p>
+
+<p>
+<a href="/game/BetterMeans.txt">Полезные ссылки про BetterMeans</a> + Инструкция по установке
+</p>
+
+<p>
+<a href="https://docs.google.com/document/d/1I_BdSTRFxVDN_GaNv6S-nCiN06WH5TUqMkwURRxqT3o" target="_blank">docs.google.com/document/d/1I_BdSTRFxVDN_GaNv6S-nCiN06WH5TUqMkwURRxqT3o</a>
+<br/>
+<a href="https://docs.google.com/spreadsheets/d/1D1_Fxum3T5Pi5EHqg1xGTNVQIpRTkYGS4UtFQ6myMpI" target="_blank">docs.google.com/spreadsheets/d/1D1_Fxum3T5Pi5EHqg1xGTNVQIpRTkYGS4UtFQ6myMpI</a>
+</p>
+
+
+<h3>Дополнительно</h3>
+
+<p>
+<a href="http://jeremydorn.com/json-editor/">jeremydorn.com/json-editor</a>
+</p>
+
+<p>
+Трансляция:
+<br/>
+<a href="https://plus.google.com/hangouts/_/hoaevent/AP36tYeKpDoAdeZQfWojg8ihCGc_QQlluI8T2yXy1qStHb-Bl-tBGg" targer="_blank">plus.google.com/hangouts/_/hoaevent/AP36tYeKpDoAdeZQfWojg8ihCGc_QQlluI8T2yXy1qStHb-Bl-tBGg</a>
+<br/>
+Видео о проекте Венера
+<br/>
+<a href="https://www.youtube.com/watch?v=3os-ChI35PM&list=PLDLvVnlPAF4NMiOXTSv4vdP7cVkXr67j-" targer="_blank">youtube.com/watch?v=3os-ChI35PM&list=PLDLvVnlPAF4NMiOXTSv4vdP7cVkXr67j-</a>
+</p>
+
+
+
+
+<h2>Лог чатов</h2>
+
+<p>
+<a href="20150831-cc.html">Запись чата "Correlation Center" по 2015-08-31</a>
+<br/>
+<a href="20150831-pr.html">Запись чата "Совместная практика программирования" по 2015-08-31</a>
+<br/>
+<a href="ru.yml">ru.yml</a> - Русификация BetterMeans (положить в /config/locales)
+</p>
+
+
+
+
+<p class="h2">
+<a href="video">Видео</a>
+</p>
+
+
+
+
+<p>
+<a href="https://vk.com/video?gid=100024189" target="_blank">vk.com/video?gid=100024189</a> - Видеозаписи Correlation Center
+<br/>
+<a href="https://www.youtube.com/user/BetterMeans/videos" target="_blank">youtube.com/user/BetterMeans/videos</a>
+</p>
+
+
+
+<h2>Alternative</h2>
+
+<p>
+<a href="http://alternativeto.net/software/trello/" target="_blank">alternativeto.net/software/trello</a>
+</p>
+
+<p>
+Обзор сервисов управления проектами: Basecamp, Trello, Slack, Asana, Worksection
+<br/>
+<a href="http://ain.ua/2015/03/04/567778" target="_blank">ain.ua/2015/03/04/567778</a>
+</p>
+
+<p>
+К доске! Trello – универсальный менеджер проектов
+<br/>
+<a href="http://blog.aweb.ua/k-doske-trello-universalnyj-menedzher-proektov" target="_blank">blog.aweb.ua/k-doske-trello-universalnyj-menedzher-proektov</a>
+</p>
+
+
+<br/>
+
+
+
+
+<h2>BetterMeans</h2>
+
+<p>
+Предлагаем вашему вниманию BetterMeans, площадку для ведения проектов (предложение идей, обнаружение проблем, постановка задач, голосование, учёт процесса выполнения задач, совместное принятие завершённых задач путём голосования и т.п.). В данный момент площадка запущена в тестовом режиме, однако при необходимости вы можете запросить выгрузку ваших данных из системы. По всем вопросам можете обращаться к Ярославу Логинову (<a href="http://vk.com/prof1983" targer="_blank">vk.com/prof1983</a>) и Константину Дьяченко (<a href="http://vk.com/konard">vk.com/konard</a>).
+
+<p>
+Исходный код платформы BetterMeans: <a href="https://github.com/mockdeep/better" targer="_blank">github.com/mockdeep/better</a>
+<br/>
+Актуальная версия перевода платформы BetterMeans: <a href="https://www.transifex.net/projects/p/better" targer="_blank">transifex.net/projects/p/better</a>
+</p>
+
+
+<h3>BetterMeans теперь и на Libre.Life</h3>
+
+<p>
+<b>login</b> - вход
+<br/>
+<b>sing up</b> - регистрация
+</p>
+
+<p>
+<a href="http://better.libre.life" targer="_blank">better.libre.life</a>
+</p>
+
+<figure>
+<a href="01b.jpg"><img src="01.jpg"></a>
+</figuer>
+
+
+<h3>Регистрация в BetterMeans на Libre.Life</h3>
+
+<p>
+<b>username</b> - имя пользователя
+<br/>
+<b>password</b> - пароль
+<br/>
+<b>retype password</b> - подтверждение пароля (ещё раз)
+<br/>
+<b>firstname</b> - имя (можно на любом языке)
+<br/>
+<b>lastname</b> - фамилия (можно на любом языке)
+<br/>
+<b>email</b> - адрес электронной почты
+<br/>
+<a href="http://better.libre.life/account/register" targer="_blank">better.libre.life/account/register</a>
+</p>
+
+<figure>
+<a href="02b.jpg"><img src="02.jpg"></a>
+</figuer>
+
+
+<h3>Как переключить BetterMeans на русский язык?</h3>
+
+<p>
+1. Регистрируемся <a href="http://vk.com/wall-88237214_210" targer="_blank">vk.com/wall-88237214_210</a> или входим в систему <a href="https://vk.com/wall-88237214_209">vk.com/wall-88237214_209</a> .
+<br/>
+2. Переходим в настройки профиля <a href="http://better.libre.life/my/account" targer="_blank">better.libre.life/my/account</a> .
+<br/>
+3. Меняем "Language" (язык) на русский.
+<br/>
+4. Нажимаем "Save" (сохранить), чтобы зафиксировать изменения.
+</p>
+
+<p>
+<a href="http://better.libre.life/my/account" targer="_blank">better.libre.life/my/account</a>
+</p>
+
+<figure>
+<a href="03b.jpg"><img src="03.jpg"></a>
+</figuer>
+
+
+
+
+<nav class="main-footer-nav"><a href="/p/ru">Проекты</a></nav>
+
+</main>
+<footer><div>7523-09-01 - 7523-09-29</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Correlation Center (прототип внешнего вида) - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Correlation Center (прототип внешнего вида)</h1>
+
+<figure>
+<a href="00.jpg"><img src="00.jpg" width="1024"></a>
+</figure>
+
+<p>
+Прототип внешнего вида от Данила Дашкевича
+</p>
+
+<figure>
+<a href="img/proto/01-Moya_stranitsa.png"><img src="img/proto/01.jpg"></a>
+<br/>
+<a href="img/proto/02-Soobschenia.png"><img src="img/proto/02.jpg"></a>
+<br/>
+<a href="img/proto/03-Soobschestva.png"><img src="img/proto/03.jpg"></a>
+<br/>
+<a href="img/proto/04-Sobytia.png"><img src="img/proto/04.jpg"></a>
+<br/>
+<a href="img/proto/05-Navyki.png"><img src="img/proto/05.jpg"></a>
+<br/>
+<a href="img/proto/08-Proekty!!!.png"><img src="img/proto/08.jpg"></a>
+<br/>
+<a href="img/proto/13-Disk.png"><img src="img/proto/13.jpg"></a>
+<br/>
+<a href="img/proto/14-Svyazi.png"><img src="img/proto/14.jpg"></a>
+</figure>
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="ru">Correlation Center</a></p>
+
+</main>
+<footer><div>7523-09-16 - 7523-09-20</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
