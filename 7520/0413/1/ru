@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>«Мошенники» из Шаймуратово - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>«Мошенники» из Шаймуратово</h1>
+
+<figure>
+<a href="00b.jpg"><img src="00.jpg"/></a>
+</figure>
+
+<figure>
+<iframe width="420" height="315" src="//www.youtube.com/embed/DWNawjEgbBk" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+
+
+
+<nav class="main-footer-nav"><a href="/economy/ru">Экономика</a></nav>
+
+</main>
+<footer><div>7524-03-08 - 7524-12-25</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
