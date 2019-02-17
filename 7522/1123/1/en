@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Government 2.0: cloud citizens - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Government 2.0: cloud citizens</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+Political map of the world for a long time cutting the boundaries of nation-states, which can not exist in isolation from their territories. These areas are inhabited by people who are forced to succumb inevitability of a nation-state, to announce their own citizens. What will be the state 2.0, which will replace the nation-states?
+</p>
+
+<p class=h2>
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/nation/bitnation/en">Bitnation</a></nav>
+
+</main>
+<footer><div>7523-03-07 - 7524-08-19</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
