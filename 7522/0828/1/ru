@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>BitLegal - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>BitLegal</h1>
+
+<figure>
+<a href="00.png"><img src="00.jpg" /></a>
+</figure>
+
+<p>
+BitLegal is the easiest way to explore the evolving regulatory landscape of virtual currency around the world.
+</p>
+
+
+<a href="http://bitlegal.io/" target="_blank">bitlegal.io</a>
+
+<p>
+Источник:
+<a href="http://libremoney.org/article/449/" target="_blank">libremoney.org/article/449</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/money/libre/ru">Libre.Money</a></nav>
+
+</main>
+<footer><div>7524-08-28 - 7524-08-28</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
