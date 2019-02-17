@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Bitcoin Conference SPB 2014 Ярослав Логинов - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Bitcoin Conference SPB 2014 Ярослав Логинов</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+Выступление на конференции в 2014 году про юрисдикцию Интернета.
+</p>
+
+<figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bESzws351bw" frameborder="0" allowfullscreen></iframe>
+<!--a href="http://youtu.be/GetKH84Spdw" target="_blank">youtu.be/GetKH84Spdw</a-->
+</figure>
+
+
+
+
+<h2>Отчет о конференции</h2>
+
+<p>
+<a href="http://btcsec.com/otchet-o-bitcoin-conference-st-petersburg/" target="_blank">btcsec.com/otchet-o-bitcoin-conference-st-petersburg</a>
+</p>
+
+
+
+
+<h2>Презентация</h2>
+
+<figure>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/gRMSXwsYHn2PzD" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/prof1983/bitcoin-conference-st-petersburg" title="Сценарий легализации криптовалют - Bitcoin Conference St. Petersburg" target="_blank">Сценарий легализации криптовалют - Bitcoin Conference St. Petersburg</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/prof1983">Yaroslav Loginov</a></strong> </div>
+</figure>
+<!--a href="http://www.slideshare.net/prof1983/bitcoin-conference-st-petersburg" target="_blank">slideshare.net/prof1983/bitcoin-conference-st-petersburg</a-->
+
+<p>
+Остальные видео с конференции
+<a href="https://www.youtube.com/playlist?list=PLJ3fZcmf7xINQubOVR-0niZUnevO9g4MG" target="_blank">youtube.com/playlist?list=PLJ3fZcmf7xINQubOVR-0niZUnevO9g4MG</a>
+</p>
+
+<p>
+Источник:
+<a href="http://libremoney.org/article/864/" target="_blank">libremoney.org/article/864</a>
+</p>
+
+
+
+
+
+<nav class="main-footer-nav"><a href="/pr/ru">Презентации</a></nav>
+
+</main>
+<footer><div>7524-12-25 - 7524-12-25</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

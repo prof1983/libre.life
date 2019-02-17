@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Bitcoin Conference SPB 2014 Yaroslav Loginov - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Bitcoin Conference SPB 2014 Yaroslav Loginov</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+Speech at the conference in 2014 about the Internet jurisdiction.
+</p>
+
+<p class="h2">
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/pr/en">Presentations</a></nav>
+
+</main>
+<footer><div>7524-12-25 - 7524-12-25</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
