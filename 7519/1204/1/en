@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Commercial coupons in Shaymuratovo - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Commercial coupons in Shaymuratovo</h1>
+
+<figure>
+<a href="00b.jpg"><img src="00.jpg"/></a>
+</figure>
+
+<p class="h">
+Interview
+</p>
+
+<figure>
+<iframe width="420" height="315" src="//www.youtube.com/embed/T-BXav09izk" frameborder="0" allowfullscreen></iframe>
+<!-- https://youtu.be/tC0MQpnB_I8 -->
+</figure>
+
+
+
+<nav class="main-footer-nav"><a href="/economy/aspirin/en">Aspirin</a></nav>
+
+</main>
+<footer><div>7524-03-08 - 7524-12-04</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
