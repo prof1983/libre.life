@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Other money - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Other money</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+People clearly lost confidence in money as the standard value. But, maybe the problem is not money itself, but the fact that there are fewer trust between people? Suffice it to recall the currency war last year, during which the state staged a race devaluations of their currencies to benefit from the rest of the world - or at least not lose.
+</p>
+
+
+<br/>
+
+<p class="h2">
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/economy/aspirin/en">Aspirin</a></nav>
+
+</main>
+<footer><div>7524-12-25 - 7524-12-25</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
