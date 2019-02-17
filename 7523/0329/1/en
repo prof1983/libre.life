@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>About ideology and Documentation - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>About ideology and Documentation</h1>
+
+<p>
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/club/en">Club</a></nav>
+
+</main>
+<footer><div>7523-03-29 - 7525-03-30</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
