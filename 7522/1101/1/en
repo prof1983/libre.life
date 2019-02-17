@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>"InInIn" Ltd - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>"InInIn" Ltd</h1>
+
+<figure>
+<a href="00b.jpg"><img src="00.jpg"/></a>
+</figure>
+
+<p>
+<b>The primary practical problem Ltd. "InInIn" - information infrastructure innovation. Everything we do in the game form, we will record videos of ideas. In general terms, our game will be to ensure that we create a "field", which begins to bring interesting ideas. During the discussion, on the basis of the ratings, arrive at the result - innovative projects.</b>
+</p>
+
+
+<p class=h2>
+<a href="ru">RU</a>
+</p>
+
+
+<p class="h2"><a href="/club/en">Club</a></p>
+
+</main>
+<footer><div>7523-04-01 - 7523-04-20</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
