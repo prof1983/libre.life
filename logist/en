@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Logistics - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Logistics</h1>
+
+<figure>
+<a href="img/logo/2560x1440.jpg"><img src="img/logo/1000.jpg"/></a>
+</figure>
+
+<p class="h">
+<b>Creating the best ways of distribution of products</b>
+</p>
+
+<p>
+Communism from capitalism, is actually determined by the redistribution of resources. Communism has no concept of the "invisible hand of the market", and there is an optimal redistribution. Allocation of resources - in particular, it is the function which is engaged in the state. So, one of the areas of our society - is the creation of optimal logistic distribution paths of goods and services to meet the needs of each person. This new principle of economy when there is overproduction and no shortage.
+</p>
+
+<p>
+And most importantly - it's not just a redistribution of consumer products, and the achievement of quality goods and services at the highest level. Our logistics system will not be extra downtime, products will not be spoiled. And most importantly - a system of ratings and reputation of the manufacturer, which guarantees the consumer the highest quality.
+</p>
+
+<figure>
+<a href="img/01-orig.jpg"><img src="img/01-1000.jpg"/></a>
+</figure>
+
+<blockquote>
+<b>Logistics</b> — organization of a rational process of promotion of goods and services from suppliers of raw materials to consumers, the functioning of the circulation of products, goods, services, inventory management and provisions, infrastructure merchandising, planning, management and control of the movement of material, informational and financial resources in different systems.
+</blockquote>
+
+<figure>
+<img src="img/03.jpg"/>
+</figure>
+
+
+
+
+<p class="h2"><a href="/economy/en">Economy</a></p>
+
+</main>
+<footer><div>7523-03-10 - 7523-04-22</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
