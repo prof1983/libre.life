@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Деньги - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Деньги</h1>
+
+<p>
+«Деньги — это мера. Мера — это вещь объективная. В какой мере мы будем мерить стоимость товаров и услуг — не так важно — как вес — килограммах и в фунтах, в сантиметрах или в дюймах и т.д.»
+</p>
+
+</main>
+<footer><div>7523-02-03 - 7523-04-17</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

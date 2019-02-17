@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Money - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Money</h1>
+
+<p>
+«Money - a measure. Measure - this thing is objective. To what extent do we measure the value of goods and services - is not so important - as the weight - in kilograms and pounds, in centimeters or inches, etc.»
+</p>
+
+</main>
+<footer><div>7523-02-03 - 7523-04-17</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
