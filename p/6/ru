@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>МояМаруся - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>МояМаруся</h1>
+
+<figure>
+<a href="img/logo/900x900.png"><img src="img/logo/600x600.png"/></a>
+</figure>
+
+<p class="h">
+Продукты высокого качества
+</p>
+
+<p class="h">
+<b>Доступность необходимого и качественного</b>
+</p>
+
+<p class="h2">
+<a href="http://moyamarusya.com">moyamarusya.com</a>
+</p>
+
+
+</main>
+<footer><div>7523-02-17 - 7523-04-13</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

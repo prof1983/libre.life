@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Kuznetsoff Laboratory - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Kuznetsoff Laboratory</h1>
+
+<figure>
+<img src="img/logo/300x300.png"/>
+</figure>
+
+<p class="h">
+<b>Creation of companies innovative, educational and high-tech products</b>
+</p>
+
+<p class="h">
+Research and development in the use of multimedia and computer tools in the learning and negotiation process. Many studies conducted by us, examines the characteristics of the mind: the nature of occurrence of objections and conceptual justification mechanism. Most of the developments and trends of scientific experiment based on the theory and practice of phenomena defined and described by Alexander Kuznetsov, in his works, articles and publications.
+</p>
+
+</p>
+Our main goal - to create for innovative companies, training, high-tech products having inherently reliable, scientific (confirmed by experiments) foundation. In this case the products are easy to understand and use.
+</p>
+
+
+<p class="h2">
+<a href="ru">RU</a>
+</p>
+
+
+</main>
+<footer><div>7523-03-12 - 7523-04-13</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
