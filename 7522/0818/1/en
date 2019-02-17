@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Blokcheyn technology on electronic document management service - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Blokcheyn technology on electronic document management service</h1>
+
+<figure>
+<img src="00.jpg" />
+</figure>
+
+<!--
+On Monday, the New York company Basno, specializing in developing and manufacturing digital authentication solutions, today announced its new service, called BlockSign. Service is a public register containing the documents signed electronically. Each signature is stored in blokcheyne Bitcoin network and therefore is unique and is not modifiable.
+-->
+
+<p>
+On Monday, the New York company <a href="https://basno.com/" target="_blank">Basno</a>, specializing in developing and manufacturing digital authentication solutions, today announced its new service, called BlockSign. Service is a public register containing the documents signed electronically. Each signature is stored in blokcheyne Bitcoin network and therefore is unique and is not modifiable.
+</p>
+
+<p class="h2">
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/notary/en">Notary</a></nav>
+
+</main>
+<footer><div>7524-11-10 - 7524-11-10</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
