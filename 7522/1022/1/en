@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>The decentralized alternative to Uber - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>The decentralized alternative to Uber</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+The trade unions of taxi drivers, sensing the real threat to their business from companies such as Uber and Lyft, unleashed them all over the world a real war. It seems that now they have incurred the same fate as that of Hollywood, attempted at the time to sue Napster: La'Zooz company recently introduced a decentralized alternative to the implementation of passenger transport services.
+</p>
+
+<p class="h2">
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/dao/en">Decentralized Autonomous Organization</a></nav>
+
+</main>
+<footer><div>7523-11-10 - 7524-11-10</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
