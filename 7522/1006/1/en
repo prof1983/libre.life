@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Decentralized market - already half a year in service - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Decentralized market - already half a year in service</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+Greetings! Today I'll tell you about a decentralized kriptovalyutnuyu exchange. That is, the technology with which you can trade directly with other users, without the need to trust their money intermediary market. Yes, it has already been implemented and is working already since April. Called Asset Exchange.
+</p>
+
+
+<p class="h">
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/projects/en">Projects</a></nav>
+
+</main>
+<footer><div>7523-05-24 - 7524-10-06</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
