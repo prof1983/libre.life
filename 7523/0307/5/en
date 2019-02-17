@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>NeuroWeb will be the next generation of the Internet - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>NeuroWeb will be the next generation of the Internet</h1>
+
+<figure>
+<a href="00-2560x1600.jpg"><img src="00.jpg"/></a>
+</figure>
+
+<p>
+NeuroWeb will be the next generation of the Internet. This convinced many members of the international workshop held last night in the Russian Venture Company (RVC).
+</p>
+
+<p class=h2>
+<a href="ru">RU</a>
+</p>
+
+
+<p class="h2"><a href="/net/neuro/en">Neuronet</a></p>
+
+</main>
+<footer><div>7523-03-07 - 7523-04-15</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
