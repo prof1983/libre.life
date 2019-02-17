@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Пожертвования - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Пожертвования</h1>
+
+<p>
+Пожертвования контролируются <a href="/doc/leader/ru">Лидером Проекта</a> и позволяют Libre приобретать хостинг, домены, сертификаты SSL, проводить конференцию, мини-конференции, спринты разработчиков, представлять себя на других событиях и многое другое. Спасибо всем нашим жертвователям за поддержку!
+</p>
+
+<p>
+Наиболее простым способом перечислить пожертвование заключается в переводе Bitcoin.
+</p>
+
+<p class="h">
+<b>BTC: 1Bx8EJv73J3fXhhpL64soGLzUcLvpLcAaJ</b>
+</p>
+
+<!--
+Также вы можете отправить пожертвование с помощью других методов, приведённых ниже.
+<h2>Другие методы</h2>
+-->
+
+<p class="h">
+По всем вопросам обращайтесь:
+<br/>
+<a href="/people/1/ru">Ярослав Логинов</a>
+<br/>
+&lt;prof1983@yandex.ru&gt;
+<br/>
+<a href="http://vk.com/prof1983"><img src="/img/sn/fb.png" class="sm"></a>
+<a href="http://fb.com/prof1983"><img src="/img/sn/vk.png" class="sm"></a>
+<a href="http://lnkd.in/fsTFb9"><img src="/img/sn/in.png" class="sm"></a>
+<a href="https://twitter.com/prof1983"><img src="/img/sn/tw.png" class="sm"></a>
+<a href="https://plus.google.com/104932809573151422561"><img src="/img/sn/gp.png" class="sm"></a>
+<a href="http://prof1983.moikrug.ru/"><img src="/img/sn/mk.png" class="sm"></a>
+</p>
+
+
+
+<h2>Жертвователи</h2>
+
+<p>
+Далее приведены списки организаций, делавших пожертвования оборудованием или услугами:
+</p>
+
+<p>
+<a href="/doc/hosting/ru">спонсоры хостинга и спонсоры, предоставляющие оборудование</a>
+<br>
+<a href="/mirror/ru">спонсоры официальных зеркал</a> (<a href="/doc/mirror/ru">doc</a>)
+<br/>
+<a href="/partners/ru">партнёры в разработке и партнёры, предоставляющие услуги</a>
+</p>
+
+
+<p>
+Прототип:
+<a href="https://www.debian.org/donations.ru.html">debian.org/donations.ru.html</a>
+</p>
+
+
+<p class="h2"><a href="/ru">Главная</a></p>
+
+</main>
+<footer><div>7523-03-22 - 7523-04-25</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

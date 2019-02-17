@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Donations - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Donations</h1>
+
+<p>
+Donations are managed by the <a href="/doc/leader/en">Libre Project Leader</a> and allow Libre to have hosting, domains, SSL certificates, other, the conference, mini-conferences, development sprints, presence at other events and other things. Thanks to all of our donors for supporting Libre!
+</p>
+
+<p>
+The easiest method of donating is by Bitcoin.
+</p>
+
+<p class="h">
+<b>BTC: 1Bx8EJv73J3fXhhpL64soGLzUcLvpLcAaJ</b>
+</p>
+
+<!--
+You can also donate via the other methods listed below.
+<h2>Другие методы</h2>
+-->
+
+<p class="h">
+For all inquiries please contact:
+<br/>
+<a href="/people/1/en">Yaroslav Loginov</a>
+<br/>
+&lt;prof1983@yandex.ru&gt;
+<br/>
+<a href="http://vk.com/prof1983"><img src="/img/sn/fb.png" class="sm"></a>
+<a href="http://fb.com/prof1983"><img src="/img/sn/vk.png" class="sm"></a>
+<a href="http://lnkd.in/fsTFb9"><img src="/img/sn/in.png" class="sm"></a>
+<a href="https://twitter.com/prof1983"><img src="/img/sn/tw.png" class="sm"></a>
+<a href="https://plus.google.com/104932809573151422561"><img src="/img/sn/gp.png" class="sm"></a>
+<a href="http://prof1983.moikrug.ru/"><img src="/img/sn/mk.png" class="sm"></a>
+</p>
+
+
+<h2>Donors</h2>
+
+<p>
+The following are lists of organizations that have made donations of equipment or services to Debian:
+</p>
+
+<p>
+<a href="/doc/hosting/en">hosting and hardware sponsors</a>
+<br/>
+<a href="/mirror/en">official mirror sponsors</a> (<a href="/doc/mirror/en">doc</a>)
+<br/>
+<a href="/partners/en">development and service partners</a>
+</p>
+
+
+<p>
+Source:
+<a href="https://www.debian.org/donations.en.html">debian.org/donations.en.html</a>
+</p>
+
+
+<p class="h2"><a href="/en">Main</a></p>
+
+</main>
+<footer><div>7523-03-22 - 7523-04-25</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
