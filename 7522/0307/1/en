@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Bitcoin: built-in scripting system and digital contracts - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Bitcoin: built-in scripting system and digital contracts</h1>
+
+<figure>
+<a href="00b.jpg"><img src="00.jpg"/></a>
+</figure>
+
+<p>
+Built-in scripting system for checking the validity of transactions, as well as some of its features. In the native language of such information did not come across to me because I bring a contribution.
+</p>
+
+
+<p class=h2>
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+<br/>
+<br/>
+
+<p class="h2"><a href="/contract/en">Smart contracts</a></p>
+
+</main>
+<footer><div>7524-05-25 - 7524-05-25</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
