@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Neuro.Life - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Neuro.Life</h1>
+
+<p class="h">
+<b>New generation neuroheadset</b>
+</p>
+
+<figure>
+<b>About Neuro.Life - 0419</b>
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/2Rav85VUUFA" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+<figure>
+<b>About Neuro.Life - 0308</b>
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/yI0ucOPkxo4" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+<figure>
+<a href="img/01-1920x1080.jpg"><img src="img/01-1280x720.jpg"/></a>
+<br/>
+<br/>
+<a href="img/01-1920x1080.jpg"><img src="img/02-1280x720.jpg"/></a>
+</figure>
+
+
+<p class="h2">
+<a href="team">Team</a>
+</p>
+
+
+<h3>Publications</h3>
+
+<p>
+<a href="/2015/03/04/01/en">Neuro.Life - news on the project and further work plan</a>
+<br/>
+<a href="/2015/03/07/04/en">The workshop report Neyronet in RVC</a>
+<br/>
+<a href="/2015/03/07/05/en">NeuroWeb will be the next generation of the Internet</a>
+<br/>
+<a href="/7523/03/11/01/en">Meditating human brain</a>
+<br/>
+<a href="/7523/03/12/01/en">Meeting of A-CluB 12.03</a>
+</p>
+
+
+<p class="h">
+<a href="ru">RU</a>
+</p>
+
+</main>
+<footer><div>7523-02-17 - 7523-04-05</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

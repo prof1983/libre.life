@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Команда - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<p class="h2"><a href="ru">Neuro.Life</a></p>
+
+<figure>
+<img src="img/logo/300x300.jpg"/>
+</figure>
+
+
+<h1>Команда</h1>
+
+<p class="h">
+Проект Neuro.Life создается членами <a href="/club/ru">клуба инноваторов</a>.
+</p>
+
+<figure>
+<img src="/people/3/img/logo/300x300.jpg"/>
+<br/>
+Андрей Кузнецов - руководитель проекта Neuro.Life - кандидат экономических наук, преподаватель МГУ им. Ломоносова, руководитель Лаборатории Изучения Интеллекта Человека (<a href="/p/7/ru">Kuznetsoff Laboratory</a>)
+</figure>
+
+<figure>
+<img src="/people/2/img/logo/300x300.jpg"/>
+<br/>
+Замир Акимов - руководитель <a href="/club/ru">клуба инноваторов</a>, идейный лидер и организатор - отвечает за продвижение проекта Neuro.Life
+</figure>
+
+<figure>
+<img src="/people/1/img/logo/300x300.jpg"/>
+<br/>
+Логинов Ярослав - разработчик, создатель <a href="http://libre.life">Libre.Life</a> - отвечает за продвижение проекта Neuro.Life
+</figure>
+
+<figure>
+<img src="/people/4/img/logo/300x300.jpg"/>
+<br/>
+Сергей Смирнов - руководитель студии <a href="http://smirnovdesign.com">Смирнов дизайн</a> - отвечает за дизайн
+</figure>
+
+
+
+<p class="h2"><a href="ru">Neuro.Life</a></p>
+
+</main>
+<footer><div>7523-03-12 - 7523-04-05</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
