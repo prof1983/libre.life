@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Инфляция доллара - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Инфляция доллара</h1>
+
+<figure>
+<img src="00.png">
+</figure>
+
+<p>
+При споре с одним из блоггеров BlogSochi.ru столкнулся с недостатком информации в Интернете касательно долларовой инфляции. Скорее всего, эту информацию нужно искать в англоязычном сегменте сети, но так как с английским у меня, мягко говоря, нелады – пришлось сделать самостоятельные расчеты, основываясь на данных «Индекса Биг-Мака», который используется для оценки паритета покупательской способности.
+</p>
+
+<p>
+Полностью данных по цене Биг-Мака в США я так и не нашел и построил вычисления, основываясь на нескольких годах: 1967, 1986, 1990, 1991, 2007, 2010, 2011. Естественно, не стал сочинять в Excel(е) макрос, так как быстрее было сосчитать, забив формулу инфляции и ручками подобрав самое близкое значение.
+</p>
+
+<p>
+В результате у меня получилась картина...
+</p>
+
+<p>
+Желтые клетки – вычисленная инфляция.
+<br>
+Синие клетки – среднестатистические данные.
+<br>
+Зеленым клетки – первоначальные данные.
+</p>
+
+<p>
+<a href="http://blogsochi.ru/users/aleksandr-valov" target="_blank">Александр Валов</a>
+</p>
+
+<p>
+Источник:
+<a href="http://blogsochi.ru/content/inflyatsiya-dollara" target="_blank">blogsochi.ru/content/inflyatsiya-dollara</a>
+</p>
+
+<p>
+Дополнительно:
+<a href="http://goldomania.ru/articles/gold_dollar.html" target="_blank">Цена на золото и инфляция доллара США</a>
+</p>
+
+
+
+
+
+<nav class="main-footer-nav"><a href="/money/ru">Деньги</a></nav>
+
+</main>
+<footer><div>7524-08-07 - 7524-08-07</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

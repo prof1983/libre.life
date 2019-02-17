@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Dollar Inflation - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Dollar Inflation</h1>
+
+<figure>
+<img src="00.png">
+</figure>
+
+<p>
+In a dispute with one of the bloggers BlogSochi.ru faced with a lack of information on the Internet regarding the dollar inflation. Most likely, this information must be sought in the English-speaking segment of the network, but as with the English in me, to put it mildly, disagreement - it was necessary to make separate calculations, based on data from "Big Mac Index", which is used to evaluate the purchasing power parity.
+</p>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/money/en">Money</a></nav>
+
+</main>
+<footer><div>7524-08-07 - 7524-08-07</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
