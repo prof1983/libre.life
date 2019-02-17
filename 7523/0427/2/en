@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>A-Club 23.04.15 - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>A-Club 23.04.15</h1>
+
+<figure>
+<a href="00b.jpg"><img src="00.jpg"/></a>
+</figure>
+
+<p>
+Dear friends!
+</p>
+
+<p>
+I am glad to inform you that the last "infrastructure" the meeting was very fruitful! According to its results, we have identified a sequence of interaction partners in the creation of high-grade information infrastructure of innovation. Now I describe the segments of infrastructure in general, partners who intend to combine their resources to create a network of information and common rules agreed upon by the participants in the meeting.
+</p>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/club/en">Club</a></p>
+
+</main>
+<footer><div>7523-05-21 - 7523-05-21</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
