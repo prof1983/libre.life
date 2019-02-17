@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Видеоинтервью о LibreMoney с Татьяной Чебыкиной - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Видеоинтервью о LibreMoney с Татьяной Чебыкиной</h1>
+
+<figure>
+<img src="00.jpg" />
+</figure>
+
+<!--
+Сегодня записали видеоинтервью о LibreMoney с Татьяной Чебыкиной (criptomoney.com).
+-->
+
+<p>
+Сегодня записали видеоинтервью о LibreMoney с Татьяной Чебыкиной (<a href="http://criptomoney.com">criptomoney.com</a>).
+</p>
+
+<figure>
+<iframe width="560" height="315" src="//www.youtube.com/embed/JrUvaYBEnko" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+<p>
+Копия:
+<a href="https://youtu.be/5hGYPtfnokw">https://youtu.be/5hGYPtfnokw</a>
+</p>
+
+<p>
+Источник:
+<a href="http://libremoney.org/article/374/" target="_blank">libremoney.org/article/374</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/money/libre/ru">Libre.Money</a></nav>
+
+</main>
+<footer><div>7524-08-19 - 7524-08-19</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
