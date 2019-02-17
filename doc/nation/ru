@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Нация - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Нация</h1>
+
+<p class="h">
+Государство 2.0
+</p>
+
+<p class="h">
+<a href="about/ru"><b>Географически не привязанная модель управления сообществами (Googlements)</b></a>
+</p>
+
+
+<figure>
+<img src="about/img/bitnation5-1024.jpg"/>
+</figure>
+
+
+
+
+<h2>Документация Bitnation</h2>
+
+<ul>
+<li><a href="https://docs.google.com/spreadsheets/d/1uCor1qnGDtWLqjossX7tYHy6nz9oviSCHNOSXR0IqlI" target="_blank">Финансовый план</a> (<a href="/nation/bitnation-financial-projections-v-14.ods">ods</a>, <a href="/nation/bitnation-financial-projections-v-14.pdf" target="_blank">pdf</a>)</li>
+<li><a href="https://docs.google.com/document/d/1ZiIZ-rmI79HPNbfJ1AXwcgoe8TKMoUMatDf7YfO5LZw" target="_blank">Whitepaper</a> (<a href="/nation/bitnation-whitepaper.odt">odt</a>, <a href="/nation/bitnation-whitepaper.pdf" target="_blank">pdf</a>)</li>
+<li><a href="https://docs.google.com/document/d/1TkIbnrDeRLCXzP78khhpGnABMZt90eW4AZ4DoaKNbbo" target="_blank">План разработки</a> (<a href="/nation/bitnation-dev-plan.odt">odt</a>, <a href="/nation/bitnation-dev-plan.pdf" target="_blank">pdf</a>)</li>
+<li><a href="https://github.com/Bit-Nation" target="_blank">GitHub</a></li>
+<li><a href="/nation/bitnation-leaflet-for-events.pdf" target="_blank">Bitnation-leaflet-for-events.pdf</a></li>
+</ul>
+
+
+
+
+<h2>Публикации</h2>
+
+<p>
+<a href="/7522/1125/1/ru">Государство 2.0 или 5 удивительных примеров частных государственных институтов</a>
+<br/>
+<a href="/7523/0120/1/ru">Bitcoin 2.0 и Безусловный Основной Доход</a>
+<br/>
+<a href="/7523/0123/1/ru">Блокчейн-удостоверения для граждан мира</a>
+<br/>
+<a href="/7523/0304/2/ru">Bitnation является совместной платформой</a>
+<br/>
+<a href="/7523/0305/2/ru">Bitnation, Horizon и Blocknet совершают революцию в сфере IT и общественных отношений</a>
+<br/>
+<a href="/7523/0307/1/ru">Модернизация экономики и отношения собственности</a>
+<br/>
+<a href="/7523/0307/2/ru">Inter-Blockchain 2.0</a>
+<br/>
+<a href="/7523/0313/1/ru">Bitnation 20150313</a>
+<br/>
+<a href="/7523/0314/1/ru">Последние обновления. 22.12.2014</a>
+<br/>
+<a href="/7523/0318/2/ru">Сингулярность, частное право и крипто-анархия</a>
+<br/>
+<a href="/7523/0329/2/ru">Про создание государства</a>
+</p>
+
+
+
+
+<h2>Контакты</h2>
+
+<p class="h">
+<a href="http://bitnation.co" target="_blank">bitnation.co</a>
+<br/>
+Email: erik.vollstadt@bitnation.co
+</p>
+
+<p class="h">
+<a href="https://www.facebook.com/groups/BitnationRussia" target="_blank">fb.com/groups/BitnationRussia</a>
+<br/>
+<a href="https://www.facebook.com/groups/librelifenation" target="_blank">fb.com/groups/librelifenation</a>
+<br/>
+<a href="https://vk.com/bitnation" target="_blank">vk.com/bitnation</a>
+</p>
+
+
+
+
+<p class="h3">
+<a href="/nation/ru">Нация</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/doc/ru">Документация</a></nav>
+
+</main>
+<footer><div>7523-03-04 - 7524-07-03</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
