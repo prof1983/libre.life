@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Bitnation 20150313 - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Bitnation 20150313</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+A few words about the systems we create.
+</p>
+
+
+<h2>About money</h2>
+
+<p>
+We are working to create a resource and reputation system. Where the measure of the value (resources) is an internal accounting unit. In fact, we are creating a real modern money. Money does not exist without resources. Money - it is 1) a measure of value, 2) a medium of exchange, and 3) a means of accumulation. We must understand that dollars, rubles and other currencies - not money. While performing the role of money in the short term.
+</p>
+
+
+
+
+<p class=h2>
+<a href="ru">RU</a>
+</p>
+
+</main>
+<footer><div>7523-03-13 - 7523-04-08</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
