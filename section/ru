@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Секции - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Секции</h1>
+
+<div class="blocks blocks-front">
+
+<a href="/club/ru">
+<div>
+<figure>
+<img src="/club/img/logo/300.jpg"/>
+</figure>
+<h3>Клуб</h3>
+<p>Сообщество свободных людей</p>
+</div>
+</a>
+
+<a href="/economy/ru">
+<div>
+<figure>
+<img src="/economy/img/logo/300.jpg"/>
+</figure>
+<h3>Экономика</h3>
+<p>Создание ресурсно-репутационной экономики</p></p>
+</div>
+</a>
+
+<a href="/policy/ru">
+<div>
+<figure>
+<img src="/policy/img/logo/300.jpg"/>
+</figure>
+<h3>Политика</h3>
+<p>Достижение оптимальных результатов</p>
+</div>
+</a>
+
+<a href="/society/ru">
+<div>
+<figure>
+<img src="/society/img/logo/300.jpg"/>
+</figure>
+<h3>Социум</h3>
+<p>Люди с общими интересами, ценностями и целями</p>
+</div>
+</a>
+
+<a href="/cultura/ru">
+<div>
+<figure>
+<img src="/cultura/img/logo/300.jpg"/>
+</figure>
+<h3>Культура</h3>
+<p>Образование, наука, технологии, инновации, идеология, духовность, ценности</p>
+</div>
+</a>
+
+<a href="/co/munication/ru">
+<div>
+<figure>
+<img src="/co/munication/img/logo/300.jpg"/>
+</figure>
+<h3>Сеть</h3>
+<p>Децентрализация, Сети будущего, Нейронет</p>
+</div>
+</a>
+
+</div>
+
+<br/>
+<br/>
+
+<figure>
+<img src="img/00.png">
+</figure>
+
+<p class="h3">
+<a href="struct">Структура секций</a>
+</p>
+
+
+
+
+<br/><br/><p class="h2"><a href="/ru">Главная</a></p>
+
+</main>
+<footer><div>7523-03-24 - 7524-06-02</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

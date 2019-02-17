@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Структура - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Структура</h1>
+
+<!--
+Глеб:
+А что если инфографику применить:
+В центре человек, и вокруг него кружочки:
+- Финансы
+- Кооперация
+- Духовность
+- Потребности
+- Краудтехнологии
+- Инновации
+-->
+
+<ul>
+
+<li><a href="/club/ru">Клуб</a>
+	<ul>
+	<li><a href="/club/inno/ru">Клуб Инноваторов</a>
+	<li><a href="/club/partners/ru">Клуб Партнёров</a>
+	<li><a href="/club/dobro/ru">ДоброТех.Клуб</a>
+	<li><a href="/club/immortal">Бессмертие</a>
+	<li><a href="/club/gr/ru">GR Club</a>
+	<li><a href="/club/consumers/ru">Клуб Лояльных Потребителей</a>
+	</ul>
+
+<li><a href="/economy/ru">Экономика</a>
+	<ul>
+	<li><a href="/product/ru">Продукция</a>
+		<ul>
+		<li><a href="/management/ru">Управление</a>
+		<!--li><a href="/fin/ru">Финансы</a-->
+		<li><a href="/economy/micro/ru">Микроэкономика</a>
+		</ul>
+	<li><a href="/fin/ru">Финансы</a>
+		<ul>
+		<li><a href="/money/ru">Деньги</h3>
+		<li><a href="/fund/ru">Фонд</h3>
+		<!--li><a href="/contract/ru">Контракты</h3-->
+		</ul>
+	<li><a href="/logist/ru">Логистика</a>
+	<li><a href="/contract/ru">Контракты</a>
+	<li><a href="/dao/ru">ДАО</a>
+	<li><a href="/bod/ru">БОД</a>
+	</ul>
+	<ul>
+	<li><a href="/economy/levels">Уровни экономики</a>
+		<ul>
+		<li><a href="/economy/mega/ru">Мегаэкономика</a>
+		<li><a href="/economy/macro/ru">Макроэкономика</a>
+		<li><a href="/economy/meso/ru">Мезоэкономика</a>
+		<li><a href="/economy/micro/ru">Микроэкономика</a>
+		<li><a href="/economy/nano/ru">Наноэкономика</a>
+		</ul>
+	<li><a href="/economy/sectors">Сектора экономики</a>
+		<ul>
+		<li><a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D0%B8%D1%87%D0%BD%D1%8B%D0%B9_%D1%81%D0%B5%D0%BA%D1%82%D0%BE%D1%80_%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B8" target="_blank">Первичный сектор экономики</a>
+		<li><a href="https://ru.wikipedia.org/wiki/%D0%92%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%BD%D1%8B%D0%B9_%D1%81%D0%B5%D0%BA%D1%82%D0%BE%D1%80_%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B8" target="_blank">Вторичный сектор экономики</a>
+		<li><a href="https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B5%D1%82%D0%B8%D1%87%D0%BD%D1%8B%D0%B9_%D1%81%D0%B5%D0%BA%D1%82%D0%BE%D1%80_%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B8" target="_blank">Третичный сектор экономики</a>
+		<li><a href="https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D1%82%D0%B2%D0%B5%D1%80%D1%82%D0%B8%D1%87%D0%BD%D1%8B%D0%B9_%D1%81%D0%B5%D0%BA%D1%82%D0%BE%D1%80_%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B8" target="_blank">Четвёртый сектор экономики</a>
+		</ul>
+	<li><a href="/economy/forms">Формы экономики четвертого сектора</a>
+		<ul>
+		<li><a href="/economy/forms#inno">Инновационная экономика</a>
+		<li><a href="/economy/forms#el">Электронная экономика</a>
+		<li><a href="/economy/forms#info">Информационная экономика</a>
+		<li><a href="/economy/forms#know">Экономика знаний</a>
+		<li><a href="/economy/forms#virt">Виртуальная экономика</a>
+		</ul>
+	</ul>
+
+<li><a href="/policy/ru">Политика</a>
+	<ul>
+	<li><a href="/cracy/ru">Власть</a>
+		<ul>
+		<li><a href="/cracy/hola/ru">Холакратия</a>
+		<li><a href="/cracy/net/ru">Нетократия</a> (Сетевое общество)
+		<li><a href="/cracy/demo/ru">Демократия</a> (Электронная Демократия)
+		<li><a href="/cracy/liquid/ru">Liquid</a> (Текучая, прозрачная, прямая демократия)
+		<li><a href="/cracy/nirva/ru">Нирвархия</a>
+		<li><a href="/cracy/noo/ru">Ноократия</a>
+		</ul>
+	<li><a href="/vote/ru">Голосование</a>
+		<ul>
+		<li><a href="/vote/ru#liquidizer">Liquidizer</a></li>
+		<li><a href="/vote/ru#liquidfeedback">LiquidFeedback</a></li>
+		<li><a href="/vote/ru#agora">Agora</a></li>
+		</ul>
+	<li><a href="/vol/ru">Воля</a>
+	<!--li><a href="/economy/ru">Экономика</a>
+	<li><a href="/nation/ru">Нация</a>
+		<ul>
+		<li><a href="/nation/bitnation/ru">Bitnation</a>
+		</ul>
+	<li><a href="/party/pirat/ru">Pirate Party</a-->
+	</ul>
+
+<li><a href="/society/ru">Социум</a>
+	<ul>
+	<li><a href="/person/ru">Человек</a>
+		<ul>
+		<li><a href="/person/need/ru">Потребности</a>
+		<li><a href="/person/creat/ru">Творчество</a>
+		<!--li><a href="/cultura/ru">Культура</a-->
+		<li><a href="/person/fin/ru">Финансы</a> (личные)
+		<li><a href="/person/security/ru">Безопасность</a> (личная)
+		<!--li><a href="/co/ru">Сообщество</a-->
+		</ul>
+	<li><a href="/co/ru">Сообщество</a>
+		<ul>
+		<li><a href="/club/ru">Клуб</a>
+		<li><a href="/co/munication/ru">Коммуникации</a>
+		<li><a href="/co/operate/ru">Кооперация</a>
+		<li><a href="/co/labor/ru">Коллаборация</a>
+		<li><a href="/co/live/ru">Коливнинг</a>
+		<li><a href="/co/mune/ru">Коммуны</a>
+		</ul>
+	<li><a href="/nation/ru">Нация</a>
+		<ul>
+		<li><a href="/nation/bitnation/ru">Bitnation</a>
+		</ul>
+	<li><a href="/space/ru">Пространство</a>
+		<ul>
+		<li><a href="/city/ru">Город</a>
+		<li><a href="/land/ru">Земля</a>
+		</ul>
+	<li><a href="/sec/ru">Безопасность</a>
+	<!--a href="/cultura/ru">Культура</a>
+		<ul>
+		<li><a href="/future/ru">Будущее</a>
+		</ul>
+	<a href="/economy/ru">Экономика</a>
+	<a href="/policy/ru">Политика</a-->
+	</ul>
+
+<li><a href="/cultura/ru">Культура</a>
+
+<li><a href="/co/munication/ru">Коммуникации</a>
+
+</ul>
+
+<br/>
+<br/>
+
+
+
+
+
+
+
+
+
+
+<p>
+<a href="https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0"><b>Структура</b></a> (от лат. structūra — «строение») — внутреннее устройство, пространственное строение чего-либо; совокупность связей между частями объекта.
+</p>
+
+<figure>
+<img src="img/00.png">
+</figure>
+
+<p>
+Основные сферы жизнедеятельности общества - Сферы функционирования общества как системы:
+</p>
+
+<ol>
+<li><a href="/economy/ru">Экономика</a> (fin) - материальное производство, производительные отношения и силы, <a href="/product/ru">продукция</a>
+<!--li><a href="product">Материальное производство</a> (economy, fin) - материальное производство; производительные отношения и силы-->
+<li><a href="/cultura/ru">Культура</a> - духовная сфера жизни общества - мораль, религия, искусство, наука и образование; сфера производства теоретического знания (науки, магии, традиций, астрологии - жрецов, деятелей церкви, ученых); сфера оценивающей деятельности (философия, искусство, религия)
+<li><a href="/politica/ru">Политика</a> - управление общественными процессами: партии, государство, движения общественно-политические
+<li><a href="/society/ru">Социальная сфера</a> - потребление является воспроизводством человека как природного, социального и духовного существа, как часть: группы, класса, народа, нации
+</ol>
+
+<p>
+В свое время К. Маркс, развивая европейскую традицию во взглядах на общество, высказал важное положение о том, что «способ производства материальной жизни обусловливает социальный, политический и духовный процессы жизни вообще». В целом эта классификация выдержала испытание временем, хотя сама проблема выделения и понимания всеобщих сфер общества многими учеными решается по-разному.
+</p>
+
+<p>
+<a href="http://philosophica.ru/mironov2/56.htm" target="_blank">philosophica.ru/mironov2/56.htm</a>
+</p>
+
+<p>
+<a href="http://www.grandars.ru/college/sociologiya/sfera-obshchestva.html" target="_blank">grandars.ru/college/sociologiya/sfera-obshchestva.html</a>
+</p>
+
+<!--
+http://philosophica.ru/mironov2/menu.htm
+Основные сферы жизнедеятельности общества - Сферы функционирования общества как системы:
+- Материальное производство
+- Наука как теоретическая сфера жизнедеятельности людей
+- Ценности и их особая роль в жизни общества
+- Социальная сфера
+- Сфера управления общественными процессами
+-->
+
+
+
+
+<!--
+<b>Место/зона/пространство</b>
+</p>
+<ol>
+<li><a href="/home/ru">Дом</a> - место куда хочется возвращаться; <a href="/dom/ru">Дом (строение)</a>
+<li><a href="/selo/ru">Поселение/Деревня/Село</a> (village/settlement/locality)
+<li><a href="/polis/ru">Полис</a> (polis) - <a href="/city/ru">Город</a>
+-->
+<!--
+земельный участок - stead, section
+Место/Place - зона/zone,area
+Пространство: земля, поселение, деревня, город, полис
+land - земельный участок
+Село — один из видов населённых пунктов России, а также Украины, Казахстана, Молдавии, Болгарии, относящихся к так называемым сельским населённым пунктам. К сельским населённым пунктам относятся также деревни, посёлки, станицы, хутора, кишлаки, аулы, кордоны, кампонги и другие.
+-->
+
+
+<!--
+Пространство / space
+<li><a href="/region/ru">Регион</a> (region)
+<li><a href="/terra/ru">Планета Земля</a>
+<li><a href="/cosmos/ru">Космическое пространство</a>
+-->
+
+
+
+
+
+
+
+
+<br/><br/><p class="h2"><a href="ru">Секции</a></p>
+
+</main>
+<footer><div>7524-05-25 - 7523-06-03</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

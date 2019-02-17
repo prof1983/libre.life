@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Sections - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Sections</h1>
+
+<div class="blocks blocks-front">
+
+<a href="/club/en">
+<div>
+<figure>
+<img src="/club/img/logo/300.jpg"/>
+</figure>
+<h3>Club</h3>
+<p>A community of free people</p>
+</div>
+</a>
+
+<a href="/economy/en">
+<div>
+<figure>
+<img src="/economy/img/logo/300.jpg"/>
+</figure>
+<h3>Economy</h3>
+<p>Creation of resource-reputational economy</p>
+</div>
+</a>
+
+<a href="/policy/en">
+<div>
+<figure>
+<img src="/policy/img/logo/300.jpg"/>
+</figure>
+<h3>Policy</h3>
+<p>Achieving the best results</p>
+</div>
+</a>
+
+<a href="/society/en">
+<div>
+<figure>
+<img src="/society/img/logo/300.jpg"/>
+</figure>
+<h3>Society</h3>
+<p>People with common interests, values and goals</p>
+</div>
+</a>
+
+<a href="/cultura/en">
+<div>
+<figure>
+<img src="/cultura/img/logo/300.jpg"/>
+</figure>
+<h3>Cultura</h3>
+<p>Education, science, technology, innovation, ideology, spirituality, wealth</p>
+</div>
+</a>
+
+<a href="/co/munication/en">
+<div>
+<figure>
+<img src="/co/munication/img/logo/300.jpg"/>
+</figure>
+<h3>Communication</h3>
+<p>Decentralization, Future Networks, Neyronet</p>
+</div>
+</a>
+
+</div>
+
+<br/>
+<br/>
+
+<figure>
+<img src="img/00.png">
+</figure>
+
+
+
+
+<br/><br/><p class="h2"><a href="/en">Main</a></p>
+
+</main>
+<footer><div>7523-03-24 - 7524-06-02</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
