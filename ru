@@ -8,7 +8,7 @@
 .image img { transition: all 1s ease-out; }
 .image img:hover { transform: scale(1.05); }
 </style>
-<title>Главная - Libre</title>
+<title>Libre</title>
 </head>
 <body>
 <header></header><script src="/js/header.js"></script>
@@ -16,17 +16,56 @@
 
 <h1>Libre.Life</h1>
 
-<figure class="image">
-<a href="/start/ru"><img src="/img/logo/400x400.png" style="max-width: 300px;"/></a>
-</figure>
-
 <p class="h">
 <b>Per cognitione universum ad homo divinus</b>
 <br/>
 Через познание Вселенной к Человеку Божественному
 </p>
 
-<br/><br/>
+<nav class="nav_h">
+<img src="/img/h/2.png">
+<!--a id="nav_h_0" href="/sys/ru" title="Ресурсно-репутационная экономическая">
+	<img src="/sys/img/h/200.png" alt="Расчётная Система">
+	<h3>Система</h3>
+	<p>Ресурсно-репутационная экономическая Система</p>
+</a-->
+<a id="nav_h_0" href="person/ru" title="Личные финансы, потребности, семья, безопасность, здоровье, самореализация, творчество">
+	<img src="person/img/h/200.png" alt="Человек">
+	<h3>Человек</h3>
+	<p>Личные финансы, потребности, семья, безопасность, здоровье, самореализация, творчество</p>
+</a>
+<a id="nav_h_1" href="club/ru" title="Сообщество свободных людей">
+	<img src="club/img/h/200.png" alt="Клуб">
+	<h3>Клуб</h3>
+	<p>Сообщество свободных людей</p>
+</a>
+<a id="nav_h_2" href="society/ru" title="Люди с общими интересами, ценностями и целями">
+	<img src="society/img/h/200.png" alt="Социум">
+	<h3>Социум</h3>
+	<p>Люди с общими интересами, ценностями и целями</p>
+</a>
+<a id="nav_h_3" href="economy/ru" title="Совокупность производственных отношений">
+	<img src="economy/img/h/200.png" alt="Экономика">
+	<h3>Экономика</h3>
+	<p>Совокупность производственных отношений</p>
+</a>
+<a id="nav_h_4" href="projects/ru" title="Разработка новых или улучшение существующих продуктов">
+	<img src="projects/img/h/200.png" alt="Проекты">
+	<h3>Проекты</h3>
+	<p>Разработка новых или улучшение существующих продуктов</p>
+</a>
+<a id="nav_h_5" href="policy/ru" title="Достижение оптимальных результатов">
+	<img src="policy/img/h/200.png" alt="Политика">
+	<h3>Политика</h3>
+	<p>Достижение оптимальных результатов</p>
+</a>
+<a id="nav_h_6" href="cultura/ru" title="Культура, образование, наука, мировоззрение, духовность, идеология, инновации, технологии будущего, формирование ценностей">
+	<img src="cultura/img/h/200.png" alt="Культура">
+	<h3>Культура</h3>
+	<p>Образование, наука, мировоззрение, духовность, идеология<!--, инновации, технологии будущего, формирование ценностей--></p>
+</a>
+</nav>
+
 
 
 
@@ -233,24 +272,42 @@
 
 
 <p class="h3">
+<a href="http://dom.libre.life/ru">Дом</a>
+<br>
+<a href="http://dom.libre.life/space/ru">Пространство</a>
+<br>
+<a href="http://elephant.libre.life/ru">Elephant</a>
+<br/>
+<a href="/sec/ru">Безопасность</a>
+</p>
+
+
+<p class="h3">
 <a href="/doc/about/ru">О проекте</a>
 <br/>
 <a href="/doc/manifest/ru">Манифест</a>
 <br/>
-<a href="/ideo/ru">Идеология</a>
+<a href="/doc/declaration/ru">Декларация</a>
 <br/>
 <a href="/doc/constitution/ru">Конституция</a>
 <br/>
+<a href="/doc/ru">Документация</a>
+<br/>
 <a href="/doc/license/ru">Лицензия</a>
 <br/>
-<a href="/doc/book/ru">Белая книга</a>
+<a href="/ideo/ru">Идеология</a>
 <br/>
-<a href="/doc/ru">Документация</a>
+<a href="/doc/book/ru">Белая книга</a>
 <br/>
 <a href="/video/ru">Видео</a>
 </p>
 
+
+
+
 <br/><br/>
+
+
 
 
 <p class="h2">
@@ -265,7 +322,6 @@
 
 
 <br/><br/>
-
 
 
 
@@ -295,7 +351,17 @@
 
 <br/><br/>
 
+
+
+
+<figure class="image">
+<a href="/start/ru" title="Per cognitione universum ad homo divinus - Через познание Вселенной к Человеку Божественному"><img src="/img/logo/400x400.png" style="max-width: 300px;"/></a>
+</figure>
+
+
+
+
 </main>
-<footer><div>7523-02-01 - 7524-06-27</div></footer><script src="/js/footer.js"></script>
+<footer><div>7524-06-05 - 7524-08-07</div></footer><script src="/js/footer.js"></script>
 </body>
 </html>
