@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Будущее - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Будущее</h1>
+
+<p class="h">
+Мы стремимся к созданию общества изобилия, снятия ограничение на продолжительность жизни. отмену старения и омоложение и создание безопасного исскуственного интеллекта
+</p>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/PZRPU9Mlepk" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/VvbhlgX6jxo" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+<figure>
+<b>Ambition the film</b>
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/H08tGjXNHO4" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+<figure>
+<b>Люди будущего. Следующие миллионеры и миллиардеры</b>
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/3PMr-kROuQw" frameborder="0" allowfullscreen></iframe>
+<br/>
+http://youtu.be/3PMr-kROuQw
+</figure>
+
+<figure>
+<b>Что нас ждет в будущем</b>
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/oIhcdi3leqE" frameborder="0" allowfullscreen></iframe>
+<!--iframe width="640" height="360" src="https://www.youtube.com/embed/-v9Uc_yDRq8" frameborder="0" allowfullscreen></iframe>
+<br/>
+http://youtu.be/-v9Uc_yDRq8-->
+</figure>
+
+<figure>
+<b>Будущее медиа: лекция Демьяна Кудрявцева</b>
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/TvRwPFJvMKk?t=21m36s" frameborder="0" allowfullscreen></iframe>
+<br/>
+https://youtu.be/TvRwPFJvMKk?t=21m36s
+</figure>
+
+<figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m992-FIWejA" frameborder="0" allowfullscreen></iframe>
+<!-- Мир будущего -->
+</figure>
+
+
+
+
+<nav class="main-footer-nav"><a href="/future/ru">Будущее</a></nav>
+
+</main>
+<footer><div>7524-07-15 - 7524-07-15</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
