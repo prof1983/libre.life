@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>План действий - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>План действий</h1>
+
+<figure>
+<img src="00.png"/>
+</figure>
+
+<!--
+-->
+
+<p>
+1. Выбрать имя проекта. <font color="green">Сделано. Имя проекта LibreMoney.</font>
+<br/>
+2. Зарегистрировать доменные имена. <font color="green">Сделано. libremoney.org, libremoney.com, libremoney.net</font>
+<br/>
+3. Выбрать хостинг. <font color="green">Сделано. Хостинг от jino.ru (PHP+MySql); modulus.io/heroku.com (Node.js)</font>
+<br/>
+4. Выбрать движок. <font color="green">Сделано. libremoney.org - WordPress; libremoney.com - MODX.</font>
+<br/>
+5. Наполнить сайт статьями. <font color="green">Сделано.</font>
+<br/>
+6. Поиск единомышленников - размещение анонса проекта на форумах. <font color="gray">В процессе.</font>
+<br/>
+7. Зарегистрировать сайт в поисковых системах.
+<br/>
+8. Популяризация идеи свободных денег и продвижение сайта.
+<br/>
+9. Создание сообщества единомышленников, поиск программистов и инвесторов для начального этапа. Создать/выбрать площадку для совместной работы.
+<br/>
+10. Разобраться с технологий NextCoin/SkyCoin (Obelisk, Proof-of-stake).
+<br/>
+11. Реализовать простейший движок для начального запуска (создание кошелька, формирование и передача транзакций) (libremoney.com).
+<br/>
+12. Продвижение проекта - статьи в блогах, на Хабре. Поиск инвесторов.
+<br/>
+13. Расширять функционал системы (libremoney.com).
+</p>
+
+<p>
+Источник:
+<a href="http://libremoney.org/about/121" target="_blank">libremoney.org/about/121</a>
+</p>
+
+
+<br/>
+<br/>
+
+<p class="h2"><a href="/money/libre/ru">Libre.Money</a></p>
+
+</main>
+<footer><div>7524-05-26 - 7524-05-26</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
