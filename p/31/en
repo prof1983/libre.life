@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>"Green Economy" meter - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>"Green Economy" meter</h1>
+
+<figure>
+<img src="img/00.jpg"/>
+</figure>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/p/en">Projects</a></p>
+
+</main>
+<footer><div>7524-02-19 - 7524-02-19</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
