@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>A-CluB 16.04.15 - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>A-CluB 16.04.15</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+<b>At the last meeting in the "A-Club" had some interesting proposals for the creation of infrastructure for innovation. This question is now the most urgent, because it is fertile soil in spring training will give us the opportunity to gather a good harvest in the fall.</b>
+</p>
+
+
+<p class="h2">
+<a href="ru">RU</a>
+</p>
+
+
+<p class="h2"><a href="/club/en">Club</a></p>
+
+</main>
+<footer><div>7523-04-20 - 7523-04-20</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
