@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<title>History - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>History</h1>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/ideo/en">Ideology</a></nav>
+
+</main>
+<footer><div>7523-03-14 - 7525-01-17</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
