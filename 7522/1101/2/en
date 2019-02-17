@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Round table. Innovation. Our way. - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Round table. Innovation. Our way.</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+The theory has ended, began the practice.
+</p>
+
+<p class="h">
+<a href="ru">RU</a>
+</p>
+
+
+<p class="h2"><a href="/club/en">Club</a></p>
+
+</main>
+<footer><div>7523-11-03 - 7523-11-03</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
