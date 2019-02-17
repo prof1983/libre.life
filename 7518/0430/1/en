@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Modernization of the economy and property relations - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Modernization of the economy and property relations</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p class=h2>
+<a href="ru">RU</a>
+</p>
+
+</main>
+<footer><div>7523-03-05 - 7523-04-09</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
