@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>IT Расчетная Платформа - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>IT Расчетная Платформа</h1>
+
+<p>
+Уважаемые коллеги,
+</p>
+
+<p>
+Как обещал, направляю Вам:
+<br/>
+1. шаблон паспортов инициатив для ДК
+<br/>
+2. пример заполненного шаблона для проекта Qiwi
+</p>
+
+<p>
+По многочисленным просьбам мы продлеваем запись в рабочие подгруппы из-за массовых отпусков на этой неделе.
+</p>
+
+<p>
+Ссылка на запись в подгруппы не изменилась:
+<br/>
+<a href="https://docs.google.com/forms/d/1QsQC1WescR7vO2KFyEUO2OFX5DbxdzbPmRDdImRa0UU/viewform" target="_blank">https://docs.google.com/forms/d/1QsQC1WescR7vO2KFyEUO2OFX5DbxdzbPmRDdImRa0UU/viewform</a>
+</p>
+
+<p>
+С уважением,
+<br/>
+Александр Якубов
+<br/>
++7(903)792-05-78
+</p>
+
+
+<br/>
+
+<p>
+<a href="doc/Passport_Template.doc">Passport_Template.doc</a>
+<br/>
+<a href="doc/Qiwi-Example.doc">Qiwi-Example.doc</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/platform/ru">IT Расчетная Платформа</a></nav>
+
+</main>
+<footer><div>7523-11-07 - 7524-06-26</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

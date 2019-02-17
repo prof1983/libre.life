@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>IT transaction system - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>IT transaction system</h1>
+
+<p class="h">
+IT-platform "Settlement Center for the consumer societies and cooperatives"
+</p>
+
+<figure>
+<img src="img/00.png"/>
+</figure>
+
+<p>
+In fact - this is the clearing center of the cooperative economy of Russia, which are members of co-operatives and consumer society. The project aims to make a major push in this direction in our country. IT-platform technologies designed to blockchain and the new economic policy of negative interest rates, is widely used today by European central banks.
+</p>
+
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+<br/>
+
+
+
+
+<h2>Publications</h2>
+
+<div class="article">
+<a href="/7524/1114/2/en"><img src="/7524/1114/2/logo-320x200.jpg"></a>
+<p><a href="/7524/1114/2/en">In anticipation SegWit</a></p>
+<p>
+The last few weeks Segwit - one of the most discussed topics in the Bitcoin community and will remain so for a long time. The latest release of Bitcoin Core 0.13.1 already contains Segwit, which was announced in the previous version 0.13, so it's time to tell us more about what kind of solution.
+<a href="/7524/1114/2/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7524/1114/1/en"><img src="/7524/1114/1/logo-320x200.jpg"></a>
+<p><a href="/7524/1114/1/en">The use of innovative financial technology</a></p>
+<p>
+Scientific-practical conference "The use of innovative financial technologies at the municipal level"
+<a href="/7524/1114/1/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/1102/1/en"><img src="/7523/1102/1/logo-320x200.jpg"></a>
+<p><a href="/7523/1102/1/en">Comparison of Proof-of-Work and Proof-of-Stake</a></p>
+<p>
+Anyone who is close enough acquainted with Bitcoins, certainly understands that this is a revolutionary achievement, created by the legendary, looked far into the future a person or group of persons. At first glance, this is a revolutionary technology that allows you to send money without any central authority. You do not need someone who will issue your money, they are just there - something like gold.
+<a href="/7523/1102/1/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0413/3/en"><img src="/7523/0413/3/logo-320x200.jpg"></a>
+<p><a href="/7523/0413/3/en">Decides whether Bitcoin Lightning blockchain scalability problem?</a></p>
+<p>
+Increased blokcheyna size continues to raise questions about whether Bitcoin cope with the growing number of transactions. But is it possible to solve the scalability problem blokcheyna by a decentralized system in which transactions are sent over the network micro-channels is blokcheyna?
+<a href="/7523/0413/3/en">More...</a>
+</p>
+</div>
+
+
+
+
+<p class="h3">
+<a href="/economy/en">Economy</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/projects/en">Projects</a></nav>
+
+</main>
+<footer><div>7523-06-26 - 7524-12-18</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
