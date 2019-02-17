@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>White CON - Concept of Community People Power - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>White CON - Concept of Community People Power</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p class=h2>
+<a href="ru">RU</a>
+</p>
+
+<p class="h3"><a href="/co/mmune/en">Commune</a></p>
+
+<p class="h2"><a href="/cracy/en">Cracy</a></p>
+
+</main>
+<footer><div>7523-04-05 - 7524-05-31</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
