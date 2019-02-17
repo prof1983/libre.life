@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<link rel="stylesheet" href="/css/main.css"/>
+<title>Verify - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Verify</h1>
+
+<figure>
+<a href="img/logo/1100x1100.jpg"><img src="img/logo/600x600.jpg"/></a>
+</figure>
+
+<p>
+<b>Document certification</b> is a clever use of the block chain as a publicly visible and authenticated timestamp.
+Helping artists secure and verify their digital artwork by logging it in the block chain.
+</p>
+
+
+<a name="monegraph"></a>
+<h2>Monegraph</h2>
+
+<p class="h">
+<a href="http://www.monegraph.com/">monegraph.com</a>
+</p>
+
+
+<a name="proofofexistence"></a>
+<h2>Proof of Existence</h2>
+
+<h3>What is proof of existence?</h3>
+
+<p>
+Use our service to anonymously and securely store an online distributed proof of existence for any document. Your documents are NOT stored in our database or in the bitcoin blockchain, so you don't have to worry about your data being accessed by others.
+</p>
+
+<p>
+All we store is a cryptographic digest of the file, linked to the time in which you submitted the document. In this way, you can later certify that the data existed at that time. This is the first online service allowing you to publicly prove that you have certain information without revealing the data or yourself, with a decentralized certification based on the bitcoin network.
+</p>
+
+<p>
+The key advantages are anonymity, privacy, and getting a decentralized proof which can't be erased or modified by anyone (third parties or governments). Your document's existence is permanently validated by the blockchain even if this site is compromised or down, so you don't depend or need to trust any central authority. All previous data timestamping solutions lack this freedom.
+</p>
+
+<p class="h">
+<a href="http://www.proofofexistence.com/">proofofexistence.com</a>
+</p>
+
+
+<p class="h3">
+<a href="/vote/en">Vote</a>
+</p>
+
+
+<p class="h2"><a href="/economy/en">Economy</a></p>
+
+</main>
+<footer><div>7523-03-24 - 7523-05-04</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
