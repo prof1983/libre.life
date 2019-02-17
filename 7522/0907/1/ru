@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Проект Эфириум (Ethereum) - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Проект Эфириум (Ethereum)</h1>
+
+<p><img src="http://coinspot.ru/wp-content/uploads/2014/03/Screen-Shot-2014-01-21-at-4.03.11-PM-250x147.png" /><br />
+«Это наш единственный источник доходов. Когда нам нужны деньги, мы просто продаем «эфир»»,— рассказывает Виталик. Сейчас через обменники криптовалют реализовано «эфира» на 27 тыс. биткойнов. По курсу на июнь 2014 года, это около $12 млн. Ответ на вопрос «Зачем люди покупают молодую и нераспространенную валюту?» становится ключом к еще одной идее Ethereum. Помимо возможности создавать приложения в стиле Bitcoin, с помощью Ethereum удобно делать новые криптовалюты. «Вообразите, что вы художник,— объясняет Туал.— И для финансирования творчества вы выпустили собственную валюту. Чтобы вас поддержать, надо просто купить немного ваших монет, проинвестировав в ваше персональное IPO». Миллионы таких децентрализованных ценных бумаг, по мнению Туала, могут торговаться в интернете, представляя объективную персональную ценность эмитента.</p>
+<p><a href="http://coinspot.ru/altcoins/monetarnye-strasti-kak-dvadcatiletnij-vunderkind-pereustraivaet-internet/">coinspot.ru/altcoins/monetarnye-strasti-kak-dvadcatiletnij-vunderkind-pereustraivaet-internet</a></p>
+<p><span id="more-475"></span></p>
+<p>Ethereum – это платформа, которая позволяет любому разработчику создавать и распространять децентрализованные приложения следующего поколения. Позаимствовав концепцию распределенного консенсуса и криптографического подтверждения, которые делают криптовалюты, например, биткойн, таким эффективным средством при взаиморасчетах «без доверия», Ethereum расширяет возможности использования этих технологий на соглашения «без доверия». Это позволяет разработчикам легко создавать новые инновационные продукты на основе цензуры (censorship) и устойчивости к сговору (collusion-resistant).</p>
+<p>Фундаментальным структурным элементом в Ethereum является контракт – программа, которая живет в сети Ethereum и выполняет ряд действий каждый раз, когда получает транзакцию. Контракты могут хранить данные, отправлять и получать транзакции, и даже взаимодействовать с другими контрактами, держащими данные третьей стороны. Они поддерживаются сетью без общего владения или центрального контроля. Контракты написаны на языке, мгновенно узнаваемом любым программистом, основанном на Ether – базовой единице криптовалюты Ethereum (иными словами, его криптотопливе (cryptofuel)).</p>
+<p>Следовательно, Ethereum можно рассматривать как программируемую распределенную сеть. Это позволяет выходить далеко за рамки, казалось бы, очевидных приложений, таких как финансовые соглашения. Тот факт, что Ethereum по своему дизайну является устойчивым к фальсификации и мошенничеству, также позволяет справиться с рядом других повседневных проблем, касающихся личности и проверки, которые в настоящее время решаются с большими издержками. Машины для голосования, программное обеспечение для здравоохранения, регистрация юридических документов, таких как завещания и переход права собственности на товары и землю, системы репутации, и даже навигационные системы движения транспорта или социальные сети могут быть спроектированы в сети, где пользователи всегда сохраняют контроль над своей личной информацией и денежными средствами.</p>
+<p>Может даже быть так, что приложения Ethereum, которые будут иметь наибольшее влияние на мир, пока еще не открыты, по аналогии, например, с социальными сетями, которым понадобилось четыре года, чтобы их открыли в интернете, и намного больше, чтобы они разносторонне развились и породили новые приложения, такие как микроблоги.</p>
+<p>Ethereum может быть использован для разработки, децентрализации, реализации безопасности и торговли чем угодно, он ограничен только творчеством разработчиков. Например, организация управления компанией, краудфандинг стартапов, голосование, регистрация доменного имени и интеллектуальной собственности. Даже «умная собственность» – передача и защита реальной собственности – может быть реализована при условии, что разработано и интегрировано дополнительное оборудование.</p>
+<p><a href="https://www.ethereum.org/">ethereum.org</a><br />
+<a href="https://github.com/ethereum">github.com/ethereum</a><br />
+<a href="http://youtu.be/D5ok7jh7AOg">youtu.be/D5ok7jh7AOg</a><br />
+<a href="http://bitnovosti.com/2014/03/01/etherium-next-generation-crypto/">bitnovosti.com/2014/03/01/etherium-next-generation-crypto</a> &#8212; Ethereum: криптовалюта следующего поколения и децентрализованная платформа приложений<br />
+<a href="http://bitnovosti.com/2014/06/23/ethereum-social-operation-system/">bitnovosti.com/2014/06/23/ethereum-social-operation-system</a> &#8212; Ethereum: Социальная операционная система.<br />
+<a href="http://bitnovosti.com/2014/08/01/ethereum-launches-own-ether-coin/">bitnovosti.com/2014/08/01/ethereum-launches-own-ether-coin</a> &#8212; Проект Эфириум запустил продажу «криптотоплива»<br />
+<a href="http://coinspot.ru/news/breaking-news/ethereum-samaya-ozhidaemaya-kriptovalyuta-so-vremen-poyavleniya-bitcoina/">coinspot.ru/news/breaking-news/ethereum-samaya-ozhidaemaya-kriptovalyuta-so-vremen-poyavleniya-bitcoina</a> &#8212; Компания Ethereum официально начала продажу криптовалюты Ether</p>
+<p><a href="https://bitcointalk.org/index.php?topic=671135.0">Ethereum: Социальная операционная система</a> &#8212; bitcointalk</p>
+<p>Main site: <a href="https://www.ethereum.org">ethereum.org</a><br />
+Forums: <a href="https://forum.ethereum.org">forum.ethereum.org</a><br />
+Github: <a href="https://github.com/ethereum">github.com/ethereum</a><br />
+Blog: <a href="https://blog.ethereum.org">blog.ethereum.org</a><br />
+Wiki: <a href="http://wiki.ethereum.org">wiki.ethereum.org</a><br />
+Meetups: <a href="http://ethereum.meetup.com">ethereum.meetup.com</a><br />
+Whitepaper: <a href="http://ethereum.org/ethereum.html">ethereum.org/ethereum.html</a><br />
+Yellow Paper: <a href="http://gavwood.com/paper.pdf">gavwood.com/paper.pdf</a><br />
+Facebook: <a href="https://www.facebook.com/ethereumproject">facebook.com/ethereumproject</a><br />
+Youtube: <a href="http://www.youtube.com/ethereumproject">youtube.com/ethereumproject</a><br />
+Google+: <a href="http://google.com/+EthereumOrgOfficial">google.com/+EthereumOrgOfficial</a><br />
+IRC Freenode: #ethereum (<a href="http://bitly.com/IRC_ethereum">bitly.com/IRC_ethereum</a> for weblink)</p>
+
+<p>
+http://libremoney.org/article/475
+</p>
+
+
+<p class="h2"><a href="/money/libre/en">Libre.Money</a></p>
+
+</main>
+<footer><div>7522-09-07 - 7526-10-10</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
