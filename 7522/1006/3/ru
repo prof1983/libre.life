@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Обсуждение закона о запрете криптовалют (открытое письмо) - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Обсуждение закона о запрете криптовалют (открытое письмо)</h1>
+
+<figure>
+<a href="00b.jpg"><img src="00.jpg"/></a>
+</figure>
+
+<p>
+Я решил проверить работает обсуждение или нет. 03.10.2014 я написал письмо на адрес 0564@minfin.ru, который указан на странице обсуждения закона. Ответа до сих пор пока нет. Решил сделать письмо открытым - поэтому публикую. :)
+</p>
+
+
+<blockquote>Здравствуйте.
+
+<p>
+По поводу (<a href="https://web.archive.org/web/20150214115820/http://regulation.gov.ru/project/17205.html" target="_blank">http://regulation.gov.ru/project/17205.html</a>)
+<br/>
+Федеральный закон «О внесении изменений в отдельные законодательные акты Российской Федерации»
+</p>
+
+<p>
+Я занимаюсь реализацией проекта LibreMoney - это децентрализованная система краудинвестинга с начислением репутации и Lm-денег (криптовалюта) за успешно выполненные крауд проекты.
+</p>
+
+<p>
+На сколько я понимаю, вероятность принятия указанного закона достаточно большая. Поэтому я, как разработчик находящийся на территории РФ, должен буду либо (1) закрыть проект, либо (2) переехать в другую страну, либо (3) нарушать закон. Если я останусь и буду продолжать развивать проект, то мне грозит штраф в размере от тридцати тысяч до пятидесяти тысяч рублей. Я правильно понимаю?
+</p>
+
+<p>
+Лично я не хочу никуда уезжать. Здесь моя Родина. При этом я не хочу нарушать закон и не хочу бросать проект. Есть ли какие-то другие варианты как остаться в РФ, но при этом не быть преступником?
+</p>
+
+<p>
+----
+</p>
+
+<p>
+Расскажу про проект LibreMoney.
+</p>
+
+<p>
+LibreMoney - это децентрализованная система краудинвестинга с начислением репутации и Lm-денег (криптовалюта) за успешно выполненные крауд проекты.
+</p>
+
+<p>
+По сути, мы создаем первые обеспеченные современные деньги. Обеспечение реальным трудом людей. Эмиссия в системе возможна только за выполненные проекты, за новые созданные не материальные ценности (фильмы, музыка, OpenSource программы и технологии). Первоначальная эмиссия (генезис) составляет 1 000 000 Lm, который распределяется между всеми разработчиками.
+</p>
+
+<p>
+Подробнее:
+<br/>
+<a href="http://libremoney.org/">http://libremoney.org/</a> - сайт
+<br/>
+<a href="http://libremoney.org/video/" target="_blank">http://libremoney.org/video/</a> - видео
+<br/>
+<a href="http://libremoney.org/BizModel1.html" target="_blank">http://libremoney.org/BizModel1.html</a> - бизнес модели
+<br/>
+<a href="http://libremoney.org/LibreMoney-FinModel.ods" target="_blank">http://libremoney.org/LibreMoney-FinModel.ods</a> - финансовая модель (наброски)
+<br/>
+<a href="http://libremoney.org/LibreMoney-iidf.odt" target="_blank">http://libremoney.org/LibreMoney-iidf.odt</a> - описание проекта для инвесторов (немного устарела, но актуальная)
+<br/>
+<a href="http://libremoney.org/LibreMoney-Presentation2.pdf" target="_blank">http://libremoney.org/LibreMoney-Presentation2.pdf</a> - презентация
+<br/>
+<a href="http://www.slideshare.net/prof1983/libremoneypresentation1" target="_blank">http://www.slideshare.net/prof1983/libremoneypresentation1</a> - первая презентация (старая)
+<br/>
+<a href="http://libremoney.com/" target="_blank">http://libremoney.com/</a> - Прототип системы
+<br/>
+<a href="https://github.com/libremoney/main" target="_blank">https://github.com/libremoney/main</a> - проект OpenSource, исходники доступны на GitHub
+</p>
+
+<p>
+--
+<br/>
+С уважением,
+<br/>
+Ярослав Логинов
+<br/>
+prof1983@yandex.ru
+</p>
+</blockquote>
+
+
+<p>
+Источник:
+<a href="http://libremoney.org/article/729" target="_blank">libremoney.org/article/729</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/money/libre/ru">Libre.Money</a></nav>
+
+</main>
+<footer><div>7524-10-06 - 7524-10-06</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
