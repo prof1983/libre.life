@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Bitnation is a collaborative platform - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Bitnation is a collaborative platform</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p class=h2>
+<a href="ru">Read more... (RU)</a>
+</p>
+
+
+<p class="h2"><a href="/nation/en">Nation</a></p>
+
+</main>
+<footer><div>7523-03-04 - 7523-04-22</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
