@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css">
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Сulture - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Сulture</h1>
+
+<p>
+Culture, education, science, world outlook, spirituality, ideology, innovation, future technologies, wealth, the formation of values
+</p>
+
+
+<div class="blocks blocks-front">
+
+<a href="/ideo/en">
+<div>
+<figure>
+<img src="/ideo/img/logo/300.jpg"/>
+</figure>
+<h3>Ideology</h3>
+<p>ommunity of innovators and inventors</p>
+</div>
+</a>
+
+<a href="/future/en">
+<div>
+<figure>
+<img src="/future/img/logo/300.jpg"/>
+</figure>
+<h3>Future</h3>
+<p>Prolongation of life, Space, Singularity, Avatar, AI, 2045</p>
+</div>
+</a>
+
+</div>
+
+<br/>
+<br/>
+
+
+
+
+<figure>
+<img src="img/00.jpg"/>
+</figure>
+
+
+
+
+<br/><br/><p class="h2"><a href="/en">Main</a></p>
+
+</main>
+<footer><div>7524-05-23 - 7524-06-03</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
