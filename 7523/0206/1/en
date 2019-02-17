@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>A world without currency - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>A world without currency</h1>
+
+<figure>
+<a href="00b.jpg"><img src="00.jpg"/></a>
+</figure>
+
+<p>
+<b>Before you engage in joint development I propose to draw up and sign the manifesto. This will give an understanding of what we do, which way to go, and who are already with us, and who is still unavailable. I propose to discuss now those items that will be at the heart of our movement.</b>
+</p>
+
+
+<p class="h2"><a href="ru">RU</a></p>
+
+
+<p class="h2"><a href="/club/en">Club</a></p>
+
+</main>
+<footer><div>7523-02-06 - 7523-04-18</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
