@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>History of Economic Thought (Coursera / HSE) - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>History of Economic Thought (Coursera / HSE)</h1>
+
+<figure>
+<img src="00.jpg" />
+</figure>
+
+<p>
+His everyday economic decisions - what to buy, where to work, how to preserve accumulated income - people usually take without complex calculations, using common sense. Not always, unfortunately, common sense is sufficiently educated and trained.
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/economy/en">Economy</a></nav>
+
+</main>
+<footer><div>7524-11-09 - 7524-11-09</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
