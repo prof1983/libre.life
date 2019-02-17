@@ -6,17 +6,8 @@
 <meta http-equiv="Content-Language" content="ru"/>
 <title>Нам запретят даже говорить о криптовалютах? - Libre</title>
 </head>
-
 <body>
-
-<header>
-<div id="headerimg"><a href="/"><img alt="Libre" src="/img/header.jpg"/></a></div>
-<nav>
-<div id="mmlogo"><a href="/"><img src="/img/mmlogo.png"></a></div>
-<div id="mm"></div><script src="/js/mm.js"></script>
-</nav>
-</header>
-
+<header></header><script src="/js/header.js"></script>
 <main>
 
 <h1>Нам запретят даже говорить о криптовалютах?</h1>
