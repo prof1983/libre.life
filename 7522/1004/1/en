@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>The task of neuroeconomics - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>The task of neuroeconomics</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+Two factors have combined to ensure that by 2017 the level of automation throughout the world has exceeded 50%, leaving more than half of the working population of the planet without jobs in industries that require repetitive operations.
+</p>
+
+<p class="h">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/economy/en">Economy</a></nav>
+
+</main>
+<footer><div>7523-07-18 - 7524-10-04</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
