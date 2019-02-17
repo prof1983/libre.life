@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css">
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Видео - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Видео</h1>
+
+<p class="h">
+Клуб Инноваторов
+</p>
+
+<!--figure>
+<img src="img/00.jpg">
+</figure-->
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/w0aKfZpf1UA" frameborder="0" allowfullscreen></iframe>
+<br/>
+Организационная встреча №2. 2016-05-19
+</figure>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/eyr-9hZlm3w" frameborder="0" allowfullscreen></iframe>
+<br/>
+Обсуждение манифеста и правил клуба инноваторов 2016-05-05
+</figure>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/ayAW-jiqj64" frameborder="0" allowfullscreen></iframe>
+<br/>
+Встреча 2016-04-21
+</figure>
+
+
+<!--
+Клуб Инноваторов + ИнИнИн + Добротех
+2016-04-21 - https://youtu.be/ayAW-jiqj64 - Встреча - Оригинал: https://youtu.be/FiyR9yG-1Ik
+2016-05-05 - https://youtu.be/eyr-9hZlm3w - Обсуждение манифеста и правил клуба инноваторов - Оригинал: https://youtu.be/vd_ebm0JqMo
+2016-05-12 - Организационная встреча №1. Запись не велась, фотографии здесь https://libre.life/club/inno/photo/1 , протокол https://libre.life/club/inno/minutes/1
+2016-05-19 - https://youtu.be/w0aKfZpf1UA - Организационная встреча №2 - Оригинал: https://youtu.be/owMChMxphPk
+
+
+Движение Инноваторов
+2016-03-31 - https://youtu.be/Oa-vjkzgoYI - Учредительное собрание клуба инноваторов
+2016-04-07 - https://youtu.be/IokPTaykdzw - Встреча
+-->
+
+
+
+<h2>Видео</h2>
+
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/nJ704Lzpjoo" frameborder="0" allowfullscreen></iframe>
+<br/>
+<a href="https://youtu.be/nJ704Lzpjoo">youtu.be/nJ704Lzpjoo</a> - Клуб инноваторов и изобретателей 2015-05-07 (1) - Правила Клуба
+</figure>
+
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/EPi2S4Q0jAU" frameborder="0" allowfullscreen></iframe>
+<br/>
+<a href="https://youtu.be/EPi2S4Q0jAU">youtu.be/EPi2S4Q0jAU</a> - Клуб инноваторов и изобретателей 2015-05-07 (2) - Организационная структура
+</figure>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/E9TZmEer_JM" frameborder="0" allowfullscreen></iframe>
+<br/>
+<a href="https://youtu.be/E9TZmEer_JM">youtu.be/E9TZmEer_JM</a> - Клуб инноваторов и изобретателей 2015-05-07 (3) - Ответы на вопросы 1
+</figure>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/2kYdBM_3P2E" frameborder="0" allowfullscreen></iframe>
+<br/>
+<a href="https://youtu.be/2kYdBM_3P2E">youtu.be/2kYdBM_3P2E</a> - Клуб инноваторов и изобретателей 2015-05-07 (4) - Ответы на вопросы 2
+</figure>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/RF6Z8xD6d5s" frameborder="0" allowfullscreen></iframe>
+<br/>
+<a href="https://youtu.be/RF6Z8xD6d5s">youtu.be/RF6Z8xD6d5s</a> - Клуб инноваторов и изобретателей 2015-05-07 (5) - Капитан
+</figure>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/otBlGWovQJc" frameborder="0" allowfullscreen></iframe>
+<br/>
+<a href="https://youtu.be/otBlGWovQJc">youtu.be/otBlGWovQJc</a> - Клуб инноваторов и изобретателей 2015-05-07 (6) - Юрисдикция
+</figure>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/JKeXGjTCvvo" frameborder="0" allowfullscreen></iframe>
+<br/>
+<a href="https://youtu.be/JKeXGjTCvvo">youtu.be/JKeXGjTCvvo</a> - Видео про NXT и архитектуру, как прообраз программной реализации системы для Клуба
+</figure>
+
+
+
+<br/>
+<br/>
+
+<p class="h2"><a href="/club/inno/ru">Клуб Инноваторов</a></p>
+
+</main>
+<footer><div>7523-05-20 - 7523-05-22</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

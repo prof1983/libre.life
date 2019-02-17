@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css">
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Команда - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Команда</h1>
+
+<p class="h">
+Клуб Инноваторов
+</p>
+
+<!--figure>
+<img src="img/00.jpg">
+</figure-->
+
+<p>
+Замир Акимов - Информационные рассылки
+<br/>
+Глеб Бахарев - Юридическое сопровождение
+<br/>
+Кирилл Гребнев - Площадка для встреч
+<br/>
+Ярослав Логинов - Информационные ресурсы
+<br/>
+Сергей Свинцов - Председатель
+<br/>
+Михаил Гаврилов - Координационная группа
+<br/>
+Константин Воробьёв - Идеологические концепции
+</p>
+
+
+<br/>
+<br/>
+
+<p class="h2"><a href="/club/inno/ru">Клуб Инноваторов</a></p>
+
+</main>
+<footer><div>7523-05-20 - 7523-05-20</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

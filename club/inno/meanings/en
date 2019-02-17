@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Meanings Laboratory - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Meanings Laboratory</h1>
+
+<figure>
+<img src="img/00.jpg"/>
+</figure>
+
+<p>
+</p>
+
+
+
+
+
+<h2>Publications</h2>
+
+<div class="article">
+<a href="/7524/0419/1/en"><img src="/7524/0419/1/logo-320x200.jpg"></a>
+<p><a href="/7524/0419/1/en">About Meanings Laboratory</a><p>
+<p>
+Now we are all together we form a new ecological environment (in return of capitalism, which is valid from 1991 to the present time). As will be named this system - I do not know yet. As an option: the USSR-2, Noospheric Democracy, Venus, Tehnokommunizm, Anarchism (without the control of the clan) or something else.
+<a href="/7524/0419/1/en">Read more...</a>
+</p>
+</div>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+
+
+<br/>
+<br/>
+
+<p class="h2"><a href="/club/inno/en">Club Innovators</a></p>
+
+</main>
+<footer><div>7523-05-13 - 7524-05-13</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

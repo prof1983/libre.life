@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css">
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Протокол №1 - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Протокол №1</h1>
+
+<p>
+Протокол Клуба Инноваторов №1 от 12.05.2016. Все картинки кликабельные.
+</p>
+
+<figure>
+<a href="img/1/00b.jpg"><img src="img/1/00.jpg"></a>
+</figure>
+
+<figure>
+<a href="img/1/01b.jpg"><img src="img/1/01.jpg"></a>
+</figure>
+
+<figure>
+<a href="img/1/02b.jpg"><img src="img/1/02.jpg"></a>
+</figure>
+
+<figure>
+<a href="img/1/03b.jpg"><img src="img/1/03.jpg"></a>
+</figure>
+
+<figure>
+<a href="img/1/04b.jpg"><img src="img/1/04.jpg"></a>
+</figure>
+
+<figure>
+<a href="img/1/1b.jpg"><img src="img/1/1.jpg"></a>
+<a href="img/1/2b.jpg"><img src="img/1/2.jpg"></a>
+</figure>
+
+
+
+<br/>
+<br/>
+
+<p class="h2"><a href="/club/inno/ru">Клуб Инноваторов</a></p>
+
+</main>
+<footer><div>7524-05-13 - 7524-05-13</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

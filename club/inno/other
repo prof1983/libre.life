@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css">
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Другое - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Другое</h1>
+
+<p class="h">
+Клуб Инноваторов
+</p>
+
+<br/>
+
+<p>
+<a href="https://docs.google.com/document/d/10Rc6-XBo5bF5nntm73AmQa3lCKbn4KZcrn-LjdsMgSQ" target="_blank">Цели Клуба</a>
+<br/>
+<a href="https://docs.google.com/document/d/1eoN-_sg0kJhREKUuoEM7pG5XzW2qgQdyWB7PNPcpEE4" target="_blank">План работы на май</a>
+<br/>
+<a href="https://docs.google.com/document/d/1CA1grW43JwJQa8NHf2fb8Pxs63pBH0rB3YAc7BaKPlE" target="_blank">Декларация</a>
+<br/>
+<!-- <a href="https://docs.google.com/document/d/18XzzqODLRUmrvOjYqFsC9OOb87vX2Ia3NEyyTWyeZOk" target="_blank">Структура</a> -->
+<br/>
+<a href="https://docs.google.com/document/d/1PxkVLHZ4DaBiv2uWGhHXid8GvChoIFFrXOuMDVqdqa4" target="_blank">Проект Устава</a>
+<br/>
+<a href="https://docs.google.com/document/d/1lrH0G2N3loDUCX3FEndGppQlILdVnWYBchSBN-oUfG4" target="_blank">Схема положения</a>
+<br/>
+<a href="https://docs.google.com/document/d/1r-iOfMdedyiySPne_UNxhYfA7N7pzpySp3ia93lHqPE" target="_blank">Предлагаемые вопросы к орг собранию</a>
+<br/>
+<a href="https://docs.google.com/document/d/1i7gPXZD3-Qgquf1H4O-Mrm4yxldecyFFdRj8moHmhcI" target="_blank">Тезисы к общему собранию</a>
+<br/>
+<a href="https://docs.google.com/document/d/1StTzylF902SYPcpMq56a4Z7HeMxIUyLTRUN2AOFKjek" target="_blank">Резюме выступления Ирины Галановой</a>
+</p>
+
+<p>
+Про Холакратию - <a href="https://libre.life/cracy/holacracy/ru" target="_blank">libre.life/cracy/holacracy/ru</a>
+<br/>
+Конституция Холакратии - <a href="https://libre.life/cracy/holacracy/constitution" target="_blank">libre.life/cracy/holacracy/constitution</a>
+</p>
+
+
+
+
+
+<br/>
+<br/>
+
+<p class="h2"><a href="ru">Клуб Инноваторов</a></p>
+
+</main>
+<footer><div>7523-05-19 - 7523-05-20</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css">
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Фотографии - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Фотографии</h1>
+
+<p>
+Фотографии составления и подписания протокола Клуба Инноваторов №1 от 12.05.2016. Все картинки кликабельные.
+</p>
+
+<figure>
+<a href="img/1/00b.jpg"><img src="img/1/00.jpg"></a>
+</figure>
+
+<figure>
+<a href="img/1/01b.jpg"><img src="img/1/01.jpg"></a>
+</figure>
+
+<figure>
+<a href="img/1/02b.jpg"><img src="img/1/02.jpg"></a>
+</figure>
+
+<figure>
+<a href="img/1/03b.jpg"><img src="img/1/03.jpg"></a>
+</figure>
+
+<figure>
+<a href="img/1/04b.jpg"><img src="img/1/04.jpg"></a>
+</figure>
+
+<figure>
+<a href="img/1/05b.jpg"><img src="img/1/05.jpg"></a>
+</figure>
+
+<!--figure>
+<a href="img/1/06b.jpg"><img src="img/1/06.jpg"></a>
+</figure-->
+
+<figure>
+<a href="img/1/zamir-b.jpg"><img src="img/1/zamir.jpg"></a>
+</figure>
+
+<!--
+kirla@list.ru = greatnonentity@gmail.com ?
+zamirakimov@gmail.com
+oleg7m@yandex.ru
+motyga@list.ru
+s_jet@mail.ru
+gabaharev@gmail.com
+anti.no@bk.ru
+-->
+
+
+<br/>
+<br/>
+
+<p class="h2"><a href="/club/inno/ru">Клуб Инноваторов</a></p>
+
+</main>
+<footer><div>7524-05-13 - 7524-05-24</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
