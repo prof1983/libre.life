@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>For whom is developed LibreMoney - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>For whom is developed LibreMoney</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<!--
+For venture capitalists, for private investors, for startups, for Open Source Community
+-->
+
+<p>
+— For venture investors: easy search start-ups in the early stages with a proven demand;
+<br/>
+— For private investors the opportunity to invest in interesting projects for a small stake in the project (~ 0.1%);
+<br/>
+— For startups (entrepreneur): Crowd attracting investments at an early stage (stage ideas and prototypes);
+<br/>
+— For investors in cryptocurrency;
+<br/>
+— For the OpenSource community - an opportunity to make money (Donate + emission in a good project for a premium);
+<br/>
+— For all - a full monetary and financial system of the XXI century. Including features such as decentralized companies, smart self-fulfilling contracts, electronic notary and other opportunities offered by blockchain technology.
+<br/>
+Business model: P2P
+<br/>
+Monetizitsiya: initial issuance of 1 million Lm.
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/money/en">Money</a></nav>
+
+</main>
+<footer><div>7524-10-07 - 7524-10-11</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
