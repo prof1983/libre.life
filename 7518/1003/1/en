@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>New World. Foresight Project Midgard-EDEM - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>New World. Foresight Project Midgard-EDEM</h1>
+
+<figure>
+<a href="00.jpg"><img src="00-1024.jpg"/></a>
+</figure>
+
+<p class=h2>
+<a href="ru">RU</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/co/mune/en">Commune</a></nav>
+
+</main>
+<footer><div>7523-04-06 - 7525-01-16</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
