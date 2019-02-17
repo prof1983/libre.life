@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>KriyaMoney. Part 2: Idea - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>KriyaMoney. Part 2: Idea</h1>
+
+<figure>
+<img src="00.png"/>
+</figure>
+
+<p>
+In the first part I tried to describe the shortcomings of the existing financial system. And also considered the alternatives. In this article, I will try as much as possible lucidly describe what the real value. And then, hopefully, it will be clear why the existing money can not be a value (that is, can not be a reliable means of accumulation because they are not security).
+</p>
+
+<!--
+2016-05-16: Exactly three years, I wrote an article entitled "KriyaMoney. Part 2. Idea" about the project. The main thing - it is manifest: 1) The right to issue belongs to all users; 2) Emitted new money is allocated only for community service; 3) For emissions need to successfully implement community service projects; 4) The usefulness of a project is determined by open vote ...
+-->
+
+<p class="h">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+<br/>
+<br/>
+
+<p class="h2"><a href="/money/en">Money</a></p>
+
+</main>
+<footer><div>7524-05-16 - 7524-05-16</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
