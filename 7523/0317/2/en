@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>An interview with the managing partner of venture fund of the Sberbank - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>An interview with the managing partner of venture fund of the Sberbank</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p class="h">
+<b>So I almost did not pay attention to the legislation today, because it will still change after three months, six months.</b>
+</p>
+
+<figure>
+<img src="01.jpg"/>
+</figure>
+
+
+<p class=h2>
+<a href="ru">RU</a>
+</p>
+
+
+<p class="h2"><a href="/money/en">Money</a></a>
+
+</main>
+<footer><div>7523-06-05 - 7523-06-05</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
