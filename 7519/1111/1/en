@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Shaymuratiki - convenient currency - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Shaymuratiki - convenient currency</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+Arthur Nurgaliyev appeared in Karmaskalinsky District five years ago. Local authorities took the young man with a certain degree of vigilance: apparently, the guy with the money, and what he wants - is unclear. What a folly such vtemyashit him in the head? Requests hundred hectares of arable land, in order to personally see how sugar cane is grown, and how from it sugar is obtained.
+</p>
+
+<p class="h2">
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/economy/aspirin/en">Aspirin</a></nav>
+
+</main>
+<footer><div>7524-11-30 - 7524-11-30</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
