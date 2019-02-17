@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<link rel="stylesheet" href="/css/main.css"/>
+<title>Medicine - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Medicine</h1>
+
+<p class="h">
+Treatment and prevention of diseases, health protection and promotion
+</p>
+
+<figure>
+<a href="img/00b.jpg"><img src="img/00.jpg"/></a>
+</figure>
+
+<p>
+Medicine — system of scientific knowledge and practices, united to diagnose, treat and prevent diseases, preservation and promotion of health and disability of people, prolong life and alleviate suffering from physical and mental ailments.
+</p>
+
+
+
+
+<h2>Publications</h2>
+
+<div class="article">
+<a href="/7524/1202/1/en"><img src="/7524/1202/1/logo-320x200.jpg"></a>
+<p><a href="/7524/1202/1/en">The cost of medical services will be assessed on their performance</a></p>
+<p>
+The problem of expensive diagnostic procedures is widespread, and patients are increasingly suspect that it is prescribed extra examinations, to get more money. At the conference of the North American radiology community, a new evaluation model of medical services has been proposed, which is based on their effectiveness.
+<a href="/7524/1202/1/en">More...</a>
+</p>
+</div>
+
+
+
+
+<nav class="main-footer-nav"><a href="/en">Main</a></nav>
+
+</main>
+<footer><div>7524-12-02 - 7524-12-02</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
