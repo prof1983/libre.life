@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Commercial Credit Circuits (С3) - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Commercial Credit Circuits (С3)</h1>
+
+<figure>
+<img src="00.png"/>
+</figure>
+
+<p>
+<b>The essence of the "Commercial Credit Circuits" is that small and medium-sized businesses create their own currency for payments between themselves, and as security for the currency are the bills of lading or other documents confirming the shipment of goods to customers, with an obligation to pay the bill in the last pre-specified time.</b>
+</p>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/economy/en">Economy</a></p>
+
+</main>
+<footer><div>7523-08-04 - 7523-08-04</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
