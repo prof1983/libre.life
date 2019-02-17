@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Последние обновления. 22.12.2014 - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Последние обновления. 22.12.2014</h1>
+
+<figure>
+<a href="00.jpg"><img src="00-1024.jpg"/></a>
+</figure>
+
+<p>
+Bitnation основана в июле 2014 года и представляет собой распределенную организацию (DO), включенную в цепочку блоков (blockchain) Bitcoin. За первые пять месяцев своего существования, Bitnation реализовала ряд новаторских разработок, не только подтверждающих революционность технологии, но и явившихся посланием миру: людям не обязательно нужны госструктуры для получения государственных и сопутствующих услуг. Об этом можно прочитать в разделе “Пилотные проекты”.
+</p>
+
+<p>
+Параллельно, создавая организацию, Bitnation также использовала собственные технологии на нескольких платформах (подробности в разделе “Обновления”). Тем не менее, наше самое большое достижение заключается в создании по всему миру сети низовых крипто-предпринимателей, собственной посольской сети, в частности, на развивающихся и пограничных рынках, где услуги Bitnation необходимы больше всего.
+</p>
+
+<p>
+Спасибо всем, кто стал нашим последователем и вместе с нами движется к успешному будущему, основанному на добровольных и мирных решениях! Blockchains. Без границ.
+</p>
+
+
+<h2>Пилотные проекты Bitnation</h2>
+
+<ul>
+<li><b>Bitmarriage</b> – первые в мире blockchain-свадьбы: Bitnation зарегистрировала первый в истории человечества blockchain-брак 5 октября 2014 года в Disney World (Флорида, США) в рамках конференции “Coins in The Kingdom”. Церемония широко освещалась в средствах массовой информации, влючая Wall Street Journal и Russia Today.</li>
+<li><b>BitID</b> – blockchain-паспорт гражданина мира: Bitnation создала первый в истории проект blockchain-паспортизации граждан мира и презентовала его в Лондоне. За основу был взят протокол “World Citizenship Passport” Криса Эллиса, разработки велись при поддержке Wired, Forbes и TechCrunch.</li>
+<li><b>Bitland</b> – первый в мире проект blockchain-землеустройства: в ноябре 2014 года Bitnation начала разработки проекта в Кумаси, втором по величине после столицы Ганы городе. Разработки были завершены в январе 2015 года, они способствуют снятию напряженности в регионе и росту экономики и мобильности.</li>
+<li><b>Пилотные проекты будущих периодов</b>: в 2015 году в Bitnation ведутся разработки проектов Q1 и Q2. Они будут отвечать за корпоративное внедрение blockchain-технологий и регистрацию актов гражданского состояния (выдача свидетельств о рождении и др.).</li>
+</ul>
+
+
+<figure>
+<a href="01.jpg"><img src="01.jpg"/></a>
+</figure>
+
+
+<h2>Новый этап развития</h2>
+
+<ul>
+<li><b>Bitnation Pangea</b>: Является базовой платформой, которая в настоящее время разрабатывается. Выход демонстрационного релиза запланирован на 1-й квартал 2015 г. Все остальные управленческие приложения и DApps будут размещены на Pangea. API (интерфейс программирования приложений) планируется к выпуску в 1-м квартале 2015 г., однако, по объективным причинам, сроки могут быть изменены.</li>
+<li><b>Bitnation Agora</b>: Будет служить в качестве платформы для корпоративной регистрации на Bitnation путем создания акционерных соглашений, выпуска крипто-акций и их протоколирования и регистрации (с применением опции “Timestamping”). Первоначальное демо выйдет в 1-м квартале 2015 г.</li>
+<li><b>BitID</b>: Является упрощением пилотного ID-проекта, предназначенного для выпуска печатных версий удостоверений личности, которые будут доступны для приобретения на сайте Bitnation в ближайшее время. Опции верификации и аудита репутации будут разработаны в течение 2015 г.</li>
+<li><b>Bitmarriage и др</b>: В течение 1-го и 2-го квартала 2015 г. Bitnation выпустит первый комплект семейных контрактов с использованием технологии “Умный контракт”.</li>
+</ul>
+
+
+<h2>Сторонние (вспомогательные) приложения и разработки</h2>
+
+<ul>
+<li>
+co: является 3rd Party DApp (вспомогательным сервисом), специально разработанным изобретателем Йоханом Нюргеном для платформы Bitnation. Функционал приложения – создание базовой платформы учета доходов на основе добровольного участия и налогообложения. Дата релиза не определена – Йохан приглашает всех заинтересованных разработчиков принять участие в работе над проектом. Желающие получить больше информации и внести свой вклад могут посетить GitHub проекта, а также ознакомиться с другой полезной информацией здесь: <a href="http://basicincome.co">basicincome.co</a>
+</li>
+<li>
+Боле двух сторонних приложений в настоящее время в разработке для платформы Bitnation. Более подробная информация будет доступна в 1 квартале 2015 года.
+</li>
+</ul>
+
+
+<h2>Обновление по сбору средств</h2>
+
+<p>
+Сроки: сбор средств был назначен для запуска на 10 октября, но его задержали несколько дней потому что vennd.io, компания, предоставляющая модуль продаж для передачи BTC на XBNX, удалил в день запуска без предварительного предупреждения, из-за страха перед австралийским правилам. Bitnation пришлось переделать продаж модуль, который заняло несколько дней. И даже после того, как его пересобрали все равно осталось несколько вопросов передачи, за пределами стандартной CounterWallet ошибки. Следовательно, из-за начальной задержки, мы отложим сбор средств на конец месяца, 31 января 2015.
+</p>
+
+<p>
+Сбор средств это важно, поскольку мы хотим избежать опираясь на несколько мощных инвесторов-ангелов контроля направления Bitnation. Проект должна оставаться свободным и независимым движением.
+</p>
+
+<p>
+Цена: цена в данный момент 0.05 USD за XBNX (примерно 8000 XBNX за BTC). К концу года мы увеличим ее до 0.061 USD в XBNX как мы cltkftv 4 из 6 заявленных целей.
+</p>
+
+<!--p>
+<b>Addresses:</b>
+</p>
+
+<p>
+The address currently linked to the account: 1Q6QnUx83BH4qKwAtm7qbZztxvWTtU7XEk
+</p>
+
+<p>
+The multisig address where the funds are transferred: 3KS6AuQbZARSvqnaHoHfL1Xhm3bTLFAzoK
+</p>
+
+<p>
+Recently CounterParty integrated multisig into their wallet, hence the address will change to transfer directly to the multisig in Q1 2015.
+</p>
+
+<p>
+US Citizens/ Residents: The crowdsale is not open for US citizens or residents due to SEC regulations, however US citizens and residents can support Bitnation through donating to 1Q6QnUx83BH4qKwAtm7qbZztxvWTtU7XEk or through buying Bitnation t-shirts at https://bitnation.myshopify.com/ Every contribution is appreciated!
+</p>
+
+<p>
+Non-Bitcoin holders who wish to invest without purchasing Bitcoins can contact info@bitnation.co to work out an alternative solution.
+</p-->
+
+
+<figure>
+<a href="02.jpg"><img src="02.jpg"/></a>
+</figure>
+
+
+<h2>Обновление организации</h2>
+
+<ul>
+
+<li>
+<b>SwarmOps интеграция</b>: Bitnation является первой организацией за пределами пиратской партии, движения, которые начали реализовывать в бета-версии SwarmOps, онлайн-систему учета и управления для публичных и анонимных активистов) для расширения возможностей местных предпринимателей и активистов в нашей сети. SwarmOps разрабатывается Рик Фалквинге (Rick Falkvinge), основатель пиратской партии движения, которые распространились на более чем 70 различных стран. Вы можете отслеживать и участвовать <a href="https://github.com/Swarmops/Swarmops">SwarmOps GitHub</a>.</li>
+
+<li><b>Обновление Посла Сети</b>: посол структуры обновляется, с региональными привести послов был назначен на каждом континенте, чтобы направлять послов в их работе. Посол сети растет на всех континентах, и местные Facebook страницы и проекты создаются по всему миру. Два посольства планируются, один в Латинской Америке, и в Африке. Дополнительные учебники и справочный материал будет опубликован в ближайшее время, пожалуйста, проверьте наш GitHub репозиторий и способствуйте если вы чувствуете что хотите присоединиться.</li>
+
+<li><b>Новые члены команды</b>: мы рады приветствовать несколько новых членов команды, включая Хафез Mancayo (Hafez Mancayo), долгосрочные коллега и друг из основателей. Хафез основана в Бандунге, Индонезия, и делает отличную работу на сервере, поддержание и развитие побочных. Мы также хотели бы приветствовать Narigamba Mwinsuubo, базирующейся в Гане, Кумаси, кто анархист блогер и Bitcoin промоутер, и кто уже принял активное участие в организации земельных поступок (land deed) пилота, среди других вещей. Каспер Миккель Соуни (Kasper Mikkel Sonne), из Дании, Копенгаген внесли большой вклад в процесс организации документирования и работы в команде по нескольким каналам и географических точках. Дэвид Бейли (David Bailey), известный из HardBTC, упорно трудится, действительно на наши ID-карты платформа, и это заслуга БТД штифты, которые мы разнесут на Биткоин семинар в Гану для студентов. Мы также рады иметь Дэвид Орбан, от сети общества проекта на борту в качестве советника, который способствует значимыми организационную помощь, а также управления 2.0 "прозрения". Кроме того, мы хотели бы поблагодарить Янину Lowisz кто был первым человеком, чтобы стать "гражданином мира Блокчейн" и кто помогал нам, с социальными медиа, Викрам Nikkam (Vikram Nikkam) кто сделал выдающееся произведение организацию еженедельных встреч, и Филипп Асаре (Philip Asare) в Гане, которые были полезны для Bitnation установки в стране, и соединяясь с другими послами всех стран Африки. Подробнее объявление приехать в следующем месяце!</li>
+
+<li><b>Обновление Посольства</b>: два Bitnation посольства планируется открыть в 1 и 2 кварталах 2015, один в Центральной Америке, и в Западной Африке. Более подробная информация будет доступна после праздников.</li>
+
+</ul>
+
+
+<h2>Ресурсы</h2>
+
+<p>
+Все документы будут открыты для конструктивных предложений сообщества до конца crowdsale. Пожалуйста, посмотрите ссылки на документы, а также другие ресурсы сообщества ниже. Мы призываем сообщество к участию в наших планах.
+</p>
+
+
+<h3>Документация</h3>
+
+<ul>
+<li><a href="https://docs.google.com/spreadsheets/d/1uCor1qnGDtWLqjossX7tYHy6nz9oviSCHNOSXR0IqlI/edit#gid=768708358">Финансовый план</a> (<a href="/nation/bitnation-financial-projections-v-14.ods">ods</a>, <a href="/nation/bitnation-financial-projections-v-14.pdf">pdf</a>)</li>
+<li><a href="https://docs.google.com/document/d/1ZiIZ-rmI79HPNbfJ1AXwcgoe8TKMoUMatDf7YfO5LZw/edit">Whitepaper</a> (<a href="/nation/bitnation-whitepaper.odt">odt</a>, <a href="/nation/bitnation-whitepaper.pdf">pdf</a>)</li>
+<li><a href="https://docs.google.com/document/d/1TkIbnrDeRLCXzP78khhpGnABMZt90eW4AZ4DoaKNbbo/edit">План разработки</a> (<a href="/nation/bitnation-dev-plan.odt">odt</a>, <a href="/nation/bitnation-dev-plan.pdf">pdf</a>)</li>
+<li><a href="https://github.com/Bit-Nation">GitHub</a></li>
+</ul>
+
+
+<h3>Учебники</h3>
+
+<p>
+<a href="https://docs.google.com/a/bitnation.co/presentation/d/1z3C1qUm9-nr3_BYeDxnJurFVD-7iI8_AL9VE6EWk0S0/edit#slide=id.p">World Citizenship Passport ID</a> Google Slide Tutorial
+<br/>
+<a href="https://youtu.be/1iAg6BITPdc">Live Video Tutorial</a>
+</p>
+
+
+<h3>Предстоящие учебники 1 квартала 2015</h3>
+
+<ul>
+<li>Land Deed Tutorial</li>
+<li>PGP Tutorial</li>
+</ul>
+
+
+<h3>Социальные Медиа</h3>
+
+<ul>
+<li>Skype Groups: Email us at info@bitnation.co to be part of our online Skype Chats. Please specify which chat you would like to join: Bitnation Generic, Ambassador Channel, TECHDEV</li>
+<li><a href="https://www.facebook.com/pages/Bitnation-Pangea/337620226422880">Facebook Page</a></li>
+<li><a href="https://www.facebook.com/groups/704796139595313/">Facebook Group</a></li>
+<li><a href="https://twitter.com/MyBitNation">Twitter</a></li>
+<li><a href="https://www.youtube.com/channel/UC_mH1ZVy5rCvwomgeCBR0gQ">YouTube</a></li>
+<li><a href="https://plus.google.com/103879965064480518740">Google+</a></li>
+<li><a href="https://www.pinterest.com/Bitnation/">Pinterest</a></li>
+<li><a href="http://www.meetup.com/BITNATION/">Meetups</a></li>
+<li><a href="https://www.linkedin.com/company/bitnation">LinkedIn</a></li>
+<li><a href="http://www.reddit.com/r/BitNation/">Reddit</a></li>
+</ul>
+
+
+<h3>Bounties</h3>
+
+<ul>
+<li><a href="https://www.bountysource.com/teams/bitnation">BountyPage</a> (no active bounties at the moment)</li>
+</ul>
+
+
+<h3>Некоторые выступления в СМИ</h3>
+
+<ul>
+<li>Forbes <a href="http://www.forbes.com/sites/matthickey/2014/10/31/open-source-project-could-replace-traditional-passports-with-bitcoin-tech/" target="_blank">“Open Source Project Could Replace Traditional Passports With Bitcoin Tech”</a></li>
+<li>TechCrunch <a href="http://techcrunch.com/2014/10/31/your-next-passport-could-be-on-the-blockchain/" target="_blank">“Your Next Passport Could Be On The Blockchain”</a></li>
+<li>Wall Street Journal <a href="http://blogs.wsj.com/moneybeat/2014/09/26/bitbeat-wedding-bells-on-the-blockchain/" target="_blank">“Wedding Bells On The Blockchain” </a></li>
+<li>The Keiser Report <a href="https://www.youtube.com/watch?v=w7aY8pIMI7c" target="_blank">“The Minsky Moment”</a></li>
+<li>Bitcoin Magazine <a href="http://bitcoinmagazine.com/16852/first-blockchain-wedding/" target="_blank">“First Marriage On The Blockchain”</a></li>
+<li>Bitcoin Magazine <a href="http://bitcoinmagazine.com/16898/qa-ceo-bitnation/" target="_blank">“A Q&amp;A With The CEO Of Bitnation”</a></li>
+<li>CoinTelegraph <a href="http://cointelegraph.com/news/112592/first-blockchain-marriage-will-take-place-at-disney-world-bitcoin-conference" target="_blank">“First Blockchain Marriage Will Take Place At Disney World Bitcoin Conference”</a></li>
+<li>CoinTelegraph <a href="http://cointelegraph.com/news/112536/bitnation-announces-crowdsale-to-fund-decentralized-governance-projects" target="_blank">“Bitnation Announces Crowdsale To Fund Decentralized Governance Projects”</a></li>
+<li>CryptoCoinNews <a href="https://www.cryptocoinsnews.com/hacker-dreams-crypto-passport-based-blockchain/" target="_blank">“Hacker Dreams Up Crypto-Passport Based On The Blockchain”</a></li>
+<li>CryptoCoinsNews <a href="https://www.cryptocoinsnews.com/governance-2-0-evolution-system-revolution-system/" target="_blank">“Evolution Of The System Or Revolution Against The System”</a></li>
+<li>The Freeman <a href="http://fee.org/freeman/detail/citizens-of-the-cloud" target="_blank">“Citizens Of The Cloud”</a></li>
+<li>CryptoBizMag <a href="http://cryptobizmagazine.com/crypto-biz-magazine-issue-07-december-2014/" target="_blank">“The World’s First Blockchain ID”</a></li>
+<li>Bitcoinist <a href="http://bitcoinist.net/bitnation-decentralized-goverment/" target="_blank">“Bitnation And Decentralized Governance”</a></li>
+<li>The Art Of Not Being Governed <a href="http://www.notbeinggoverned.com/crypto-bits-susanne-tarkowski-templehof/#more-2835">“Cryptobits With Susanne Tarkowski Tempelhof”</a></li>
+<li>The Dollar Vigilante <a href="http://dolarvigilante.com/blog/2014/10/20/can-the-blockchain-change-the-world.html#6032" target="_blank">“Can The Blockchain Change The World?”</a></li>
+</ul>
+
+
+<h2>Встречи и мероприятия</h2>
+
+<p>
+Помимо многих встреч через Google hangouts и Skype на местных Биткоин встречах и крипто показах, Bitnation появился живой (или через дистанционно управляемый робот) на следующих событий:
+</p>
+
+<h3>Встречи</h3>
+
+<ul>
+<li>We host bi-weekly online meetups on Saturdays at 11 am GMT, please join the meetup group to participate here.</li>
+<li>Local organizers are organizing events spontaneously, there are two coming up in Stuttgart, Germany shortly.</li>
+<li>We encourage local meetups, please get in touch with us for organizational assistance.</li>
+</ul>
+
+<h3>События и публичные лекции 4 квартал 2014</h3>
+
+<ul>
+<li>Coins In the Kingdom Marriage Pilot, US</li>
+<li>Coinscrum, UK</li>
+<li>World Citizenship Passport Pilot, UK</li>
+<li>Copenhagen Bitcoin Meetup, Denmark</li>
+<li>Global Summit, US</li>
+<li>Dream Bitcoin Foundation Conference, Ghana</li>
+</ul>
+
+<h3>Предстоящие события 1 Квартал 2015</h3>
+
+<ul>
+<li>Liberty and Entrepreneurship Camp, Ghana</li>
+<li>Land Deed Pilot, Ghana</li>
+<li>Anarchapulco, Mexico</li>
+</ul>
+
+<h2>To Liberty!</h2>
+
+<p>
+The Bitnation Team
+</p>
+
+<p>
+info@bitnation.co
+</p>
+
+<p>
+<a href="http://bitnation.co">bitnation.co</a>
+</p>
+
+
+<p>
+Перевод: <a href="/people/1/ru">Ярослав Логинов</a>
+</p>
+
+
+<p>
+Прототип:
+<a href="http://www.bitnation-blog.com/%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B5-%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-22-%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F-2014/?lang=ru">bitnation-blog.com</a>
+<br/>
+Оригинал:
+<a href="http://www.bitnation-blog.com/latest-update-dec-22nd-2014/">bitnation-blog.com/latest-update-dec-22nd-2014</a>
+</p>
+
+
+</main>
+<footer><div>7523-03-22 - 7523-04-08</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

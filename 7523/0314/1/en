@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Latest update 22.12.2014 - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Latest update 22.12.2014</h1>
+
+<figure>
+<a href="00.jpg"><img src="00-1024.jpg"/></a>
+</figure>
+
+<p>
+Bitnation started in July 2014 and is a Distributed Organisation (DO) incorporated on the Bitcoin blockchain. During the roughly five months since the start of Bitnation, beyond setting up the organization, creating crypto-equity and launching a crowdsale, Bitnation has accomplished a range of groundbreaking events, not only proving the technology, but also communicating a clear message to the world: you do not need monopolistic nation state governments to enjoy governance services. Read more below under ‘pilots’.
+</p>
+
+<p>
+In tandem with building the organization, Bitnation has also advanced on the technology side, on multiple platforms (read more under ‘development updates’). However, our greatest achievement is in setting up a worldwide grassroots network of crypto entrepreneurs, our Ambassador Network, specifically in emerging and frontier markets, where Bitnation’s services are needed the most.
+</p>
+
+<p>
+Thanks to everyone who have followed us along in this great adventure, and cheers to a better, voluntary future, created through peaceful solutions!
+</p>
+
+<p>
+<b>“Blockchains, Not Borders”</b>
+</p>
+
+
+<h2>Bitnation Pilots</h2>
+
+<ul>
+
+<li>
+<b>Bitmarriage</b> – World’s first blockchain wedding: Bitnation organized the first ever blockchain marriage on October 5th at Disney World, Florida, US at the Coins in The Kingdom conference. The wedding was widely covered by media, including the Wall Street Journal and Russia Today.
+</li>
+
+<li>
+<b>BitID</b> – World Citizenship Passport on the blockchain: Bitnation organized the first ever pilot for a blockchain based World Citizen Passport in London, based on Chris Ellis World Citizenship Passport protocol, covered by, amongst others; Wired, Forbes, and TechCrunch.
+</li>
+
+<li>
+<b>Bitland</b> – World’s first blockchain land deed pilot: In November 2014 Bitnation started its Land deed pilot in Ghana, Outside of Kumasi, which will be finalized in January 2015. The lack of land deeds in Ghana is a major source of conflict, and prevents economic growth and mobility.
+</li>
+
+<li>
+<b>Other upcoming pilots</b>: During Q1 and Q2 2015 Bitnation plan on conducting two more pilots, one for corporate incorporation on the blockchain, and another to create birth certificates on the blockchain.
+</li>
+
+</ul>
+
+
+<figure>
+<a href="01.jpg"><img src="01.jpg"/></a>
+</figure>
+
+
+<h2>Development update</h2>
+
+<ul>
+
+<li>Bitnation Pangea: Bitnation Pangea is the base platform which is currently being developed. A first demo will be released in Q1 2015. All other governance Apps and DApps will be hosted on Pangea. API is scheduled to be released in Q1 2015 as well, however all timelines are subject to change.</li>
+
+<li>Bitnation Agora: Bitnation Agora will serve as a platform for corporate incorporation on the Bitnation platform, through creating cryptoequity and timestamping shareholder agreements. An initial demo will be released Q1 2015.</li>
+
+<li>BitID: The BitID is a simplified version of the ID pilot, intended to provide printed ID cards, which will be on sale on the Bitnation website shortly. A verification and reputation system will be developed throughout 2015.</li>
+
+<li>Bitmarriage, and more: During Q1 and Q2 2015 Bitnation will release the first set of family contracts using smart contract technology.</li>
+
+</ul>
+
+<h3>3rd Party Apps and DApps</h3>
+
+<ul>
+<li>co: basicincome.co is a 3rd Party DApp designed for the Bitnation platform by inventor Johan Nygren, with the aim of creating a basic income platform based on voluntary participation and taxation. There’s no set release date yet, and Johan is keen to get more developers involved in the project – you can check out the GitHub to contribute and read more about the concept here: <a href="http://basicincome.co/">basicincome.co</a></li>
+<li>Two more 3rd party apps are currently in development for the Bitnation platform, more information will be available in Q1 2015</li>
+</ul>
+
+
+<h2>Crowdsale update</h2>
+
+<p>
+Timeframes: The crowdsale was intended to start on October 10th, but it got delayed with a few days becuase vennd.io, the company providing the sales module to transfer BTC to XBNX, pulled out on the day of the launch without prior warning, due to fear of Australian regulations. Bitnation had to rebuild the sales module which took a few days, and even after it was rebuilt there were still quite a few transfer issues, beyond the standard CounterWallet bugs. Hence, because of the initial delays, we will postpone the end of the crowdsale until the end of the month, January 31st 2015.
+</p>
+
+<p>
+The crowdsale is important because we want to avoid relying on a few powerful angel investors controlling the direction of Bitnation. It must remain a free and independent movement.
+</p>
+
+<p>
+Price: The price is currently 0.05 USD per XBNX (roughly 8000 XBNX per BTC). By the end of the year we will increase it to 0.061 USD per XBNX as we’ll have met 4 of the 6 stated benchmarks.
+</p>
+
+<p>
+<b>Addresses:</b>
+</p>
+
+<p>
+The address currently linked to the account: 1Q6QnUx83BH4qKwAtm7qbZztxvWTtU7XEk
+</p>
+
+<p>
+The multisig address where the funds are transferred: 3KS6AuQbZARSvqnaHoHfL1Xhm3bTLFAzoK
+</p>
+
+<p>
+Recently CounterParty integrated multisig into their wallet, hence the address will change to transfer directly to the multisig in Q1 2015.
+</p>
+
+<p>
+US Citizens/ Residents: The crowdsale is not open for US citizens or residents due to SEC regulations, however US citizens and residents can support Bitnation through donating to 1Q6QnUx83BH4qKwAtm7qbZztxvWTtU7XEk or through buying Bitnation t-shirts at https://bitnation.myshopify.com/ Every contribution is appreciated!
+</p>
+
+<p>
+Non-Bitcoin holders who wish to invest without purchasing Bitcoins can contact info@bitnation.co to work out an alternative solution.
+</p>
+
+
+<figure>
+<a href="02.jpg"><img src="02.jpg"/></a>
+</figure>
+
+
+<h2>Organization update</h2>
+
+<ul>
+
+<li><b>SwarmOps Integration</b>: Bitnation is the first organization outside of the Pirate Party movement who’ve started implementing the beta version of SwarmOps, an online management and accounting system for public and anonymous activists alike) to empower local entrepreneurs and activists in our network. SwarmOps is being developed by Rick Falkvinge, the founder of the Pirate Party movement which spread to more than 70 different countries. You can check out and contribute to the <a href="https://github.com/Swarmops/Swarmops">SwarmOps GitHub</a>.</li>
+
+<li><b>Ambassador Network Update</b>: The ambassador structure is being updated, with Regional Lead Ambassadors being appointed on every continent to guide other Ambassadors in their work. The Ambassador Network is growing across all continents, and local Facebook pages and projects are being created all around the world. Two embassies are planned, one in Latin America, and one in Africa. More tutorials and help material will be published soon, but for now please check out our GitHub entry and contribute if you feel inclined to do so.</li>
+
+<li><b>New Team Members</b>: We’re excited to welcome several new team member including Hafez Mancayo, a long term colleague and friend of the founders. Hafez is based in Bandung, Indonesia, and has been doing an amazing job on the server maintenance and development side. We would also like to welcome Narigamba Mwinsuubo, based in Ghana, Kumasi, who’s a an Anarchist blogger and Bitcoin promoter, and who’ve been instrumental in organizing the land deed pilot, amongst other things. Kasper Mikkel Sonne, from Denmark, Copenhagen have contributed greatly to the process of organizing documentation and team work across the multiple channels and geographical locations. David Bailey, known from HardBTC, is working hard indeed on our ID Card platform, and has contributed with BTC pins which we’ve been spreading at the Bitcoin seminar in Ghana to students. We’re also pleased to have David Orban, from the Network Society Project on board as an advisor, who contributes with meaningful organizational advice as well as Governance 2.0 insights. Additionally we would like to thank Janina Lowisz who was the first person to become a ‘Blockchain World Citizen’ and who’s been helping out with social media, Vikram Nikkam who’ve done an outstanding work organizing the bi-weekly meetups, and Philip Asare in Ghana, who’ve been helpful for Bitnation’s setup in the country, and connecting with other Ambassadors all over Africa. More announcement to come next month!</li>
+
+<li><b>Embassy Update</b>: Two Bitnation Embassies are scheduled to open during Q1 and Q2 2015, one in Central America, and one in West Africa. More information will be available after the holidays.</li>
+
+</ul>
+
+
+<h2>Resources</h2>
+
+<p>
+All documents will be kept open for constructive community input until the end of the crowdsale. Please find links to the document, as well as other community resources below. We encourage the community to participate in our plans.
+</p>
+
+
+<h3>Documentation</h3>
+
+<ul>
+<li><a href="https://docs.google.com/spreadsheets/d/1uCor1qnGDtWLqjossX7tYHy6nz9oviSCHNOSXR0IqlI/edit#gid=768708358">Financial Plan</a> (<a href="/nation/bitnation-financial-projections-v-14.ods">ods</a>, <a href="/nation/bitnation-financial-projections-v-14.pdf">pdf</a>)</li>
+<li><a href="https://docs.google.com/document/d/1ZiIZ-rmI79HPNbfJ1AXwcgoe8TKMoUMatDf7YfO5LZw/edit">Whitepaper</a> (<a href="/nation/bitnation-whitepaper.odt">odt</a>, <a href="/nation/bitnation-whitepaper.pdf">pdf</a>)</li>
+<li><a href="https://docs.google.com/document/d/1TkIbnrDeRLCXzP78khhpGnABMZt90eW4AZ4DoaKNbbo/edit">DEV Plan</a> (<a href="/nation/bitnation-dev-plan.odt">odt</a>, <a href="/nation/bitnation-dev-plan.pdf">pdf</a>)</li>
+<li><a href="https://github.com/Bit-Nation">GitHub</a></li>
+</ul>
+
+
+<h3>Tutorials</h3>
+
+<p>
+<a href="https://docs.google.com/a/bitnation.co/presentation/d/1z3C1qUm9-nr3_BYeDxnJurFVD-7iI8_AL9VE6EWk0S0/edit#slide=id.p">World Citizenship Passport ID</a> Google Slide Tutorial
+<br/>
+<a href="https://youtu.be/1iAg6BITPdc">Live Video Tutorial</a>
+</p>
+
+
+<h3>Upcoming Tutorials Q1 2015</h3>
+
+<ul>
+<li>Land Deed Tutorial</li>
+<li>PGP Tutorial</li>
+</ul>
+
+
+<h3>Social Media</h3>
+
+<ul>
+<li>Skype Groups: Email us at info@bitnation.co to be part of our online Skype Chats. Please specify which chat you would like to join: Bitnation Generic, Ambassador Channel, TECHDEV</li>
+<li><a href="https://www.facebook.com/pages/Bitnation-Pangea/337620226422880">Facebook Page</a></li>
+<li><a href="https://www.facebook.com/groups/704796139595313/">Facebook Group</a></li>
+<li><a href="https://twitter.com/MyBitNation">Twitter</a></li>
+<li><a href="https://www.youtube.com/channel/UC_mH1ZVy5rCvwomgeCBR0gQ">YouTube</a></li>
+<li><a href="https://plus.google.com/103879965064480518740">Google+</a></li>
+<li><a href="https://www.pinterest.com/Bitnation/">Pinterest</a></li>
+<li><a href="http://www.meetup.com/BITNATION/">Meetups</a></li>
+<li><a href="https://www.linkedin.com/company/bitnation">LinkedIn</a></li>
+<li><a href="http://www.reddit.com/r/BitNation/">Reddit</a></li>
+</ul>
+
+
+<h3>Bounties</h3>
+
+<ul>
+<li><a href="https://www.bountysource.com/teams/bitnation">BountyPage</a> (no active bounties at the moment)</li>
+</ul>
+
+
+<h3>Selected media appearances</h3>
+
+<ul>
+<li>Forbes <a href="http://www.forbes.com/sites/matthickey/2014/10/31/open-source-project-could-replace-traditional-passports-with-bitcoin-tech/" target="_blank">“Open Source Project Could Replace Traditional Passports With Bitcoin Tech”</a></li>
+<li>TechCrunch <a href="http://techcrunch.com/2014/10/31/your-next-passport-could-be-on-the-blockchain/" target="_blank">“Your Next Passport Could Be On The Blockchain”</a></li>
+<li>Wall Street Journal <a href="http://blogs.wsj.com/moneybeat/2014/09/26/bitbeat-wedding-bells-on-the-blockchain/" target="_blank">“Wedding Bells On The Blockchain” </a></li>
+<li>The Keiser Report <a href="https://www.youtube.com/watch?v=w7aY8pIMI7c" target="_blank">“The Minsky Moment”</a></li>
+<li>Bitcoin Magazine <a href="http://bitcoinmagazine.com/16852/first-blockchain-wedding/" target="_blank">“First Marriage On The Blockchain”</a></li>
+<li>Bitcoin Magazine <a href="http://bitcoinmagazine.com/16898/qa-ceo-bitnation/" target="_blank">“A Q&amp;A With The CEO Of Bitnation”</a></li>
+<li>CoinTelegraph <a href="http://cointelegraph.com/news/112592/first-blockchain-marriage-will-take-place-at-disney-world-bitcoin-conference" target="_blank">“First Blockchain Marriage Will Take Place At Disney World Bitcoin Conference”</a></li>
+<li>CoinTelegraph <a href="http://cointelegraph.com/news/112536/bitnation-announces-crowdsale-to-fund-decentralized-governance-projects" target="_blank">“Bitnation Announces Crowdsale To Fund Decentralized Governance Projects”</a></li>
+<li>CryptoCoinNews <a href="https://www.cryptocoinsnews.com/hacker-dreams-crypto-passport-based-blockchain/" target="_blank">“Hacker Dreams Up Crypto-Passport Based On The Blockchain”</a></li>
+<li>CryptoCoinsNews <a href="https://www.cryptocoinsnews.com/governance-2-0-evolution-system-revolution-system/" target="_blank">“Evolution Of The System Or Revolution Against The System”</a></li>
+<li>The Freeman <a href="http://fee.org/freeman/detail/citizens-of-the-cloud" target="_blank">“Citizens Of The Cloud”</a></li>
+<li>CryptoBizMag <a href="http://cryptobizmagazine.com/crypto-biz-magazine-issue-07-december-2014/" target="_blank">“The World’s First Blockchain ID”</a></li>
+<li>Bitcoinist <a href="http://bitcoinist.net/bitnation-decentralized-goverment/" target="_blank">“Bitnation And Decentralized Governance”</a></li>
+<li>The Art Of Not Being Governed <a href="http://www.notbeinggoverned.com/crypto-bits-susanne-tarkowski-templehof/#more-2835">“Cryptobits With Susanne Tarkowski Tempelhof”</a></li>
+<li>The Dollar Vigilante <a href="http://dolarvigilante.com/blog/2014/10/20/can-the-blockchain-change-the-world.html#6032" target="_blank">“Can The Blockchain Change The World?”</a></li>
+</ul>
+
+
+<h2>Meetups and events</h2>
+
+<p>
+In addition to countless appearances via Google Hangouts and Skype at local Bitcoin meetups and crypto shows, Bitnation has appeared live (or through a remote controlled robot) at following events:
+</p>
+
+<h3>Meetups</h3>
+
+<ul>
+<li>We host bi-weekly online meetups on Saturdays at 11 am GMT, please join the meetup group to participate here.</li>
+<li>Local organizers are organizing events spontaneously, there are two coming up in Stuttgart, Germany shortly.</li>
+<li>We encourage local meetups, please get in touch with us for organizational assistance.</li>
+</ul>
+
+<h3>Events and Public Talks Q4 2014</h3>
+
+<ul>
+<li>Coins In the Kingdom Marriage Pilot, US</li>
+<li>Coinscrum, UK</li>
+<li>World Citizenship Passport Pilot, UK</li>
+<li>Copenhagen Bitcoin Meetup, Denmark</li>
+<li>Global Summit, US</li>
+<li>Dream Bitcoin Foundation Conference, Ghana</li>
+</ul>
+
+<h3>Upcoming Events Q1 2015</h3>
+
+<ul>
+<li>Liberty and Entrepreneurship Camp, Ghana</li>
+<li>Land Deed Pilot, Ghana</li>
+<li>Anarchapulco, Mexico</li>
+</ul>
+
+<h2>To Liberty!</h2>
+
+<p>
+The Bitnation Team
+</p>
+
+<p>
+info@bitnation.co
+</p>
+
+<p>
+<a href="http://bitnation.co">bitnation.co</a>
+</p>
+
+<p class=h2>
+<a href="ru">RU</a>
+</p>
+
+
+<p>
+Source:
+<a href="http://www.bitnation-blog.com/latest-update-dec-22nd-2014/">bitnation-blog.com/latest-update-dec-22nd-2014</a>
+</p>
+
+
+<p class=h2><a href="/nation/en">Nation</a></p>
+
+</main>
+<footer><div>7523-03-22 - 7523-04-08</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
