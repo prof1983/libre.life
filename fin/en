@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<link rel="stylesheet" href="/css/main.css"/>
+<title>Finance - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Finance</h1>
+
+
+<div class="blocks blocks-front">
+
+<a href="/money/en">
+<div>
+<figure>
+<img src="/money/img/logo/300x300.jpg"/>
+</figure>
+<h3>Money</h3>
+<p>The measure of value, medium of exchange, a store of value</p>
+</div>
+</a>
+
+<a href="/fund/en">
+<div>
+<figure>
+<img src="/fund/img/logo/300.jpg"/>
+</figure>
+<h3>Fund</h3>
+<p>The joint collection of resources for the implementation of various projects</p>
+</div>
+
+<a href="/contract/en">
+<div>
+<figure>
+<img src="/contract/img/logo/300x300.jpg"/>
+</figure>
+<h3>Contracts</h3>
+<p>Smart contracts</p>
+</div>
+</a>
+
+</div>
+
+<br/>
+<br/>
+
+
+
+
+<figure>
+<a href="img/00b.jpg"><img src="img/00.jpg"/></a>
+</figure>
+
+
+
+
+
+<h2>Publications</h2>
+
+<div class="article">
+<a href="/7524/0118/1/en"><img src="/7524/0118/1/logo-320x200.jpg"></a>
+<p><a href="/7524/0118/1/en">Wealth has exceeded 1% of people state the remaining 99% of the inhabitants of the Earth</a></p>
+<p>
+Only 1% of the Earth's richest people own more states than all the rest of the population of the planet, according to the report prepared by the British charity Oxfam for the next World Economic Forum in Davos.
+<a href="/7524/0118/1/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/0610/1/en"><img src="/7522/0610/1/logo-320x200.jpg" /></a>
+<p><a href="/7522/0610/1/en">Financial Markets and Institutions</a></p>
+<p>
+Video lectures on financial markets and institutions. This course examines the global changes that are transforming the financial markets, engage in financial turnover of the new institutions, contribute to the emergence of new financial instruments, changing approaches to the regulation of financial markets.
+<a href="/7522/0610/1/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7520/0615/1/en"><img src="/7520/0615/1/logo-320x200.jpg"/></a>
+<p><a href="/7520/0615/1/en">Rachel Botsman: The currency of the new economy is trust</a></p>
+<p>
+There's been an explosion of collaborative consumption — web-powered sharing of cars, apartments, skills. Rachel Botsman explores the currency that makes systems like Airbnb and Taskrabbit work: trust, influence, and what she calls "reputation capital."
+<a href="/7520/0615/1/en">Read more...</a>
+</p>
+</div>
+
+<br/>
+
+
+<p class="h3">
+<a href="/economy/7523/en">Previous publications</a>
+</p>
+
+
+
+
+<br/><br/><p class="h2"><a href="/economy/en">Economy</a></p>
+
+</main>
+<footer><div>7524-06-01 - 7524-06-15</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
