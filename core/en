@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Core - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Core</h1>
+
+<p class="h">
+Core of the system is a central part of the system built on technology Blockchain.
+</p>
+
+<figure>
+<img src="img/01.jpg"/>
+</figure>
+
+<p>
+Core - a decentralized open transactional system for transferring currency from demurrage (shares), the transfer of assets (without demurrage), create groups (communities, companies), contracts (automatically executes the script), the pool of ideas, projects, voting system, the resource base, the record results execution of contracts (reputation tsiforvaya conscience).
+</p>
+
+<p>
+Core - this is an internal accounting unit + decentralized framework for links to <a href="/projects/ru">Innovative projects</a> + entry reputation users. Libre core is created based on Libre.Money. In the long term goal is to create an decentralized crowdinvesting system<!--analogue <a href="https://vcstart.com/">vcstart.com</a>-->. At the same sites (points of entry into the system) will be a lot. Site libre.life remain as an information resource.
+</p>
+
+<figure>
+<img src="img/02.jpg"/>
+</figure>
+
+<p>
+The core of the system is completely open and free, based on technology blockchain. The kernel includes: 1) API (RestFullApi), 2) Protocol (json), 3) the software implementation.
+</p>
+
+<figure>
+<img src="img/03.jpg"/>
+</figure>
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+<figure>
+<img src="/sys/scheme/scheme1.png" />
+<br/>
+<span style="font-size: 50%; ">Скачать: <a href="/sys/scheme/scheme1.ods">ODS</a>, <a href="/sys/scheme/scheme1.pdf">PDF</a>)</span>
+</figure>
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+<p class="h3">
+<a href="tz">Terms of Reference for the development of core</a>
+<br/>
+<a href="/video/core">The core of a new economic system based on resource and reputation model</a> (Video)
+<br/>
+<a href="/money/mera">Mera</a>
+<br/>
+<a href="/doc/arch/en">System Аrchitecture</a>
+<br/>
+<a href="/pr/nxt/">Appearance (UI)</a>
+</p>
+
+<br/><br/>
+
+
+
+
+<h2>Publications</h2>
+
+<div class="article">
+<a href="/7523/0522/3/en"><img src="/7523/0522/3/logo-320x200.png"></a>
+<p><a href="/7523/0522/3/en">Scheme</a><p>
+<p>
+About Village-21, about the other settlements, about the software MirGrad and other mutual (consumer) society.
+<a href="/7523/0522/3/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0522/2/en"><img src="/7523/0522/2/logo-320x200.jpg"></a>
+<p><a href="/7523/0522/2/en">Club system</a><p>
+<p>
+From the correspondence in ininin group (continued). I should add that we have all of this is presented as a club system. Where there are several levels of participation.
+<a href="/7523/0522/2/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0522/1/en"><img src="/7523/0522/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0522/1/en">Derevnya-21</a><p>
+<p>
+Project Village-21 are under development. I have been collecting people, the future residents. Prepare a business plan description. I was important to gather a sufficient number of people interested to live in a commune format (co-ownership).
+<a href="/7523/0522/1/en">More...</a>
+</p>
+</div>
+
+
+
+
+<nav class="main-footer-nav"><a href="/projects/en">Projects</a></nav>
+
+</main>
+<footer><div>7523-02-17 - 7524-06-25</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
