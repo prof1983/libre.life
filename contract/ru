@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Умные контракты - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Умные контракты</h1>
+
+<figure>
+<img src="img/00.jpg"/>
+</figure>
+
+<p class="h">
+<b>Контракт, Договор</b> — соглашение двух или более лиц
+</p>
+
+<p>
+<b>Умные контракты</b> являются компьютерными протоколоми, которые облегчают проверку, обеспечивают согласование и исполнение контракта, что устранит необходимость договорных отношений. Умные контракты обычно также имеют пользовательский интерфейс и часто эмулируют логику договорных положений. Сторонники умных контрактов утверждают, что многие виды договорных положений могут быть частично или полностью самоисполняющимися, самодостаточными и более. Умные контракты направлены на обеспечение безопасности, превосходящие традиционные договорные права и уменьшение транзакционных издержек, связанные с заключением договоров.
+<a href="https://en.wikipedia.org/wiki/Smart_contract">Wikipedia</a>
+</p>
+
+<figure>
+<a href="img/01.jpg"><img src="img/01-640.jpg"/></a>
+</figure>
+
+<br/>
+
+
+
+
+<h2>Контрактное программирование</h2>
+
+<p>
+<b>Контрактное программирование</b> (design by contract (DbC), programming by contract, contract-based programming) — это метод проектирования программного обеспечения. Он предполагает, что проектировщик должен определить формальные, точные и верифицируемые спецификации интерфейсов для компонентов системы. При этом, кроме обычного определения абстрактных типов данных, также используются предусловия, постусловия и инварианты. Данные спецификации называются «контрактами» в соответствии с концептуальной метафорой условий и ответственности в гражданско-правовых договорах. <a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%B0%D0%BA%D1%82%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5">Википедия</a>
+</p>
+
+<figure>
+<a href="img/design-by-contract.svg"><img src="img/design-by-contract.svg" width="640"/></a>
+<br/>
+Схема контрактного программирования
+</figure>
+
+
+<hr/>
+
+
+<a name="sae"></a>
+<h2>Secure Asset Exchange</h2>
+
+<p class="h">
+<a href="http://www.secureae.com/">secureae.com</a>
+</p>
+
+<p>
+Smart Contracts: Binding agreements, verified through data and automatically enforced by technology
+<br/>
+Create a Smart Contract for Revenue Sharing
+<br/>
+Get Capital when Investors buy your Smart Contracts
+<br/>
+Issue your Smart Contract into a Market with Large Demand
+<br/>
+Automatically Share Your Revenue as You Earn It = In Realtime
+<br/>
+Anyone can Securely Invest in Smart Contracts with Bitcoin
+<br/>
+Quickly Buy or Sell Ownership in a Liquid Trading Environment
+</p>
+
+
+<figure>
+<a href="img/04.png"><img src="img/04.png"/></a>
+</figure>
+
+<p>
+Smart Contracts are a set of contractual clauses written in computer code;
+verified for performance based on data eg:bank transactions
+and enforced by technology rather than a legal system.
+</p>
+
+<p>
+Smart Contracts perform this verification and enforcement near instantly;
+as soon as the relevant data signifies that an obligation has been met.
+</p>
+
+
+<h3>Our Exchange Infrastructure is entirely Peer to Peer</h3>
+
+<p>
+We provide access to the leading peer to peer decentralized Exchange infrastructure from NXT
+</p>
+
+<p>
+NXT is the leading blockchain 2.0 cryptocurrency by Market Cap (http://coinmarketcap.com/)
+because it provides the first scaleable peer to peer decentralized exchange infrastructure.
+</p>
+
+<p>
+We allow issuers and investors to utilize this decentralized infrastructure to it's full potential,
+by offering investors and issuers a suite of easy to use web-based tools to interact with
+an exchange infrastructure that nobody controls and therefore everyone can trust.
+</p>
+
+<br/>
+
+
+
+
+<a name="pub"></a>
+<h2>Публикации</h2>
+
+<div class="article">
+<a href="/7523/1103/1/ru"><img src="/7523/1103/1/logo-320x200.jpg"></a>
+<p><a href="/7523/1103/1/ru">Российские разработчики создали платформу для управления децентрализованными автономными организациями</a></p>
+<p>
+Разработчики из Bitfork Develop представили свой новый проект основанный на сети Ethereum — AIRA DAO.
+<a href="/7523/1103/1/ru">Подробнее...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/1030/1/ru"><img src="/7523/1030/1/logo-320x200.jpg"></a>
+<p><a href="/7523/1030/1/ru">Ник Сабо о банках, умных контрактах и безопасности Биткойна</a></p>
+<p>
+Легендарный криптограф Ник Сабо утверждает, что лучший способ создать бесшовную, автоматизированную, глобальную финансовую структуру: убедить банки признать блокчейны, не требующие авторизации, например, тот, на основе которого существует Биткойн.
+<a href="/7523/1030/1/ru">Подробнее...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0303/1/ru"><img src="/7523/0303/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0303/1/ru">Умные контракты помогут государствам принять криптовалюты</a></p>
+<p>
+В данной статье пойдет речь исключительно об объектах существующих в цифровом виде, т.к. на сегодняшний день невозможно представить умный контракт существующий в другой форме.
+<a href="/7523/0303/1/ru">Подробнее...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/0307/1/ru"><img src="/7522/0307/1/logo-320x200.jpg"></a>
+<p><a href="/7522/0307/1/ru">Bitcoin: встроенная система сценариев и цифровые контракты</a></p>
+<p>
+Встроенная система сценариев, предназначенная для проверки валидности транзакций, а также некоторые её возможности. На родном языке такой информации мне не попадалось, потому вношу свою лепту.
+<a href="/7522/0307/1/ru">Подробнее...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7506/0929/1/ru"><img src="/7506/0929/1/logo-320x200.jpg"></a>
+<p><a href="/7506/0929/1/ru">Умные контракты (Четвертая революция стоимости)</a></p>
+<p>
+Это сделанный по нашей просьбе авторский сжатый римэйк более ранних работ. Опубликовано в журнале "Компьютерра" №38 от 29 сентября 1998 года. Автор: НИК САБО | Раздел: КОМПЬЮНОМИКА
+<a href="/7506/0929/1/ru">Подробнее...</a>
+</p>
+</div>
+
+
+
+
+<nav class="main-footer-nav"><a href="/dao/ru">Децентрализованные Автономные Организации (ДАО)</a></nav>
+
+</main>
+<footer><div>7523-03-24 - 7524-06-28</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

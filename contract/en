@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<link rel="stylesheet" href="/css/main.css"/>
+<title>Smart contracts - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Smart contracts</h1>
+
+<figure>
+<img src="img/00.jpg"/>
+</figure>
+
+<p class="h">
+<b>The Contract</b> - an agreement between two or more persons
+</p>
+
+
+<p>
+<b>Smart contracts</b> are computer protocols that facilitate, verify, or enforce the negotiation or performance of a contract, or that obviate the need for a contractual clause. Smart contracts usually also have a user interface and often emulate the logic of contractual clauses. Proponents of smart contracts claim that many kinds of contractual clauses may thus be made partially or fully self-executing, self-enforcing, or both. Smart contracts aim to provide security superior to traditional contract law and to reduce other transaction costs associated with contracting. <a href="https://en.wikipedia.org/wiki/Smart_contract">Wikipedia</a>
+</p>
+
+<figure>
+<a href="img/01.jpg"><img src="img/01-640.jpg"/></a>
+</figure>
+
+<br/>
+
+
+
+
+<h2>Design by contract</h2>
+
+<p>
+<b>Design by contract (DbC)</b>, also known as contract programming, programming by contract and design-by-contract programming, is an approach for designing software. It prescribes that software designers should define formal, precise and verifiable interface specifications for software components, which extend the ordinary definition of abstract data types with preconditions, postconditions and invariants. These specifications are referred to as "contracts", in accordance with a conceptual metaphor with the conditions and obligations of business contracts. <a href="https://en.wikipedia.org/wiki/Design_by_contract">Wikipedia</a>
+</p>
+
+<figure>
+<a href="img/design-by-contract.svg"><img src="img/design-by-contract.svg" width="640"/></a>
+<br/>
+A design by contract scheme
+</figure>
+
+
+<hr/>
+
+
+<a name="sae"></a>
+<h2>Secure Asset Exchange</h2>
+
+<p class="h">
+<a href="http://www.secureae.com/">secureae.com</a>
+</p>
+
+<p>
+Smart Contracts: Binding agreements, verified through data and automatically enforced by technology
+<br/>
+Create a Smart Contract for Revenue Sharing
+<br/>
+Get Capital when Investors buy your Smart Contracts
+<br/>
+Issue your Smart Contract into a Market with Large Demand
+<br/>
+Automatically Share Your Revenue as You Earn It = In Realtime
+<br/>
+Anyone can Securely Invest in Smart Contracts with Bitcoin
+<br/>
+Quickly Buy or Sell Ownership in a Liquid Trading Environment
+</p>
+
+
+<figure>
+<a href="img/04.png"><img src="img/04.png"/></a>
+</figure>
+
+<p>
+Smart Contracts are a set of contractual clauses written in computer code;
+verified for performance based on data eg:bank transactions
+and enforced by technology rather than a legal system.
+</p>
+
+<p>
+Smart Contracts perform this verification and enforcement near instantly;
+as soon as the relevant data signifies that an obligation has been met.
+</p>
+
+
+<h3>Our Exchange Infrastructure is entirely Peer to Peer</h3>
+
+<p>
+We provide access to the leading peer to peer decentralized Exchange infrastructure from NXT
+</p>
+
+<p>
+NXT is the leading blockchain 2.0 cryptocurrency by Market Cap (http://coinmarketcap.com/)
+because it provides the first scaleable peer to peer decentralized exchange infrastructure.
+</p>
+
+<p>
+We allow issuers and investors to utilize this decentralized infrastructure to it's full potential,
+by offering investors and issuers a suite of easy to use web-based tools to interact with
+an exchange infrastructure that nobody controls and therefore everyone can trust.
+</p>
+
+<br/>
+
+
+
+
+<a name="pub"></a>
+<h2>Publications</h2>
+
+<div class="article">
+<a href="/7523/1103/1/en"><img src="/7523/1103/1/logo-320x200.jpg"></a>
+<p><a href="/7523/1103/1/en">Russian developers have created a platform for the management of the decentralized autonomous organizations</a></p>
+<p>
+Developers of Bitfork Develop presented its new project based on the Ethereum network - AIRA DAO.
+<a href="/7523/1103/1/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/1030/1/en"><img src="/7523/1030/1/logo-320x200.jpg"></a>
+<p><a href="/7523/1030/1/en">Nick Szabo on banks, clever contracts and security Bitcoin</a></p>
+<p>
+The legendary cryptographer Nick Szabo argues that the best way to create a seamless, automated, global financial structure: persuade banks to accept blokcheyny not require authorization, such as the one on which there is Bitcoin.
+<a href="/7523/1030/1/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0303/1/en"><img src="/7523/0303/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0303/1/en">Smart contracts will help States to accept cryptocurrency</a></p>
+<p>
+This article will talk exclusively about objects existing in digital form, as Today it is impossible to imagine a clever contract exists in a different form.
+<a href="/7523/0303/1/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/0307/1/en"><img src="/7522/0307/1/logo-320x200.jpg"></a>
+<p><a href="/7522/0307/1/en">Bitcoin: built-in scripting system and digital contracts</a></p>
+<p>
+Built-in scripting system for checking the validity of transactions, as well as some of its features. In the native language of such information did not come across to me because I bring a contribution.
+<a href="/7522/0307/1/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7506/0929/1/en"><img src="/7506/0929/1/logo-320x200.jpg"></a>
+<p><a href="/7506/0929/1/en">Smart contracts (the Fourth revolution value)</a></p>
+<p>
+This is done at our request, the author compressed remake of the earlier works. Published in the journal "Computerra" №38 from 29 September 1998. Author: NICK SABO
+<a href="/7506/0929/1/en">Read more...</a>
+</p>
+</div>
+
+
+
+
+<nav class="main-footer-nav"><a href="/dao/en">Decentralized Autonomous Organization (DAO)</a></nav>
+
+</main>
+<footer><div>7523-03-24 - 7524-06-28</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
