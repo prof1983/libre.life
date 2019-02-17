@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Meditating human brain - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Meditating human brain</h1>
+
+<figure>
+<a href="00.jpg"><img src="00.jpg"/></a>
+</figure>
+
+
+<p class=h2>
+<a href="ru">RU</a>
+</p>
+
+</main>
+<footer><div>7523-03-11 - 7523-04-05</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
