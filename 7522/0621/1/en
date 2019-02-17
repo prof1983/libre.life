@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>LibreMoney - How it works - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>LibreMoney - How it works</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+Description of the system work most clearly turns to explain with an example. Assume that the system has a number of participants and there is community. One of the participants of the project proposes to implement CrowdFunding. Project LibreMoney necessarily implemented within the framework of a community. In this project the author must be a member of the community within which plans to hold a fundraiser.
+</p>
+
+
+<p class=h2>
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/money/libre/en">Libre.Money</a></nav>
+
+</main>
+<footer><div>7524-06-21 - 7524-06-21</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
