@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Team Organization - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Team Organization</h1>
+
+<figure>
+<a href="00b.jpg"><img src="00.jpg"/></a>
+</figure>
+
+<p class="h">
+2015-01-27
+</p>
+
+<p>
+I apologize in advance, but my goal now - is the most lucidly explain what VALUES and what TEAM.
+</p>
+
+<p class=h2>
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+<p class="h2"><a href="/club/en">Club</a></p>
+
+</main>
+<footer><div>7523-06-06 - 7523-06-06</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
