@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>StupInno - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>StupInno</h1>
+
+<figure>
+<a href="img/03.jpg"><img src="img/03.jpg"/></a>
+</figure>
+
+
+<p class="h2">
+<a href="http://stupinno.ru/" target="_blank">stupinno.ru</a>
+</p>
+
+
+<p class="h2">
+<a href="ru">More...</a> (RU)
+</p>
+
+<br/>
+
+
+
+
+<h2>Publications</h2>
+
+<div class="article">
+<a href="/7524/1114/1/en"><img src="/7524/1114/1/logo-320x200.jpg"></a>
+<p><a href="/7524/1114/1/en">The use of innovative financial technology</a></p>
+<p>
+Scientific-practical conference "The use of innovative financial technologies at the municipal level"
+<a href="/7524/1114/1/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/1116/2/en"><img src="/7523/1116/2/logo-320x200.jpg"></a>
+<p><a href="/7523/1116/2/en">The use of innovative financial instruments</a><p>
+<p>
+This topical in connection with the fallen snow Photo - beautiful image of a public-private partnership. The lake, which is in the middle - it is the business community. The President and the government towering above all, as the rocky mountains - a firm guarantee of all agreements.
+<a href="/7523/1116/2/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0801/2/en"><img src="/7523/0801/2/logo-320x200.jpg"></a>
+<p><a href="/7523/0801/2/en">How to create an innovative economic system</a><p>
+<p>
+How to create an innovative economic system? Acts as a parallel to the existing model, the aim of which is not profit in the form of money, and the profit in the form of man - its development and disclosure of creativity. He does everything effortlessly - without even thinking about the "anti-system". The answer is - to play on her weakness! What is its weakness and how to beat? In fact, it makes good work of people, but the money is not - they are lazy, resting himself, whole piles of lounging on the accounts of banks, funds and other.
+<a href="/7523/0801/2/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0627/1/en"><img src="/7523/0627/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0627/1/en">The results of the Board of Stupino</a><p>
+<p>
+Dear friends! Summing up the results of the Council for Innovation in Stupino can say with confidence that we have passed your first exam with flying colors!
+<a href="/7523/0627/1/en">More...</a>
+</p>
+</div>
+
+
+
+
+<nav class="main-footer-nav"><a href="/en">Main</a></nav>
+
+</main>
+<footer><div>7523-03-16 - 7524-11-17</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
