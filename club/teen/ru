@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css">
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Всероссийский Детский Клуб - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Всероссийский Детский Клуб</h1>
+
+<figure>
+<img src="img/00.png"/>
+</figure>
+
+<p class="h">
+<b></b>
+</p>
+
+
+<p class="h">
+<a href="https://vk.com/childrens_club_of_russia">vk.com/childrens_club_of_russia</a>
+</p>
+
+
+<br/>
+<br/>
+
+
+
+
+<h2>Публикации</h2>
+
+<div class="article">
+<a href="/7523/0628/1/ru"><img src="/7523/0628/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0628/1/ru">Детский выездной отдых</a><p>
+<p>
+Организация детского отдыха в разных регионах страны, что позволит развивать юных создателей будущего страны.
+<a href="/7523/0628/1/ru">Подробнее...</a>
+</p>
+</div>
+
+<!--div class="article">
+<a href="http://moyamarusya.com/article/3/"><img src="/7523/0520/1-/logo-320x200.jpg"></a>
+<p><a href="http://moyamarusya.com/article/3/">Отдых</a><p>
+<p>
+Я сейчас пока продумываю систему. Хочу вывозить группы детей по разным базам в России. Нужно делать очень много. Нужно понять интересно тебе это или нет? Смотри, собирать группу детей. Находить базу например на Алтае, договариваемся с хозяевами об аренде.
+<a href="http://moyamarusya.com/article/3/">Подробнее...</a>
+</p>
+</div-->
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/club/ru">Клуб</a></p>
+
+</main>
+<footer><div>7523-07-07 - 7523-07-07</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

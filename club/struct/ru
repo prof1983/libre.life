@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css">
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Структура - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Структура</h1>
+
+<p class="h">
+Фрактальная структура Клуба
+<br/>
+Все картинки кликабельны
+</p>
+
+<figure>
+<a href="img/00.png"><img src="img/00.jpg"></a>
+</figure>
+
+<figure>
+<a href="img/05.png"><img src="img/05.jpg"></a>
+</figure>
+
+<figure>
+<a href="img/01b.jpg"><img src="img/01.jpg"></a>
+</figure>
+
+<figure>
+<a href="img/02b.jpg"><img src="img/02.jpg"></a>
+</figure>
+
+<figure>
+<a href="img/03b.jpg"><img src="img/03.jpg"></a>
+</figure>
+
+<figure>
+<a href="img/04b.jpg"><img src="img/04.jpg"></a>
+</figure>
+
+
+
+<figure>
+<a href="img/75240513b.jpg"><img src="img/75240513.jpg"></a>
+</figure>
+
+<figure>
+<a href="img/75240516b.jpg"><img src="img/75240516.jpg"></a>
+</figure>
+
+<figure>
+<a href="img/75240517b.jpg"><img src="img/75240517.jpg"></a>
+</figure>
+
+<figure>
+<a href="img/fractal-b.jpg"><img src="img/fractal.jpg"></a>
+</figure>
+
+<figure>
+<!--a href="img/fractal1b.jpg"><img src="img/fractal1.jpg"></a-->
+<a href="img/fractal2b.jpg"><img src="img/fractal2.jpg"></a>
+</figure>
+
+<figure>
+<a href="people-b.png"><img src="img/people.png"></a>
+</figure>
+
+<br/>
+
+<p>
+<a href="doc/Society-Struct.odp">Скачать Society-Struct.odp</a> (431 КБ)
+<br/>
+<a href="doc/Society-Struct.pdf">Скачать Society-Struct.pdf</a> (325 КБ)
+</p>
+
+<br/>
+<br/>
+
+<p class="h2"><a href="/club/ru">Клуб</a></p>
+
+</main>
+<footer><div>7523-05-28 - 7523-05-31</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

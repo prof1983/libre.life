@@ -1,0 +1,585 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css">
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Club - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Club</h1>
+
+<p class="h">
+A community of free people
+</p>
+
+<div class="blocks blocks-front">
+
+<a href="inno/ru">
+<div>
+<figure>
+<img src="inno/img/logo/300.jpg"/>
+</figure>
+<h3>Клуб Инноваторов</h3>
+<p>Инструмент инвестирования в инновации</p>
+</div>
+</a>
+
+<!--a href="akb/en">
+<div>
+<figure>
+<img src="akb/img/logo/300.jpg"/>
+</figure>
+<h3>Technical direction</h3>
+<p>Meeting for the presentation, discussion and hone ideas, pans, projects</p>
+<p>Held once a week, on Thursdays</p>
+</div>
+</a-->
+
+<a href="partners/ru">
+<div>
+<figure>
+<img src="partners/img/logo/300.jpg"/>
+</figure>
+<h3>Клуб Партнёров</h3>
+<p>Создание дружеских отношений между производителями и потребителями</p>
+</div>
+</a>
+
+<a href="dobro/en">
+<div>
+<figure>
+<img src="dobro/img/logo/300.jpg"/>
+</figure>
+<h3>DobroTech</h3>
+<p>Finances projects for free!</p>
+</div>
+</a>
+
+<!--a href="show/en">
+<div>
+<figure>
+<img src="show/img/logo/300.jpg"/>
+</figure>
+<h3>Innovators Show</h3>
+<p>Show where innovators and inventors present their projects</p>
+<p>Is held once a month</p>
+</div>
+</a-->
+
+<a href="immortal">
+<div>
+<figure>
+<img src="img/immortal.png"/>
+</figure>
+<h3>Immortality</h3>
+<p>Transhumanist community</p>
+<p>Meetings are held the movement in 2045 and KrioRus</p>
+</div>
+</a>
+
+<a href="gr/en">
+<div>
+<figure>
+<img src="gr/img/logo/300.jpg"/>
+</figure>
+<h3>GR Club</h3>
+<p>The developed world, the strengthening of the high spiritual and moral ideals, goals, values and norms.</p>
+</div>
+</a>
+
+<a href="consumers/en">
+<div>
+<figure>
+<img src="consumers/img/logo/300.jpg"/>
+</figure>
+<h3>Club of loyal consumers</h3>
+<p>Consumer - from the word Demand</p>
+</div>
+</a>
+
+<!--a href="delo/en">
+<div>
+<figure>
+<img src="delo/img/logo/300.jpg"/>
+</figure>
+<h3>Delovar</h3>
+<p>Entrepreneurs Club</p>
+<p>mkp-club.ru</p>
+</div>
+</a-->
+
+<!--a href="dom/en">
+<div>
+<figure>
+<img src="dom/img/logo/300.jpg"/>
+</figure>
+<h3>House of Soul</h3>
+<p>Psychologists, art therapists, yoga master, tantra</p>
+<p>All for the disclosure of creativity</p>
+</div>
+</a-->
+
+</div>
+
+<br/>
+<br/>
+
+
+
+
+<p>
+Free decentralized club of innovators and inventors, the club of creators, the club of entrepreneurs, investors and experts. The project is helping innovative start-ups to collect community and to attract financing for the manufacture of a prototype at an early stage (at the idea).
+</p>
+
+<figure>
+<a href="img/00b.jpg"><img src="img/00.jpg"/></a>
+</figure>
+
+<br/>
+
+
+
+
+<p>
+The project is a gaming platform to "invest" their potential - to attract the community to start-ups, for a fraction of the project (a total of 10% is allocated to the community). Share of 10% - pay for startups to attract the attention of people in the form of a game at the stage of ideas, to build a prototype. After creating a prototype, the share of 10% is transferred to investment-fund, and the money distributed between the original "investors" - people who supported the project at an early stage.
+</p>
+
+<p class="h3">
+<a href="/7525/0521/1/en">Accounting for the contribution to the project</a>
+<br/>
+<a href="akb/team/ru">Team</a>
+<br/>
+<a href="events/en">Events</a>
+<br/>
+<a href="declaration/en">Declaration of the Club</a>
+<br/>
+<a href="/video/club">Video about the organization and structure of the Club</a>
+<br/>
+<a href="img">Additionally</a>
+</p>
+
+
+<h3>Groups Social Club</h3>
+
+<p class="h">
+<a href="https://vk.com/akb_club" target="_blank">vk.com/akb_club</a>
+<br/>
+<a href="https://www.facebook.com/groups/best.meetups/" target="_blank">fb.com/groups/best.meetups</a>
+</p>
+
+<p class="h">
+Presentation of all the projects are recorded on video and posted on the channel:
+<br/>
+<a href="http://www.youtube.com/channel/UCwg0AYpzSnbDklKBiUG4g0g" target="_blank">youtube.com/channel/UCwg0AYpzSnbDklKBiUG4g0g</a>
+</p>
+
+
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+
+<h2>Video</h2>
+
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/nJ704Lzpjoo" frameborder="0" allowfullscreen></iframe>
+<br/>
+<a href="https://youtu.be/nJ704Lzpjoo" target="_blank">youtu.be/nJ704Lzpjoo</a> - Клуб инноваторов и изобретателей 2015-05-07 (1) - Правила Клуба
+</figure>
+
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/EPi2S4Q0jAU" frameborder="0" allowfullscreen></iframe>
+<br/>
+<a href="https://youtu.be/EPi2S4Q0jAU" target="_blank">youtu.be/EPi2S4Q0jAU</a> - Клуб инноваторов и изобретателей 2015-05-07 (2) - Организационная структура
+</figure>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/E9TZmEer_JM" frameborder="0" allowfullscreen></iframe>
+<br/>
+<a href="https://youtu.be/E9TZmEer_JM" target="_blank">youtu.be/E9TZmEer_JM</a> - Клуб инноваторов и изобретателей 2015-05-07 (3) - Ответы на вопросы 1
+</figure>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/2kYdBM_3P2E" frameborder="0" allowfullscreen></iframe>
+<br/>
+<a href="https://youtu.be/2kYdBM_3P2E" target="_blank">youtu.be/2kYdBM_3P2E</a> - Клуб инноваторов и изобретателей 2015-05-07 (4) - Ответы на вопросы 2
+</figure>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/RF6Z8xD6d5s" frameborder="0" allowfullscreen></iframe>
+<br/>
+<a href="https://youtu.be/RF6Z8xD6d5s">youtu.be/RF6Z8xD6d5s</a> - Клуб инноваторов и изобретателей 2015-05-07 (5) - Капитан
+</figure>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/otBlGWovQJc" frameborder="0" allowfullscreen></iframe>
+<br/>
+<a href="https://youtu.be/otBlGWovQJc" target="_blank">youtu.be/otBlGWovQJc</a> - Клуб инноваторов и изобретателей 2015-05-07 (6) - Юрисдикция
+</figure>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/JKeXGjTCvvo" frameborder="0" allowfullscreen></iframe>
+<br/>
+<a href="https://youtu.be/JKeXGjTCvvo" target="_blank">youtu.be/JKeXGjTCvvo</a> - Видео про NXT и архитектуру, как прообраз программной реализации системы для Клуба
+</figure>
+
+
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+
+<h2>Publications</h2>
+
+<!-- https://libre.life/7523/0813/1/en - Manifesto of the People's laboratories -->
+
+<div class="article">
+<a href="/7523/1105/1/en"><img src="/7523/1105/1/logo-320x200.jpg"></a>
+<p><a href="/7523/1105/1/en">Innovators Movement have</a><p>
+<p>
+Innovators Movement have! This is a major decision, which took the last Thursday meeting our high) Valery Hiltunen offered to call his abbreviated "Dvina".
+<a href="/7523/1105/1/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/1104/1/en"><img src="/7523/1104/1/logo-320x200.jpg"></a>
+<p><a href="/7523/1104/1/en">Roundtable 10.29.15</a><p>
+<p>
+Innovators Movement have! This is a major decision, which took the last Thursday meeting our high) Valery Hiltunen offered to call his abbreviated "Dvina".
+<a href="/7523/1104/1/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0627/1/en"><img src="/7523/0627/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0627/1/en">The results of the Board of Stupino</a><p>
+<p>
+Dear friends! Summing up the results of the Council for Innovation in Stupino can say with confidence that we have passed your first exam with flying colors!
+<a href="/7523/0627/1/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0612/2/en"><img src="/7523/0612/2/logo-320x200.jpg"></a>
+<p><a href="/7523/0612/2/en">What is Decentralization</a><p>
+<p>
+My letter - a response to a question about decentralization, about the ideological department of the Soviet Union, about the torrent, pirate, and so on.
+<a href="/7523/0612/2/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0517/1/en"><img src="/7523/0517/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0517/1/en">Offer in three parts</a><p>
+<p>
+I finally realized that we needed to do and how to act to dramatically increase the efficiency of our operations. In this regard, today I have for you will be a few more than the usual letter. Rather proposal. In three parts.
+<a href="/7523/0517/1/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0427/1/en"><img src="/7523/0427/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0427/1/en">Declaration of the Club (Alpha1)</a><p>
+<p>
+Draft rules of the Club version Alpha1, organizational structure, rules of distribution of shares
+<a href="/7523/0427/1/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0423/1/en"><img src="/7523/0423/1/logo-320x200.jpg"/></a>
+<p><a href="/7523/0423/1/en">Why set up the A-CluB</a><p>
+<p>
+In order to dispel illusions, I decided to write this article. Disclaimer: What is described here is my personal opinion. And so, why do I need a club of innovators and inventors (A-Klub)?
+<a href="/7523/0423/1/en">More...</a>
+</p>
+</div>
+</a>
+
+<div class="article">
+<a href="/7523/0422/3/en"><img src="/7523/0422/3/logo-320x200.jpg"></a>
+<p><a href="/7523/0422/3/en">About CMIT Kulibina. And not only</a><p>
+<p>
+Our world - a system based on the implementation of its (ie working tools of implementation and achievement of the objectives - this is a lie, aggression, power, resources inherit by right of kinship, social status, etc.). But in such a system there is equal opportunity for full implementation in accordance with their abilities, talents and purpose.
+<a href="/7523/0422/3/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0422/2/en"><img src="/7523/0422/2/logo-320x200.jpg"></a>
+<p><a href="/7523/0422/2/en">The accounting system of contributions for projects</a><p>
+<p>
+Today we are in the group discussed a fair share of the account. Zamir proposed his theory, Kirill offered his. I wrote my thoughts. We want to create a transparent and fair system of accounting the contribution of each project participant. It is assumed that the first stages of working crowdsorsing (mikro-crowd-investing).
+<a href="/7523/0422/2/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0416/1/en"><img src="/7523/0416/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0416/1/en">Organizational structure</a><p>
+<p>
+I propose the following scheme: Thursdays meet in small groups - a maximum of 10-15 people who are where he wants. On Saturday there are representatives of these groups. Remember the Kopa law.
+<a href="/7523/0416/1/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0412/2/en"><img src="/7523/0412/2/logo-320x200.jpg"></a>
+<p><a href="/7523/0412/2/en">The accounting system of contributions for projects (Zamir)</a><p>
+<p>
+One algorithm allows a systematic approach to the creation and development of innovative enterprises: 50% - 10% to + 4 Division team leader; 50% - 10% on the 4 stages of venture crowdinvesting.
+<a href="/7523/0412/2/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0412/1/en"><img src="/7523/0412/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0412/1/en">Open letter about the club</a><p>
+<p>
+We innovators club, where everyone has the opportunity to free form to tell us about your project at the stage of ideas. This is the initial step towards the creation of a startup. At this stage, the guys get feedback, is the formation of the team and assesses our community (like / dislike, fly / not fly).
+<a href="/7523/0412/1/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0318/1/en"><img src="/7523/0318/1/logo-320x200.jpg"></a>
+<a href="/7523/0318/1/en">Presidential Decree on the long-term national economic policy</a>
+<p>
+According to the concept of innovative development of the Russian Federation until 2020, should be provided with the transition of the Russian economy to an innovative type of development. Presidential Decree №596 dated May 7, 2012, "On the long-term national economic policy" in 2020 tasked with creating and upgrading of 25 million high-performance workplaces.
+<a href="/7523/0318/1/en">More...</a>
+</p>
+</div>
+
+<!--a href="/7523/03/17/01/en">Юра Синицын</a-->
+
+<div class="article">
+<a href="/7523/0222/1/en"><img src="/7523/0222/1/logo-320x200.jpg"/></a>
+<p><a href="/7523/0222/1/en">Project management tool</a></p>
+<p>
+For the design of the production system, we outline in conjunction with the Aviation and Stupino Metallurgical College create an industrial accelerator "StupInno" with the information environment of project management, which is a pilot project of 3D printing houses "Domodelovo." The system creates a group of students pros IS-2 third-year college.
+<a href="/7523/0222/1/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0213/1/en"><img src="/7523/0213/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0213/1/en">Real money - an idea that changes the future</a></p>
+<p>
+We need not only ideas, but also the resources that allow them to occur. And so farther and higher spiral of development and our wonderful way of life! And most importantly of course, in all this we are - people who help each other brains in all these processes.
+<a href="/7523/0213/1/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0129/2/en"><img src="/7523/0129/2/logo-320x200.jpg"></a>
+<p><a href="/7523/0129/2/en">About the Creator, God, and the motto of our movement</a></p>
+<p>
+We develop Innovators Community. We are talking about the choice of the motto for our company. The motto that reflects the essence of our business. As a result, we are talking about a creator. Publishes its response to the account of God, the Creator, and so forth.
+<a href="/7523/0129/2/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0127/3/en"><img src="/7523/0127/3/logo-320x200.jpg"></a>
+<p><a href="/7523/0127/3/en">Team Organization</a></p>
+<p>
+I apologize in advance, but my goal now - is the most lucidly explain what VALUES and what TEAM.
+<a href="/7523/0127/3/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/1219/1/en"><img src="/7522/1219/1/logo-320x200.jpg"/></a>
+<p><a href="/7522/1219/1/en">Parents - this mentors for their children</a><p>
+<p>
+A year ago, employees, and has been "successful" in the caste of slaves (the role of the specialist to the merchant). A year ago I ceased to be employed. My child was happy. I am not. I had plenty of time to work and deal with a child, but my child was nonetheless nurse (full day, why?).
+<a href="/7522/1219/1/en">More...</a>
+</p>
+</div>
+</a>
+
+<div class="article">
+<a href="/7522/1101/2/en"><img src="/7522/1101/2/logo-320x200.jpg"></a>
+<p><a href="/7522/1101/2/en">Round table. Innovation. Our way.</a><p>
+<p>
+The theory has ended, began the practice.
+<a href="/7522/1101/2/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/1030/1/en"><img src="/7522/1030/1/logo-320x200.jpg"/></a>
+<p><a href="/7522/1030/1/en">The vote on the selection of common goals</a></p>
+<p>
+Friends! From 10.22.2014 till 26.10.2014, the vote on the question of the selection of common: major, strategic and tactical objectives of the Community. Tactical Purpose Community: Creating a distributed network of communication in society, which can not be destroyed, moderate, or some other means to restrict freedom of information exchange.
+<a href="/7522/1030/1/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/1002/1/en"><img src="/7522/1002/1/logo-320x200.jpg"/></a>
+<p><a href="/7522/1002/1/en">How to implement a micro-crowdinvesting in Russia</a></p>
+<p>
+The unit of account in the company - piece of pie. To become a member of the company will need to purchase a certain number piece of pie (shares).
+<a href="/7522/1002/1/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7521/1221/1/en"><img src="/7521/1221/1/logo-320x200.jpg"/></a>
+<p><a href="/7521/1221/1/en">Centerpolice of the New World</a></p>
+<p>
+In human relations association of human effort is called Synergy. You have the technical knowledge to each other - communication, and the third - resources. However, as a team, you have everyone appears far more opportunities. Before the advent of the innovation economy appear synergy distorts competition...
+<a href="/7521/1221/1/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7515/1119/1/en"><img src="/7515/1119/1/logo-320x200.jpg"/></a>
+<p><a href="/7515/1119/1/en">Four Lives startup</a></p>
+<p>
+Startup - a young company, aimed at new markets. Creating his people - in the shower individualists and creators. Despite this algorithm for constructing startups rather is tough in nature. What determines their success at each stage, and how to avoid the inherent innovative disease?
+<a href="/7515/1119/1/en">More...</a>
+</p>
+</div>
+
+
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+
+<h2>Report on past events</h2>
+
+<div class="article">
+<a href="/7523/0506/1/en"><img src="/7523/0506/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0506/1/en">A-Club 30.04.15</a><p>
+<p>
+Dear friends! At a meeting after the holiday, "A-Club" on May 14, we will discuss the script and format of the on-site of our new educational partner - Russian New University "RosNOU".
+<a href="/7523/0506/1/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0427/2/ru"><img src="/7523/0427/2/logo-320x200.jpg"></a>
+<p><a href="/7523/0427/2/ru">A-Club 23.04.15</a><p>
+<p>
+We have identified a sequence of interaction partners in the creation of high-grade information infrastructure of innovation, infrastructure segment as a whole, the partners who intend to combine their resources to create a network of information and common rules agreed upon by the participants in the meeting.
+<a href="/7523/0427/2/ru">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0418/1/en"><img src="/7523/0418/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0418/1/en">A-CluB 16.04.15</a><p>
+<p>
+At the last meeting in the "A-Club" had some interesting proposals for the creation of infrastructure for innovation. This question is now the most urgent, because it is fertile soil in spring training will give us the opportunity to gather a good harvest in the fall.
+<a href="/7523/0418/1/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0412/3/en"><img src="/7523/0412/3/logo-320x200.jpg"></a>
+<p><a href="/7523/0412/3/en">A-CluB 09.04.15</a><p>
+<p>
+First of all, shared his impressions of the premiere Innoshou "Abundance". Thank you to all the speakers and innovators beautifully maintained their participants. As happens at the premiere was all very interesting, but a little messy.
+<a href="/7523/0412/3/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0321/1/en"><img src="/7523/0321/1/logo-320x200.jpg"/></a>
+<p><a href="/7523/0321/1/en">A-CluB 19.03.15</a></p>
+<p>
+On the day of the vernal equinox, dear friends!
+It is today not only on a calendar, but also on the natural cycle comes into its own long-awaited spring!
+<a href="/7523/0321/1/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0312/1/en"><img src="/7523/0312/1/logo-320x200.jpg"/></a>
+<p><a href="/7523/0312/1/en">Meeting of A-CluB 12.03</a></p>
+<p>
+Dear friends!
+After the incident together a community of "InInIn" and "AntiKB" We became not just more than 200 active innovators... More ideas, energy and resources!
+<a href="/7523/0312/1/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0308/1/en"><img src="/7523/0308/1/logo-320x200.jpg"/></a>
+<p><a href="/7523/0308/1/en">Meeting InInIn 20150305</a></p>
+<p>
+Dear friends!
+In this amazing holiday I am immensely happy to inform you about the momentous event that occurred in our club meeting in the March full moon!
+<a href="/7523/0308/1/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0301/1/en"><img src="/7523/0301/1/logo-320x200.jpg"/></a>
+<p><a href="/7523/0301/1/en">Meeting InInIn 20150226</a></p>
+<p>
+Dear friends!
+Congratulations on the arrival of spring! Yes, yes, again a holiday!
+Again, not one! We just before spring in one day were born just two prominent innovator - Andrey Kuznetsov and Alexey Vasiliev.
+<a href="/7523/0301/1/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0223/1/en"><img src="/7523/0223/1/logo-320x200.jpg"/></a>
+<p><a href="/7523/0223/1/en">Meeting InInIn 20150219</a></p>
+<p>
+We called a media project "Village-21" because firstly it is a show about a village of the 21st century, second project will cover how 3D printers and building robots will build 21 houses in which to live and be designed and build their innovators finally, in the third he is called, because everything is an exciting action will take place in the creative community "Village".
+<a href="/7523/0223/1/en">Read more...</a>
+</p>
+</div>
+
+<p>
+<a href="/7523/0214/1/en">Meeting InInIn 20150212</a>
+<br/>
+<a href="/7523/0207/1/en">Meeting InInIn 20150205</a>
+</p>
+
+<div class="article">
+<a href="/7522/1101/1/en"><img src="/7522/1101/1/logo-320x200.jpg"/></a>
+<p><a href="/7522/1101/1/en">"InInIn" Ltd</a></p>
+<p>
+The primary practical problem Ltd. "InInIn" - information infrastructure innovation. Everything we do in the game form, we will record videos of ideas. In general terms, our game will be to ensure that we create a "field", which begins to bring interesting ideas. During the discussion, on the basis of the ratings, arrive at the result - innovative projects.
+<a href="/7522/1101/1/en">Read more...</a>
+</p>
+</div>
+
+
+
+
+<nav class="main-footer-nav"><a href="/en">Main</a></nav>
+
+</main>
+<footer><div>7523-03-01 - 7525-05-21</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

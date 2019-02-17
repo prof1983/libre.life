@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Structure - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Structure</h1>
+
+<figure>
+<a href="img/00.png"><img src="img/00.jpg"/></a>
+</figure>
+
+<figure>
+<a href="img/05.png"><img src="img/05.jpg"/></a>
+</figure>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+<br/>
+<br/>
+
+<p class="h2"><a href="/club/en">Innovators</a></p>
+
+</main>
+<footer><div>7523-05-28 - 7524-05-31</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>club of loyal consumers - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>club of loyal consumers</h1>
+
+<figure>
+<a href="img/01b.jpg"><img src="img/01.jpg"/></a>
+</figure>
+
+<!--p class="h3">
+<a href="http://loyalconsumersclub.ru/">loyalconsumersclub.ru</a>
+</p-->
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/club/en">Club</a></p>
+
+</main>
+<footer><div>7524-04-02 - 7524-04-13</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

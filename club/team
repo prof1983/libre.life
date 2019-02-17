@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Команда - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<p class="h2"><a href="ru">Клуб Инноваторов (А-КлуБ)</a></p>
+
+
+<figure>
+<img src="img/logo/300x300.jpg"/>
+</figure>
+
+
+<h1>Команда</h1>
+
+<p class="h">
+Основатели клуба инноваторов и изобретателей (Анти-КлуБ)
+</p>
+
+<center>
+
+<div class="blocks blocks-team">
+
+<div>
+<figure>
+<img src="/people/1/img/logo/300x300.jpg"/>
+<br/>
+Логинов Ярослав - разработчик, создатель <a href="http://libre.life">Libre.Life</a>; координатор направлений клуба инноваций
+</figure>
+</div>
+
+<div>
+<figure>
+<img src="/people/2/img/logo/300x300.jpg"/>
+<br/>
+Замир Акимов - идейный и духовный лидер, создатель клуба Инноваторов ИнИнИн, предприниматель; руководитель направления шоу инноваторов "Изобилие" - проводится раз в месяц
+</figure>
+</div>
+
+<div>
+<figure>
+<img src="/people/5/img/logo/300x300.jpg"/>
+<br/>
+Кирилл Гребнев - основатель <a href="https://vk.com/akb_club">АнтиКБ</a>, создатель портала <a href="http://mindproducts.org">Продукты Разума</a>, <a href="http://sarafan.net">sarafan.net</a>, изобретатель головоломок; руководитель направления технического воплощения инноваций и изобретений - проводится раз в неделю, по четвергам
+</figure>
+</div>
+
+<div>
+<figure>
+<img src="/people/6/img/logo/300x300.jpg"/>
+<br/>
+Денис Рысев - специалист по бессмертию, основатель <a href="http://imcoins.org/">imcoins.org</a>; руководитель направления развития будущего, продления жизни, технологий бессмертия
+</figure>
+</div>
+
+<div>
+<figure>
+<img src="/people/3/img/logo/300x300.jpg"/>
+<br/>
+Андрей Кузнецов - руководитель проекта Neuro.Life - кандидат экономических наук, преподаватель МГУ им. Ломоносова, руководитель Лаборатории Изучения Интеллекта Человека (<a href="/p/7/ru">Kuznetsoff Laboratory</a>)
+</figure>
+</div>
+
+<!--figure>
+<img src="/people/4/img/logo/300x300.jpg"/>
+<br/>
+Сергей Смирнов - руководитель студии <a href="http://smirnovdesign.com">Смирнов дизайн</a>
+</figure-->
+
+</div>
+
+</center>
+
+
+<p class="h2"><a href="ru">Клуб Инноваторов (А-КлуБ)</a></p>
+
+</main>
+<footer><div>12.03.7523 - 01.04.7523 (2015)</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

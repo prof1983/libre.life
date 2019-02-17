@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Клуб Партнёров - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Клуб Партнёров</h1>
+
+<p class="h">
+Все картинки кликабельные.
+</p>
+
+<h2>1</h2>
+
+<figure>
+<a href="img/pr/01.png"><img src="img/pr/01.png" width="800"/></a>
+</figure>
+
+<h2>2</h2>
+
+<figure>
+<a href="img/pr/02.png"><img src="img/pr/02.png" width="800"/></a>
+</figure>
+
+<h2>3</h2>
+
+<figure>
+<a href="img/pr/03.png"><img src="img/pr/03.png" width="800"/></a>
+</figure>
+
+<h2>4</h2>
+
+<figure>
+<a href="img/pr/04.png"><img src="img/pr/04.png" width="800"/></a>
+</figure>
+
+<h2>5</h2>
+
+<figure>
+<a href="img/pr/05.png"><img src="img/pr/05.png" width="800"/></a>
+</figure>
+
+<h2>6</h2>
+
+<figure>
+<a href="img/pr/06.png"><img src="img/pr/06.png" width="800"/></a>
+</figure>
+
+<h2>7</h2>
+
+<figure>
+<a href="img/pr/07.png"><img src="img/pr/07.png" width="800"/></a>
+</figure>
+
+<h2>8</h2>
+
+<figure>
+<a href="img/pr/08.png"><img src="img/pr/08.png" width="800"/></a>
+</figure>
+
+<h2>9</h2>
+
+<figure>
+<a href="img/pr/09.png"><img src="img/pr/09.png" width="800"/></a>
+</figure>
+
+<h2>10</h2>
+
+<figure>
+<a href="img/pr/10.png"><img src="img/pr/10.png" width="800"/></a>
+</figure>
+
+<h2>11</h2>
+
+<figure>
+<a href="img/pr/11.png"><img src="img/pr/11.png" width="800"/></a>
+</figure>
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/club/partners/ru">Клуб Партнёров</a></p>
+
+</main>
+<footer><div>7524-05-12 - 7524-05-12</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

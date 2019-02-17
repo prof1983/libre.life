@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css">
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Innovators Show - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Innovators Show</h1>
+
+<figure>
+<a href="img/00b.jpg"><img src="img/00.jpg"/></a>
+</figure>
+
+<p class="h">
+<b>Show where innovators and inventors present their projects</b>
+</p>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Hbha0pFUbPE" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/sipOCRk795Y" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+<p class="h">
+Is held once a month
+</p>
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+<h2>Publications</h2>
+
+<div class="article">
+<a href="/7523/0520/1/en"><img src="/7523/0520/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0520/1/en">Announcement InnoShow in RosNOU</a><p>
+<p>
+Dear friends! I remind you that tomorrow, Thursday 21 May at 18:00 at the University "RosNOU" at ul. Radio 22, the audience will take 704 "InnoShow".
+<a href="/7523/0520/1/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0517/1/en"><img src="/7523/0517/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0517/1/en">Offer in three parts</a><p>
+<p>
+I finally realized that we needed to do and how to act to dramatically increase the efficiency of our operations. In this regard, today I have for you will be a few more than the usual letter. Rather proposal. In three parts.
+<a href="/7523/0517/1/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0506/1/en"><img src="/7523/0506/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0506/1/en">A-Club 30.04.15</a><p>
+<p>
+Dear friends! At a meeting after the holiday, "A-Club" on May 14, we will discuss the script and format of the on-site of our new educational partner - Russian New University "RosNOU".
+<a href="/7523/0506/1/en">Read more...</a>
+</p>
+</div>
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/club/en">Club</a></p>
+
+</main>
+<footer><div>7523-03-16 - 7523-05-21</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

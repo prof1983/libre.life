@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css">
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Шоу инноваторов - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Шоу инноваторов</h1>
+
+<figure>
+<a href="img/00b.jpg"><img src="img/00.jpg"/></a>
+</figure>
+
+<p class="h">
+<b>Шоу, на котором инноваторы и изобретатели презентуют свои проекты</b>
+</p>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Hbha0pFUbPE" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/sipOCRk795Y" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+<p class="h">
+Проводится раз в месяц
+</p>
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+<h2>Публикации</h2>
+
+<div class="article">
+<a href="/7523/0520/1/ru"><img src="/7523/0520/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0520/1/ru">Анонс ИнноШОУ в РосНОУ</a><p>
+<p>
+Дорогие друзья! Напоминаю вам, что завтра в четверг 21 мая в 18:00 в Университете "РосНОУ" по адресу ул. Радио 22, аудитория 704 состоится "ИнноШОУ".
+<a href="/7523/0520/1/ru">Подробнее...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0517/1/ru"><img src="/7523/0517/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0517/1/ru">Предложение в трех частях</a><p>
+<p>
+Я наконец понял, что нам нужно делать и как действовать, чтобы кардинально повысить результативность нашей деятельности. В этой связи сегодня у меня к вам будет несколько большее, чем обычно письмо. Вернее предложение. В трёх частях.
+<a href="/7523/0517/1/ru">Подробнее...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0506/1/ru"><img src="/7523/0506/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0506/1/ru">А-Клуб 30.04.15</a><p>
+<p>
+Дорогие друзья! На послепраздничной встрече "А-Клуба" 14-го Мая мы обсудим сценарий и формат проведения на площадке нашего нового образовательного партнера - Российского Нового Университета "РосНОУ".
+<a href="/7523/0506/1/ru">Подробнее...</a>
+</p>
+</div>
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/club/ru">Клуб</a></p>
+
+</main>
+<footer><div>7523-03-16 - 7523-05-21</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

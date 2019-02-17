@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Declaration of the Club (Alpha2) - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Declaration of the Club (Alpha2)</h1>
+
+<p class="h">
+Draft rules of the Club version Alpha2, organizational structure, rules of distribution of shares
+</p>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p class="h3">
+The last edition of the Declaration of the Club is available <a href="/club/declaration/en">here</a>.
+</p>
+
+
+<br/>
+<br/>
+
+
+<p class="h2">
+<a href="ru">Read more... (RU)</a>
+</p>
+
+
+
+<p class="h2"><a href="/club/en">Club</a></p>
+
+</main>
+<footer><div>7523-04-27 - 7523-05-29</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
