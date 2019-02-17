@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Forecast of development of technology until 2099 - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Forecast of development of technology until 2099</h1>
+
+<figure>
+<a href="00b.jpg"><img src="00.jpg"/></a>
+</figure>
+
+<p>
+Technical director of Google technology and the most famous futurist Ray Kurzweil spoke at the beginning of 2015 with the regular portion of the predictions.
+</p>
+
+<p class=h2>
+<a href="ru">RU</a>
+</p>
+
+
+<p class="h2"><a href="/per/en">Future</a></p>
+
+</main>
+<footer><div>7524-02-16 - 7524-02-16</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
