@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Organizational structure - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Organizational structure</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+I propose the following scheme: Thursdays meet in small groups - a maximum of 10-15 people who are where he wants. On Saturday there are representatives of these groups. Remember the Kopa law.
+</p>
+
+<p class="h2">
+<a href="ru">RU</a>
+</p>
+
+
+<p class="h2"><a href="/club/en">Club</a></p>
+
+</main>
+<footer><div>7523-04-16 - 7523-04-20</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
