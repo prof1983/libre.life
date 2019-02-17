@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Economic cycles - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Economic cycles</h1>
+
+<figure>
+<img src="07.jpg"/>
+</figure>
+
+<p>
+The business cycle or economic cycle is the downward and upward movement of gross domestic product (GDP) around its long-term growth trend.[1] The length of a business cycle is the period of time containing a single boom and contraction in sequence. These fluctuations typically involve shifts over time between periods of relatively rapid economic growth (expansions or booms), and periods of relative stagnation or decline (contractions or recessions).
+</p>
+
+<br/>
+
+<p class="h2">
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/economy/en">Economy</a></nav>
+
+</main>
+<footer><div>7525-03-20 - 7525-03-20</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
