@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Society - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Society</h1>
+
+<p class="h">
+People with common interests, values and goals
+</p>
+
+<div class="blocks blocks-front">
+
+<a href="/person/en">
+<div>
+<figure>
+<img src="/person/img/logo/300.png"/>
+</figure>
+<h3>Person</h3>
+<p>Personal finance, needs, health, self-fulfillment, creativity, safety, family</p>
+</div>
+</a>
+
+<a href="/co/en">
+<div>
+<figure>
+<img src="/co/img/logo/300.jpg"/>
+</figure>
+<h3>Jointly</h3>
+<p>Sharing resources</p>
+</div>
+</a>
+
+<a href="/nation/en">
+<div>
+<figure>
+<img src="/nation/img/logo/300.jpg"/>
+</figure>
+<h3>Nation</h3>
+<p>Government 2.0</p>
+</div>
+</a>
+
+<a href="/co/munication/en">
+<div>
+<figure>
+<img src="/co/munication/img/logo/300.jpg"/>
+</figure>
+<h3>Communication</h3>
+<p>Decentralization, Future Networks, Neyronet</p>
+</div>
+</a>
+
+<a href="http://dom.libre.life/space/en">
+<div>
+<figure>
+<img src="http://dom.libre.life/space/img/logo/300.jpg"/>
+</figure>
+<h3>Space</h3>
+<p>Location, area, zone</p>
+</div>
+</a>
+
+<!-- co/munication -->
+<a href="/sec/en">
+<div>
+<figure>
+<img src="/sec/img/logo/300.png"/>
+</figure>
+<h3>Security</h3>
+<p>Data security, personal security, national security</p>
+</div>
+</a>
+
+</div>
+
+<br/>
+<br/>
+
+<figure>
+<img src="img/00.jpg">
+</figure>
+
+
+
+
+<p>
+<a href="https://en.wikipedia.org/wiki/Society" target="_blank"><b>Society</b></a> is a group of people involved in persistent social interaction, or a large social grouping sharing the same geographical or social territory, typically subject to the same political authority and dominant cultural expectations. Societies are characterized by patterns of relationships (social relations) between individuals who share a distinctive culture and institutions; a given society may be described as the sum total of such relationships among its constituent members. In the social sciences, a larger society often evinces stratification or dominance patterns in subgroups.
+</p>
+
+<p>
+Insofar as it is collaborative, a society can enable its members to benefit in ways that would not otherwise be possible on an individual basis; both individual and social (common) benefits can thus be distinguished, or in many cases found to overlap.
+</p>
+
+<br/>
+
+<figure>
+<a href="img/01b.jpg"><img src="img/01.jpg"></a>
+</figure>
+
+<figure>
+<a href="img/02b.jpg"><img src="img/02.jpg"></a>
+</figure>
+
+<figure>
+<a href="img/03b.jpg"><img src="img/03.jpg"></a>
+</figure>
+
+<figure>
+<a href="img/04b.jpg"><img src="img/04.jpg"></a>
+</figure>
+
+<br/>
+
+
+
+
+<h2>Publications</h2>
+
+<div class="article">
+<a href="/7524/0705/1/en"><img src="/7524/0705/1/logo-320x200.jpg"></a>
+<p><a href="/7524/0705/1/en">Access to the Internet has become one of the inalienable human rights</a><p>
+<p>
+We all know about the existence of the Universal Declaration of Human Rights, which has incorporated the most important rules of human behavior developed during the long history of existence and development of mankind. The Declaration lists are important for all of us right as the inviolability of the person, prohibition of forced labor, freedom of movement, right to education and many others. Now joined the list and the right of access to the global Internet.
+<a href="/7524/0705/1/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0518/1/en"><img src="/7523/0518/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0518/1/en">Information fast food</a><p>
+<p>
+The correct approach is to exclude compromising sources of information from your menu, as you lose confidence in them, and do not return to them any more.
+<a href="/7523/0518/1/en">More...</a>
+</p>
+</div>
+
+
+
+
+<nav class="main-footer-nav"><a href="/en">Main</a></nav>
+
+</main>
+<footer><div>7524-06-01 - 7525-05-25</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
