@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>A useful and useless work - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>A useful and useless work</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+If the issue of money for any work (as a useful and not useful), the value of "money" will decrease. Therefore LibreMoney new money is issued only after the evaluation of the project's author.
+</p>
+
+
+<p class=h2>
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+<br/><br/><p class="h2"><a href="/money/libre/en">Libre.Money</a></p>
+
+</main>
+<footer><div>7524-06-13 - 7524-06-13</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
