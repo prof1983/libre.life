@@ -13,76 +13,51 @@
 <h1>Policy</h1>
 
 <p class="h">
-Achieving the best results
+Power, the management of public life and the functioning of the state
+<!--Achieving the best results-->
 </p>
 
-<div class="blocks blocks-front">
-
-<a href="/cracy/en">
-<div>
-<figure>
-<img src="/cracy/img/logo/300.jpg"/>
-</figure>
-<h3>Cracy</h3>
-<p>Decision-making system</p>
-</div>
+<nav class="nav_h">
+<img src="/img/h/2.png">
+<a id="nav_h_0" href="#more" title="Achieving the best results">
+	<img src="/policy/img/h/200.png" alt="Policy">
+	<h3>Policy</h3>
+	<p>Achieving the best results</p>
 </a>
-
-<a href="/vote/en">
-<div>
-<figure>
-<img src="/vote/img/logo/300.jpg"/>
-</figure>
-<h3>Vote</h3>
-<p>Liquid vote system</p>
-</div>
+<a id="nav_h_1" href="/cracy/en" title="Decision-making system">
+	<img src="/cracy/img/h/200.png" alt="Cracy">
+	<h3>Cracy</h3>
+	<p>Decision-making system</p>
 </a>
-
-<a href="/vol/en">
-<div>
-<figure>
-<img src="/vol/img/logo/300.jpg"/>
-</figure>
-<h3>Volition</h3>
-<p>Striving for a meaningful result</p>
-</div>
+<a id="nav_h_2" href="/vote/en" title="Liquid vote system">
+	<img src="/vote/img/h/200.png" alt="Vote">
+	<h3>Vote</h3>
+	<p>Liquid vote system</p>
 </a>
-
-<a href="/economy/en">
-<div>
-<figure>
-<img src="/economy/img/logo/300.jpg"/>
-</figure>
-<h3>Economy</h3>
-<p>Creation of resource-reputational economy</p>
-</div>
+<a id="nav_h_3" href="/vol/en" title="Striving for a meaningful result">
+	<img src="/vol/img/h/200.png" alt="Volition">
+	<h3>Volition</h3>
+	<p>Striving for a meaningful result</p>
 </a>
-
-<a href="/nation/en">
-<div>
-<figure>
-<img src="/nation/img/logo/300.jpg"/>
-</figure>
-<h3>Nation</h3>
-<p>Government 2.0</p>
-</div>
+<a id="nav_h_4" href="/nation/en" title="Government 2.0">
+	<img src="/nation/img/h/200.png" alt="Nation">
+	<h3>Nation</h3>
+	<p>Government 2.0</p>
 </a>
-
-<a href="/party/pirat/en">
-<div>
-<figure>
-<img src="/party/pirat/img/logo/300.png"/>
-</figure>
-<h3>Pirate Party</h3>
-<p>Pirate Party</p>
-</div>
+<a id="nav_h_5" href="/sec/en" title="Safeguarding against threats to life and health">
+	<img src="/sec/img/h/200.png" alt="Security">
+	<h3>Security</h3>
+	<p>Safeguarding against threats to life and health</p>
 </a>
+<a id="nav_h_6" href="/party/pirat/en" title="Freedom of dissemination and access to information">
+	<img src="/party/pirat/img/h/200.png" alt="Pirate Party">
+	<h3>Pirate Party</h3>
+	<p>Freedom of dissemination and access to information</p>
+</a>
+</nav>
 
-</div>
 
-<br/>
-<br/>
-
+<br/><br/><a name="more"></a>
 
 
 
@@ -99,12 +74,50 @@ Achieving the best results
 
 
 
-<br/>
-<br/>
+<h2>Публикации</h2>
 
-<p class="h2"><a href="/en">Main</a></p>
+<div class="article">
+<a href="/7524/0329/1/en"><img src="/7524/0329/1/logo-320x200.jpg"/></a>
+<p><a href="/7524/0329/1/en">From nationals to citizens: why people should pay taxes themselves</a></p>
+<p>
+That Russians become real citizens, and not subjects, as now, they should see how much they pay taxes, and understand what the state spends on them.
+<a href="/7524/0329/1/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/1101/1/en"><img src="/7523/1101/1/logo-320x200.jpg"/></a>
+<p><a href="/7523/1101/1/en">Iceland won back freedom and gives the bankers on trial</a></p>
+<p>
+By two separate decisions of the Supreme Court of Iceland and Reykjavik District Court last week sentenced to three senior managers Landsbankinn, two control Kaup?ing and one famous investor for crimes committed before the financial collapse of 2008. These have increased the number of placing convicts bankers and financiers to 26 people, and their total prison term to 74 years.
+<a href="/7523/1101/1/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/1116/1/en"><img src="/7522/1116/1/logo-320x200.jpg"/></a>
+<p><a href="/7522/1116/1/en">The medal "For the victory in the Cold War"</a></p>
+<p>
+The medal "For the victory in the Cold War" (USA) — unofficial US commemorative award. The medal may acquire, without the right to carry, troops armed US forces and civil servants of the federal government with an official certificate of service in the period of the Cold War (1946-1991 gg.).
+<a href="/7522/1116/1/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7518/1003/2/en"><img src="/7518/1003/2/logo-320x200.jpg"/></a>
+<p><a href="/7518/1003/2/en">To the question of ownership</a></p>
+<p>
+Abstracts of ownership of the Fourth Political Theory
+<a href="/7518/1003/2/en">More...</a>
+</p>
+</div>
+
+
+
+
+<nav class="main-footer-nav"><a href="/en">Main</a></nav>
 
 </main>
-<footer><div>7524-05-25 - 7524-06-02</div></footer><script src="/js/footer.js"></script>
+<footer><div>7524-05-25 - 7526-07-16</div></footer><script src="/js/footer.js"></script>
 </body>
 </html>
