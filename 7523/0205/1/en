@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Money, energy, human labor - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Money, energy, human labor</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+<b>Money - is an analogue of energy. The energy required to produce a product (good or service). In fact, Marx wrote about the same thing - only needed for the production of human labor. Human labor - that is, this energy - this is real money!</b>
+</p>
+
+<p class="h2"><a href="ru">RU</a></p>
+
+
+<p class="h2"><a href="/economy/en">Economy</a></p>
+
+</main>
+<footer><div>7523-02-05 - 7523-04-17</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
