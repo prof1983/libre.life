@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Delegated proof of share or DPOS protocol - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Delegated proof of share or DPOS protocol</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+This article introduces a new implementation of the Protocol evidence proportion in which the confirmation of transactions in seconds, providing greater security for a shorter period of time than any existing systems operating under the protocol proofs share PoS. By the time the system Bitcoin will be made only one block, your transaction will be certified for 20% of the shareholders, and by then, Bitcoin to approve the deal and make it almost irreversible (6 blocks, 1 hour), your transaction under DPOS protocol has to be certified 100% of the shareholders through their delegates.
+</p>
+
+
+<p>
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/money/libre/en">Libre.Money</a></nav>
+
+</main>
+<footer><div>7524-10-26 - 7524-10-26</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
