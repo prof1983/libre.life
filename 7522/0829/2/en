@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Presentation LibreMoney 20140829 - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Presentation LibreMoney 20140829</h1>
+
+<figure>
+<a href="00b.jpg"><img src="00.jpg"></a>
+</figure>
+
+<p class="h">
+20140829 Startup BootCamp LaunchGurus
+</p>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/bVkCVnagO-0" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+<p class="h">
+<a href="/people/1/en">Yaroslav Loginov</a>
+<br/>
+2014-08-29
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/money/libre/en">Libre.Money</a></nav>
+
+</main>
+<footer><div>7524-08-29 - 7524-08-29</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
