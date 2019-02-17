@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>GeneratorSdelok - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>GeneratorSdelok</h1>
+
+<figure>
+<img src="img/00.png"/>
+</figure>
+
+<p>
+<a href="http://generatorsdelok.ru" target="_blank">generatorsdelok.ru</a>
+</p>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/p/en">Projects</a></p>
+
+</main>
+<footer><div>7524-02-19 - 7524-02-19</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
