@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Политика - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Политика</h1>
+
+<p class="h">
+Достижение оптимальных результатов
+</p>
+
+
+<div class="blocks blocks-front">
+
+<a href="/cracy/ru">
+<div>
+<figure>
+<img src="/cracy/img/logo/300.jpg"/>
+</figure>
+<h3>Власть</h3>
+<p>Система принятия решений</p>
+</div>
+</a>
+
+<a href="/vote/ru">
+<div>
+<figure>
+<img src="/vote/img/logo/300.jpg"/>
+</figure>
+<h3>Голосование</h3>
+<p>Система прямой демократии</p>
+</div>
+</a>
+
+<a href="/vol/ru">
+<div>
+<figure>
+<img src="/vol/img/logo/300.jpg"/>
+</figure>
+<h3>Воля</h3>
+<p>Стремление к осмысленного результату</p>
+</div>
+</a>
+
+<a href="/economy/ru">
+<div>
+<figure>
+<img src="/economy/img/logo/300.jpg"/>
+</figure>
+<h3>Экономика</h3>
+<p>Совокупность производственных отношений</p>
+</div>
+</a>
+
+<a href="/nation/ru">
+<div>
+<figure>
+<img src="/nation/img/logo/300.jpg"/>
+</figure>
+<h3>Нация</h3>
+<p>Государство 2.0</p>
+</div>
+</a>
+
+<a href="/party/pirat/ru">
+<div>
+<figure>
+<img src="/party/pirat/img/logo/300.png"/>
+</figure>
+<h3>Pirate Party</h3>
+<p>Пиратская Партия</p>
+</div>
+</a>
+
+</div>
+
+<br/>
+<br/>
+
+
+
+
+<figure>
+<img src="img/00.jpg">
+</figure>
+
+<p>
+<a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)" target="_blank"><b>Политика</b></a> — в управлении, система принципов для принятия решений и достижения оптимальных результатов.
+</p>
+
+<p>
+<a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0_(%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)" target="_blank"><b>Политика в управлении</b></a> — это система принципов для принятия решений и достижения оптимальных результатов. Политика направляет действие на достижение генеральных целей при выполнении конкретных задач. Путём распределения направлений, которым нужно следовать, она объясняет основные механизмы, каким образом должны быть достигнуты цели. Политика оставляет свободу манёвра в последовательных действиях.
+</p>
+
+<p>
+<a href="http://rpp.nashaucheba.ru/docs/index-147023.html" target="_blank">Сетевая политика и Интернет-демократия</a>
+</p>
+
+
+
+
+<br/>
+<br/>
+
+<p class="h2"><a href="/ru">Главная</a></p>
+
+</main>
+<footer><div>7524-05-25 - 7524-06-02</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

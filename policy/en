@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Policy - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Policy</h1>
+
+<p class="h">
+Achieving the best results
+</p>
+
+<div class="blocks blocks-front">
+
+<a href="/cracy/en">
+<div>
+<figure>
+<img src="/cracy/img/logo/300.jpg"/>
+</figure>
+<h3>Cracy</h3>
+<p>Decision-making system</p>
+</div>
+</a>
+
+<a href="/vote/en">
+<div>
+<figure>
+<img src="/vote/img/logo/300.jpg"/>
+</figure>
+<h3>Vote</h3>
+<p>Liquid vote system</p>
+</div>
+</a>
+
+<a href="/vol/en">
+<div>
+<figure>
+<img src="/vol/img/logo/300.jpg"/>
+</figure>
+<h3>Volition</h3>
+<p>Striving for a meaningful result</p>
+</div>
+</a>
+
+<a href="/economy/en">
+<div>
+<figure>
+<img src="/economy/img/logo/300.jpg"/>
+</figure>
+<h3>Economy</h3>
+<p>Creation of resource-reputational economy</p>
+</div>
+</a>
+
+<a href="/nation/en">
+<div>
+<figure>
+<img src="/nation/img/logo/300.jpg"/>
+</figure>
+<h3>Nation</h3>
+<p>Government 2.0</p>
+</div>
+</a>
+
+<a href="/party/pirat/en">
+<div>
+<figure>
+<img src="/party/pirat/img/logo/300.png"/>
+</figure>
+<h3>Pirate Party</h3>
+<p>Pirate Party</p>
+</div>
+</a>
+
+</div>
+
+<br/>
+<br/>
+
+
+
+
+<figure>
+<img src="img/00.jpg">
+</figure>
+
+<p>
+<a href="https://en.wikipedia.org/wiki/Policy" target="_blank">en.wikipedia.org/wiki/Policy</a>
+<br/>
+<a href="https://en.wikipedia.org/wiki/Politics_(disambiguation)" target="_blank">https://en.wikipedia.org/wiki/Politics_(disambiguation)</a>
+</p>
+
+
+
+
+<br/>
+<br/>
+
+<p class="h2"><a href="/en">Main</a></p>
+
+</main>
+<footer><div>7524-05-25 - 7524-06-02</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
