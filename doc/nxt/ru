@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>NXT - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>NXT</h1>
+
+
+<p>
+<a href="Main_Page_ru.html"><b>Главная страница Nxt Wiki</b></a>
+<br/>
+<a href="api">API</a> (en)
+<br/>
+<a href="Account_Control_ru.html">Управление аккаунтом</a>
+<br/>
+<a href="Account_Leasing_ru.html">Аренда аккаунта</a>
+<br/>
+<a href="Alias_System_ru.html">Система алиасов (псевдонимов)</a>
+<br/>
+<a href="Arbitrary_Messages_ru.html">Произвольные сообщения</a>
+<br/>
+<a href="Asset_Exchange_ru.html">Биржа активов</a>
+<br/>
+<a href="Colored_Coins_ru.html">Цветные монеты</a>
+<br/>
+<a href="Common_problems_and_resolutions_ru.html">Известные проблемы и методы их решения</a>
+<br/>
+<a href="Contribute_ru.html">Ваш вклад</a>
+<br/>
+<a href="Current_Features_ru.html">Текущие возможности</a>
+<br/>
+<a href="FAQ_ru.html">Часто задаваемые вопросы</a>
+<br/>
+<a href="For_Programmers_ru.html">Для программистов</a>
+<br/>
+<a href="Getting_Started_ru.html">Начало работы с Nxt</a>
+<br/>
+<a href="Glossary_ru.html">Глоссарий</a>
+<br/>
+<a href="Help_translate_ru.html">Помощь переводчикам</a>
+<br/>
+<a href="How_block_generation_works.html">How block generation works</a> (en)
+<br/>
+<a href="how-to/ru.html">Инструкции</a>
+<br/>
+<a href="how-to/Automate_Nxt_for_your_website.html">How-To: Automate Nxt for your website</a> (en)
+<br/>
+<a href="how-to/CreateAccount_ru.html">How-To: Создание аккаунта</a>
+<br/>
+<a href="how-to/CreateAlias_ru.html">How-To: Создать алиас</a>
+<br/>
+<a href="how-to/CreateHallmark_ru.html">How-To: Создать клеймо (hallmark)</a>
+<br/>
+<a href="how-to/Create_Nxt_Accounts_for_Site_Users_ru.html">How-To: Создание аккаунта для пользователей сайта</a>
+<br/>
+<a href="how-to/CreatePublicNode_ru.html">How-To: Создание публичного узла (ноды)</a>
+<br/>
+<a href="how-to/GenerateStrongPassword_ru.html">How-To: Генерация надежного пароля</a>
+<br/>
+<a href="how-to/Handle_Deposits_ru.html">How-To: Handle Deposits</a>
+<br/>
+<a href="how-to/Handle_Withdrawals_ru.html">How-To: Handle Withdrawals</a>
+<br/>
+<a href="how-to/SendMessage_ru.html">How-To: Отправка сообщений</a>
+<br/>
+<a href="how-to/SendNxt_ru.html">How-To: Отправить Nxt</a>
+<br/>
+<a href="how-to/UninstallNRSClient_ru.html">How-To: Удалить Nxt NRS клиент</a>
+<br/>
+<a href="how-to/UpdateNRSClient_ru.html">How-To: Как обновить NRS клиент</a>
+<br/>
+<a href="how-to/UseSslCerts_ru.html">How-To: UseSslCerts</a>
+<br/>
+<a href="how-to/VerifyGPG_ru.html">How-To: Как подтвердить GPG</a>
+<br/>
+<a href="how-to/VerifySHA256_ru.html">How-To: Проверка SHA256</a>
+<br/>
+<a href="How_Tx_Processing_Works_ru.html">Как происходит обработка транзакций</a>
+<br/>
+<a href="Important_Links_ru.html">Важные ссылки</a>
+<br/>
+<a href="Nxt_Blockchain_Tutorial.html">Nxt Blockchain Tutorial</a> (en)
+<br/>
+<a href="NxtCash.html">NxtCash</a> (en)
+<br/>
+<a href="Nxt_client_interface_ru.html">Интерфейс клиента Nxt</a>
+<br/>
+<a href="Nxt-default_properties_configuration_file_ru.html">Файл конфигурации: nxt-default.properties</a>
+<br/>
+<a href="Nxt_History_ru.html">История развития Nxt</a>
+<br/>
+<a href="Nxt_Tools_ru.html">Утилиты для работы с Nxt</a>
+<br/>
+<a href="Nxt_Wiki_en.html">Nxt Wiki</a>
+<br/>
+<a href="PHP_Examples.html">PHP Examples</a> (en)
+<br/>
+<a href="Planned_Features_ru.html">Запланированные обновления</a>
+<br/>
+<a href="QR_Codes_for_RS_Address_Format.html">QR Codes for RS Address Format</a> (en)
+<br/>
+<a href="RS_Address_Format_ru.html">Формат адреса в кодировке RS</a>
+<br/>
+<a href="Site_Integration_ru.html">Интеграция с сайтом</a>
+<br/>
+<a href="Transparent_Forging_ru.html">Прозрачный Форжинг</a>
+<br/>
+<a href="Under_The_Hood_ru.html">Внутреннее устройство</a>
+<br/>
+<a href="Web_xml_configuration_file.html">Web xml configuration file</a> (en)
+</p>
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/doc/ru">Документация</a></p>
+
+</main>
+<footer><div>7523-06-08 - 7523-06-08</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

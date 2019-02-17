@@ -1,0 +1,1384 @@
+<!DOCTYPE html>
+<html lang="ru" dir="ltr" class="client-js">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="UTF-8"><title>Nxt Blockchain Tutorial — Nxt Wiki</title>
+<meta name="generator" content="MediaWiki 1.22.0">
+<link rel="ExportRDF" type="application/rdf+xml" title="Nxt Blockchain Tutorial" href="https://wiki.nxtcrypto.org/w/index.php?title=Special:ExportRDF/Nxt_Blockchain_Tutorial&xmlmime=rdf">
+<link rel="shortcut icon" href="https://wiki.nxtcrypto.org/w/images/5/5c/Nxt_icon_16x16.png">
+<link rel="search" type="application/opensearchdescription+xml" href="https://wiki.nxtcrypto.org/w/opensearch_desc.php" title="Nxt Wiki (en)">
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.nxtcrypto.org/w/api.php?action=rsd">
+<link rel="alternate" type="application/atom+xml" title="Nxt Wiki — Atom-лента" href="https://wiki.nxtcrypto.org/w/index.php?title=Special:RecentChanges&feed=atom">
+<link rel="stylesheet" href="https://wiki.nxtcrypto.org/w/load.php?debug=false&lang=ru&modules=ext.uls.nojs%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&only=styles&skin=vector&*">
+<style>
+.qtip,.qtip{position:absolute;left:-28000px;top:-28000px;display:none;max-width:280px;min-width:50px;font-size:10.5px;line-height:12px;direction:ltr}.qtip-content{position:relative;padding:5px 9px;overflow:hidden;text-align:left;word-wrap:break-word}.qtip-titlebar{position:relative;padding:5px 35px 5px 10px;overflow:hidden;border-width:0 0 1px;font-weight:bold}.qtip-titlebar + .qtip-content{border-top-width:0 !important} .qtip-close{position:absolute;right:-9px;top:-9px;cursor:pointer;outline:medium none;border-width:1px;border-style:solid;border-color:transparent}.qtip-titlebar .qtip-close{right:4px;top:50%;margin-top:-9px}* html .qtip-titlebar .qtip-close{top:16px} .qtip-titlebar .ui-icon,.qtip-icon .ui-icon{display:block;text-indent:-1000em;direction:ltr;vertical-align:middle}.qtip-icon,.qtip-icon .ui-icon{-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;text-decoration:none}.qtip-icon .ui-icon{width:18px;height:14px;text-align:center;text-indent:0;font:normal bold 10px/13px Tahoma,sans-serif;color:inherit;background:transparent none no-repeat -100em -100em} .qtip-focus{} .qtip-hover{} .qtip-default{border-width:1px;border-style:solid;border-color:#F1D031;background-color:#FFFFA3;color:#555}.qtip-default .qtip-titlebar{background-color:#FFEF93}.qtip-default .qtip-icon{border-color:#CCC;background:#F1F1F1;color:#777}.qtip-default .qtip-titlebar .qtip-close{border-color:#AAA;color:#111} .qtip-light{background-color:white;border-color:#E2E2E2;color:#454545}.qtip-light .qtip-titlebar{background-color:#f1f1f1} .qtip-dark{background-color:#505050;border-color:#303030;color:#f3f3f3}.qtip-dark .qtip-titlebar{background-color:#404040}.qtip-dark .qtip-icon{border-color:#444}.qtip-dark .qtip-titlebar .ui-state-hover{border-color:#303030} .qtip-cream{background-color:#FBF7AA;border-color:#F9E98E;color:#A27D35}.qtip-cream .qtip-titlebar{background-color:#F0DE7D}.qtip-cream .qtip-close .qtip-icon{background-position:-82px 0} .qtip-red{background-color:#F78B83;border-color:#D95252;color:#912323}.qtip-red .qtip-titlebar{background-color:#F06D65}.qtip-red .qtip-close .qtip-icon{background-position:-102px 0}.qtip-red .qtip-icon{border-color:#D95252}.qtip-red .qtip-titlebar .ui-state-hover{border-color:#D95252} .qtip-green{background-color:#CAED9E;border-color:#90D93F;color:#3F6219}.qtip-green .qtip-titlebar{background-color:#B0DE78}.qtip-green .qtip-close .qtip-icon{background-position:-42px 0} .qtip-blue{background-color:#E5F6FE;border-color:#ADD9ED;color:#5E99BD}.qtip-blue .qtip-titlebar{background-color:#D0E9F5}.qtip-blue .qtip-close .qtip-icon{background-position:-2px 0} .qtip-shadow{-webkit-box-shadow:1px 1px 3px 1px rgba(0,0,0,0.15);-moz-box-shadow:1px 1px 3px 1px rgba(0,0,0,0.15);box-shadow:1px 1px 3px 1px rgba(0,0,0,0.15)} .qtip-rounded,.qtip-tipsy,.qtip-bootstrap{-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px} .qtip-youtube{-moz-border-radius:2px;-webkit-border-radius:2px;border-radius:2px;-webkit-box-shadow:0 0 3px #333;-moz-box-shadow:0 0 3px #333;box-shadow:0 0 3px #333;color:white;border-width:0;background:#4A4A4A;background-image:-webkit-gradient(linear,left top,left bottom,color-stop(0,#4A4A4A),color-stop(100%,black));background-image:-webkit-linear-gradient(top,#4A4A4A 0,black 100%);background-image:-moz-linear-gradient(top,#4A4A4A 0,black 100%);background-image:-ms-linear-gradient(top,#4A4A4A 0,black 100%);background-image:-o-linear-gradient(top,#4A4A4A 0,black 100%)}.qtip-youtube .qtip-titlebar{background-color:#4A4A4A;background-color:rgba(0,0,0,0)}.qtip-youtube .qtip-content{padding:.75em;font:12px arial,sans-serif;filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#4a4a4a,EndColorStr=#000000);-ms-filter:"progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#4a4a4a,EndColorStr=#000000);"}.qtip-youtube .qtip-icon{border-color:#222}.qtip-youtube .qtip-titlebar .ui-state-hover{border-color:#303030} .qtip-jtools{background:#232323;background:rgba(0,0,0,0.7);background-image:-webkit-gradient(linear,left top,left bottom,from(#717171),to(#232323));background-image:-moz-linear-gradient(top,#717171,#232323);background-image:-webkit-linear-gradient(top,#717171,#232323);background-image:-ms-linear-gradient(top,#717171,#232323);background-image:-o-linear-gradient(top,#717171,#232323);border:2px solid #ddd;border:2px solid rgba(241,241,241,1);-moz-border-radius:2px;-webkit-border-radius:2px;border-radius:2px;-webkit-box-shadow:0 0 12px #333;-moz-box-shadow:0 0 12px #333;box-shadow:0 0 12px #333} .qtip-jtools .qtip-titlebar{background-color:transparent;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#717171,endColorstr=#4A4A4A);-ms-filter:"progid:DXImageTransform.Microsoft.gradient(startColorstr=#717171,endColorstr=#4A4A4A)"}.qtip-jtools .qtip-content{filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4A4A4A,endColorstr=#232323);-ms-filter:"progid:DXImageTransform.Microsoft.gradient(startColorstr=#4A4A4A,endColorstr=#232323)"}.qtip-jtools .qtip-titlebar,.qtip-jtools .qtip-content{background:transparent;color:white;border:0 dashed transparent}.qtip-jtools .qtip-icon{border-color:#555}.qtip-jtools .qtip-titlebar .ui-state-hover{border-color:#333} .qtip-cluetip{-webkit-box-shadow:4px 4px 5px rgba(0,0,0,0.4);-moz-box-shadow:4px 4px 5px rgba(0,0,0,0.4);box-shadow:4px 4px 5px rgba(0,0,0,0.4);background-color:#D9D9C2;color:#111;border:0 dashed transparent}.qtip-cluetip .qtip-titlebar{background-color:#87876A;color:white;border:0 dashed transparent}.qtip-cluetip .qtip-icon{border-color:#808064}.qtip-cluetip .qtip-titlebar .ui-state-hover{border-color:#696952;color:#696952} .qtip-tipsy{background:black;background:rgba(0,0,0,.87);color:white;border:0 solid transparent;font-size:11px;font-family:'Lucida Grande',sans-serif;font-weight:bold;line-height:16px;text-shadow:0 1px black}.qtip-tipsy .qtip-titlebar{padding:6px 35px 0 10;background-color:transparent}.qtip-tipsy .qtip-content{padding:6px 10}.qtip-tipsy .qtip-icon{border-color:#222;text-shadow:none}.qtip-tipsy .qtip-titlebar .ui-state-hover{border-color:#303030} .qtip-tipped{border:3px solid #959FA9;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;background-color:#F9F9F9;color:#454545;font-weight:normal;font-family:serif}.qtip-tipped .qtip-titlebar{border-bottom-width:0;color:white;background:#3A79B8;background-image:-webkit-gradient(linear,left top,left bottom,from(#3A79B8),to(#2E629D));background-image:-webkit-linear-gradient(top,#3A79B8,#2E629D);background-image:-moz-linear-gradient(top,#3A79B8,#2E629D);background-image:-ms-linear-gradient(top,#3A79B8,#2E629D);background-image:-o-linear-gradient(top,#3A79B8,#2E629D);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#3A79B8,endColorstr=#2E629D);-ms-filter:"progid:DXImageTransform.Microsoft.gradient(startColorstr=#3A79B8,endColorstr=#2E629D)"}.qtip-tipped .qtip-icon{border:2px solid #285589;background:#285589}.qtip-tipped .qtip-icon .ui-icon{background-color:#FBFBFB;color:#555} .qtip-bootstrap{ font-size:14px;line-height:20px;color:#333333; padding:1px;background-color:#ffffff;border:1px solid #ccc;border:1px solid rgba(0,0,0,0.2);-webkit-border-radius:6px;-moz-border-radius:6px;border-radius:6px;-webkit-box-shadow:0 5px 10px rgba(0,0,0,0.2);-moz-box-shadow:0 5px 10px rgba(0,0,0,0.2);box-shadow:0 5px 10px rgba(0,0,0,0.2);-webkit-background-clip:padding-box;-moz-background-clip:padding;background-clip:padding-box}.qtip-bootstrap .qtip-titlebar{ padding:8px 14px;margin:0;font-size:14px;font-weight:normal;line-height:18px;background-color:#f7f7f7;border-bottom:1px solid #ebebeb;-webkit-border-radius:5px 5px 0 0;-moz-border-radius:5px 5px 0 0;border-radius:5px 5px 0 0}.qtip-bootstrap .qtip-titlebar .qtip-close{ right:11px;top:45%;border-style:none}.qtip-bootstrap .qtip-content{ padding:9px 14px}.qtip-bootstrap .qtip-icon{ background:transparent}.qtip-bootstrap .qtip-icon .ui-icon{ width:auto;height:auto; float:right;font-size:20px;font-weight:bold;line-height:18px;color:#000000;text-shadow:0 1px 0 #ffffff;opacity:0.2;filter:alpha(opacity=20)}.qtip-bootstrap .qtip-icon .ui-icon:hover{ color:#000000;text-decoration:none;cursor:pointer;opacity:0.4;filter:alpha(opacity=40)} .qtip:not(.ie9haxors) div.qtip-content,.qtip:not(.ie9haxors) div.qtip-titlebar{filter:none;-ms-filter:none} .qtip .qtip-tip{margin:0 auto;overflow:hidden;z-index:10}.qtip .qtip-tip,.qtip .qtip-tip .qtip-vml{position:absolute;color:#123456;background:transparent;border:0 dashed transparent}.qtip .qtip-tip canvas{top:0;left:0}.qtip .qtip-tip .qtip-vml{behavior:url(#default#VML);display:inline-block;visibility:visible} #qtip-overlay{position:fixed;left:-10000em;top:-10000em} #qtip-overlay.blurs{cursor:pointer} #qtip-overlay div{position:absolute;left:0;top:0;width:100%;height:100%;background-color:black;opacity:0.7;filter:alpha(opacity=70);-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"} .qtipmodal-ie6fix{position:absolute !important}
+/* cache key: krisjose_med1-war_:resourceloader:filter:minify-css:7:41ffaee069228769025644e340c1e368 */
+div.smwtt{color:#000000} span.smwttpersist span.smwttcontent{color:#888888;font-style:italic;font-size:90%} span.smwttinline span.smwttcontent{display:none;speak:none} span.smwtticon{display:none} span.smwttactivepersist{cursor:help;color:#0000C8} span.smwttactiveinline{color:#BB7700;text-decoration:none} img.smwttimg{padding-right:5px;padding-left:4px} .smwttcontent{display:none} .smwtticon{padding:14px 12px 0 0;white-space:nowrap;margin-bottom:-1px} .smwtticon.info{display:inline-block;background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABmJLR0QAQACXAOIX6M4XAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH1woNCAQvupvvrgAAAgpJREFUKBUFwTtME3EAwOHf3f961+vd9Sh9HEVINUrFhAbRmCgGo9FodCFMLhomJ6MmJsbF1Z2ExMHBUQc3BmOigyERB0ElQHgECRYECrRC26OPa3t+nwQAAI7aO/K458yJeK8qOA74dY/1hbWdxZWJsVUoeAAKAImh2NDdR/duD54cdRLRdMQydB84KJaPzufyyx+6Tr+Zej/2jr1vBUHiin3j/pPnwzcvPMv0OKlb/YlAT4cupR1d0lRNNWwrmUhEB+tmSl7/vTktMiNPhy9dvviyM2FYnZEgpRp8WS3htaC/W2du64iWLAUl1RgoY84qiiJdU03TKFR9vv+tIZQGsiTojqg0WrDtwlHVR7PscCDAVaXoEV3KN+hCELUVVBFgNBOkXZd5NVPhoC6TL0J2v8FhnbiCUBtlX2WzInB1jZiuEQ4KfhVgrR7ErUO+UsMlgCwUT6FRW9YU2TdMXbIsjbglmD+EPQ9iYQFo1Go6Xq3c8hveolze2/hY3M6u2IaGHRI4JpxthyRVHAPCIQXbDFLcyi6WcuufhLs2lXMxsy0tkk51tDkdYVU6ZkosbFXxAwF290vN6amfM0uf374oTI5/lQAAYfddP5e58/BBuivel4qF4k0f/uy7u0sbubn5ifHX7srkLNCUAAAAQtFUW/LUQLI9HHGaPv6/Yj63s/pju1LYPAQA+A8p2cUweh5dZAAAAABJRU5ErkJggg==) no-repeat left bottom;background:url(//wiki.nxtcrypto.org/w/extensions/SemanticMediaWiki/resources/smw/util/../../images/info.png?2014-01-02T03:16:40Z) no-repeat left bottom!ie}.smwtticon.service{display:inline-block;background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABmJLR0QAQACXAOIX6M4XAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH1woNCAQvupvvrgAAAgpJREFUKBUFwTtME3EAwOHf3f961+vd9Sh9HEVINUrFhAbRmCgGo9FodCFMLhomJ6MmJsbF1Z2ExMHBUQc3BmOigyERB0ElQHgECRYECrRC26OPa3t+nwQAAI7aO/K458yJeK8qOA74dY/1hbWdxZWJsVUoeAAKAImh2NDdR/duD54cdRLRdMQydB84KJaPzufyyx+6Tr+Zej/2jr1vBUHiin3j/pPnwzcvPMv0OKlb/YlAT4cupR1d0lRNNWwrmUhEB+tmSl7/vTktMiNPhy9dvviyM2FYnZEgpRp8WS3htaC/W2du64iWLAUl1RgoY84qiiJdU03TKFR9vv+tIZQGsiTojqg0WrDtwlHVR7PscCDAVaXoEV3KN+hCELUVVBFgNBOkXZd5NVPhoC6TL0J2v8FhnbiCUBtlX2WzInB1jZiuEQ4KfhVgrR7ErUO+UsMlgCwUT6FRW9YU2TdMXbIsjbglmD+EPQ9iYQFo1Go6Xq3c8hveolze2/hY3M6u2IaGHRI4JpxthyRVHAPCIQXbDFLcyi6WcuufhLs2lXMxsy0tkk51tDkdYVU6ZkosbFXxAwF290vN6amfM0uf374oTI5/lQAAYfddP5e58/BBuivel4qF4k0f/uy7u0sbubn5ifHX7srkLNCUAAAAQtFUW/LUQLI9HHGaPv6/Yj63s/pju1LYPAQA+A8p2cUweh5dZAAAAABJRU5ErkJggg==) no-repeat left bottom;background:url(//wiki.nxtcrypto.org/w/extensions/SemanticMediaWiki/resources/smw/util/../../images/info.png?2014-01-02T03:16:40Z) no-repeat left bottom!ie}.smwtticon.warning{display:inline-block;background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAZ1JREFUKFOVy79rE3EcxvH39+7y8/q9pF4S0xi0mEiaMxV68Yxg8PeiVyhV6iCIQhErHUScFJxcHAX/Azf/AgWXWlsUhyrYioMiqKgoiEgrJTH3cSuldvE9Pg8vkw3Nt6lfHuZ68g9fnv/k2/pPRDDWD098bD1gTO4cdS+NNowp38ZhQ2tgZgQSWo3kDgyPpU/esSuHd4fnK6o1lERtCuIp0tmGO73sHavevf8B8Y7uaDT7pwMXvSmwEkbgNHeFb1eLPH22wNJKnka7enxAG+1/wKxPpq+SuuaeOKSzuSQxq0vGjZML99vj+xJXDmoKa2DOx0znOVUcL7fNrXl8v0OtZhIEv1GFFLUJt3XW43TRJAZgGBal/lbsjN0sZeENIkuEoQUsAq/RQcZpHjEnzpUpA/DqAld/zOjVqOdJFO2RuXlPhuo5efBwUKJou0S9gvx6HO/cG+OmiGD1FdSU3tZNyNdPAFQd4cbFHvUty8jnCOhhl6JYfZBJ4JY1+1IeObc770S6ChClQCvhxaKwEAEISqE+vuf7XkCJCP/TX7cEexPi9whUAAAAAElFTkSuQmCC) no-repeat left bottom;background:url(//wiki.nxtcrypto.org/w/extensions/SemanticMediaWiki/resources/smw/util/../../images/warning.png?2014-01-02T03:16:40Z) no-repeat left bottom!ie}.smwtticon.note{display:inline-block;background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAgtJREFUeNokUctqU1EUXefk5iY3D2MrSWOamyq9jYO2BovUR41O1Iykov6Bc6WDDh36A4oKnYkORZBCoA6KI1GrEKhoFWOo1qhJk6Z539c57sTB5gzOWns9NpMA3KCK0s0TsHwiBsW3qPi0OYerbmP89IaVnFvtMn/dmEginU5DITyYLSA4y40embp3MDWVVoNhgKvot1sob699/OqdvM0MY32AVTrZWZhhfnEsk85HEikOxoERnbYwBLxeGNH4jK/wdq1W1Bd7h8fySnlei4WT0ZV4ROWivQt4A+AzV0DrIV8/AtQA9Onjyt7G6spmOJHhb6IXrkbCnqOyuw+YNL0aTRPSpOnVidgE7A70Q/7x+pf315Wgph1TpAVBOcApktUBnN7/t9/AoBT6REAl8f3dBcW07R1pdSGkSvaJIBzIWpHUWkRqDrNAWENFIWJBZafWKZgjbWghDZIRgUK7Hx4PugNzXSK1wZmLVq0CO5ot8kw2Vyg70U+M/Eu7D0lWPLm78GSXKEOD7JlAu4rvTVWwmPGc/frzF63S5kIgv7SeOGCp0usHUmfAhAtW3SIdga2ffZTnl++nZk/dYlJKkDBePXtyOfb56cO4W5rUWH9YQEcEsI2U+9u48WD63KVlY0K3hpeWjgMxqr+snr9zslL5do3t/ThLnYXsUKLIY8YLj22+Y441gOKfAAMAeeDgUIIDAXwAAAAASUVORK5CYII=) no-repeat left bottom;background:url(//wiki.nxtcrypto.org/w/extensions/SemanticMediaWiki/resources/smw/util/../../images/note.png?2014-01-02T03:16:40Z) no-repeat left bottom!ie}  span.smwbuiltin,span.smwttactiveinline span.smwbuiltin{font-style:italic} div.smwpre{white-space:pre;font-family:monospace;padding:1em;border:1px dashed #2f6fab;color:black;background-color:#f9f9f9;line-height:1.1em;margin-bottom:0.5em;margin-top:0.5em} #smwfootbr{clear:both} span.smwsortkey{display:none} a.sortheader:hover{text-decoration:none} div.smwtimeline{border:1px solid #AAAAAA;background-color:#F9F9F9;  }span.smwtlevent,span.smwtlband,span.smwtlsize,span.smwtlposition{display:none;speak:none}span.smwtlcomment{font-style:italic;padding:5px} div.smwfact{clear:both;background-color:#F9F9F9;padding:5px;margin-top:1em;border:1px solid #AAAAAA;font-size:95%}div.smwfact td,div.smwfact tr,div.smwfact table{background-color:#F9F9F9}span.smwfactboxhead{font-size:110%;font-weight:bold;float:left}table.smwfacttable{border-top:1px dotted #AAAAAA;width:100%;clear:both}td.smwpropname,th.smwpropname,td.smwspecname{text-align:right;vertical-align:top;padding-right:1em}td.smwprops,td.smwspecs{vertical-align:top;width:75%}div.smwhr hr{background-color:#DDDDDD;color:#DDDDDD} span.smwwarning{color:#888888;font-style:italic;font-size:90%} span.smwsearchicon{padding-right:16px;margin-right:2px;color:#888888;background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAMAAABhq6zVAAABC1BMVEU+S114jayTpb6Im7eMn7qhsceBlbOYqcKXp8GDl7N2i6rJ0uCYqcJogKB9kq+KnLipt81qgKF8kK9qgKF4jayntstheJpsgqOSo75RaIxWbpCIm7fAy9tlfJ5keptedZdHXX5bcpWBlbOersajssmVp79lfJ5thKN2i6phd5lTa45GW3lPZ4plfJ5le5xRaYxbcpV3jKt2i6pWbpBKYoVOZolSao2HmrZ4jaxTa45JYYRJYYSHmrZedZdFWnhTa45ieZtVbZCzv9Lm6/Ha4Onp7fKks8rb4uvf5e3h5u7X3um2wtXQ2OTAy9vW3efl6fCmtcrJ0uDGz96jssm5xdaruc6uu8+9yNnt8PXd7KeZAAAAQnRSTlMACfbevtlP8sRPTv2lFfRF2Cz1A7jZLdG4HFbm/q8vBAxjxO/syrHaxk0EByM4NyUrutRNBAI6xeJdADjU4QFO3NoNTLabAAAAeElEQVQIHQXBvQ7BUACA0e+7P020EQsDC4NBYrZJ38BTewcmg8XGomnjRso50QlUuSkA1p9TenF2+oRUH7/DzMoChJJH3n2bEpDS0CS7kAVCntd9txhjBFzp7he86h03qqp6kb2qbm8qABy06Y0A8FjHcTkIANCqf7L2G5qa4UzTAAAAAElFTkSuQmCC) center right no-repeat;background:url(//wiki.nxtcrypto.org/w/extensions/SemanticMediaWiki/resources/smw/../images/searchgray_iconsmall.png?2014-01-02T03:16:40Z) center right no-repeat!ie}#bodyContent span.smwsearch a{padding-right:16px;margin-right:2px;color:#888888;background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAMAAABhq6zVAAABC1BMVEU+S114jayTpb6Im7eMn7qhsceBlbOYqcKXp8GDl7N2i6rJ0uCYqcJogKB9kq+KnLipt81qgKF8kK9qgKF4jayntstheJpsgqOSo75RaIxWbpCIm7fAy9tlfJ5keptedZdHXX5bcpWBlbOersajssmVp79lfJ5thKN2i6phd5lTa45GW3lPZ4plfJ5le5xRaYxbcpV3jKt2i6pWbpBKYoVOZolSao2HmrZ4jaxTa45JYYRJYYSHmrZedZdFWnhTa45ieZtVbZCzv9Lm6/Ha4Onp7fKks8rb4uvf5e3h5u7X3um2wtXQ2OTAy9vW3efl6fCmtcrJ0uDGz96jssm5xdaruc6uu8+9yNnt8PXd7KeZAAAAQnRSTlMACfbevtlP8sRPTv2lFfRF2Cz1A7jZLdG4HFbm/q8vBAxjxO/syrHaxk0EByM4NyUrutRNBAI6xeJdADjU4QFO3NoNTLabAAAAeElEQVQIHQXBvQ7BUACA0e+7P020EQsDC4NBYrZJ38BTewcmg8XGomnjRso50QlUuSkA1p9TenF2+oRUH7/DzMoChJJH3n2bEpDS0CS7kAVCntd9txhjBFzp7he86h03qqp6kb2qbm8qABy06Y0A8FjHcTkIANCqf7L2G5qa4UzTAAAAAElFTkSuQmCC) center right no-repeat;background:url(//wiki.nxtcrypto.org/w/extensions/SemanticMediaWiki/resources/smw/../images/searchgray_iconsmall.png?2014-01-02T03:16:40Z) center right no-repeat!ie}#bodyContent span.smwsearch a:hover{text-decoration:none;color:#0000FF;padding-right:18px;margin-right:0px;background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAALySURBVDgRlcFraNVlHMDx7+95nv/zP+d/LnObeVtz2uyCrRUVDAIHMbIXltUgKRYR7kWvupjYDSEkgkgoKCiJfGeRzqw0CvYuahBWyrZWuWihuWNrZ+e2c87OZf//U1DB8EXU52P27XuV9takiiVS95ZjV+xdjK3uxbO0sFi15ewnlBYO1pZqP9YbTZQSLmeUOF1eNs+fj219QXdt1i2rfXwPlpxKho3qbpme3B7+/N2wUoyKCJcz9VB2ZFfdcKDtxh7p3hiRiMFSDfKFJjadwF/fd+V8pfhmYXK83ynJgLCSKanU47Et18qmDsc1axXtAlPzEekOS7XhSK3SmNt6uuemJnc2K5VDog0rmaptvWXtmgRBLKJNBL/h8DyhPRBqScGKI31dB2c8c2exsHhIW8tKZtmm/MBGFIohZ2oRQaDYkFYECgLAOjBa0ajVk8VSGc+3rGSa+Us18XQ8bIREgSKIC74G5aAdsEAjjCgXioXSYgVTX0bE8Q+zMD0xVs2V7tKtCepNiJRQB1JAClgjwskvvuXCzOypWn2ZeLiEA5wD58DkZs69fO7UyYGBPQ/FYxoi51D8JRBhNl/i05FRWlpaLtzReZbOxiSzRcNcCXIVMErL2E+fffSYNe61/t33pUxbEgeIwOmpGY6/fQxj4mzrTe/vyUz0zzflLU/CeSOgcRhRiqhZPzx+/OjEr998tXdDd2dfPBHT1flc4eL0Lyc6OzeeXt9WHu52Xw5etTk9UP0+f2szsg87XMEhGP4kWiNEXxczmQfERQSpBIXMHKVcka1XO/QP76/rvr9rsOf2IezIu3f/PpY/8lvRewTIGv4mImjPw/MtnvXwYhbtB9jqefzKxaMfj+R74+u6nrh+1xDN8MiO7Gj+8ELZDhv+lcOJRhtTuZRt7Hn9xQ/do88MPnnz0BAPyns73ziRf8fwH/lWu9mF5acPHvggevalXU+137QN9fn4PYb/wfN0M1cKn3tl/7FNbVt6tk9L39k/AH8KLAsrDQkDAAAAAElFTkSuQmCC) center right no-repeat;background:url(//wiki.nxtcrypto.org/w/extensions/SemanticMediaWiki/resources/smw/../images/search_icon.png?2014-01-02T03:16:40Z) center right no-repeat!ie}#bodyContent span.swmfactboxheadbrowse a{padding-right:16px;margin-right:2px;color:#000000;background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAMAAABhq6zVAAAA5FBMVEUAAADb3uv///+gqcBJYqGTmq24v9KJkamboLBtfqOnrbuSmqyqr7yVnK3o6e3n6OrKzdaWna7O0NWMlKiQl6qWm6yRma3DxczEyM+Olqyeo7J+iaamq7qZoLGMlKrg4eiYobqFjqfBxMyQl6hXbaGXnK+hprmcobPEx9BZbaGkqriIkayjp7d1g6iztsSytsZzf6GcobSaobjq6++Umq5abZ6aoLJre6NqeqJ7hqfg4umvtsp0g6h9iaff4el3hKVld6aUoL6wt8meo7SXnbCUm66Jkqnq6+64usRfcqOxs8Dm5+teFG05AAAAAXRSTlMAQObYZgAAAH9JREFUeF4dymMSRDEABOGZ5HFt27Zt3v8+m833r6saSqDl6aSC0ELhXN7r80egVBYZRmOMJ5LAIV0lsy55LRRRKlNYbs0SrDfQpBCybUgh2EXvH4aOPgZDtRkjtY0nmM7m5HtJrtYbYLvb07Z5PJ2hXMybad4fEtrz5TifL4AfAxMLmJTt7hwAAAAASUVORK5CYII=) center right no-repeat;background:url(//wiki.nxtcrypto.org/w/extensions/SemanticMediaWiki/resources/smw/../images/browse_iconsmall.png?2014-01-02T03:16:40Z) center right no-repeat!ie}#bodyContent span.swmfactboxheadbrowse a:hover{text-decoration:none;color:#0000FF;padding-right:18px;margin-right:0px;background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAA81BMVEUAAADByOQOLn7///8BInfg5O2xuthsf7ODk8CmqbEnQ4slQYoYNYJqea6BhZaSlJ9kbo5fc6xld62/v8Fnea6BhZdbb6lKY6axsrWIjJe/wMQ6UZOCkMVoeq6Gk79BWZpBWJqCkr4uSo8mRI8PLnqio6plcppIXp+LjprFxsgmQYMrRo4nRJI6TX+ytLyKl8xseah7ir9cbqUDJXeJl8xWbLBue6xPZaeYm6V+hqCLl841S34MLXwsSZJVaasSMYBcaYZUZphLYqBsfrFKYaB3iLcwS5EvSpFjeK1neq4zTpE2ToxQaKlSXoIMKW9idKyur7PDoCJEAAAAAXRSTlMAQObYZgAAAJtJREFUGFdlT8USg1AQ292HQ93d3d3dvf//NYWBHhhyS2ZiAAYCnpC7GoU/al5XsjPs9V9fk8tEPn8q+AlH6jGDxxMrwnQmm8N8oVjShXLljXhS1ANio9kCaK+7yIQ9aUeB4XgyhdkcGZOWA44kxnC0hZ3OeXHDcSTyurJwCg6LGXom7WKFmrVXRb1Ztcawu20YyI+nbbrznP3+D9crFuL3dLY6AAAAAElFTkSuQmCC) center right no-repeat;background:url(//wiki.nxtcrypto.org/w/extensions/SemanticMediaWiki/resources/smw/../images/browse_icon.png?2014-01-02T03:16:40Z) center right no-repeat!ie}#bodyContent span.smwbrowse a{padding-right:16px;margin-right:2px;color:#888888;background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAMAAABhq6zVAAAA5FBMVEUAAADb3uv///+gqcBJYqGTmq24v9KJkamboLBtfqOnrbuSmqyqr7yVnK3o6e3n6OrKzdaWna7O0NWMlKiQl6qWm6yRma3DxczEyM+Olqyeo7J+iaamq7qZoLGMlKrg4eiYobqFjqfBxMyQl6hXbaGXnK+hprmcobPEx9BZbaGkqriIkayjp7d1g6iztsSytsZzf6GcobSaobjq6++Umq5abZ6aoLJre6NqeqJ7hqfg4umvtsp0g6h9iaff4el3hKVld6aUoL6wt8meo7SXnbCUm66Jkqnq6+64usRfcqOxs8Dm5+teFG05AAAAAXRSTlMAQObYZgAAAH9JREFUeF4dymMSRDEABOGZ5HFt27Zt3v8+m833r6saSqDl6aSC0ELhXN7r80egVBYZRmOMJ5LAIV0lsy55LRRRKlNYbs0SrDfQpBCybUgh2EXvH4aOPgZDtRkjtY0nmM7m5HtJrtYbYLvb07Z5PJ2hXMybad4fEtrz5TifL4AfAxMLmJTt7hwAAAAASUVORK5CYII=) center right no-repeat;background:url(//wiki.nxtcrypto.org/w/extensions/SemanticMediaWiki/resources/smw/../images/browse_iconsmall.png?2014-01-02T03:16:40Z) center right no-repeat!ie}#bodyContent span.smwbrowse a:hover{text-decoration:none;color:#0000FF;padding-right:18px;margin-right:0px;background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAA81BMVEUAAADByOQOLn7///8BInfg5O2xuthsf7ODk8CmqbEnQ4slQYoYNYJqea6BhZaSlJ9kbo5fc6xld62/v8Fnea6BhZdbb6lKY6axsrWIjJe/wMQ6UZOCkMVoeq6Gk79BWZpBWJqCkr4uSo8mRI8PLnqio6plcppIXp+LjprFxsgmQYMrRo4nRJI6TX+ytLyKl8xseah7ir9cbqUDJXeJl8xWbLBue6xPZaeYm6V+hqCLl841S34MLXwsSZJVaasSMYBcaYZUZphLYqBsfrFKYaB3iLcwS5EvSpFjeK1neq4zTpE2ToxQaKlSXoIMKW9idKyur7PDoCJEAAAAAXRSTlMAQObYZgAAAJtJREFUGFdlT8USg1AQ292HQ93d3d3dvf//NYWBHhhyS2ZiAAYCnpC7GoU/al5XsjPs9V9fk8tEPn8q+AlH6jGDxxMrwnQmm8N8oVjShXLljXhS1ANio9kCaK+7yIQ9aUeB4XgyhdkcGZOWA44kxnC0hZ3OeXHDcSTyurJwCg6LGXom7WKFmrVXRb1Ztcawu20YyI+nbbrznP3+D9crFuL3dLY6AAAAAElFTkSuQmCC) center right no-repeat;background:url(//wiki.nxtcrypto.org/w/extensions/SemanticMediaWiki/resources/smw/../images/browse_icon.png?2014-01-02T03:16:40Z) center right no-repeat!ie}#bodyContent span.smwmap a{padding-right:20px;color:#888888;background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAANkE3LLaAgAAAzBJREFUOBGlwTtsGwUAgOH/zufHOe9zHBzsJM6DhpRUCWmjCiolKgOiS6VKrWBghSUswEAlJjYGRlQECypQhoIEAqlNuwSiJhSqkJAqbR40pnbjR/w6+x72+Xw+itgqMfF98D8JPCn2thwfDZ9/cXro7LOjfSflgLetpBoP1u9llm7/kbqirn+wyX/pmLz4wvsfXV9PplW30XBcu+m4dtNxrUbTNcyGu7r2sH72jc8/hHmJJwUm3pu79OUvVcO03ZJad1PpirtxL+3e2Uy5v24k3b1EwVWrlltW6+75hS++hgseHvPwjyPv9L72yuyNhddPhTXDIpEqki/p6GaDoOzlsKgjCCJOs4VmWBwd7T+2eDerGwdLqxKPdcltb710cnwgmVHJl3R2EjkkSaTVclG6g9hNh/HhPrySh939Am3BAPPHn7l4tfDuZQ+86RVD8scdbb6wLHvJ5quoWo1sQaOq1ckVdAajCqeOD2M3HBwHDgsGubwp7z3MbYn+8Z6oKAjDK+sJvrm+gVeSmBqP4TgumztZDrIauUONRKpMOqfRdFoUSzXUqondap3wBMJzMURhIRDwismMymC/wpn5CSaPRCiWDXp7giCIfHJllWLZJBLqolypc215i2yxui02/T7d5/PYlWqNnk6ZzZ00uw/yyD4fF85MMTsdY2RAQdOaJA+q5EsmZr2BZdv4vP6qx8nphtw/8qrfHwjrhoUousSjvcT6u7h5a4fFn7fJ5U062/y4Lgz1K+wk8rQQ+HN365IEa7aZ6f4+Mn3uaPJRlopmMRZXiD3dgW40qNUddMnCrNsc5FRUrYZhNUhnD0v1/a9uioBkZVcWq6WD0lg8Qme7TKVqIXqgL9TO2GAIBBerYeP3SeylcgRkmcz24lUwyx4gAM1uvZgkEp898fzkiNinyKzcSVBSTSLhDtqDPsJKO0NRhZCisPLTd3fVxLXPgLwHaAESzYqhZrfVztBQPBobaotGFGYmY4S62wkGZXqVbvb2s+6NHy7fytz/9lPgPpAR+JcE9AIDIE6MHzs9N3/65ZmZqeeeQhCkR+m8/vvab3vLSz8u62rqNvAXkAFqfwOkPI+h92xJFAAAAABJRU5ErkJggg==) center right no-repeat;background:url(//wiki.nxtcrypto.org/w/extensions/SemanticMediaWiki/resources/smw/../images/world.png?2014-01-02T03:16:40Z) center right no-repeat!ie}#bodyContent span.smwmap a:hover{padding-right:20px;color:#0000FF;background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAANkE3LLaAgAAAzBJREFUOBGlwTtsGwUAgOH/zufHOe9zHBzsJM6DhpRUCWmjCiolKgOiS6VKrWBghSUswEAlJjYGRlQECypQhoIEAqlNuwSiJhSqkJAqbR40pnbjR/w6+x72+Xw+itgqMfF98D8JPCn2thwfDZ9/cXro7LOjfSflgLetpBoP1u9llm7/kbqirn+wyX/pmLz4wvsfXV9PplW30XBcu+m4dtNxrUbTNcyGu7r2sH72jc8/hHmJJwUm3pu79OUvVcO03ZJad1PpirtxL+3e2Uy5v24k3b1EwVWrlltW6+75hS++hgseHvPwjyPv9L72yuyNhddPhTXDIpEqki/p6GaDoOzlsKgjCCJOs4VmWBwd7T+2eDerGwdLqxKPdcltb710cnwgmVHJl3R2EjkkSaTVclG6g9hNh/HhPrySh939Am3BAPPHn7l4tfDuZQ+86RVD8scdbb6wLHvJ5quoWo1sQaOq1ckVdAajCqeOD2M3HBwHDgsGubwp7z3MbYn+8Z6oKAjDK+sJvrm+gVeSmBqP4TgumztZDrIauUONRKpMOqfRdFoUSzXUqondap3wBMJzMURhIRDwismMymC/wpn5CSaPRCiWDXp7giCIfHJllWLZJBLqolypc215i2yxui02/T7d5/PYlWqNnk6ZzZ00uw/yyD4fF85MMTsdY2RAQdOaJA+q5EsmZr2BZdv4vP6qx8nphtw/8qrfHwjrhoUousSjvcT6u7h5a4fFn7fJ5U062/y4Lgz1K+wk8rQQ+HN365IEa7aZ6f4+Mn3uaPJRlopmMRZXiD3dgW40qNUddMnCrNsc5FRUrYZhNUhnD0v1/a9uioBkZVcWq6WD0lg8Qme7TKVqIXqgL9TO2GAIBBerYeP3SeylcgRkmcz24lUwyx4gAM1uvZgkEp898fzkiNinyKzcSVBSTSLhDtqDPsJKO0NRhZCisPLTd3fVxLXPgLwHaAESzYqhZrfVztBQPBobaotGFGYmY4S62wkGZXqVbvb2s+6NHy7fytz/9lPgPpAR+JcE9AIDIE6MHzs9N3/65ZmZqeeeQhCkR+m8/vvab3vLSz8u62rqNvAXkAFqfwOkPI+h92xJFAAAAABJRU5ErkJggg==) center right no-repeat;background:url(//wiki.nxtcrypto.org/w/extensions/SemanticMediaWiki/resources/smw/../images/world.png?2014-01-02T03:16:40Z) center right no-repeat!ie}#bodyContent span.rdflink{float:right}#bodyContent span.rdflink a{padding-right:20px;color:#888888;background:url(data:image/gif;base64,R0lGODlhEQASAIQeAIWjzhpTo0h1tvH0+SpeqUh1tWeMwjlqr+Hp89Ld7cLR5rPG4RpSo8PS53aYyDhpr5Wv1FiBvO/z+KS62uDo8ileqWaMwXWXx7LF4KO62pSu1FeAu9Hc7P///wtHnQtHnSH+FUNyZWF0ZWQgd2l0aCBUaGUgR0lNUAAh+QQBAAAfACwAAAAAEQASAAAFU+AnjuQneKhQriclpSvJSC/qxaNX2/hn/6pY6udRAX03k82Y6dROJKjI01H8VknfDoXNbbmkougEBC+DZDES1aHAcChKZ9nzza89HbGefvfSDh8hADs=) center right no-repeat;background:url(//wiki.nxtcrypto.org/w/extensions/SemanticMediaWiki/resources/smw/../images/rdf_flyer.18.gif?2014-01-02T03:16:40Z) center right no-repeat!ie}#bodyContent span.rdflink a:hover{text-decoration:none;color:#0000FF;padding-right:20px;margin-right:0px;background:url(data:image/gif;base64,R0lGODlhEQASAIQeAIWjzhpTo0h1tvH0+SpeqUh1tWeMwjlqr+Hp89Ld7cLR5rPG4RpSo8PS53aYyDhpr5Wv1FiBvO/z+KS62uDo8ileqWaMwXWXx7LF4KO62pSu1FeAu9Hc7P///wtHnQtHnSH+FUNyZWF0ZWQgd2l0aCBUaGUgR0lNUAAh+QQBAAAfACwAAAAAEQASAAAFU+AnjuQneKhQriclpSvJSC/qxaNX2/hn/6pY6udRAX03k82Y6dROJKjI01H8VknfDoXNbbmkougEBC+DZDES1aHAcChKZ9nzza89HbGefvfSDh8hADs=) center right no-repeat;background:url(//wiki.nxtcrypto.org/w/extensions/SemanticMediaWiki/resources/smw/../images/rdf_flyer.18.gif?2014-01-02T03:16:40Z) center right no-repeat!ie} table.smwb-factbox{border-left:8px solid #DDDDDD;width:100% }tr.smwb-title{font-size:200%;background-color:#DDDDDD;line-height:1.5}tr.smwb-title td{padding-left:5px;border-bottom:2px solid white}tr.smwb-propvalue{width:100%;background-color:#EEEEEE}tr.smwb-propvalue th{text-align:right;vertical-align:top;font-weight:bold;font-size:120%;background-color:#DDDDDD;padding:0.2em 0.6em;border-bottom:2px solid white;border-top:2px solid white}tr.smwb-propvalue td{padding-left:0.4em;background-color:#EEEEEE;border:0px solid white;border-bottom:2px solid white;border-top:2px solid white;width:90%}tr.smwb-center{background-color:#DDDDDD}span.smwb-value{} table.smwb-ifactbox{border-right:8px solid #DDDDDD;width:100% }tr.smwb-ititle{font-size:200%;background-color:#DDDDDD;line-height:1.5}tr.smwb-ititle td{padding-left:5px;border-bottom:2px solid white}tr.smwb-ipropvalue{width:100%;background-color:#EEEEEE;text-align:right}tr.smwb-ipropvalue th{text-align:left;font-weight:bold;font-size:120%;background-color:#DDDDDD;padding:0.2em 0.6em;border-bottom:3px solid white;border-top:3px solid white}tr.smwb-ipropvalue td{background-color:#EEEEEE;border-bottom:3px solid white;border-top:3px solid white;padding-right:1em;width:90%}span.smwb-ivalue{} .smw-spinner .text{padding-left:2.1em;font-size:12px;vertical-align:middle} .smw-spinner.left.mw-small-spinner{background-position:left;vertical-align:middle;display:inline-block;padding:0px !important} .smw-spinner.center.mw-small-spinner{vertical-align:middle;display:inline-block;padding:0px !important}
+/* cache key: krisjose_med1-war_:resourceloader:filter:minify-css:7:1f608c7849389e65103238640d2a4760 */
+div.smwtt{color:#000000} span.smwttpersist span.smwttcontent{color:#888888;font-style:italic;font-size:90%} span.smwttinline span.smwttcontent{display:none;speak:none} span.smwtticon{display:none} span.smwttactivepersist{cursor:help;color:#0000C8} span.smwttactiveinline{color:#BB7700;text-decoration:none} img.smwttimg{padding-right:5px;padding-left:4px} .smwttcontent{display:none} .smwtticon{padding:14px 12px 0 0;white-space:nowrap;margin-bottom:-1px} .smwtticon.info{display:inline-block;background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABmJLR0QAQACXAOIX6M4XAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH1woNCAQvupvvrgAAAgpJREFUKBUFwTtME3EAwOHf3f961+vd9Sh9HEVINUrFhAbRmCgGo9FodCFMLhomJ6MmJsbF1Z2ExMHBUQc3BmOigyERB0ElQHgECRYECrRC26OPa3t+nwQAAI7aO/K458yJeK8qOA74dY/1hbWdxZWJsVUoeAAKAImh2NDdR/duD54cdRLRdMQydB84KJaPzufyyx+6Tr+Zej/2jr1vBUHiin3j/pPnwzcvPMv0OKlb/YlAT4cupR1d0lRNNWwrmUhEB+tmSl7/vTktMiNPhy9dvviyM2FYnZEgpRp8WS3htaC/W2du64iWLAUl1RgoY84qiiJdU03TKFR9vv+tIZQGsiTojqg0WrDtwlHVR7PscCDAVaXoEV3KN+hCELUVVBFgNBOkXZd5NVPhoC6TL0J2v8FhnbiCUBtlX2WzInB1jZiuEQ4KfhVgrR7ErUO+UsMlgCwUT6FRW9YU2TdMXbIsjbglmD+EPQ9iYQFo1Go6Xq3c8hveolze2/hY3M6u2IaGHRI4JpxthyRVHAPCIQXbDFLcyi6WcuufhLs2lXMxsy0tkk51tDkdYVU6ZkosbFXxAwF290vN6amfM0uf374oTI5/lQAAYfddP5e58/BBuivel4qF4k0f/uy7u0sbubn5ifHX7srkLNCUAAAAQtFUW/LUQLI9HHGaPv6/Yj63s/pju1LYPAQA+A8p2cUweh5dZAAAAABJRU5ErkJggg==) no-repeat left bottom;background:url(//wiki.nxtcrypto.org/w/extensions/SemanticMediaWiki/resources/smw/util/../../images/info.png?2014-01-02T03:16:40Z) no-repeat left bottom!ie}.smwtticon.service{display:inline-block;background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABmJLR0QAQACXAOIX6M4XAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH1woNCAQvupvvrgAAAgpJREFUKBUFwTtME3EAwOHf3f961+vd9Sh9HEVINUrFhAbRmCgGo9FodCFMLhomJ6MmJsbF1Z2ExMHBUQc3BmOigyERB0ElQHgECRYECrRC26OPa3t+nwQAAI7aO/K458yJeK8qOA74dY/1hbWdxZWJsVUoeAAKAImh2NDdR/duD54cdRLRdMQydB84KJaPzufyyx+6Tr+Zej/2jr1vBUHiin3j/pPnwzcvPMv0OKlb/YlAT4cupR1d0lRNNWwrmUhEB+tmSl7/vTktMiNPhy9dvviyM2FYnZEgpRp8WS3htaC/W2du64iWLAUl1RgoY84qiiJdU03TKFR9vv+tIZQGsiTojqg0WrDtwlHVR7PscCDAVaXoEV3KN+hCELUVVBFgNBOkXZd5NVPhoC6TL0J2v8FhnbiCUBtlX2WzInB1jZiuEQ4KfhVgrR7ErUO+UsMlgCwUT6FRW9YU2TdMXbIsjbglmD+EPQ9iYQFo1Go6Xq3c8hveolze2/hY3M6u2IaGHRI4JpxthyRVHAPCIQXbDFLcyi6WcuufhLs2lXMxsy0tkk51tDkdYVU6ZkosbFXxAwF290vN6amfM0uf374oTI5/lQAAYfddP5e58/BBuivel4qF4k0f/uy7u0sbubn5ifHX7srkLNCUAAAAQtFUW/LUQLI9HHGaPv6/Yj63s/pju1LYPAQA+A8p2cUweh5dZAAAAABJRU5ErkJggg==) no-repeat left bottom;background:url(//wiki.nxtcrypto.org/w/extensions/SemanticMediaWiki/resources/smw/util/../../images/info.png?2014-01-02T03:16:40Z) no-repeat left bottom!ie}.smwtticon.warning{display:inline-block;background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAZ1JREFUKFOVy79rE3EcxvH39+7y8/q9pF4S0xi0mEiaMxV68Yxg8PeiVyhV6iCIQhErHUScFJxcHAX/Azf/AgWXWlsUhyrYioMiqKgoiEgrJTH3cSuldvE9Pg8vkw3Nt6lfHuZ68g9fnv/k2/pPRDDWD098bD1gTO4cdS+NNowp38ZhQ2tgZgQSWo3kDgyPpU/esSuHd4fnK6o1lERtCuIp0tmGO73sHavevf8B8Y7uaDT7pwMXvSmwEkbgNHeFb1eLPH22wNJKnka7enxAG+1/wKxPpq+SuuaeOKSzuSQxq0vGjZML99vj+xJXDmoKa2DOx0znOVUcL7fNrXl8v0OtZhIEv1GFFLUJt3XW43TRJAZgGBal/lbsjN0sZeENIkuEoQUsAq/RQcZpHjEnzpUpA/DqAld/zOjVqOdJFO2RuXlPhuo5efBwUKJou0S9gvx6HO/cG+OmiGD1FdSU3tZNyNdPAFQd4cbFHvUty8jnCOhhl6JYfZBJ4JY1+1IeObc770S6ChClQCvhxaKwEAEISqE+vuf7XkCJCP/TX7cEexPi9whUAAAAAElFTkSuQmCC) no-repeat left bottom;background:url(//wiki.nxtcrypto.org/w/extensions/SemanticMediaWiki/resources/smw/util/../../images/warning.png?2014-01-02T03:16:40Z) no-repeat left bottom!ie}.smwtticon.note{display:inline-block;background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAgtJREFUeNokUctqU1EUXefk5iY3D2MrSWOamyq9jYO2BovUR41O1Iykov6Bc6WDDh36A4oKnYkORZBCoA6KI1GrEKhoFWOo1qhJk6Z539c57sTB5gzOWns9NpMA3KCK0s0TsHwiBsW3qPi0OYerbmP89IaVnFvtMn/dmEginU5DITyYLSA4y40embp3MDWVVoNhgKvot1sob699/OqdvM0MY32AVTrZWZhhfnEsk85HEikOxoERnbYwBLxeGNH4jK/wdq1W1Bd7h8fySnlei4WT0ZV4ROWivQt4A+AzV0DrIV8/AtQA9Onjyt7G6spmOJHhb6IXrkbCnqOyuw+YNL0aTRPSpOnVidgE7A70Q/7x+pf315Wgph1TpAVBOcApktUBnN7/t9/AoBT6REAl8f3dBcW07R1pdSGkSvaJIBzIWpHUWkRqDrNAWENFIWJBZafWKZgjbWghDZIRgUK7Hx4PugNzXSK1wZmLVq0CO5ot8kw2Vyg70U+M/Eu7D0lWPLm78GSXKEOD7JlAu4rvTVWwmPGc/frzF63S5kIgv7SeOGCp0usHUmfAhAtW3SIdga2ffZTnl++nZk/dYlJKkDBePXtyOfb56cO4W5rUWH9YQEcEsI2U+9u48WD63KVlY0K3hpeWjgMxqr+snr9zslL5do3t/ThLnYXsUKLIY8YLj22+Y441gOKfAAMAeeDgUIIDAXwAAAAASUVORK5CYII=) no-repeat left bottom;background:url(//wiki.nxtcrypto.org/w/extensions/SemanticMediaWiki/resources/smw/util/../../images/note.png?2014-01-02T03:16:40Z) no-repeat left bottom!ie}
+/* cache key: krisjose_med1-war_:resourceloader:filter:minify-css:7:bd83221091d86a27fb1e5beefb41de59 */</style><style>
+.tipsy{padding:5px;position:absolute;z-index:100000;cursor:default}.tipsy-inner{padding:5px 8px 4px 8px; background-color:#ffffff;border:solid 1px #a7d7f9;color:black;max-width:15em;border-radius:4px;-moz-border-radius:4px;-webkit-border-radius:4px; }.tipsy-arrow{position:absolute;background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAALAgMAAADUwp+1AAAACVBMVEX5+fmn1/n///9s6BFKAAAAAXRSTlMAQObYZgAAACpJREFUCB1jZBD4wMiQMoeRcUU4I9uSaYxSE54xZjn8AtMgPkgcJA9UBwAeDw1Qrb3pVAAAAABJRU5ErkJggg==) no-repeat top left;background:url(//wiki.nxtcrypto.org/w/resources/jquery.tipsy/images/tipsy.png?2013-12-06T22:13:20Z) no-repeat top left!ie;width:11px;height:6px} .tipsy-n .tipsy-arrow{top:0px;left:50%;margin-left:-5px} .tipsy-nw .tipsy-arrow{top:1px;left:10px} .tipsy-ne .tipsy-arrow{top:1px;right:10px} .tipsy-s .tipsy-arrow{bottom:0px;left:50%;margin-left:-5px;background-position:bottom left} .tipsy-sw .tipsy-arrow{bottom:0px;left:10px;background-position:bottom left} .tipsy-se .tipsy-arrow{bottom:0px;right:10px;background-position:bottom left} .tipsy-e .tipsy-arrow{top:50%;margin-top:-5px;right:1px;width:5px;height:11px;background-position:top right} .tipsy-w .tipsy-arrow{top:50%;margin-top:-5px;left:0px;width:6px;height:11px}
+/* cache key: krisjose_med1-war_:resourceloader:filter:minify-css:7:b471a5dc6973879887fa8bc7f652d9b1 */
+.uls-trigger{background:transparent url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAQCAMAAADQzfSkAAABqlBMVEX////f3/+Ov+/n5+fp6enp6eno6Ojp6enn5+ff39/q6urp6enp6enp6enq6urp6en////q6urr6+upv+rU1NTJycnR0dEaGhrp6enT4/SEuuK9vb3l5eU2ktCxsbFdXV1paWmzwc9ITFDo6OhaWlpsbGxtbW2BipSZpK/X19d2dnZ8hI2/v79PT09gZm2CgoLIyMjD0eGksL1JTVHM2+spKywnKCkcHBzAzt3I1+cxMzZxcXFkZGSvr69WW2C8vLyFjphqcXiLlZ8dHh4gISLa2trQ3/Dc3NzZ2dl7e3uioqIfHyBCRko9QEPh4eFgYGDGxsZoaGiPj4/Ly8uRm6a6yNcbGxuSnKfL2uqVn6scHR20tLR/f3+Kioq4uLienp54gIipqanA2e+71u9GSk5yeoKgoKCAgIB0dHRLS0tlZWWDg4PBwcHFxcWxvsxkanGapbCKlJ7O4fNXo9hQn9bM3/OPmaRfZWve3t6mpqbR0dG+vr6JiYnKyspPVFl1s99+fn5srdzm5ubNzc1BREh2s99xsN7S0tIxMzUiIyQ2OTt/iJFwcHBbYWc3S28lAAAAF3RSTlMACBAg7P3LiTYIX6LmmDzeAYMnDN+1MJx17ncAAAEQSURBVHheddBTb0VREIbhVduYWVuHRm3btm3bNv9zJ2v3IE36Xk3yZG4+xkMKw0BREYwJMzkcO38MY37tG6AmYN48YZFxwsbeiys6y/02rT1Wa4TxwoYgpx4adLMbfRubs9tk0cJuYK8ACv1/Xy5LLlIYS5bf2FTUUlJapptiqKwyuOfJEsjq4M3j+YBPYc02X6utTWnvQEwk6wJRNxn29Pb1D2iIg0bEJMaHYWTU6RyfABPZ5BTa7xBxxo2YzPgcPPGFRb4Ey2Qrq2vrXlRk6xampDK+a94/ODw6PjGfkp2dX1y6ZOvVNWKavsutqt6HbGZ5QCqdMUmSnlXqhY6M12CZtKcaUnhtsKz/Tc5m7AfjN0jzWIipawAAAABJRU5ErkJggg==) no-repeat scroll left center;background:transparent url(//wiki.nxtcrypto.org/w/extensions/UniversalLanguageSelector/resources/css/../../lib/jquery.uls/images/icon-language.png?2013-12-29T05:08:20Z) no-repeat scroll left center!ie;background-image:-webkit-linear-gradient(transparent,transparent),url(//wiki.nxtcrypto.org/w/extensions/UniversalLanguageSelector/resources/css/../../lib/jquery.uls/images/icon-language.svg?2013-12-29T05:08:20Z);background-image:-moz-linear-gradient(transparent,transparent),url(//wiki.nxtcrypto.org/w/extensions/UniversalLanguageSelector/resources/css/../../lib/jquery.uls/images/icon-language.svg?2013-12-29T05:08:20Z);background-image:linear-gradient(transparent,transparent),url(//wiki.nxtcrypto.org/w/extensions/UniversalLanguageSelector/resources/css/../../lib/jquery.uls/images/icon-language.svg?2013-12-29T05:08:20Z);padding-left:30px}#pt-uls a.uls-trigger{padding-left:30px}#p-lang .uls-settings-trigger{background:transparent url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAgCAMAAAAVMLmlAAAAA3NCSVQICAjb4U/gAAAACXBIWXMAAA3XAAAN1wFCKJt4AAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAALpQTFRF////W1tbgICAWVlZgICAUVFRgICAWVlZhYWFUlJShYWFVFRUgYGBVVVVgYGBVVVVgICAVFRUVVVVVlZWgYGBgICAVFRUgYGBVFRUgICAgYGBVVVVVVVVgYGBVlZWgYGBVFRUgICAVFRUgICAVVVVgICAVlZWgICAVFRUgICAVVVVgICAVFRUgICAVlZWgICAVVVVgICAVVVVgICAVVVVgICAVVVVgICAVVVVgICAVVVVgICAVVVVgICA9Fa9bgAAADx0Uk5TAA4OFBQWFhcXGRlJSUtLWlpbXV9fYGFhZGRlZmlpa2twcIiIioqPj5GRn5+goKGh6+vv7/Dw+fn8/P7+YuRUVgAAAOlJREFUGBmNwcdWAgEURMFLFCUaAcWAEhQYHBRmCN3//1u+BYcVC6s4p2U3OLrrVxN7Xn7uELoH5w65Dx1g6JNnoLazfz++VnZehkZir4pQ3NjzBg5TwtgBhzFh6kDr294UobiykxZc7ezVdLyx8yrw6pM+8GjnDjsf7gj3/WpiJ7Vhl6OW3eC/mlKdo5teZSHNSoM24XqvTCHTvg0MdDIASpn08/6ZSlkJ6jMpLUBhLc3qKEwIIwUURoSJAs2ltC5AIZUWTbjcSulktJayCvCikx7wJG0VttrfEp5eLpfS4uLtgaOmVOeMP8BAM9RClMO9AAAAAElFTkSuQmCC) no-repeat right top;background:transparent url(//wiki.nxtcrypto.org/w/extensions/UniversalLanguageSelector/resources/css/../images/cog-sprite.png?2013-12-29T05:08:20Z) no-repeat right top!ie;background-image:-webkit-linear-gradient(transparent,transparent),url(//wiki.nxtcrypto.org/w/extensions/UniversalLanguageSelector/resources/css/../images/cog-sprite.svg?2013-12-29T05:08:20Z);background-image:-moz-linear-gradient(transparent,transparent),url(//wiki.nxtcrypto.org/w/extensions/UniversalLanguageSelector/resources/css/../images/cog-sprite.svg?2013-12-29T05:08:20Z);background-image:linear-gradient(transparent,transparent),url(//wiki.nxtcrypto.org/w/extensions/UniversalLanguageSelector/resources/css/../images/cog-sprite.svg?2013-12-29T05:08:20Z);height:16px;width:14px;float:right;cursor:pointer}.skin-vector #p-lang .uls-settings-trigger{ margin-top:3px}#p-lang .uls-settings-trigger:hover{background-position:right -16px}   x:-o-prefocus,body.rtl li#pt-uls{ direction:ltr}#settings-block{border-top:1px solid #C9C9C9;background:#f8f8f8;background:-webkit-gradient(linear,left top,left bottom,from(#FBFBFB),to(#F0F0F0));background:-webkit-linear-gradient(top,#FBFBFB,#F0F0F0);background:-moz-linear-gradient(top,#FBFBFB,#F0F0F0);background:-o-linear-gradient(top,#FBFBFB,#F0F0F0);background:linear-gradient(#FBFBFB,#F0F0F0);padding-left:10px;line-height:1.2em;-webkit-border-radius:0 0 5px 5px;-moz-border-radius:0 0 5px 5px;border-radius:0 0 5px 5px}.uls-menu a{cursor:pointer}.uls-menu.callout .caret-before{border-top:20px solid transparent;border-right:20px solid #AAA;border-bottom:20px solid transparent;display:inline-block;left:-21px;top:30px;position:absolute}.uls-menu.callout .caret-after{border-top:20px solid transparent;border-right:20px solid #FCFCFC;border-bottom:20px solid transparent;display:inline-block;left:-20px;top:30px;position:absolute}#settings-block div.display-settings-block,#settings-block div.input-settings-block{display:inline-block;margin:8px 15px;color:#565656}#settings-block div.display-settings-block:hover,#settings-block div.input-settings-block:hover{color:#252525}.uls-ui-languages button{width:23%;text-overflow:ellipsis;margin-right:4%}button.uls-more-languages{width:auto}.settings-title{font-size:11pt}.settings-text{color:#555555;font-size:9pt}div.display-settings-block:hover .settings-text{color:#252525} .ime-perime-help{display:none}.ime-checked .ime-perime-help{display:inline-block;width:20px;height:100%;position:absolute;top:0;bottom:0;right:0;opacity:0.75;padding:0;background:transparent url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAAA3NCSVQICAjb4U/gAAAACXBIWXMAAA3XAAAN1wFCKJt4AAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAFdQTFRF////AAAAZmZmVVVVSUlJW1tbVVVVV1dXWFhYVVVVV1dXVlZWWFhYV1dXWFhYVlZWV1dXVlZWV1dXV1dXWFhYV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXrNxhuAAAABx0Uk5TAAEFBgcOJCkxNlVla3KDi5WrsrbJ09ny9vf9/uWqFuIAAACESURBVBjTdZDBDsIgEERHai2KUqmllfr+/zs9AFYTnMsmL7uTmZX+yVjnrPkCnU8AyXeVDJGiOJSdCLzmsAIx73ngeZKOC+AlySSA8LjrCiQjyRafmzyAleQymQ7nFcDt6NItVFQOp5Cn/dgzjlDts+vW9xs1RI7KPLNHbRRq1W4951dvPF4RAFiSul8AAAAASUVORK5CYII=) left center no-repeat;background:transparent url(//wiki.nxtcrypto.org/w/extensions/UniversalLanguageSelector/resources/css/../images/help.png?2013-12-29T05:08:20Z) left center no-repeat!ie; background-image:-webkit-linear-gradient(transparent,transparent),url(//wiki.nxtcrypto.org/w/extensions/UniversalLanguageSelector/resources/css/../images/help.svg?2013-12-29T05:08:20Z); background-image:linear-gradient(transparent,transparent),url(//wiki.nxtcrypto.org/w/extensions/UniversalLanguageSelector/resources/css/../images/help.svg?2013-12-29T05:08:20Z)}.ime-checked .ime-perime-help:hover{opacity:1}
+/* cache key: krisjose_med1-war_:resourceloader:filter:minify-css:7:c0fffa2c9fb0491a921107133726d2e4 */
+#p-lang li.interlanguage-link,.autonym{ font-family:'Autonym',sans-serif}
+/* cache key: krisjose_med1-war_:resourceloader:filter:minify-css:7:ddc946d0b392bcbc2c1fb86246818001 */</style><style>
+.mw-collapsible-toggle{float:right} li .mw-collapsible-toggle{float:none} .mw-collapsible-toggle-li{list-style:none}
+/* cache key: krisjose_med1-war_:resourceloader:filter:minify-css:7:4250852ed2349a0d4d0fc6509a3e7d4c */
+.suggestions{overflow:hidden;position:absolute;top:0;left:0;width:0;border:none;z-index:1099;padding:0;margin:-1px -1px 0 0} html > body .suggestions{margin:-1px 0 0 0}.suggestions-special{position:relative;background-color:white;cursor:pointer;border:solid 1px #aaaaaa;padding:0;margin:0;margin-top:-2px;display:none;padding:0.25em 0.25em;line-height:1.25em}.suggestions-results{background-color:white;cursor:pointer;border:solid 1px #aaaaaa;padding:0;margin:0}.suggestions-result{color:black;margin:0;line-height:1.5em;padding:0.01em 0.25em;text-align:left}.suggestions-result-current{background-color:#4C59A6;color:white}.suggestions-special .special-label{color:gray;text-align:left}.suggestions-special .special-query{color:black;font-style:italic;text-align:left}.suggestions-special .special-hover{background-color:silver}.suggestions-result-current .special-label,.suggestions-result-current .special-query{color:white}.autoellipsis-matched,.highlight{font-weight:bold}
+/* cache key: krisjose_med1-war_:resourceloader:filter:minify-css:7:9780324491b653a3780e2d029bdc140c */
+.postedit-container{margin:0 auto;position:fixed;top:0;height:0;left:50%;z-index:1000;font-size:13px}.postedit-container:hover{cursor:pointer}.postedit{position:relative;top:0.6em;left:-50%;padding:.6em 3.6em .6em 1.1em;line-height:1.5625em;color:#626465;background-color:#f4f4f4;border:1px solid #dcd9d9;text-shadow:0 0.0625em 0 rgba(255,255,255,0.5);border-radius:5px;-webkit-box-shadow:0 2px 5px 0 #ccc;box-shadow:0 2px 5px 0 #ccc;-webkit-transition:all 0.25s ease-in-out;-moz-transition:all 0.25s ease-in-out;-ms-transition:all 0.25s ease-in-out;-o-transition:all 0.25s ease-in-out;transition:all 0.25s ease-in-out}.skin-monobook .postedit{top:6em !important}.postedit-faded{opacity:0}.postedit-icon{padding-left:41px;  line-height:25px;background-repeat:no-repeat;background-position:8px 50%}.postedit-icon-checkmark{background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABblBMVEUAAAD///////9PfTf///80aRdTgjn///9Feij///////////9Rfzf///////////9PfjZRgDh1o1xOfTb///////+bwYqLtnj///////9PfTa82K////9WhT6YxIL///9QgDdTgzr////////j7uDl7eLq8efi693k7OH///////9UhjuBr2rp9uRUhjr///9YljVKgir///9WiTlYjT3////9/v57vFlbkT5PjC9dlD/5/fhuq09stUTs9uhxuElctCpfnT1huDFloEZloUZmpENmvDZpvDxpvTxqvjxrvT5rvT9rwTxsqktswD5uwkBvuUdxw0NztFBztU9ztVBzwkp0tlJ1xkd2t1R3uVR4w1F4xk54x014yE15uVZ5v1R5xVB6v1R7yFJ8wVh9xVl9yFR9yVd9ylN+xVh+yFd/x1l/yFeAylmEx1+Ny2uY0Hqe04Wj1Ymv3Ze33qLD47TJ5L3O6cPU7Mrq9eb2+/Q4j37OAAAAQHRSTlMAAQIEBAUFBQwPFB4fJCUoKiosQEhJS01RUlZZXmdydXaChYuSlJSWmJmoq6uur8LExcvM19fg5ejt8fX2+Pr7SljgewAAAKpJREFUGBkFwQNCAwAAAMDLtl3LtrG4rWXbtvX77gAgZ6grFwC0bhwNVgKgdPZx8b0dgLi+s7Wn0VoAqpfOI9+BNADZI7fLrz2pSEwGHZuH+78lSK8ZLkLezF3ooyUG3VPXq2USei9WngeyoG195yBYWDF3E/2pAhl1e9Gr8bGT+bfOFCC2fnvh4X7rcqIAQNNu+HT6sxkAjceTL/2ZAIhv+PorBwBJxfkA//dFHSCBy/UTAAAAAElFTkSuQmCC);background-image:url(//wiki.nxtcrypto.org/w/resources/mediawiki.action/images/green-checkmark.png?2013-12-06T22:13:20Z)!ie;background-position:left}.postedit-close{position:absolute;padding:0 .8em;right:0;top:0;font-size:1.25em;font-weight:bold;line-height:2.3em;color:black;text-shadow:0 0.0625em 0 white;text-decoration:none;opacity:0.2;filter:alpha(opacity=20)}.postedit-close:hover{color:black;text-decoration:none;opacity:0.4;filter:alpha(opacity=40)}
+/* cache key: krisjose_med1-war_:resourceloader:filter:minify-css:7:d23ac5349b100a0d8b2a083e3181b7db */</style><style>
+.suggestions a.mw-searchSuggest-link,.suggestions a.mw-searchSuggest-link:hover,.suggestions a.mw-searchSuggest-link:active,.suggestions a.mw-searchSuggest-link:focus{text-decoration:none;color:black}.suggestions-result-current a.mw-searchSuggest-link,.suggestions-result-current a.mw-searchSuggest-link:hover,.suggestions-result-current a.mw-searchSuggest-link:active,.suggestions-result-current a.mw-searchSuggest-link:focus{color:white}
+/* cache key: krisjose_med1-war_:resourceloader:filter:minify-css:7:52b1797f70c7e4094dfa4191101944e8 */</style><meta name="ResourceLoaderDynamicStyles" content="">
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: krisjose_med1-war_:resourceloader:filter:minify-css:7:8e805246ec8c0e84192ab7a694983413 */</style>
+
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Nxt_Blockchain_Tutorial","wgTitle":"Nxt Blockchain Tutorial","wgCurRevisionId":33632,"wgRevisionId":33632,"wgArticleId":10944,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Nxt_Blockchain_Tutorial","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgULSAcceptLanguageList":["ru-ru","ru","en-us","en"],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":true,"previewDialog":false,"publish":true,"toc":false}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,
+"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"translate":0,"translate-editlangs":"default","translate-recent-groups":"","translate-sandbox":"","uls-preferences":"","upwiz_deflicense":"default","upwiz_def3rdparty":"default","upwiz_deflicensetype":"default","upwiz_maxsimultaneous":"default","usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikieditor-preview":1,"wikieditor-publish":1,"translationnotifications-lang-1":"","translationnotifications-lang-2":"","translationnotifications-lang-3":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,
+"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs102":false,"searchNs103":false,"searchNs104":false,"searchNs105":false,"searchNs108":false,"searchNs109":false,"searchNs460":false,"searchNs461":false,"searchNs1198":false,"searchNs1199":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: krisjose_med1-war_:resourceloader:filter:minify-js:7:61e4ac2dc508320727aca526ed096af7 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.uls.init","ext.uls.interface","skins.vector.js"]);
+}</script><script src="img/load(2).php"></script><script src="img/load(3).php"></script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/vector/csshover.min.htc")}</style><![endif]--><style>@font-face { font-family: 'Autonym';
+	src: url('/w/extensions/UniversalLanguageSelector/data/fontrepo/fonts/Autonym/Autonym.eot?version=20131118');
+	src: local('Autonym'),		url('/w/extensions/UniversalLanguageSelector/data/fontrepo/fonts/Autonym/Autonym.woff?version=20131118') format('woff'),		url('/w/extensions/UniversalLanguageSelector/data/fontrepo/fonts/Autonym/Autonym.ttf?version=20131118') format('truetype');
+	font-style: normal;}
+</style><script async="" src="img/load(4).php"></script></head>
+
+
+
+
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Nxt_Blockchain_Tutorial skin-vector action-view vector-animateLayout">
+<header></header><script src="/js/header.js"></script>
+<main>
+
+
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+<a id="top"></a>
+<div id="mw-js-message" style="display:none;" lang="ru" dir="ltr"></div>
+		<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Nxt Blockchain Tutorial</span></h1>
+<div id="bodyContent">
+				<div id="siteSub">Материал из Nxt Wiki</div>
+				<div id="contentSub" lang="ru" dir="ltr"></div>
+								<div id="jump-to-nav" class="mw-jump">
+	Перейти к:					<a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#mw-navigation">навигация</a>, 					<a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#p-search">поиск</a>
+</div>
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><h2><span class="mw-headline" id="Introduction">Introduction</span></h2>
+<h3><span class="mw-headline" id="Objective">Objective</span></h3>
+<p>Use a shell script to scan the Nxt blockchain, with an emphasis on understanding blockchain technology rather than speed. Based on the scan() method found in the Nxt software version 1.3.5 source file nxt/src/java/nxt/BlockchainProcessorImpl.Java
+</p>
+<h3><span class="mw-headline" id="Assumptions">Assumptions</span></h3>
+<p>Nxt Java software running on your system, and familiarity with bash shell scripts running in a console window on a linux system. You have the <a rel="nofollow" class="external text" href="http://kmkeen.com/jshon/"><i>jshon</i></a>, <a rel="nofollow" class="external text" href="http://linux.die.net/man/1/bc">bc</a> and <a rel="nofollow" class="external text" href="http://linux.die.net/man/1/sha256sum"><i>sha256sum</i></a> utilities installed.
+</p>
+<h2><span class="mw-headline" id="Table_of_Contents">Table of Contents</span></h2>
+<div id="toc" class="toc"><div id="toctitle"><h2>Содержание</h2><span class="toctoggle">&nbsp;[<a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#" class="internal" id="togglelink">убрать</a>]&nbsp;</span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#Introduction"><span class="tocnumber">1</span> <span class="toctext">Introduction</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#Objective"><span class="tocnumber">1.1</span> <span class="toctext">Objective</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#Assumptions"><span class="tocnumber">1.2</span> <span class="toctext">Assumptions</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#Table_of_Contents"><span class="tocnumber">2</span> <span class="toctext">Table of Contents</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#H2_Database_Interfaces"><span class="tocnumber">3</span> <span class="toctext">H2 Database Interfaces</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#Shell"><span class="tocnumber">3.1</span> <span class="toctext">Shell</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#DB_Shell"><span class="tocnumber">3.2</span> <span class="toctext">DB Shell</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#H2_Console"><span class="tocnumber">3.3</span> <span class="toctext">H2 Console</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#Database_Fields"><span class="tocnumber">4</span> <span class="toctext">Database Fields</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#The_BLOCK_Table"><span class="tocnumber">4.1</span> <span class="toctext">The BLOCK Table</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#The_TRANSACTION_Table"><span class="tocnumber">4.2</span> <span class="toctext">The TRANSACTION Table</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#The_Nxt_API"><span class="tocnumber">5</span> <span class="toctext">The Nxt API</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#The_getBlock_Call"><span class="tocnumber">5.1</span> <span class="toctext">The getBlock Call</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#The_getTransaction_Call"><span class="tocnumber">5.2</span> <span class="toctext">The getTransaction Call</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#The_getTransactionBytes_Call"><span class="tocnumber">5.3</span> <span class="toctext">The getTransactionBytes Call</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#Comparison_of_Database_and_API_fields"><span class="tocnumber">6</span> <span class="toctext">Comparison of Database and API fields</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#Block"><span class="tocnumber">6.1</span> <span class="toctext">Block</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#Transaction"><span class="tocnumber">6.2</span> <span class="toctext">Transaction</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#A_Shell_Script_to_Scan_the_Blockchain"><span class="tocnumber">7</span> <span class="toctext">A Shell Script to Scan the Blockchain</span></a>
+<ul>
+<li class="toclevel-2 tocsection-20"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#Basic_Script"><span class="tocnumber">7.1</span> <span class="toctext">Basic Script</span></a>
+<ul>
+<li class="toclevel-3 tocsection-21"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#Call_the_API"><span class="tocnumber">7.1.1</span> <span class="toctext">Call the API</span></a></li>
+<li class="toclevel-3 tocsection-22"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#Loop_Control_and_Command_Line_Parameter"><span class="tocnumber">7.1.2</span> <span class="toctext">Loop Control and Command Line Parameter</span></a></li>
+<li class="toclevel-3 tocsection-23"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#Parsing_the_JSON_Block_Object"><span class="tocnumber">7.1.3</span> <span class="toctext">Parsing the JSON Block Object</span></a></li>
+<li class="toclevel-3 tocsection-24"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#Handling_Errors"><span class="tocnumber">7.1.4</span> <span class="toctext">Handling Errors</span></a></li>
+<li class="toclevel-3 tocsection-25"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#Blockchain_Integrity_Checks"><span class="tocnumber">7.1.5</span> <span class="toctext">Blockchain Integrity Checks</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-26"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#Additional_Blockchain_Integrity_Checks"><span class="tocnumber">7.2</span> <span class="toctext">Additional Blockchain Integrity Checks</span></a>
+<ul>
+<li class="toclevel-3 tocsection-27"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#Transaction_Checks"><span class="tocnumber">7.2.1</span> <span class="toctext">Transaction Checks</span></a>
+<ul>
+<li class="toclevel-4 tocsection-28"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#Transaction_Number_Check"><span class="tocnumber">7.2.1.1</span> <span class="toctext">Transaction Number Check</span></a></li>
+<li class="toclevel-4 tocsection-29"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#Transaction_Loop"><span class="tocnumber">7.2.1.2</span> <span class="toctext">Transaction Loop</span></a></li>
+<li class="toclevel-4 tocsection-30"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#Amount_and_Fee_Checks"><span class="tocnumber">7.2.1.3</span> <span class="toctext">Amount and Fee Checks</span></a></li>
+<li class="toclevel-4 tocsection-31"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#Payload_Length_and_Hash_Checks"><span class="tocnumber">7.2.1.4</span> <span class="toctext">Payload Length and Hash Checks</span></a></li>
+<li class="toclevel-4 tocsection-32"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#Check_Other_Transaction.2FBlock_Linkages"><span class="tocnumber">7.2.1.5</span> <span class="toctext">Check Other Transaction/Block Linkages</span></a></li>
+<li class="toclevel-4 tocsection-33"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#Transaction_Version_Check"><span class="tocnumber">7.2.1.6</span> <span class="toctext">Transaction Version Check</span></a></li>
+<li class="toclevel-4 tocsection-34"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#Transaction_Hash_and_ID_Checks"><span class="tocnumber">7.2.1.7</span> <span class="toctext">Transaction Hash and ID Checks</span></a></li>
+<li class="toclevel-4 tocsection-35"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#Transaction_Signature_Check"><span class="tocnumber">7.2.1.8</span> <span class="toctext">Transaction Signature Check</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3 tocsection-36"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#Block_Version_Check"><span class="tocnumber">7.2.2</span> <span class="toctext">Block Version Check</span></a></li>
+<li class="toclevel-3 tocsection-37"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#previousBlock_Hash_.2F_ID_Check"><span class="tocnumber">7.2.3</span> <span class="toctext">previousBlock Hash / ID Check</span></a></li>
+<li class="toclevel-3 tocsection-38"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#Block_ID_Check"><span class="tocnumber">7.2.4</span> <span class="toctext">Block ID Check</span></a></li>
+<li class="toclevel-3 tocsection-39"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#Block_Signature_Check"><span class="tocnumber">7.2.5</span> <span class="toctext">Block Signature Check</span></a>
+<ul>
+<li class="toclevel-4 tocsection-40"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#Curve25519_Utility_-_Java_Version"><span class="tocnumber">7.2.5.1</span> <span class="toctext">Curve25519 Utility - Java Version</span></a></li>
+<li class="toclevel-4 tocsection-41"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#curve25519_Utility_-_C_Version"><span class="tocnumber">7.2.5.2</span> <span class="toctext">curve25519 Utility - C Version</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3 tocsection-42"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#previousBlockHash_Check_.28Synched.29"><span class="tocnumber">7.2.6</span> <span class="toctext">previousBlockHash Check (Synched)</span></a></li>
+<li class="toclevel-3 tocsection-43"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#generationSignature_Check_.28Synched.29"><span class="tocnumber">7.2.7</span> <span class="toctext">generationSignature Check (Synched)</span></a></li>
+<li class="toclevel-3 tocsection-44"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#baseTarget_Check_.28Synched.29"><span class="tocnumber">7.2.8</span> <span class="toctext">baseTarget Check (Synched)</span></a></li>
+<li class="toclevel-3 tocsection-45"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#cumulativeDifficulty_Check_.28Synched.29"><span class="tocnumber">7.2.9</span> <span class="toctext">cumulativeDifficulty Check (Synched)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-46"><a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#Complete_Script"><span class="tocnumber">7.3</span> <span class="toctext">Complete Script</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="H2_Database_Interfaces">H2 Database Interfaces</span></h2>
+<p>The Nxt blockchain is stored in a Java H2 database (DB), located in your Nxt software installation directory (assumed to be nxt) on the path nxt/nxt_db. There are three tools available for interacting with the DB, two of which (<a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#DB_Shell" title="Nxt Blockchain Tutorial">DB Shell</a> and <a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#H2_Console" title="Nxt Blockchain Tutorial">H2 Console</a>) use a browser interface and one of which (<a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#DB_Shell" title="Nxt Blockchain Tutorial">DB Shell</a>) can operate concurrently with the Nxt Software without changing the nxt/conf/nxt.properties file.
+</p>
+<h3><span class="mw-headline" id="Shell">Shell</span></h3>
+<p>To interact with the DB from a linux command line, use the Java Shell tool available in nxt/lib. For example
+</p>
+<pre>$ cd nxt; java -cp lib/h2*.jar org.h2.tools.Shell \
+  -url 'jdbc:h2:nxt_db/nxt;DB_CLOSE_ON_EXIT=FALSE;CACHE_SIZE=439808;AUTO_SERVER=TRUE' \
+  -driver 'org.h2.Driver' -user sa -password sa \
+  -sql 'select base_target from block where height=0;'
+</pre>
+<p>returns
+</p>
+<pre>BASE_TARGET
+153722867
+(1 row, 19 ms)
+</pre>
+<p>The Shell tool will only connect with the DB if the Nxt software is not running, because it locks the DB. To avoid this problem add
+</p>
+<pre>nxt.dbUrl=jdbc:h2:nxt_db/nxt;DB_CLOSE_ON_EXIT=FALSE;AUTO_SERVER=TRUE
+</pre>
+<p>to the nxt/conf/nxt.properties file and restart the Nxt software. The AUTO_SERVER clause enables DB access from multiple processes simultaneously.
+</p><p>The Shell tool has an interactive mode accessible by invoking it without the -sql option. The command line mode is slow because a DB connection is established every time.
+</p>
+<h3><span class="mw-headline" id="DB_Shell">DB Shell</span></h3>
+<p>Enter <a rel="nofollow" class="external free" href="http://localhost:7876/dbshell">http://localhost:7876/dbshell</a> into a browser. A page loads with a prompt for an SQL statement. dbshell is built into the Nxt software and so must be used while the latter is running. The SQL query
+</p>
+<pre>SELECT * FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_NAME='BLOCK';
+</pre>
+<p>gives a list of the columns (fields) of the block table, along with information such as data type. This tool is adequate, but the <a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#H2_Console" title="Nxt Blockchain Tutorial">H2 Console</a> is preferred because of its graphical interface.
+</p>
+<h3><span class="mw-headline" id="H2_Console">H2 Console</span></h3>
+<p>In your Nxt software installation directory there is a library subdirectory (lib) with a jar file for the H2 DB. If launched as follows
+</p>
+<pre>$ cd nxt; java -cp "lib/h2*:lib/*" org.h2.tools.Console
+</pre>
+<p>a page opens in your browser with a DB connection dialog. Specify:
+</p>
+<pre> Saved Settings: Generic H2 (Embedded)
+ Setting Name: Generic H2 (Embedded)
+ Driver Class: org.h2.Driver
+ JDBC URL: jdbc:h2:nxt_db/nxt;DB_CLOSE_ON_EXIT=FALSE;AUTO_SERVER=TRUE;CACHE_SIZE=439808
+ User Name: sa
+ Password: sa
+</pre>
+<p>Clicking on <i>Connect</i> will connect with the DB but only if the Nxt software is not running, because it locks the DB. To avoid this problem add
+</p>
+<pre>nxt.dbUrl=jdbc:h2:nxt_db/nxt;DB_CLOSE_ON_EXIT=FALSE;AUTO_SERVER=TRUE
+</pre>
+<p>to the nxt/conf/nxt.properties file and restart the Nxt software. The AUTO_SERVER clause enables DB access from multiple processes simultaneously.
+</p><p>Use ^C in the shell console to terminate the DB engine, or click on the tool tray icon, then exit.
+</p>
+<h2><span class="mw-headline" id="Database_Fields">Database Fields</span></h2>
+<h3><span class="mw-headline" id="The_BLOCK_Table">The BLOCK Table</span></h3>
+<p>In the left hand column of the <a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#H2_Console" title="Nxt Blockchain Tutorial">H2 Console</a> all tables in the DB are listed. Expanding the BLOCK table by clicking on "+" shows the block table columns (fields). Clicking the "+" next to each column name shows the column data type:
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th> Field Name </th>
+<th> Data Type </th>
+<th> NOT NULL
+</th></tr>
+<tr>
+<td> DB_ID </td>
+<td> BIGINT(19) </td>
+<td> yes
+</td></tr>
+<tr>
+<td> ID </td>
+<td> BIGINT(19) </td>
+<td> yes
+</td></tr>
+<tr>
+<td> VERSION </td>
+<td> INTEGER(10) </td>
+<td> yes
+</td></tr>
+<tr>
+<td> TIMESTAMP </td>
+<td> INTEGER(10) </td>
+<td> yes
+</td></tr>
+<tr>
+<td> PREVIOUS_BLOCK_ID </td>
+<td> BIGINT(19) </td>
+<td> no
+</td></tr>
+<tr>
+<td> TOTAL_AMOUNT </td>
+<td> BIGINT(19) </td>
+<td> yes
+</td></tr>
+<tr>
+<td> TOTAL_FEE </td>
+<td> BIGINT(19) </td>
+<td> yes
+</td></tr>
+<tr>
+<td> PAYLOAD_LENGTH </td>
+<td> INTEGER(10) </td>
+<td> yes
+</td></tr>
+<tr>
+<td> GENERATOR_PUBLIC_KEY </td>
+<td> VARBINARY(32) </td>
+<td> yes
+</td></tr>
+<tr>
+<td> PREVIOUS_BLOCK_HASH </td>
+<td> VARBINARY(32) </td>
+<td> no
+</td></tr>
+<tr>
+<td> CUMULATIVE_DIFFICULTY </td>
+<td> VARBINARY(2147483647) </td>
+<td> yes
+</td></tr>
+<tr>
+<td> BASE_TARGET </td>
+<td> BIGINT(19) </td>
+<td> yes
+</td></tr>
+<tr>
+<td> NEXT_BLOCK_ID </td>
+<td> BIGINT(19) </td>
+<td> no
+</td></tr>
+<tr>
+<td> HEIGHT </td>
+<td> INTEGER(10) </td>
+<td> yes
+</td></tr>
+<tr>
+<td> GENERATION_SIGNATURE </td>
+<td> VARBINARY(64) </td>
+<td> yes
+</td></tr>
+<tr>
+<td> BLOCK_SIGNATURE </td>
+<td> VARBINARY(64) </td>
+<td> yes
+</td></tr>
+<tr>
+<td> PAYLOAD_HASH </td>
+<td> VARBINARY(32) </td>
+<td> yes
+</td></tr>
+<tr>
+<td> GENERATOR_ID </td>
+<td> BIGINT(19) </td>
+<td> yes
+</td></tr></tbody></table>
+<p>These 18 fields define a block on the blockchain in the current version of the Nxt software. Note that the block table has evolved since the genesis block. A complete history of the DB structure can be found in the Nxt software source file nxt/src/java/nxt/NxtDbVersion.java
+</p><p>Note that most fields cannot be NULL. The exceptions are the PREVIOUS_... and NEXT_... fields which link the blocks into a chain both forward and backward. The genesis block has a NULL PREVIOUS_BLOCK_ID and the last (current) block has a NULL NEXT_BLOCK_ID.
+</p><p>Below the column list is a list of indexes. The indexes are all used for sorting various columns for fast retrieval, but the following columns are also restricted to have unique values: DB_ID, HEIGHT, ID, TIMESTAMP. They are all used to uniquely identify blocks. DB_ID is the autoincrement field of the table. It normally increases by one with each new block but gaps can occur in the sequence due to occasional deleted blocks. HEIGHT is zero for the genesis block and increases by one with each block in the blockchain. There are no gaps in this sequence. ID is a unique block ID derived from the hash of some of the block fields. TIMESTAMP is the block creation time measured in number of seconds elapsed since the genesis block.
+</p><p>Note that blocks stored in the BLOCK table are associated with transactions stored in the TRANSACTION table through the fields PAYLOAD_LENGTH and PAYLOAD_HASH, and TOTAL_AMOUNT and TOTAL_FEE. PAYLOAD_LENGTH is the total number of bytes of certain fields of all transactions associated with the block and PAYLOAD_HASH is the hash of all those fields. TOTAL_AMOUNT and TOTAL_FEE are the total amounts and fees of all transactions associated with the block. All four of these block fields are zero when there are no transactions associated with the block.
+</p>
+<h3><span class="mw-headline" id="The_TRANSACTION_Table">The TRANSACTION Table</span></h3>
+<p>In the left hand column of the <a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#H2_Console" title="Nxt Blockchain Tutorial">H2 Console</a> all tables in the DB are listed. Expanding the TRANSACTION table by clicking on "+" shows the transaction table columns (fields). Clicking the "+" next to each column name shows the column data type:
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th> Field Name </th>
+<th> Data Type </th>
+<th> NOT NULL
+</th></tr>
+<tr>
+<td> DB_ID </td>
+<td> BIGINT(19) </td>
+<td> yes
+</td></tr>
+<tr>
+<td> ID </td>
+<td> BIGINT(19) </td>
+<td> yes
+</td></tr>
+<tr>
+<td> DEADLINE </td>
+<td> SMALLINT(5) </td>
+<td> yes
+</td></tr>
+<tr>
+<td> SENDER_PUBLIC_KEY </td>
+<td> VARBINARY(32) </td>
+<td> yes
+</td></tr>
+<tr>
+<td> RECIPIENT_ID </td>
+<td> BIGINT(19) </td>
+<td> no
+</td></tr>
+<tr>
+<td> AMOUNT </td>
+<td> BIGINT(19) </td>
+<td> yes
+</td></tr>
+<tr>
+<td> FEE </td>
+<td> BIGINT(19) </td>
+<td> yes
+</td></tr>
+<tr>
+<td> HEIGHT </td>
+<td> INTEGER(10) </td>
+<td> yes
+</td></tr>
+<tr>
+<td> BLOCK_ID </td>
+<td> BIGINT(19) </td>
+<td> yes
+</td></tr>
+<tr>
+<td> SIGNATURE </td>
+<td> VARBINARY(64) </td>
+<td> yes
+</td></tr>
+<tr>
+<td> TIMESTAMP </td>
+<td> INTEGER(10) </td>
+<td> yes
+</td></tr>
+<tr>
+<td> TYPE </td>
+<td> TINYINT(3) </td>
+<td> yes
+</td></tr>
+<tr>
+<td> SUBTYPE </td>
+<td> TINYINT(3) </td>
+<td> yes
+</td></tr>
+<tr>
+<td> SENDER_ID </td>
+<td> BIGINT(19) </td>
+<td> yes
+</td></tr>
+<tr>
+<td> BLOCK_TIMESTAMP </td>
+<td> INTEGER(10) </td>
+<td> yes
+</td></tr>
+<tr>
+<td> FULL_HASH </td>
+<td> VARBINARY(32) </td>
+<td> yes
+</td></tr>
+<tr>
+<td> REFERENCED_TRANSACTION_FULL_HASH </td>
+<td> VARBINARY(32) </td>
+<td> no
+</td></tr>
+<tr>
+<td> ATTACHMENT_BYTES </td>
+<td> VARBINARY(2147483647) </td>
+<td> no
+</td></tr>
+<tr>
+<td> VERSION </td>
+<td> TINYINT(3) </td>
+<td> yes
+</td></tr>
+<tr>
+<td> HAS_MESSAGE </td>
+<td> BOOLEAN(1) </td>
+<td> yes
+</td></tr>
+<tr>
+<td> HAS_ENCRYPTED_MESSAGE </td>
+<td> BOOLEAN(1) </td>
+<td> yes
+</td></tr>
+<tr>
+<td> HAS_PUBLIC_KEY_ANNOUNCEMENT </td>
+<td> BOOLEAN(1) </td>
+<td> yes
+</td></tr>
+<tr>
+<td> EC_BLOCK_HEIGHT </td>
+<td> INTEGER(10) </td>
+<td> no
+</td></tr>
+<tr>
+<td> EC_BLOCK_ID </td>
+<td> BIGINT(19) </td>
+<td> no
+</td></tr>
+<tr>
+<td> HAS_ENCRYPTTOSELF_MESSAGE </td>
+<td> BOOLEAN(1) </td>
+<td> yes
+</td></tr></tbody></table>
+<p>These 25 fields define a transaction the current version of the Nxt software. Note that the transaction table has evolved since the genesis block. A complete history of the DB structure can be found in the Nxt software source file nxt/src/java/nxt/NxtDbVersion.java
+</p><p>Note that most fields cannot be NULL. The exceptions are RECIPIENT_ID, REFERENCED_TRANSACTION_FULL_HASH, ATTACHMENT_BYTES and the EC_BLOCK... fields. A transaction is valid without any of these fields specified.
+</p><p>Below the column list is a list of indexes. The indexes are all used for sorting various columns for fast retrieval, but the following columns are also restricted to have unique values: DB_ID, ID, FULL_HASH.
+</p><p>Note that transactions stored in the TRANSACTION table are associated with blocks stored in the BLOCK table through the fields HEIGHT, BLOCK_ID and BLOCK_TIMESTAMP.
+</p>
+<h2><span class="mw-headline" id="The_Nxt_API">The Nxt API</span></h2>
+<p>We could interact directly with the DB as <a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#H2_Database_Interfaces" title="Nxt Blockchain Tutorial">shown above</a>, but for the purpose of this tutorial, our script will obtain block and transaction data using Nxt software API calls.
+</p>
+<h3><span class="mw-headline" id="The_getBlock_Call">The getBlock Call</span></h3>
+<p>The <a href="https://wiki.nxtcrypto.org/wiki/Nxt_API#Get_Block" title="Nxt API" class="mw-redirect">getBlock API call</a> can be made from the shell using curl while the Nxt software is running:
+</p>
+<pre>$ h=300000; curl -s "<a rel="nofollow" class="external free" href="http://localhost:7876/nxt?requestType=getBlock&height=$h">http://localhost:7876/nxt?requestType=getBlock&amp;height=$h</a>"
+</pre>
+<p>This returns a JSON object for block height 300000. There are no extra spaces or newlines in the object, and the object does not include fields with null values. For clarity the object can be formatted as:
+</p>
+<pre>{
+ "previousBlockHash": "f5006dc3ae97f52aa27dc7c51888db5c6b0553aeeb51ad4bc74350edbef6e84e",
+ "payloadLength": 370,
+ "totalAmountNQT": "0",
+ "generationSignature": "5d08857979a8a900da73d37dc7b8c9d15acbf2644755523dcc3dccae722185ae",
+ "generator": "15893842156456397710",
+ "generatorPublicKey": "85d34459911c4c5eff7da30966334388d900fefe1082fe7b4d2cbe18706df422",
+ "baseTarget": "769068704",
+ "payloadHash": "0fcff1f8c4b384ee8e8940328827dd99d5d2aa88f401328195e55a5d5afba226",
+ "generatorRS": "NXT-ELWG-9FPV-KTP6-F7L6T",
+ "nextBlock": "3635605354783461399",
+ "requestProcessingTime": 1,
+ "numberOfTransactions": 2,
+ "blockSignature": "11a916927177d737ce8869ad892403b61c7b8008d63690ce9ff92250c982630a98d8d9f7b52717af585a97b7475d26d14cd108e6f0704cc5a6cbaef52d21b129",
+ "transactions": [
+  "5119943785891977024",
+  "5340614876563792980"
+ ],
+ "version": 3,
+ "totalFeeNQT": "200000000",
+ "previousBlock": "3095547095745888501",
+ "cumulativeDifficulty": "11255618847538250",
+ "block": "16287921892019728450",
+ "height": 300000,
+ "timestamp": 32363409
+}
+</pre>
+<h3><span class="mw-headline" id="The_getTransaction_Call">The getTransaction Call</span></h3>
+<p>The <a href="https://wiki.nxtcrypto.org/wiki/Nxt_API#Get_Transaction" title="Nxt API" class="mw-redirect">getTransaction API call</a> can be made from the shell using curl while the Nxt software is running:
+</p>
+<pre>$ tx=5119943785891977024; curl -s "<a rel="nofollow" class="external free" href="http://localhost:7876/nxt?requestType=getTransaction&transaction=$tx">http://localhost:7876/nxt?requestType=getTransaction&amp;transaction=$tx</a>"
+</pre>
+<p>This returns a JSON object for one of the two transactions at block height 300000. There are no extra spaces or newlines in the object, and the object does not include fields with null values. For clarity the object can be formatted as:
+</p>
+<pre>{
+ "senderPublicKey": "2fc5b938a98829d3cbefa60472eac11fd2cc09e6173b370ad6cc0ede666c6475",
+ "signature": "ae92f26b1ded2fd0f154e20cedf9b949ea0b1a1d637bf8e4ebaa52f6dcce7008c6373d2c85b84ea2f919fdd66a6d495005fa3e6b52c89330f7064fabf91ea870",
+ "feeNQT": "100000000",
+ "requestProcessingTime": 0,
+ "type": 2,
+ "confirmations": 8217,
+ "fullHash": "40570f24bfb10d47692bdfa25f3e175768b713b3ccf4bc4cb9cd7cf2ca094bca",
+ "version": 1,
+ "ecBlockId": "9591128410195604705",
+ "signatureHash": "4c9203be1378e5f8ca940794b180e343ec19ac9d38b7fe2f3c2ad9c792e6c305",
+ "attachment": {
+  "version.AskOrderCancellation": 1,
+  "order": "2574190861734682725"
+ },
+ "senderRS": "NXT-ADH7-TCCK-R46P-AHZSR",
+ "subtype": 4,
+ "amountNQT": "0",
+ "sender": "10080164044348861925",
+ "ecBlockHeight": 299990,
+ "block": "16287921892019728450",
+ "blockTimestamp": 32363409,
+ "deadline": 1440,
+ "transaction": "5119943785891977024",
+ "timestamp": 32363262,
+ "height": 300000
+}
+</pre>
+<h3><span class="mw-headline" id="The_getTransactionBytes_Call">The getTransactionBytes Call</span></h3>
+<p>The <a href="https://wiki.nxtcrypto.org/wiki/Nxt_API#Get_Transaction_Bytes" title="Nxt API" class="mw-redirect">getTransactionBytes API call</a> can be made from the shell using curl while the Nxt software is running:
+</p>
+<pre>$ tx=5119943785891977024; curl -s "<a rel="nofollow" class="external free" href="http://localhost:7876/nxt?requestType=getTransactionBytes&transaction=$tx">http://localhost:7876/nxt?requestType=getTransactionBytes&amp;transaction=$tx</a>"
+</pre>
+<p>This returns the signed and unsigned byte arrays of the transaction fields above packed in a certain order according to a complex algorithm that has changed since the genesis block:
+</p>
+<pre>{
+ "unsignedTransactionBytes": "0214fed2ed01a0052fc5b938a98829d3cbefa60472eac11fd2cc09e6173b...",
+ "requestProcessingTime": 0,
+ "confirmations": 12154,
+ "transactionBytes": "0214fed2ed01a0052fc5b938a98829d3cbefa60472eac11fd2cc09e6173b370ad6cc..."
+}
+</pre>
+<h2><span class="mw-headline" id="Comparison_of_Database_and_API_fields">Comparison of Database and API fields</span></h2>
+<h3><span class="mw-headline" id="Block">Block</span></h3>
+<p>Note that there is not an exact correspondence between the 18 BLOCK table fields and the 21 getBlock fields:
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th> DB fields </th>
+<th> API fields
+</th></tr>
+<tr>
+<td> DB_ID </td>
+<td>
+</td></tr>
+<tr>
+<td> ID </td>
+<td> block
+</td></tr>
+<tr>
+<td>VERSION </td>
+<td> version
+</td></tr>
+<tr>
+<td>TIMESTAMP </td>
+<td> timestamp
+</td></tr>
+<tr>
+<td>PREVIOUS_BLOCK_ID </td>
+<td> previousBlock
+</td></tr>
+<tr>
+<td>TOTAL_AMOUNT </td>
+<td> totalAmountNQT
+</td></tr>
+<tr>
+<td>TOTAL_FEE </td>
+<td> totalFeeNQT
+</td></tr>
+<tr>
+<td>PAYLOAD_LENGTH </td>
+<td> payloadLength
+</td></tr>
+<tr>
+<td>GENERATOR_PUBLIC_KEY </td>
+<td> generatorPublicKey
+</td></tr>
+<tr>
+<td>PREVIOUS_BLOCK_HASH </td>
+<td> previousBlockHash
+</td></tr>
+<tr>
+<td>CUMULATIVE_DIFFICULTY </td>
+<td> cumulativeDifficulty
+</td></tr>
+<tr>
+<td>BASE_TARGET </td>
+<td> baseTarget
+</td></tr>
+<tr>
+<td>NEXT_BLOCK_ID </td>
+<td> nextBlock
+</td></tr>
+<tr>
+<td>HEIGHT </td>
+<td> height
+</td></tr>
+<tr>
+<td>GENERATION_SIGNATURE </td>
+<td> generationSignature
+</td></tr>
+<tr>
+<td>BLOCK_SIGNATURE </td>
+<td> blockSignature
+</td></tr>
+<tr>
+<td>PAYLOAD_HASH </td>
+<td> payloadHash
+</td></tr>
+<tr>
+<td>GENERATOR_ID </td>
+<td> generator
+</td></tr>
+<tr>
+<td> </td>
+<td> generatorRS
+</td></tr>
+<tr>
+<td> </td>
+<td> numberOfTransactions
+</td></tr>
+<tr>
+<td> </td>
+<td> transactions
+</td></tr>
+<tr>
+<td> </td>
+<td> requestProcessingTime
+</td></tr></tbody></table>
+<p>The missing DB field is DB_ID which is not needed to uniquely identify a block. The extra API fields are the <a href="https://wiki.nxtcrypto.org/wiki/RS_Address_Format" title="RS Address Format">Reed-Solomon</a> version of the generator ID, from which it can be computed, and transaction number and IDs associated with the block, and finally the API request processing time.
+</p>
+<h3><span class="mw-headline" id="Transaction">Transaction</span></h3>
+<p>Note that there is not an exact correspondence between the 25 TRANSACTION table fields and the 25 getBlock fields:
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th> DB fields </th>
+<th> API fields
+</th></tr>
+<tr>
+<td> DB_ID </td>
+<td>
+</td></tr>
+<tr>
+<td> ID </td>
+<td> transaction
+</td></tr>
+<tr>
+<td> DEADLINE </td>
+<td> deadline
+</td></tr>
+<tr>
+<td> SENDER_PUBLIC_KEY </td>
+<td> senderPublicKey
+</td></tr>
+<tr>
+<td> RECIPIENT_ID </td>
+<td> recipient
+</td></tr>
+<tr>
+<td> </td>
+<td> recipientRS
+</td></tr>
+<tr>
+<td> AMOUNT </td>
+<td> amountNQT
+</td></tr>
+<tr>
+<td> FEE </td>
+<td> feeNQT
+</td></tr>
+<tr>
+<td> HEIGHT </td>
+<td> height
+</td></tr>
+<tr>
+<td> BLOCK_ID </td>
+<td> block
+</td></tr>
+<tr>
+<td> SIGNATURE </td>
+<td> signature
+</td></tr>
+<tr>
+<td> </td>
+<td> signatureHash
+</td></tr>
+<tr>
+<td> TIMESTAMP </td>
+<td> timestamp
+</td></tr>
+<tr>
+<td> TYPE </td>
+<td> type
+</td></tr>
+<tr>
+<td> SUBTYPE </td>
+<td> subtype
+</td></tr>
+<tr>
+<td> SENDER_ID </td>
+<td> sender
+</td></tr>
+<tr>
+<td> </td>
+<td> senderRS
+</td></tr>
+<tr>
+<td> BLOCK_TIMESTAMP </td>
+<td> blockTimestamp
+</td></tr>
+<tr>
+<td> FULL_HASH </td>
+<td> fullHash
+</td></tr>
+<tr>
+<td> REFERENCED_TRANSACTION_FULL_HASH </td>
+<td> referencedTransactionFullHash
+</td></tr>
+<tr>
+<td> ATTACHMENT_BYTES </td>
+<td> attachment object
+</td></tr>
+<tr>
+<td> VERSION </td>
+<td> version
+</td></tr>
+<tr>
+<td> HAS_MESSAGE </td>
+<td>
+</td></tr>
+<tr>
+<td> HAS_ENCRYPTED_MESSAGE </td>
+<td>
+</td></tr>
+<tr>
+<td> HAS_PUBLIC_KEY_ANNOUNCEMENT </td>
+<td>
+</td></tr>
+<tr>
+<td> EC_BLOCK_HEIGHT </td>
+<td> ecBlockHeight
+</td></tr>
+<tr>
+<td> EC_BLOCK_ID </td>
+<td> ecBlockId
+</td></tr>
+<tr>
+<td> HAS_ENCRYPTTOSELF_MESSAGE </td>
+<td>
+</td></tr>
+<tr>
+<td>  </td>
+<td> confirmations
+</td></tr>
+<tr>
+<td>  </td>
+<td> requestProcessingTime
+</td></tr></tbody></table>
+<p>The missing DB fields are DB_ID, which is not needed to uniquely identify a transaction, and the HAS_... booleans which all refer to messages which might be contained in the attachment and which can be determined by examining the attachment. The API has the extra fields <i>signatureHash</i>, which can be obtained from <i>signature</i>, ...RS; the <a href="https://wiki.nxtcrypto.org/wiki/RS_Address_Format" title="RS Address Format">Reed-Solomon</a> versions of IDs, which can be obtained from the IDs; <i>confirmations</i>, which can be computed by comparing height with the last block height on the blockchain; and <i>requestProcessingTime</i>, which is the time to process the API call.
+</p>
+<h2><span class="mw-headline" id="A_Shell_Script_to_Scan_the_Blockchain">A Shell Script to Scan the Blockchain</span></h2>
+<h3><span class="mw-headline" id="Basic_Script">Basic Script</span></h3>
+<p>Save the following script to a file named block.sh:
+</p>
+<pre>#!/bin/bash
+
+function getFields {
+ local fields=$(echo $json | jshon -k)
+ local field; local type; local name; local names
+ for field in $fields; do
+   name="$1_$field"; names="$names $name"
+   type=$(echo $json | jshon -e $field -t)
+   if [[ $type == "string" || $type == "number" ]]; then
+    declare -g $name="$(echo $json | jshon -e $field -u)"
+   else
+    declare -g $name="$(echo $json | jshon -e $field)"
+   fi
+   #echo $name=${!name} # dump fields
+ done
+ declare -g "$1_fields"="$names"
+}
+
+err=; synched=0
+if ((${#1})); then h=$1; else h=0; fi
+
+while ((!synched)) || ((${#b})); do
+
+ json=$(curl -s "http://localhost:7876/nxt?requestType=getBlock&amp;height=$h")
+ if ((${#json} == 0)); then err="server not responding"; break; fi
+ getFields 'bk'
+
+ if ((${#bk_errorDescription})); then err="$bk_errorDescription"; break; fi
+ echo "height=$bk_height, timestamp=$bk_timestamp"
+
+ # do checks here that only refer to the current block
+
+ if ((h&nbsp;!= bk_height)); then err="blocks not in sequential height order"; break; fi
+  
+ if ((synched)); then # do checks here that refer to the previous block
+
+  if ((b&nbsp;!= bk_block)); then err="block ID mismatch"; break; fi
+  if ((pB&nbsp;!= bk_previousBlock)); then err="previousBlock ID mismatch"; break; fi
+
+ fi
+
+ synched=1; ((++h))
+ pB=$bk_block; b=$bk_nextBlock
+ for var in $bk_fields; do unset $var; done # clear all block fields
+ 
+done
+
+if ((${#err})); then echo "Error: $err"; fi
+</pre>
+<p>Make the file executable:
+</p>
+<pre>$ chmod +x block.sh
+</pre>
+<p>Run it starting from the genesis block:
+</p>
+<pre>$ ./block.sh
+</pre>
+<p>The height and timestamp of each block beginning with the genesis block is printed on the console:
+</p>
+<pre>height=0, timestamp=0
+height=1, timestamp=793
+height=2, timestamp=1064
+height=3, timestamp=1148
+...
+</pre>
+<p>This simple version of block.sh will scan the entire blockchain in about two hours.
+</p><p>If the "dump fields" line is uncommented
+</p>
+<pre>echo $var=${!var} # dump fields
+</pre>
+<p>the field variable names and values will be printed for each block.
+</p><p>Now, some explanatory comments about the script.
+</p>
+<h4><span class="mw-headline" id="Call_the_API">Call the API</span></h4>
+<p>The linux utility curl is used to get a block from the blockchain using the <a href="https://wiki.nxtcrypto.org/wiki/Nxt_API#Get_Block" title="Nxt API" class="mw-redirect">API call getBlock</a>. It returns a JSON-formatted string.
+</p>
+<pre>json=$(curl -s "<a rel="nofollow" class="external free" href="http://localhost:7876/nxt?requestType=getBlock&height=$h">http://localhost:7876/nxt?requestType=getBlock&amp;height=$h</a>")
+</pre>
+<p>where $h is the block height and $json is the JSON-formatted block object retrieved.
+</p>
+<h4><span class="mw-headline" id="Loop_Control_and_Command_Line_Parameter">Loop Control and Command Line Parameter</span></h4>
+<p>The variable $h is used to specify block height. It is initialized to the first command line argument $1 (zero default) and incremented near the end of the main block loop, to be checked against the DB field $bk_height in the next loop iteration. To scan the blockchain beginning at height 300000, use:
+</p>
+<pre>$ ./block.sh 300000
+</pre>
+<p>The block loop terminates when the end of the blockchain is reached. The last block in the chain will have <i>nextBlock</i> null and therefore <i>nextBlock</i> will be missing from the $json string. The value of $bk_nextBlock is stored in $b near the end of the block loop so that when its length is tested at the beginning of the next loop, it will have zero length ${#b} and terminate the loop, since all field variables are cleared at the end of the loop in case one becomes null in the next iteration.
+</p>
+<h4><span class="mw-headline" id="Parsing_the_JSON_Block_Object">Parsing the JSON Block Object</span></h4>
+<p>The <i>getFields</i> function extracts block and transaction fields from the $json string into variables such as $bk_nextBlock and $tx_version. It uses the linux utility program <a rel="nofollow" class="external text" href="http://kmkeen.com/jshon/"><i>jshon</i></a>.  Lists of variable names $bk_fields and $tx_fields is kept so that the variables can be unset at the end of each loop, in case there are null DB fields omitted from $json in the next iteration.
+</p>
+<h4><span class="mw-headline" id="Handling_Errors">Handling Errors</span></h4>
+<p>In the event of an improper API call, the $json string will contain an <i>errorDescription</i> field instead of block fields. If this is detected, the block loop breaks and an error report is printed.
+</p><p>All errors are handled the same way, by storing an error message in $err, exiting the loop, and finally printing the message.
+</p>
+<h4><span class="mw-headline" id="Blockchain_Integrity_Checks">Blockchain Integrity Checks</span></h4>
+<p>If valid block fields are retrieved, integrity checks can be performed in the main body of the block loop. There are two sections for checks. The first is for checks that only refer to the current block, while the second is for checks that refer to the previous block. The <i>synched</i> variable is used to ensure that the second section is only executed after one block has been processed and first-block variables have been stored near the end of the loop for use in the next block. 
+</p><p>For example, $bk_block (the block ID of the current block) is stored as pB=$bk_block near the end of the loop, to be compared with $bk_previousBlock (the block ID of the previous block) in the next loop iteration. This is a simple check of blockchain integrity. The field $bk_previousBlock links the current block to the previous block. Likewise, the field $bk_nextBlock (the block ID of the next block) is stored as the variable $b to be compared with $bk_block (the block ID of the current block) in the next loop iteration.
+</p>
+<h3><span class="mw-headline" id="Additional_Blockchain_Integrity_Checks">Additional Blockchain Integrity Checks</span></h3>
+<p>The <a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#Basic_Script" title="Nxt Blockchain Tutorial">basic shell script</a> can be enhanced to perform additional integrity checks on the blockchain. Each new check slows the program down, sometimes significantly, especially when an external, computationally intensive utility is used. For each check below, add it to the appropriate section. If it belongs in the <i>synched</i> section, store the relevant variables near the end of the block loop before the DB fields are cleared for the next iteration.
+</p>
+<h4><span class="mw-headline" id="Transaction_Checks">Transaction Checks</span></h4>
+<h5><span class="mw-headline" id="Transaction_Number_Check">Transaction Number Check</span></h5>
+<pre>txNum=$(echo $bk_transactions | jshon -l)
+if ((txNum&nbsp;!= bk_numberOfTransactions)); then err="numberOfTransactions mismatch"; break; fi
+</pre>
+<h5><span class="mw-headline" id="Transaction_Loop">Transaction Loop</span></h5>
+<pre>txs=$(echo $bk_transactions | jshon -a -u) # get list of transaction IDs
+for tx in $txs; do
+ json=$(curl -s "http://localhost:7876/nxt?requestType=getTransaction&amp;transaction=$tx")
+ if ((${#json} == 0)); then err="server not responding"; break; fi
+ getFields 'tx'
+ if ((${#tx_errorDescription})); then err="$tx_errorDescription"; break; fi
+
+ json=$(curl -s "http://localhost:7876/nxt?requestType=getTransactionBytes&amp;transaction=$tx")
+ if ((${#json} == 0)); then err="server not responding"; break; fi
+ getFields 'txb'
+ if ((${#txb_errorDescription})); then err="$txb_errorDescription"; break; fi
+
+ # place transaction checks here
+
+ for var in $tx_fields; do unset $var; done # clear all transaction fields
+ for var in $txb_fields; do unset $var; done # clear all transaction bytes fields
+done
+if ((${#err})); then break; fi
+</pre>
+<p>The <i>getTransaction</i> API call is used to get the transaction fields given the transaction ID. The <i>getTransactionBytes</i> API call is used to get the signed and unsigned transaction byte array (in hex form). The alternative to the latter is to pack together the transaction fields as done below with <a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#Block_ID_Check" title="Nxt Blockchain Tutorial">block fields</a>, except that the packing algorithm is more complex.
+</p><p>The following transaction checks should be placed within the transaction loop as indicated except for designated pre-loop initializations and post-loop checks.
+</p>
+<h5><span class="mw-headline" id="Amount_and_Fee_Checks">Amount and Fee Checks</span></h5>
+<p>Initialize before the transaction loop:
+</p>
+<pre>amt=0; fee=0
+</pre>
+<p>Accumulate within the loop:
+</p>
+<pre>((amt += tx_amountNQT)); ((fee += tx_feeNQT))
+</pre>
+<p>Check after the loop:
+</p>
+<pre>if ((amt&nbsp;!= bk_totalAmountNQT)); then err="tx amountNQT mismatch"; break; fi
+if ((fee&nbsp;!= bk_totalFeeNQT)); then err="tx feeNQT mismatch"; break; fi
+</pre>
+<h5><span class="mw-headline" id="Payload_Length_and_Hash_Checks">Payload Length and Hash Checks</span></h5>
+<p>Initialize before the transaction loop:
+</p>
+<pre>payLen=0; payHex=
+</pre>
+<p>Accumulate within the loop:
+</p>
+<pre>((payLen += ${#txb_transactionBytes})); payHex=$payHex$txb_transactionBytes
+</pre>
+<p>Check after the loop:
+</p>
+<pre>if ((payLen / 2&nbsp;!= bk_payloadLength)); then err="payload length mismatch"; break; fi
+if [[ $(hexToHash $payHex)&nbsp;!= $bk_payloadHash ]]; then err="payload hash mismatch"; break; fi
+</pre>
+<h5><span class="mw-headline" id="Check_Other_Transaction.2FBlock_Linkages">Check Other Transaction/Block Linkages</span></h5>
+<pre>if [[ $tx_block&nbsp;!= $bk_block ]]; then err="tx/bk block ID mismatch"; break; fi
+if ((tx_blockTimestamp&nbsp;!= bk_timestamp)); then err="tx/bk timestamp mismatch"; break; fi
+if ((tx_height&nbsp;!= bk_height)); then err="tx/bk height mismatch"; break; fi
+</pre>
+<h5><span class="mw-headline" id="Transaction_Version_Check">Transaction Version Check</span></h5>
+<pre>if ((tx_height &lt;= 213000)); then v=0; else v=1; fi
+if ((v&nbsp;!= tx_version)); then err="tx version mismatch"; break; fi
+</pre>
+<h5><span class="mw-headline" id="Transaction_Hash_and_ID_Checks">Transaction Hash and ID Checks</span></h5>
+<pre>sH=$(hexToHash $tx_signature)
+if [[ $sH&nbsp;!= $tx_signatureHash ]]; then err="tx signature hash mismatch"; break; fi
+
+if ((bk_version &lt; 3)); then
+ fH=$(hexToHash $txb_transactionBytes)
+else
+ fH=$(hexToHash $txb_unsignedTransactionBytes$tx_signatureHash)
+fi
+txID=$(hashToID $fH)
+
+if [[ $fH&nbsp;!= $tx_fullHash ]]; then err="tx full hash mismatch"; break; fi
+if [[ $txID&nbsp;!= $tx_transaction ]]; then err="tx ID mismatch"; break; fi
+</pre>
+<h5><span class="mw-headline" id="Transaction_Signature_Check">Transaction Signature Check</span></h5>
+<pre>if ((bk_height &gt; 0)); then
+ v=${tx_signature:0:64}; h1=${tx_signature:64}
+ Y=$(java Curve25519 $v $h1 $tx_senderPublicKey $bk_version)
+ if (($?)); then err="tx signature invalid"; break; fi
+ m=$(hexToHash $txb_unsignedTransactionBytes); h2=$(hexToHash $m$Y)
+ if [[ $h1&nbsp;!= $h2 ]]; then err="tx signature not verified"; break; fi
+fi
+</pre>
+<p>This check makes use of the <a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#Curve25519_Utility" title="Nxt Blockchain Tutorial">Curve25519 Utility</a> to verify the signature. The genesis block is skipped to avoid five bad signatures.
+</p>
+<h4><span class="mw-headline" id="Block_Version_Check">Block Version Check</span></h4>
+<pre>if ((bk_height == 0)); then v=-1
+elif ((bk_height &lt;= 30000)); then v=1
+elif ((bk_height &lt;= 132000)); then v=2
+else v=3; fi
+if ((v&nbsp;!= bk_version)); then err="incorrect version"; break; fi
+</pre>
+<h4><span class="mw-headline" id="previousBlock_Hash_.2F_ID_Check">previousBlock Hash / ID Check</span></h4>
+<pre>if ((bk_version &gt; 1)) &amp;&amp; (($(hashToID $bk_previousBlockHash)&nbsp;!= bk_previousBlock)); then
+ err="previousBlockHash doesn't give previousBlock ID"; break
+fi
+</pre>
+<p>This check makes use of the function
+</p>
+<pre>function hashToID { # convert 32-byte hex hash to decimal id
+ echo $(hexToDec $(hexToLE8 $1))
+}
+</pre>
+<p>which in turn makes use of the functions
+</p>
+<pre>function hexToLE8 { # convert hex string to 8-byte (maximum) little endian
+ echo $1 | sed 's/../&amp;\n/g' | head -8 | tac | tr -d '\n'
+}
+</pre>
+<pre>function hexToDec { # convert hex string (any length) to decimal
+ echo "ibase=16; ${1^^}" | bc
+}
+</pre>
+<p>These functions can be included near the top of the script. They are written to echo a result which can be captured with $(...).  $1 is the first function argument, $2 the second.
+</p><p>hexToLE8 converts a hex string to an 8-byte (16 hex digit) maximum little endian (LE) string, meaning that the byte order is reversed. All ID's in Nxt are 8-byte maximum LE unsigned integers, although internally in the Nxt software they are stored as signed integers since that is the only option in Java. Thus only the eight most significant bytes of the 32-byte previousBlockHash are used to compute the previousBlock ID.
+</p><p>hexToDec converts arbitrary size hex strings to decimal numbers. The utility <i>bc</i> (basic calculator) requries the hex sting to be capitalized (accomplished by ${1^^}) but can handle large strings, in contrast to the built-in printf&nbsp;%d 0x$1 which can only handle up to 63 bits.
+</p>
+<h4><span class="mw-headline" id="Block_ID_Check">Block ID Check</span></h4>
+<pre>blockHex=$(decToLE8 4 $bk_version)$(decToLE8 4 $bk_timestamp)
+blockHex=$blockHex$(decToLE8 8 $bk_previousBlock)$(decToLE8 4 $bk_numberOfTransactions)
+tA=$bk_totalAmountNQT; tF=$bk_totalFeeNQT; w=8
+if ((bk_version &lt; 3)); then ((tA /= 100000000)); ((tF /= 100000000)); w=4; fi
+blockHex=$blockHex$(decToLE8 $w $tA)$(decToLE8 $w $tF)
+blockHex=$blockHex$(decToLE8 4 $bk_payloadLength)$bk_payloadHash$bk_generatorPublicKey$bk_generationSignature
+if ((bk_version &gt; 1)); then blockHex=$blockHex$bk_previousBlockHash; fi 
+blockHexNoSignature=$blockHex
+blockHex=$blockHex$bk_blockSignature
+blockHash=$(hexToHash $blockHex)
+blockID=$(hashToID $blockHash)
+if ((blockID&nbsp;!= bk_block)); then err="computed block ID mismatch"; break; fi
+</pre>
+<p>$blockID is computed from the hash of a byte string composed of certain block fields packed in a certain order. Decimal number fields must first be converted to hex strings with the function decToLE8, which in turn uses the function hexToLE8 previously introduced:
+</p>
+<pre>function decToLE8 { # convert $1-byte (8-byte maximum) decimal $2 to little-endian hex
+ local hex=$(printf&nbsp;%0$(($1 * 2))x $2)
+ local len=$(($1 * 2 - ${#hex})); if ((len &lt; 0)); then hex=${hex:0-len}; fi # handles version = -1
+ echo $(hexToLE8 $hex)
+}
+</pre>
+<p>Once the hex string blockHex is ready, it is hashed using the function hexToHash, which relies on the utility <i>sha256sum</i>:
+</p>
+<pre>function hexToHash { # convert hex string to 32-byte hex hash
+ local hash=($(echo -ne $(echo $1 | sed 's/../\\x&amp;/g') | sha256sum))
+ echo ${hash[0]}
+}
+</pre>
+<p>The hex string is prepared by converting it to a byte string as expected by <i>sha256sum</i>; <i>echo</i> must not append a newline nor treat backslashes as escapes, hence <i>echo -ne</i>.
+</p><p>Finally, the block ID is computed from the hash using the previously mentioned hashToID function. It is then checked against the corresponding block field.
+</p><p>Note that the $blockHex string definition depends on the version of the blockchain. Version 1 introduced the <i>previousBlock</i> field, and version 3 replaced NXT with NQT=10<sup>-8</sup> NXT in the amount and fee fields.
+</p>
+<h4><span class="mw-headline" id="Block_Signature_Check">Block Signature Check</span></h4>
+<pre>v=${bk_blockSignature:0:64}; h1=${bk_blockSignature:64}
+Y=$(java Curve25519 $v $h1 $bk_generatorPublicKey $bk_version)
+if (($?)); then err="block signature invalid"; break; fi
+m=$(hexToHash $blockHexNoSignature); h2=$(hexToHash $m$Y)
+if [[ $h1&nbsp;!= $h2 ]]; then err="block signature not verified"; break; fi
+</pre>
+<p>There is no linux utility available for verifying Curve25519 signatures, so the same Curve25519 Java class used by the Nxt software is used. The $bk_blockSignature field is split in half and each half is passed along with $bk_generatorPublicKey to the customized <a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial#Curve25519_Utility" title="Nxt Blockchain Tutorial">Curve25519 utility</a>, which returns $Y. $Y is hashed with the hash of $blockHexNoSignature, which is just $blockHex without the trailing $bk_blockSignature field.
+</p>
+<h5><span class="mw-headline" id="Curve25519_Utility_-_Java_Version">Curve25519 Utility - Java Version</span></h5>
+<p>Curve25519.java can be acquired from the Nxt software directory nxt/src/java/nxt/crypto/Curve25519.java. A main method can be added to the Curve25519 class as follows, after removing the first line (package nxt.crypto;):
+</p>
+<pre>final class Curve25519 {
+
+ // Usage: java Curve25519 v h publicKey version
+ // signature is (v 32 bytes + h 32 bytes), public key is 32 bytes, version is integer
+
+ public static void main (String[] args) {
+  if (args.length&nbsp;!= 4) System.exit(1);
+  byte [] v = hexStringToByteArray(args[0]);
+  byte [] h = hexStringToByteArray(args[1]);
+  byte [] publicKey = hexStringToByteArray(args[2]); 
+  int version = Integer.parseInt(args[3]);
+  if (version &gt;= 3) {
+   byte[] signature = new byte[v.length + h.length];
+   System.arraycopy(v, 0, signature, 0, v.length);
+   System.arraycopy(h, 0, signature, v.length, h.length);
+   if(!Curve25519.isCanonicalSignature(signature)) System.exit(2);
+   if(!Curve25519.isCanonicalPublicKey(publicKey)) System.exit(3);
+  }
+  byte[] Y = new byte[32];
+  Curve25519.verify(Y, v, h, publicKey);
+  System.out.println(bytesToHex(Y));
+  System.exit(0);
+ }
+
+ public static byte[] hexStringToByteArray(String s) {
+  int len = s.length();
+  byte[] data = new byte[len / 2];
+  for (int i = 0; i &lt; len; i += 2) {
+   data[i / 2] = (byte) ((Character.digit(s.charAt(i), 16) &lt;&lt; 4) + Character.digit(s.charAt(i+1), 16));
+  }
+  return data;
+ }
+
+ final protected static char[] hexArray = "0123456789ABCDEF".toCharArray();
+ public static String bytesToHex(byte[] bytes) {
+  char[] hexChars = new char[bytes.length * 2];
+  for ( int j = 0; j &lt; bytes.length; j++ ) {
+   int v = bytes[j] &amp; 0xFF;
+   hexChars[j * 2] = hexArray[v &gt;&gt;&gt; 4];
+   hexChars[j * 2 + 1] = hexArray[v &amp; 0x0F];
+  }
+  return new String(hexChars);
+ }
+  ...
+}
+</pre>
+<p>This method provides a command line interface that accepts and returns hex strings. It also checks the input fields for canonical form when version &gt;= 3.
+</p><p>Compile the modified class with:
+</p>
+<pre>$ javac Curve25519.java
+</pre>
+<p>The resulting Curve25519.class and Curve25519$long10.class files are now ready for use with the java command
+</p>
+<pre>$ java Curve25519 v h publicKey version
+</pre>
+<h5><span class="mw-headline" id="curve25519_Utility_-_C_Version">curve25519 Utility - C Version</span></h5>
+<p>Curve25519.java was ported to C and is available <a rel="nofollow" class="external text" href="https://bitbucket.org/mystcoin/curve22519">here</a>. Acquire curve25519.c and compile it with:
+</p>
+<pre>$ gcc curve25519.c -o curve25519
+</pre>
+<p>This version includes all of the cryptographic methods from the original Java source code, plus a main function that provides a convenient interface allowing key pair generation, signing, verifying and key agreement. Here we only need verification. Everywhere where the Java utility is invoked:
+</p>
+<pre>Y=$(java Curve25519 $v $h1 ...PublicKey $bk_version)
+</pre>
+<p>the C utility can be invoked instead:
+</p>
+<pre>Y=$(./curve25519 -v $v $h1 ...PublicKey)
+</pre>
+<p>where the executable is assumed to be in the same directory as block.sh. Note that the C version always checks for canonical form, regardless of version; hence the final argument is omitted.
+</p>
+<h4><span class="mw-headline" id="previousBlockHash_Check_.28Synched.29">previousBlockHash Check (Synched)</span></h4>
+<pre>if ((bk_version &gt; 1)) &amp;&amp; [[ $pBH&nbsp;!= $bk_previousBlockHash ]]; then err="previousBlockHash mismatch"; break; fi
+</pre>
+<p>Insert the following near the end of the main block loop:
+</p>
+<pre>pBH=$blockHash
+</pre>
+<h4><span class="mw-headline" id="generationSignature_Check_.28Synched.29">generationSignature Check (Synched)</span></h4>
+<pre>if ((bk_version == 1)); then
+ v=${bk_generationSignature:0:64}; h1=${bk_generationSignature:64}
+ Y=$(java Curve25519 $v $h1 $bk_generatorPublicKey $bk_version)
+ if (($? &gt; 1)); then err="canonical failure"; break; fi
+ m=$(hexToHash $pGS);  h2=$(hexToHash $m$Y)
+ if [[ $h1&nbsp;!= $h2 ]]; then err="version == 1 generation signature not verified"; break; fi
+else
+ generationSignatureHash=$(hexToHash $pGS$bk_generatorPublicKey)
+ if [[ $generationSignatureHash&nbsp;!= $bk_generationSignature ]]; then
+  err="version &gt; 1 generation signature not verified"; break
+ fi
+fi
+</pre>
+<p>Insert the following near the end of the main block loop:
+</p>
+<pre>pGS=$bk_generationSignature
+</pre>
+<p>When version = 1, $bk_generationSignature is checked exactly like the $bk_blockSignature. With version 2, a simple hash algorithm not involving a signature is used. The change was made because there was a flaw in the algorithm which used <i>generationSignature</i> in forging calculations due to randomness in Curve22519 signature generation.
+</p>
+<h4><span class="mw-headline" id="baseTarget_Check_.28Synched.29">baseTarget Check (Synched)</span></h4>
+<pre>bT=$(((pBT * (bk_timestamp - pT)) / 60)); if ((bT &gt; MAX_BASE_TARGET)); then bT=$MAX_BASE_TARGET;fi
+if ((bT &lt; pBT / 2)); then ((bT = pBT / 2)); fi
+if ((bT == 0)); then bT=1; fi
+pBTx2=$((pBT * 2)); if ((pBTx2 &gt; MAX_BASE_TARGET)); then pBTx2=$MAX_BASE_TARGET; fi
+if ((bT &gt; pBTx2)); then bT=$pBTx2; fi
+if ((bT&nbsp;!= bk_baseTarget)); then err="baseTarget mismatch"; break; fi
+</pre>
+<p>Insert the following near the end of the main block loop:
+</p>
+<pre>pBT=$bk_baseTarget; pT=$bk_timestamp
+</pre>
+<p>Insert the following constant initializations before the start of the main block loop:
+</p>
+<pre>TWO64=$(echo "ibase=16; 10000000000000000" | bc) # 2^64 in decimal
+MAX_BALANCE_NXT=1000000000
+GENESIS_BASE_TARGET=$(echo "$TWO64 / (2 * 60 * $MAX_BALANCE_NXT)" | bc) # 153722867
+MAX_BASE_TARGET=$((MAX_BALANCE_NXT * GENESIS_BASE_TARGET))
+</pre>
+<p>$MAX_BALANCE_NXT is the total amount of NXT in existence, 1 billion. $GENESIS_BASE_TARGET is the initial $bk_baseTarget at height zero. It is used to determine which Nxt node will forge a new block. A <i>hit</i> value is computed for each node based on an effectively random 8-byte (64-bit) number computed from $bk_generationSignature once per second. All nodes with a <i>hit</i> value less than $bk_baseTarget * $tx_effectiveBalance (computed from transaction data) are permitted to submit  new blocks to the Nxt network for inclusion in the blockchain. The candidate blockchain with the greatest $bk_cumulativeDifficulty (inversely related to $bk_baseTarget) is accepted by the network.
+</p><p>If all $MAX_BALANCE_NXT NXT in existence were concentrated in one node, $bk_baseTarget * $tx_effectiveBalance would be TWO64 / (2 * 60) which that node's <i>hit</i> value would have a 50% chance of exceeding in 60 attempts. Theoretically then, a <i>hit</i> occurs on average once per minute throughout the network if all NXT tokens are available for forging. In practice the average elapsed time between blocks is somewhat longer.
+</p><p>$bk_baseTarget is dynamically adjusted to maintain a steady blockchain growth rate. If blocks are being generated too slowly, $bk_baseTarget is increased proportional to the time elapsed since the previous block, but is not allowed to more than double nor less than halve with each new block.
+</p>
+<h4><span class="mw-headline" id="cumulativeDifficulty_Check_.28Synched.29">cumulativeDifficulty Check (Synched)</span></h4>
+<pre>cD=$(echo "$pCD + $TWO64 / $bk_baseTarget" | bc)
+if [[ $cD&nbsp;!= $bk_cumulativeDifficulty ]]; then err="cumulativeDifficulty mismatch"; break; fi
+</pre>
+<p>Insert the following near the end of the main block loop:
+</p>
+<pre>pCD=$bk_cumulativeDifficulty
+</pre>
+<p>The utility <i>bc</i> is necessary, since $TWO64 is out of the normal long integer range and $bk_cumulativeDifficulty grows without limit; it will eventually go out of range.
+</p>
+<h3><span class="mw-headline" id="Complete_Script">Complete Script</span></h3>
+<pre>#!/bin/bash
+
+function hexToLE8 { # convert hex string to 8-byte (maximum) little endian
+ echo $1 | sed 's/../&amp;\n/g' | head -8 | tac | tr -d '\n'
+}
+
+function hexToDec { # convert hex string (any length) to decimal
+ echo "ibase=16; ${1^^}" | bc
+}
+
+function hashToID { # convert 32-byte hex hash to decimal id
+ echo $(hexToDec $(hexToLE8 $1))
+}
+
+function decToLE8 { # convert $1-byte (8-byte maximum) decimal $2 to little-endian hex
+ local hex=$(printf&nbsp;%0$(($1 * 2))x $2)
+ local len=$(($1 * 2 - ${#hex})); if ((len &lt; 0)); then hex=${hex:0-len}; fi # handles version = -1
+ echo $(hexToLE8 $hex)
+}
+
+function hexToHash { # convert hex string to 32-byte hex hash
+ local hash=($(echo -ne $(echo $1 | sed 's/../\\x&amp;/g') | sha256sum))
+ echo ${hash[0]}
+}
+
+TWO64=$(echo "ibase=16; 10000000000000000" | bc) # 2^64 in decimal
+MAX_BALANCE_NXT=1000000000
+GENESIS_BASE_TARGET=$(echo "$TWO64 / (2 * 60 * $MAX_BALANCE_NXT)" | bc) # 153722867
+MAX_BASE_TARGET=$((MAX_BALANCE_NXT * GENESIS_BASE_TARGET))
+
+function getFields {
+ local fields=$(echo $json | jshon -k)
+ local field; local type; local name; local names
+ for field in $fields; do
+   name="$1_$field"; names="$names $name"
+   type=$(echo $json | jshon -e $field -t)
+   if [[ $type == "string" || $type == "number" ]]; then
+    declare -g $name="$(echo $json | jshon -e $field -u)"
+   else
+    declare -g $name="$(echo $json | jshon -e $field)"
+   fi
+   #echo $name=${!name} # dump fields
+ done
+ declare -g "$1_fields"="$names"
+}
+
+err=; synched=0
+if ((${#1})); then h=$1; else h=0; fi
+
+while ((!synched)) || ((${#b})); do
+
+ json=$(curl -s "http://localhost:7876/nxt?requestType=getBlock&amp;height=$h")
+ if ((${#json} == 0)); then err="server not responding"; break; fi
+ getFields 'bk'
+
+ if ((${#bk_errorDescription})); then err="$bk_errorDescription"; break; fi
+ echo "height=$bk_height, timestamp=$bk_timestamp"
+
+ # do checks here that only refer to the current block
+
+ txNum=$(echo $bk_transactions | jshon -l)
+ if ((txNum&nbsp;!= bk_numberOfTransactions)); then err="numberOfTransactions mismatch"; break; fi
+
+ amt=0; fee=0
+ payLen=0; payHex=
+ txs=$(echo $bk_transactions | jshon -a -u) # get list of transaction IDs
+ for tx in $txs; do
+  json=$(curl -s "http://localhost:7876/nxt?requestType=getTransaction&amp;transaction=$tx")
+  if ((${#json} == 0)); then err="server not responding"; break; fi
+  getFields 'tx'
+  if ((${#tx_errorDescription})); then err="$tx_errorDescription"; break; fi
+
+  json=$(curl -s "http://localhost:7876/nxt?requestType=getTransactionBytes&amp;transaction=$tx")
+  if ((${#json} == 0)); then err="server not responding"; break; fi
+  getFields 'txb'
+  if ((${#txb_errorDescription})); then err="$txb_errorDescription"; break; fi
+
+  # place transaction checks here
+
+  ((amt += tx_amountNQT)); ((fee += tx_feeNQT))
+  ((payLen += ${#txb_transactionBytes})); payHex=$payHex$txb_transactionBytes
+
+  if [[ $tx_block&nbsp;!= $bk_block ]]; then err="tx/bk block ID mismatch"; break; fi
+  if ((tx_blockTimestamp&nbsp;!= bk_timestamp)); then err="tx/bk timestamp mismatch"; break; fi
+  if ((tx_height&nbsp;!= bk_height)); then err="tx/bk height mismatch"; break; fi
+
+  if ((tx_height &lt;= 213000)); then v=0; else v=1; fi
+  if ((v&nbsp;!= tx_version)); then err="tx version mismatch"; break; fi
+
+  sH=$(hexToHash $tx_signature)
+  if [[ $sH&nbsp;!= $tx_signatureHash ]]; then err="tx signature hash mismatch"; break; fi
+
+  if ((bk_version &lt; 3)); then
+   fH=$(hexToHash $txb_transactionBytes)
+  else
+   fH=$(hexToHash $txb_unsignedTransactionBytes$tx_signatureHash)
+  fi
+  txID=$(hashToID $fH)
+
+  if [[ $fH&nbsp;!= $tx_fullHash ]]; then err="tx full hash mismatch"; break; fi
+  if [[ $txID&nbsp;!= $tx_transaction ]]; then err="tx ID mismatch"; break; fi
+
+  if ((bk_height &gt; 0)); then
+   v=${tx_signature:0:64}; h1=${tx_signature:64}
+   Y=$(java Curve25519 $v $h1 $tx_senderPublicKey $bk_version)
+   if (($?)); then err="tx signature invalid"; break; fi
+   m=$(hexToHash $txb_unsignedTransactionBytes); h2=$(hexToHash $m$Y)
+   if [[ $h1&nbsp;!= $h2 ]]; then err="tx signature not verified"; break; fi
+  fi
+
+  for var in $tx_fields; do unset $var; done # clear all transaction fields
+  for var in $txb_fields; do unset $var; done # clear all transaction bytes fields
+ done
+ if ((${#err})); then break; fi
+ if ((amt&nbsp;!= bk_totalAmountNQT)); then err="tx amountNQT mismatch"; break; fi
+ if ((fee&nbsp;!= bk_totalFeeNQT)); then err="tx feeNQT mismatch"; break; fi
+ if ((payLen / 2&nbsp;!= bk_payloadLength)); then err="payload length mismatch"; break; fi
+ if [[ $(hexToHash $payHex)&nbsp;!= $bk_payloadHash ]]; then err="payload hash mismatch"; break; fi
+
+ if ((h&nbsp;!= bk_height)); then err="blocks not in sequential height order"; break; fi
+
+ if ((bk_height == 0)); then v=-1
+ elif ((bk_height &lt;= 30000)); then v=1
+ elif ((bk_height &lt;= 132000)); then v=2
+ else v=3; fi
+ if ((v&nbsp;!= bk_version)); then err="incorrect version"; break; fi  
+
+ if ((bk_version &gt; 1)) &amp;&amp; (($(hashToID $bk_previousBlockHash)&nbsp;!= bk_previousBlock)); then
+  err="previousBlockHash doesn't give previousBlock ID"; break
+ fi
+
+ blockHex=$(decToLE8 4 $bk_version)$(decToLE8 4 $bk_timestamp)
+ blockHex=$blockHex$(decToLE8 8 $bk_previousBlock)$(decToLE8 4 $bk_numberOfTransactions)
+ tA=$bk_totalAmountNQT; tF=$bk_totalFeeNQT; w=8
+ if ((bk_version &lt; 3)); then ((tA /= 100000000)); ((tF /= 100000000)); w=4; fi
+ blockHex=$blockHex$(decToLE8 $w $tA)$(decToLE8 $w $tF)
+ blockHex=$blockHex$(decToLE8 4 $bk_payloadLength)$bk_payloadHash$bk_generatorPublicKey$bk_generationSignature
+ if ((bk_version &gt; 1)); then blockHex=$blockHex$bk_previousBlockHash; fi 
+ blockHexNoSignature=$blockHex
+ blockHex=$blockHex$bk_blockSignature
+ blockHash=$(hexToHash $blockHex)
+ blockID=$(hashToID $blockHash)
+ if ((blockID&nbsp;!= bk_block)); then err="computed block ID mismatch"; break; fi
+
+ v=${bk_blockSignature:0:64}; h1=${bk_blockSignature:64}
+ Y=$(java Curve25519 $v $h1 $bk_generatorPublicKey $bk_version)
+ if (($?)); then err="block signature invalid"; break; fi
+ m=$(hexToHash $blockHexNoSignature); h2=$(hexToHash $m$Y)
+ if [[ $h1&nbsp;!= $h2 ]]; then err="block signature not verified"; break; fi
+
+ if ((synched)); then # do checks here that refer to the previous block
+
+  if ((b&nbsp;!= bk_block)); then err="block ID mismatch"; break; fi
+  if ((pB&nbsp;!= bk_previousBlock)); then err="previousBlock ID mismatch"; break; fi
+
+  if ((bk_version &gt; 1)) &amp;&amp; [[ $pBH&nbsp;!= $bk_previousBlockHash ]]; then err="previousBlockHash mismatch"; break; fi
+
+  if ((bk_version == 1)); then
+   v=${bk_generationSignature:0:64}; h1=${bk_generationSignature:64}
+   Y=$(java Curve25519 $v $h1 $bk_generatorPublicKey $bk_version)
+   if (($? &gt; 1)); then err="canonical failure"; break; fi
+   m=$(hexToHash $pGS);  h2=$(hexToHash $m$Y)
+   if [[ $h1&nbsp;!= $h2 ]]; then err="version == 1 generation signature not verified"; break; fi
+  else
+   generationSignatureHash=$(hexToHash $pGS$bk_generatorPublicKey)
+   if [[ $generationSignatureHash&nbsp;!= $bk_generationSignature ]]; then
+    err="version &gt; 1 generation signature not verified"; break
+   fi
+  fi
+
+  bT=$(((pBT * (bk_timestamp - pT)) / 60)); if ((bT &gt; MAX_BASE_TARGET)); then bT=$MAX_BASE_TARGET;fi
+  if ((bT &lt; pBT / 2)); then ((bT = pBT / 2)); fi
+  if ((bT == 0)); then bT=1; fi
+  pBTx2=$((pBT * 2)); if ((pBTx2 &gt; MAX_BASE_TARGET)); then pBTx2=$MAX_BASE_TARGET; fi
+  if ((bT &gt; pBTx2)); then bT=$pBTx2; fi
+  if ((bT&nbsp;!= bk_baseTarget)); then err="baseTarget mismatch"; break; fi
+
+  cD=$(echo "$pCD + $TWO64 / $bk_baseTarget" | bc)
+  if [[ $cD&nbsp;!= $bk_cumulativeDifficulty ]]; then err="cumulativeDifficulty mismatch"; break; fi
+
+ fi
+
+ synched=1; ((++h))
+ pB=$bk_block; b=$bk_nextBlock; pBH=$blockHash; pGS=$bk_generationSignature
+ pBT=$bk_baseTarget; pT=$bk_timestamp; pCD=$bk_cumulativeDifficulty
+ for var in $bk_fields; do unset $var; done # clear all block fields
+ 
+done
+
+if ((${#err})); then echo "Error: $err"; fi
+</pre>
+
+
+
+<p>
+Saved from:
+<a href="https://wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial">wiki.nxtcrypto.org/wiki/Nxt_Blockchain_Tutorial</a>
+</p>
+
+
+</main>
+<footer><div>7523-06-08 - 7523-06-08</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
