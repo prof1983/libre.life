@@ -1,0 +1,491 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Голосование - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Голосование</h1>
+
+<figure>
+<a href="img/00b.jpg"><img src="img/00.jpg"/></a>
+</figure>
+
+
+<ul>
+<li><a href="#liquidizer">Liquidizer</a></li>
+<li><a href="#liquidfeedback">LiquidFeedback</a></li>
+<li><a href="#agora">Agora</a></li>
+</ul>
+
+
+
+
+<a name="liquidizer"></a>
+<h2>Liquidizer</h2>
+
+<h3>Liquidizer User Guide</h3>
+
+<p>
+Liquidizer - интерактивная онлайн-платформа, предназначенная для политической дискуссии и постоянного учета мнений. Основными достоинствами системы является простая система голосования и многочисленные наглядные способы демонстрации текущих настроений, интересов и взаимодействий участников.
+</p>
+
+<p>
+Система быстро и точно реагирует на выражение пользователем своих предпочтений. Чтобы оказать максимальное влияние на результаты, участники должны разумно распределять свои голоса, обладающие ограниченным весом. В результате происходит подобие политической игры, в которой возникновение союзов и скоординированное голосование участников позволяет увидеть структуры противоборствующих фракций, а также лучше понять политические установки каждого участника.
+</p>
+
+
+<h3>Голосование</h3>
+
+<p>
+Система голосования Liquidizer основана на том, что голос участника разделяется при голосовании по нескольким темам, поэтому следует хорошо взвешивать значимость каждой темы. Максимальный вес, который имеет голос в какой-то теме, равен 1.Если же участник поддерживает (или отклоняет) несколько тем, вес отданного по каждой теме голоса уменьшается. Чтобы наилучшим образом использовать свой голос, следует регулярно заходить в систему и внимательно следить за тем,какие темы заслуживают внимания. Общий вес голоса уменьшается со временем, если пользователь не заходит в систему. Таким образом, влияние "мертвых душ"удается снизить.
+</p>
+
+<p>
+Пользователь может указывать свои предпочтения по отдельным темам на шкале от -3 до 3.Положительное значение означает поддержку темы, отрицательное означает ее отклонение. Предпочтения не показываются другим пользователям напрямую, но определяют распределение ограниченного веса, который имеет голос пользователя, по темам.
+</p>
+
+<p>
+Можно также указывать положительное предпочтение в адрес другого пользователя, что означает передачу ему части своего веса. В зависимости от силы делегации (от 1 до 3) голоса этого пользователя будут оказывать влияние на итоговые веса голосов делегирующего.
+</p>
+
+<p>
+Лучшей стратегией, чтобы достичь своих целей,по-прежнему является убедительная аргументация. Везде, где появляется данный символ, зарегистрированный пользователь может оставлять комментарии. Комментарии видны всем (за исключениям адресов электронной почты). 
+</p>
+
+
+<h3>Популярность</h3>
+
+<figure>
+<img src="img/liquidizer/face-a1.png"/>
+</figure>
+
+<p>
+Если вы используете Liquidizer, то вероятно вы хотите найти хорошее решение не только для вас, но и для вашей группы. Коэффициент популярность, который отображается рядом с профилями пользователей говорит вам, насколько хорошо вы делаете. Если все участники соглашаются прекрасно то каждый имеет популярность на 100%. В случае группа борется fiercefully на каждый вопрос, то все участники будут иметь популярность, близкий к 0%.
+</p>
+
+<p>
+Очевидно, что вы должны попытаться увеличить коэффициент популярность. При этом вы будете активно участвовать в поиске хорошая группа компромисс. В результате вы увидите более счастливые лица не только в системе, но и в реальной жизни.
+</p>
+
+
+<h3>Значки настроения</h3>
+
+<p>
+Когда пользователь заходит в систему, его отношения с другими пользователями наглядно иллюстрируются при помощи значков настроения. Эти значки создаются из составляющих Симпатия, Возбуждение, Сила и Расстояние.
+</p>
+
+<h4>Симпатия</h4>
+
+<figure>
+<img src="img/liquidizer/face-v0.png"/>
+<img src="img/liquidizer/face-v1.png"/>
+</figure>
+
+<p>
+"Симпатия" зависит от того, в какой мере позиции пользователей совпадают.
+</p>
+
+<h4>Возбуждение</h4>
+
+<figure>
+<img src="img/liquidizer/face-a0.png"/>
+<img src="img/liquidizer/face-a1.png"/>
+</figure>
+
+<p>
+"Возбуждение" указывает на то, изменились ли остальные компоненты в последнее время.
+</p>
+
+<h4>Сила</h4>
+
+<figure>
+<img src="img/liquidizer/face-p0.png"/>
+<img src="img/liquidizer/face-p1.png"/>
+</figure>
+
+<p>
+"Сила" указывает на совпадение областей интересов(то есть на количество тем, по которым оба пользователя проголосовали,вне зависимости от их позиций по этим темам).
+</p>
+
+<h4>Расстояние</h4>
+
+<figure>
+<img src="img/liquidizer/face-close.png"/>
+<img src="img/liquidizer/face-dist.png"/>
+</figure>
+
+<p>
+"Расстояние" показывает, какое влияние пользователи оказывают друг на друга посредством прямых или косвенных делегаций.
+</p>
+
+<p>
+Значки настроения можно опробовать тут: <a href="http://liquidizer.org/emoticons" target="_blank">liquidizer.org/emoticons</a>
+</p>
+
+
+<h3>Система голосования и тактика</h3>
+
+<p>
+Система голосования, используемая в Liquidizer, оптимизирована с точки зрения теории игр. Так как вес голоса каждого пользователя ограничен, для достижения наилучших результатов следует с вниманием относиться к распределению своих голосов. Голосования происходят без ограничения по времени. Тем самым,конечной целью является не "победа", а привлечение внимания и учет мнений в отношении тем, предложений или требований.
+</p>
+
+<p>
+Вес, который голос одного участника имеет в голосовании по одной теме, находится в пределах от -1 до 1. Сумма квадратов весов голосов одного пользователя по всем темам равна 1. Таким образом, пользователь может участвовать в большом количестве голосований, но с малым весом. К примеру, если проголосовать в 100 темах, вес в каждой из них будет равен 0,1 (т.к. 0.1<sub>2</sub> = 1/100). Если какая-то тема кажется особенно важной или спорной, можно увеличить свое влияние в этой теме, проголосовав только по ней. В этом случае голос в данной теме будет иметь вес 1 или -1 (в зависимости от голосования).
+</p>
+
+<p>
+В следующем примере А и Б участвуют в голосовании по трем темам. А безразличен к теме 1, активно поддерживает тему 2 и выступает против темы 3. Б поддерживает все три темы, но тема А для него является наиболее важной.
+</p>
+
+<table>
+<tr><td>-</td><td>Предпочтения A</td><td>Предпочтения B</td></tr>
+<tr><td>Тема 1</td><td>0</td><td>3</td></tr>
+<tr><td>Тема 2</td><td>3</td><td>1</td></tr>
+<tr><td>Тема 3</td><td>-1</td><td>1</td></tr>
+</table>
+
+<p>
+...
+</p>
+
+
+<p>
+<a href="http://liquidizer.org/" target="_blank">liquidizer.org</a>
+</p>
+
+
+
+
+<a name="liquidfeedback"></a>
+<h2>LiquidFeedback</h2>
+
+<p class="h">
+LiquidFeedback is an open-source software, powering internet platforms for proposition development and decision making
+</p>
+
+<p>
+LiquidFeedback is an independent open source project published under MIT license by the Public Software Group of Berlin, Germany. The developers of LiquidFeedback have teamed up in the Association for Interactive Democracy to promote the use of electronic media for democratic processes.
+</p>
+
+
+<h3>LiquidFeedback is more than Liquid Democracy</h3>
+
+<ul>
+<li>Liquid Democracy</li>
+<li>Collective Moderation</li>
+<li>Fully Transparent Decision Process</li>
+<li>Preferential Voting</li>
+</ul>
+
+
+<h3>LiquidFeedback has been applied to various use cases</h3>
+
+<ul>
+<li>Political Parties</li>
+<li>CSOs Associations</li>
+<li>Government Civic Participation</li>
+<li>Corporations Cooperatives</li>
+</ul>
+
+
+<h3>LiquidFeedback is Open Source</h3>
+
+<ul>
+<li>Free of License Fees</li>
+<li>No Vendor Lock-in</li>
+<li>Source Code Access</li>
+<li>No Copyleft</li>
+</ul>
+
+
+<h3>You can adopt LiquidFeedback now!</h3>
+
+<ul>
+<li>Just the Source Code</li>
+<li>Get the Book</li>
+<li>Talks and Workshops</li>
+<li>Professional Services</li>
+</ul>
+
+<p>
+<a href="http://liquidfeedback.org/" target="_blank">liquidfeedback.org</a>
+</p>
+
+
+<h3>LiquidFeedback Core</h3>
+
+<p>
+This is the central component of LiquidFeedback, also called "The Core".
+</p>
+
+Get the source
+
+<ul>
+
+<li>
+<b>Official releases</b>
+<br/>
+The core is stable. Official releases are provided at ​<a href="http://www.public-software-group.org/liquid_feedback_core" target="_blank">public-software-group.org/liquid_feedback_core</a>.
+</li>
+
+<li>
+<b>Repository liquid_feedback_core</b>
+<br/>
+Current development versions are available at the ​<a href="http://www.public-software-group.org/mercurial/liquid_feedback_core" target="_blank">repository</a>.
+</li>
+
+<li>
+<b>Development tasks</b>
+<br/>
+Implementing a better sorting algorithm for suggestions, see <a href="http://dev.liquidfeedback.org/trac/lf/wiki/HarmonicWeighting" target="_blank">HarmonicWeighting</a>. Done in Core v2.2.
+</li>
+
+</ul>
+
+
+<p>
+<a href="http://dev.liquidfeedback.org/trac/lf/wiki/Core" target="_blank">dev.liquidfeedback.org/trac/lf/wiki/Core</a>
+</p>
+
+
+<h3>Гармоническое Взвешивание</h3>
+<h3>Harmonic Weighting</h3>
+
+<p>
+Инициативы в рамках вопроса сортируются с помощью "гармонического взвешивания". Эта функция улучшает отображение точек зрения меньшинств в следующем порядке: Группа превышения размера <b>M / (1+N)</b> населения (в данном случае: все люди, которые поддерживают по крайней мере одну инициативу), будет в состоянии поместить инициативы М в течение первых N позиций. Он, таким образом, обеспечивается, что меньшинства всегда могут поставить свои позиции до обсуждения в рамках вопроса. Например меньшинство превышение размера 16,7% смогут разместить одну инициативу среди первых пяти отображаемых инициатив, и меньшинство 5% смогут разместить одну инициативу в первой 20 отображаемых инициатив. Это справедливо даже в тех случаях, когда большинство поддерживают огромное количество альтернативных инициатив в той же самой проблеме, и он держит в случаях, когда члены поддержке меньшинства любое количество других инициатив, которые не получают позицию отображения среди первых N позиций.
+</p>
+
+<p>
+Пожалуйста, обратите внимание, что эта функция влияет только на <b>отображение</b> инициатив в рамках вопроса. Она не изменяет выбор окончательного победителя. Результаты после окончательного голосования всегда рассчитывается на основе большинства.
+</p>
+
+
+<p>
+Initiatives within an issue are sorted using "harmonic weighting". This feature improves the display of minority viewpoints in the following manner: A group exceeding the size of <b>M / (1+N)</b> of the population (in this case: of all people, who support at least one initiative), will be able to place M initiatives within the first N positions. It is thus ensured, that minorities can always put their positions up to discussion within an issue. For example a minority exceeding the size of 16.7% will be able to place one initiative amongst the first five displayed initiatives, and a minority of 5% will be able to place one initiative amonst the first 20 displayed initiatives. This holds even in cases where majorities support a huge number of alternative initiatives in the same issue, and it holds in cases where members of the minority support any number of other initiatives, which do not gain a display position amongst the first N positions.
+</p>
+
+<p>
+Please note that this feature only affects the <b>display</b> of initiatives within an issue. It does not alter the selection of a final winner. Results after final voting are always calculated based on majorities.
+</p>
+
+
+<h4>Вычисление</h4>
+<h4>Calculation</h4>
+
+<p>
+Все сторонники присваивается вес <b>d / n</b> в поддержке инициативы, где d является размер собственного веса + делегированы голосования и n ряд инициатив в этом элемент поддерживает в этом вопросе, которые не были назначены на должность дисплея еще. Вес всех сторонников инициативы добавляется для каждой инициативы. Инициатива с наименьшей суммой присваивается последней неназначенной позиции. Однако, если есть инициативы, не прошедшие на голосование (в связи с отсутствием достаточных сторонников), то до тех пор, как существуют не признаные инициативы, которые не были назначены на отображение пока только эти инициативы имеют право на назначение на этом этапе; т.е. инициатива с низкой суммой среди не-признанных инициатив выбирают какую назначить на последнюю неназначенную позицию. В случае ничьей, только новые инициативы с наименьшим весом выбирают для размещения на последней незанятой позиции. Процесс повторяется до тех пор, пока все инициативы не будут отнесены к позиции отображения. Таким образом, для каждого сторонника, n уменьшается на единицу каждый раз, когда поддерживаемая инициатива была назначена на позицию.
+</p>
+
+<p>
+All supporters are assigned a weight of <b>d / n</b> per supported initiative, where d is the amount of own+delegated voting weight and n is the number of initiatives this member supports in this issue, which have not been assigned to a display position yet. The weight of all supporters of an initiative is added for each initiative. The initiative with the lowest sum is assigned to the last unassigned position. However if there are initiatives not admitted for voting (due to a lack of sufficient supporters), then as long as there are non-admitted initiatives which have not been assigned to a display position yet, only these initiatives are eligible for assignment during this step; i.e. the initiative with the lowest sum amongst the non-admitted initiatives is chosen to be assigned to the last unassigned position. In case of a tie, only the newest initiative with the least weight is chosen to be placed on the last unassigned position. The process is repeated until all initiatives have been assigned to a display position. Thus, for each supporter, n is decremented by one whenever a supported initiative has been assigned to a position.
+</p>
+
+<p>
+Общий вес, используемый для каждого сторонника в течение этого процесса является d × (1 + 1/2 + 1/3 + ... + 1/n). Как 1 + 1/2 + 1/3 + ... также известен как <a href="https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D1%8F%D0%B4" target="_blank">гармонический ряд</a> в математике, мы называем этот метод "гармонический вес".
+</p>
+
+<p>
+The total weight utilized by each supporter during this process is d × (1 + 1/2 + 1/3 + ... + 1/n). As 1 + 1/2 + 1/3 + ... is also known as the ​<a href="">harmonic series</a> in mathematics, we call this method "harmonic weighting".
+</p>
+
+<p>
+Потенциальные сторонники (с неисполненных предложений, отмеченных как "должен", или отработавших предложений, отмеченных как "не должны") включены в счет, для тех инициатив, которые были допущены для голосования, когда голосование началось, за исключением.
+</p>
+
+<p>
+Potential supporters (with non-fulfilled suggestions marked as "must", or fulfilled suggestions marked as "must not") are included in the count, except for those initiatives, which have been admitted for voting when voting has started.
+</p>
+
+
+<h4>Suitablility for sorting suggestions</h4>
+
+<p>
+"Гармонический вес" не подходит для сортировки предложений, из-за следующей разница между инициатив и предложений: Предложения могут дополнять друг друга, в то время как инициативы нет. Одна инициатива может включать в себя полную точку зрения на определенный вопрос, а предложения нет. В то время как это желаемый эффект, что поддержка хорошо поддержал инициативу (или предлагая модификации этой инициативы) может снизить гармонические вес, данный другим инициативе, не было бы желательно, что ранжирование предложение, которое обычно договорились о, снимает вашу способность нажать другие предложения в том же инициативе в лучшем положении отображения.
+</p>
+
+<p>
+The "harmonic weight" is not suitable to sort suggestions, because of the following difference between initiatives and suggestions: Suggestions may complement each other, while initiatives do not. A single initiative can include a complete point of view on a certain issue, while suggestions do not. While it is a desired effect that supporting a well-supported initiative (or suggesting modifications of this initiative) can reduce your harmonic weight given to another initiative, it would not be desired that ranking a suggestion, which is commonly agreed on, removes your ability to push other suggestions in the same initiative to a better display position.
+</p>
+
+<p>
+Таким образом, "гармонический вес" не используется для сортировки предложениями в вопросе. Вместо этого мы используем <a href="http://dev.liquidfeedback.org/trac/lf/wiki/ProportionalOrderOfSuggestions" target="_blank">обобщенный вариант пропорционального стоку алгоритма</a>.
+</p>
+
+<p>
+Thus the "harmonic weight" is not used to sort suggestions within an issue. Instead we use <a href="http://dev.liquidfeedback.org/trac/lf/wiki/ProportionalOrderOfSuggestions" target="_blank">generalized version of the Proportional Runoff Algorithm</a>.
+</p>
+
+<p>
+Source:
+<a href="http://dev.liquidfeedback.org/trac/lf/wiki/HarmonicWeighting" target="_blank">dev.liquidfeedback.org/trac/lf/wiki/HarmonicWeighting</a>
+</p>
+
+
+
+
+<h3>LiquidFeedback API Server (lfapi)</h3>
+
+<p>
+GET  /session
+<br/>
+GET  /info
+<br/>
+GET  /member_count
+<br/>
+GET  /contingent
+<br/>
+GET  /contingent_left
+<br/>
+POST /echo_test
+<br/>
+GET  /member
+<br/>
+POST /member
+<br/>
+GET  /member_history
+<br/>
+GET  /member_image
+<br/>
+POST /member_image
+<br/>
+GET  /contact
+<br/>
+POST /contact
+<br/>
+GET  /privilege
+<br/>
+GET  /policy
+<br/>
+GET  /unit
+<br/>
+GET  /area
+<br/>
+GET  /allowed_policy
+<br/>
+GET  /membership
+<br/>
+POST /membership
+<br/>
+GET  /issue
+<br/>
+GET  /population
+<br/>
+GET  /interest
+<br/>
+POST /interest
+<br/>
+GET  /issue_comment
+<br/>
+POST /issue_comment
+<br/>
+GET  /initiative
+<br/>
+GET  /initiator
+<br/>
+POST /invite_initiator
+<br/>
+POST /initiator
+<br/>
+GET  /supporter
+<br/>
+POST /supporter
+<br/>
+GET  /battle
+<br/>
+GET  /draft
+<br/>
+POST /draft
+<br/>
+GET  /suggestion
+<br/>
+GET  /opinion
+<br/>
+POST /opinion
+<br/>
+GET  /delegation
+<br/>
+POST /delegation
+<br/>
+GET  /voter
+<br/>
+GET  /delegating_voter
+<br/>
+GET  /vote
+<br/>
+POST /vote
+<br/>
+GET  /event
+<br/>
+GET  /ignored_member
+<br/>
+POST /ignored_member
+<br/>
+GET  /ignored_initiative
+<br/>
+POST /ignored_initiative
+<br/>
+GET  /setting
+<br/>
+POST /setting
+</p>
+
+<p>
+Source:
+<a href="http://dev.liquidfeedback.org/trac/lf/wiki/lfapi" target="_blank">dev.liquidfeedback.org/trac/lf/wiki/lfapi</a>
+</p>
+
+
+<!--
+0504/1
+https://forum.pirate-party.ru/8-s'ezd-partii-(obsujdeniya)/predlojeniya-v-programmu-decentralizovannie-instrumenti-i-tehnologii/
+https://forum.pirate-party.ru/8-s'ezd-partii-(obsujdeniya)/sbor-predlojeniy-dlya-vklyucheniya-v-programmu-partii-(8-s'ezd)/msg6832/#msg6832
+-->
+
+
+
+
+<a name="agora"></a>
+<h2>Agora</h2>
+
+<p>
+<a href="https://agoravoting.com/" target="_blank">agoravoting.com</a>
+</p>
+
+
+
+
+<h2>Публикации</h2>
+
+<div class="article">
+<a href="/7522/1010/1/ru"><img src="/7522/1010/1/logo-320x200.jpg" /></a>
+<p><a href="/7522/1010/1/ru">Неотвратимая децентрализованная компьютерная революция</a></p>
+<p>В глубинах интернета созревает новый мега-тренд, способный свергнуть с трона традиционную бюрократическую систему, институт посредничества и даже блюстителей порядка, а также социальные структуры, банки, неактуальные биржи, системы электронного голосования и, в конце концов, правительства. <a href="/7522/1010/1/ru">Подробнее...</a></p>
+</div>
+
+
+<!--
+http://storage.libre.life/
+liquid_feedback_core-v3.0.4.tar.gz
+liquid_feedback_frontend-v3.0.6.tar.gz
+-->
+
+
+<p class="h3">
+<a href="/nation/ru">Нация</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/ru">Главная</a></nav>
+
+</main>
+<footer><div>7523-05-04 - 7524-06-22</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+= Harmonic Weighting =
+
+Initiatives within an issue are sorted using "harmonic weighting". This feature improves the display of minority viewpoints in the following manner: A group exceeding the size of '''''M'' / (1+''N'')''' of the population (in this case: of all people, who support at least one initiative), will be able to place ''M'' initiatives within the first ''N'' positions. It is thus ensured, that minorities can always put their positions up to discussion within an issue. For example a minority exceeding the size of 16.7% will be able to place one initiative amongst the first five displayed initiatives, and a minority of 5% will be able to place one initiative amonst the first 20 displayed initiatives. This holds even in cases where majorities support a huge number of alternative initiatives in the same issue, and it holds in cases where members of the minority support any number of other initiatives, which do not gain a display position amongst the first ''N'' positions.
+
+Please note that this feature only affects the '''''display''''' of initiatives within an issue. It does not alter
+the selection of a final winner. Results after final voting are always calculated based on majorities.
+
+== Calculation ==
+
+
+All supporters are assigned a weight of '''''d'' / ''n''''' per supported initiative, where ''d'' is the amount of own+delegated voting weight and ''n'' is the number of initiatives this member supports in this issue, __which have not been assigned to a display position yet.__ The weight of all supporters of an initiative is added for each initiative. The initiative with the lowest sum is assigned to the last unassigned position. However if there are initiatives not admitted for voting (due to a lack of sufficient supporters), then as long as there are non-admitted initiatives which have not been assigned to a display position yet, only these initiatives are eligible for assignment during this step; i.e. the initiative with the lowest sum amongst the non-admitted initiatives is chosen to be assigned to the last unassigned position. In case of a tie, only the newest initiative with the least weight is chosen to be placed on the last unassigned position. The process is repeated until all initiatives have been assigned to a display position. Thus, for each supporter, ''n'' is decremented by one whenever a supported initiative has been assigned to a position.
+
+The total weight utilized by each supporter during this process is ''d'' × (1 + 1/2 + 1/3 + ... + 1/''n''). As 1 + 1/2 + 1/3 + ... is also known as the [http://en.wikipedia.org/wiki/Harmonic_series_(mathematics) harmonic series] in mathematics, we call this method "harmonic weighting".
+
+Potential supporters (with non-fulfilled suggestions marked as "must", or fulfilled suggestions marked as "must not") are included in the count, except for those initiatives, which have been admitted for voting when voting has started.
+
+== Suitablility for sorting suggestions ==
+
+The "harmonic weight" is not suitable to sort suggestions, because of the following difference between initiatives and suggestions: Suggestions may complement each other, while initiatives do not. A single initiative can include a complete point of view on a certain issue, while suggestions do not. While it is a desired effect that supporting a well-supported initiative (or suggesting modifications of this initiative) can reduce your harmonic weight given to ''another'' initiative, it would ''not'' be desired that ranking a suggestion, which is commonly agreed on, removes your ability to push other suggestions in the ''same'' initiative to a better display position.
+
+Thus the "harmonic weight" is not used to sort suggestions within an issue. Instead we use [ProportionalOrderOfSuggestions generalized version of the Proportional Runoff Algorithm].

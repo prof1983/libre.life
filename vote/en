@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<link rel="stylesheet" href="/css/main.css"/>
+<title>Vote - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Vote</h1>
+
+<figure>
+<a href="img/00b.jpg"><img src="img/00.jpg"/></a>
+</figure>
+
+
+<ul>
+<li><a href="ru#liquidizer">Liquidizer</a></li>
+<li><a href="ru#liquidfeedback">LiquidFeedback</a></li>
+<li><a href="ru#agora">Agora</a></li>
+</ul>
+
+
+
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+
+
+<a name="agora"></a>
+<h2>Agora</h2>
+
+<p>
+<a href="https://agoravoting.com/" target="_blank">agoravoting.com</a>
+</p>
+
+
+
+
+<h2>Publications</h2>
+
+<div class="article">
+<a href="/7522/1010/1/en"><img src="/7522/1010/1/logo-320x200.jpg" /></a>
+<p><a href="/7522/1010/1/en">Weekend Read: The Imminent Decentralized Computing Revolution</a></p>
+<p>A mega-trend is brewing that could make bureaucratic hierarchies, middlemen and gatekeepers everywhere obsolete including social networks, banks, stock exchanges, electronic voting systems and even governments. <a href="/7522/1010/1/en">Read more...</a></p>
+</div>
+
+
+
+<!--
+0504/1
+https://forum.pirate-party.ru/8-s'ezd-partii-(obsujdeniya)/predlojeniya-v-programmu-decentralizovannie-instrumenti-i-tehnologii/
+https://forum.pirate-party.ru/8-s'ezd-partii-(obsujdeniya)/sbor-predlojeniy-dlya-vklyucheniya-v-programmu-partii-(8-s'ezd)/msg6832/#msg6832
+-->
+
+
+
+
+<p class="h3">
+<a href="/nation/en">Nation</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/en">Main</a></nav>
+
+</main>
+<footer><div>7523-05-04 - 7524-06-22</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
