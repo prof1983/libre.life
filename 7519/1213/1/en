@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Presentation of aspirin and a trip to Shaymuratovo - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Presentation of aspirin and a trip to Shaymuratovo</h1>
+
+<figure>
+<a href="00b.jpg"><img src="00.jpg"/></a>
+</figure>
+
+<p>
+Aspirin Presentation at the seminar "Crisis? What to do !!" involving M.Hazina, O.Grigoreva and A.Vinogradova Shaymuratovo and a trip to the place the practical implementation of a system of free calculations. 24-25 November 2011.
+</p>
+
+<figure>
+<iframe width="420" height="315" src="//www.youtube.com/embed/DFmEuiH9qYc" frameborder="0" allowfullscreen></iframe>
+<!--iframe width="420" height="315" src="//www.youtube.com/embed/SSQmqNLjihY" frameborder="0" allowfullscreen></iframe-->
+</figure>
+
+<br/>
+
+<p class="h2">
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/economy/aspirin/ru">Aspirin</a></nav>
+
+</main>
+<footer><div>7524-03-08 - 7524-11-03</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

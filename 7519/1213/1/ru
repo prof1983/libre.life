@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Презентация проекта АСПИРИН и поездка в Шаймуратово - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Презентация проекта АСПИРИН и поездка в Шаймуратово</h1>
+
+<figure>
+<a href="00b.jpg"><img src="00.jpg"/></a>
+</figure>
+
+<p>
+Презентация проекта АСПИРИН на семинаре "Кризис? Что делать!!" с участием М.Хазина, О.Григорьева и А.Виноградова и поездка в Шаймуратово, место практической реализации системы свободных расчетов. 24-25 ноября 2011.
+</p>
+
+<figure>
+<iframe width="420" height="315" src="//www.youtube.com/embed/DFmEuiH9qYc" frameborder="0" allowfullscreen></iframe>
+<!--iframe width="420" height="315" src="//www.youtube.com/embed/SSQmqNLjihY" frameborder="0" allowfullscreen></iframe-->
+</figure>
+
+
+
+
+<nav class="main-footer-nav"><a href="/economy/aspirin/ru">Аспирин</a></nav>
+
+</main>
+<footer><div>7524-03-08 - 7524-11-03</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
