@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>About the money, the future and neuroruble - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>About the money, the future and neuroruble</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+Very few people even from the financial sector to understand where the money come from, what they are, why they are needed, unlike what the words "money" and "currency". For these people, the financial sector - it's only business. But it's not for me. In my opinion the finance - it is a very powerful tool for people management, development management.
+</p>
+
+<p class="h2">
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/money/libre/en">Libre.Money</a></p>
+
+</main>
+<footer><div>7524-10-26 - 7524-10-26</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
