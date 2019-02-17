@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Подведение итогов конкурса на логотип (07.2014) - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Подведение итогов конкурса на логотип (07.2014)</h1>
+
+<figure>
+<img src="00.jpg" />
+</figure>
+
+<p>
+<a href="ru">RU</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/money/libre/en">Libre.Money</a></nav>
+
+</main>
+<footer><div>7522-08-01 - 7526-10-10</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
