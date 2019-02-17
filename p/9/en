@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Mind Products - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Mind Products</h1>
+
+<figure>
+<img src="img/logo/300x300.jpg"/>
+</figure>
+
+<p class="h">
+<b>Creative ideas development environment</b>
+</p>
+
+<!--p class="h">
+<b>Association of Inventors for Inventors</b>
+</p-->
+
+<p class="h">
+Mind Products - is a creative development environment, promoting and implementation tools for various creative Ideas.
+People from all over the world can publish information about their ideas, inventions, innovations and know-how. Due to flexible interface users of the web site may develop and improve them, connect relative ideas, assess for many criteria, build teams for implementing ideas...
+</p>
+
+<p class="h2">
+<a href="http://mindproducts.org">mindproducts.org</a>
+<br/>
+<a href="http://mindproducts.ru">mindproducts.ru</a>
+</p>
+
+
+<p class="h2">
+<a href="ru">RU</a>
+</p>
+
+
+</main>
+<footer><div>7523-03-16 - 7523-04-13</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
