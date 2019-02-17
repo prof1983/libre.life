@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Netocracy - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Netocracy</h1>
+
+<figure>
+<img src="img/00.jpg"/>
+</figure>
+
+<p>
+<b>Netocracy</b> was a term invented by the editorial board of the American technology magazine Wired in the early 1990s. A portmanteau of Internet and aristocracy, netocracy refers to a perceived global upper-class that bases its power on a technological advantage and networking skills, in comparison to what is portrayed as a bourgeoisie of a gradually diminishing importance. <a href="https://en.wikipedia.org/wiki/Netocracy" target="_blank">Wikipedia</a>
+</p>
+
+
+<p class="h3">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+
+<h2>Publishing</h2>
+
+<div class="article">
+<a href="/7524/0921/1/en"><img src="/7524/0921/1/logo-320x200.jpg"></a>
+<p><a href="/7524/0921/1/en">Social chaperones</a></p>
+<p>
+In this article the subject of decentralized cooperative networks that do not have a single leader (dominant, the boss...), so that their functioning is determined by complex interactions between the partial leaders.
+<a href="/7524/0921/1/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7524/0410/1/en"><img src="/7524/0410/1/logo-320x200.jpg"></a>
+<p><a href="/7524/0410/1/en">The collective wisdom of the ants</a></p>
+<p>
+Ant colonies live without any centralized control. Knowing exactly how they do it, we will be able to understand and work of other systems that operate without the "pointers from above" - from the brain to the Internet.
+<a href="/7524/0410/1/en">More...</a>
+</p>
+</div>
+
+
+
+
+<nav class="main-footer-nav"><a href="/cracy/en">Cracy</a></nav>
+
+</main>
+<footer><div>7524-05-09 - 7524-12-20</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Сетецентризм — управление сложностью - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Сетецентризм — управление сложностью</h1>
+
+<figure>
+<img src="img/00.jpg"/>
+</figure>
+
+<!--
+-->
+
+<p>
+<a href="0">Введение</a>
+<br/>
+<a href="1">1. Стратегия сетецентричной войны</a>
+<br/>
+<a href="2">2. История появления термина сетецентризм и его смысл</a>
+<br/>
+<a href="3">3. Три элемента сложной системы – субъект, объект и контур управления</a>
+<br/>
+<a href="4">4. Сложность системы управления и модели Модели контуров управления, понятийная база</a>
+<br/>
+<a href="5">5. Сетецентризм сквозь призму контуров управления</a>
+<br/>
+<a href="6">Заключение</a>
+<br/>
+<a href="6#list">Список литературы и источников</a>
+</p>
+
+<br/>
+
+<p>
+В.А. РЫЖОВ
+<br/>
+13.06.2014
+</p>
+
+<p>
+Рыжов Владимир Александрович, канд. физ-мат. наук,
+<br/>
+президент компании «X-treme Infomatics», доцент МГУ им.М.В.Ломоносова.
+<br/>
+Москва – 2014, © «X-treme Infomatics»
+</p>
+
+
+<p>
+Источник:
+<a href="http://spkurdyumov.ru/networks/setecentrizm-upravlenie-slozhnostyu" target="_blank">spkurdyumov.ru/networks/setecentrizm-upravlenie-slozhnostyu</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/cracy/net/ru">Нетократия</a></nav>
+
+</main>
+<footer><div>7524-05-30 - 7524-07-01</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

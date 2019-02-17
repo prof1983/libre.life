@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Noocracy - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Noocracy</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+<a href="https://en.wikipedia.org/wiki/Noocracy" target="_blank">en.wikipedia.org/wiki/Noocracy</a>
+</p>
+
+<br/>
+
+<p class="h3">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+<br/>
+<br/>
+
+
+
+<h2>Publications</h2>
+
+<div class="article">
+<a href="/7508/0329/1/en"><img src="/7508/0329/1/logo-320x200.jpg"></a>
+<p><a href="/7508/0329/1/en">Noocracy - A new political structure of society</a></p>
+<p>
+I think that talk about the personality of the future president is akin to that position: here comes the master, the master will judge us. It will not be this, never master true not judge. So discussion of this question is useless because of the fact that the power system will be the same - democracy.
+<a href="/7508/0329/1/en">Read more...</a>
+</p>
+</div>
+
+
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/cracy/en">Cracy</a></p>
+
+</main>
+<footer><div>7524-05-04 - 7524-05-04</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

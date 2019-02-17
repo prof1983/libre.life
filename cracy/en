@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Cracy - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Cracy</h1>
+
+<figure>
+<a href="img/logo/1000x1000.png"><img src="img/logo/300x300.jpg"/></a>
+</figure>
+
+<p class="h">
+Decentralized decision-making system
+</p>
+
+<p>
+<a href="hola/en">Holacracy</a>
+<br/>
+<a href="demo/en">Democracy</a> (Electronic Democracy)
+<br/>
+<a href="net/en">Netocracy</a> (Network society)
+<br/>
+<a href="nirva/en">Nirvarhiya</a>
+<br/>
+<a href="noo/en">Noocracy</a>
+</p>
+
+<p>
+<a href="/economy/chartaev/en">Chartaev economic system</a>
+<br/>
+<a href="/economy/vodyanov/en">Vodianov economic system</a>
+<br/>
+<a href="/co/mune/yunus/en">Creating a World Without Poverty: Social Business and the Future of Capitalism</a>
+<br/>
+<a href="book/rothbard/anatomy_of_the_state/en">The Anatomy of the State. Murray N. Rothbard</a>
+</p>
+
+<br/>
+
+
+
+
+<h2>Publications</h2>
+
+<div class="article">
+<a href="/7523/0929/3/en"><img src="/7523/0929/3/logo-320x200.jpg"></a>
+<p><a href="/7523/0929/3/en">How to move on directly democratic movement</a></p>
+<p>
+Proposals on the conclusion of direct democracy movement of stagnation. As well as other movements for democracy. Conceptual considerations and proposals "How to develop further pryamodemokraticheskoe movement?".
+<a href="/7523/0929/3/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0721/1/en"><img src="/7523/0721/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0721/1/en">The end of capitalism has begun. What's next?</a></p>
+<p>
+We did not notice that entered the post-capitalist era. At its center - information technology, new approaches to the economy and sharing. The old methods will not disappear for a long time, but it's time to talk about utopias again, said Paul Mason, the author of the new book and the editor of BBC Postcapitalism economy. Here is his programmatic article in The Guardian, which is done in the last few days a lot of noise.
+<a href="/7523/0721/1/en">Read more...</a>
+</p>
+</div>
+
+
+
+
+<nav class="main-footer-nav"><a href="/en">Main</a></nav>
+
+</main>
+<footer><div>7523-10-27 - 7525-05-28</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

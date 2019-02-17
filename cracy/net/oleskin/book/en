@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<link rel="stylesheet" href="/css/main.css"/>
+<title>Oleskin - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Oleskin</h1>
+
+<figure>
+<a href="img/00b.jpg"><img src="img/00.jpg"/></a>
+</figure>
+
+
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/economy/en">Economy</a></p>
+
+</main>
+<footer><div>7524-05-14 - 7524-05-14</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

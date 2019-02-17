@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>E-democracy - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>E-democracy</h1>
+
+<figure>
+<img src="img/00.jpg"/>
+</figure>
+
+<p>
+<b>E-democracy</b> (a combination of the words electronic and democracy), also known as digital democracy or Internet democracy, incorporates 21st-century information and communications technology to promote democracy. It is a form of government in which all adult citizens are presumed to be eligible to participate equally in the proposal, development, and creation of laws. E-democracy encompasses social, economic and cultural conditions that enable the free and equal practice of political self-determination. <a href="https://en.wikipedia.org/wiki/E-democracy" target="_blank">en.wikipedia.org/wiki/E-democracy</a>
+</p>
+
+
+<p class="h3">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/cracy/en">Cracy</a></p>
+
+</main>
+<footer><div>7524-04-30 - 7524-05-09</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

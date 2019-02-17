@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Liquid democraty - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Liquid democraty</h1>
+
+<p class="h">
+Decentralized decision-making system
+</p>
+
+<figure>
+<img src="img/00.jpg"/>
+</figure>
+
+<p>
+<a href="https://en.wikipedia.org/wiki/Delegative_democracy" target="_blank">Delegative democracy</a>, also known as liquid democracy, is a form of democratic control whereby an electorate vests voting power in delegates rather than in representatives. The term is a generic description of either already-existing or proposed popular-control apparatuses.
+</p>
+
+<p>
+<a href="https://en.wikipedia.org/wiki/Proxy_voting" target="_blank">Proxy voting</a> is a form of voting whereby some members of a decision-making body may delegate their voting power to other members of the same body to vote in their absence, and/or to select additional representatives. A person so designated is called a "proxy" and the person designating him or her is called a "principal". Proxy appointments can be used to form a voting bloc that can exercise greater influence in deliberations or negotiations. Proxy voting is a particularly important practice with respect to corporations; in the United States, investment advisers often vote proxies on behalf of their client accounts.
+</p>
+
+
+<p>
+<a href="/vote/en">Vote</a>
+</p>
+
+<br/>
+<br/>
+
+
+
+
+<h2>Publications</h2>
+
+<div class="article">
+<a href="/7523/1213/2/en"><img src="/7523/1213/2/logo-320x200.jpg"></a>
+<p><a href="/7523/1213/2/en">Delegative democracy: democracy is the best of the 21st century</a></p>
+<p>
+Delegative democracy - voting is an effective model for collective decision-making in large communities. It combines the advantages of direct and representative democracy, representing a truly democratic voting system, which allows people to vote on a particular issue or directly transmit your voice trustee.
+<a href="/7523/1213/2/en">Read more...</a>
+</p>
+</div>
+
+<br/>
+<br/>
+
+
+
+
+<h2>Links</h2>
+
+<p>
+<a href="https://liqd.net/en/" target="_blank">liqd.net</a>
+<br/>
+<a href="http://liquidfeedback.org/" target="_blank">liquidfeedback.org</a>
+</p>
+
+<br/>
+<br/>
+
+
+
+
+<figure>
+<a href="img/01b.png"><img src="img/01.jpg"/></a>
+</figure>
+
+<figure>
+<a href="img/02.png"><img src="img/02.jpg"/></a>
+</figure>
+
+<figure>
+<img src="img/03.jpg"/>
+</figure>
+
+<figure>
+<img src="img/04.png"/>
+</figure>
+
+<figure>
+<img src="img/05.jpg"/>
+</figure>
+
+<figure>
+<img src="img/06.jpg"/>
+</figure>
+
+<figure>
+<img src="img/10.jpg"/>
+</figure>
+
+
+
+
+<br/>
+<br/>
+
+<p class="h2"><a href="/cracy/en">Cracy</a></p>
+
+</main>
+<footer><div>7524-06-02 - 7524-06-02</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

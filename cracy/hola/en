@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Holacracy - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Holacracy</h1>
+
+<figure>
+<img src="img/00.jpg"/>
+</figure>
+
+<p class="h3">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/cracy/en">Cracy</a></p>
+
+</main>
+<footer><div>7524-04-30 - 7524-06-02</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

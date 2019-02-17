@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Наталья Смородинская - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Наталья Смородинская</h1>
+
+<figure>
+<img src="img/00.jpg"/>
+<br/>
+Наталья Смородинская
+</figure>
+
+<p>
+Наталья Смородинская руководит Центром (сек­тором) полюсов роста и особых экономических зон Института экономики РАН. 
+</p>
+
+<p>
+<a href="book/ru">Глобализированная экономика: от иерархий к сетевому укладу</a>
+</p>
+
+
+
+
+<h2>Видео</h2>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/HaBUcAMnVIQ" frameborder="0" allowfullscreen></iframe>
+<br/>
+Экспертный семинар РВК «Сетевое устройство инновационной экономики» 15.02.2016
+<!-- Оригинал https://youtu.be/i9MT4r5M0dE -->
+</fiure>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/8Hfdy4QxEN4" frameborder="0" allowfullscreen></iframe>
+<br/>
+XVI Апрельская конференция: Наталия Смородинская
+</figure>
+
+
+
+
+<br/><br/><p class="h4"><a href="/economy/ru">Экономика</a></p>
+<p class="h2"><a href="/cracy/net/ru">Нетократия</a></p>
+
+</main>
+<footer><div>7524-06-03 - 7524-06-03</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
