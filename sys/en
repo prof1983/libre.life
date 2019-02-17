@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>System - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>System</h1>
+
+<p class="h">
+A set of elements that are in relationships and connections with each other, which forms certain integrity, unity.
+</p>
+
+<p class="h">
+Creating a resource and reputational economy
+<br/>
+Consumer cooperative
+</p>
+
+<figure>
+<a href="img/00b.png"><img src="img/00.jpg"/></a>
+</figure>
+
+
+
+<p class="h">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+
+
+<h2>Publications</h2>
+
+<div class="article">
+<a href="/7524/1114/1/en"><img src="/7524/1114/1/logo-320x200.jpg"></a>
+<p><a href="/7524/1114/1/en">The use of innovative financial technology</a></p>
+<p>
+Scientific-practical conference "The use of innovative financial technologies at the municipal level"
+<a href="/7524/1114/1/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7524/0622/1/en"><img src="/7524/0622/1/logo-320x200.jpg"></a>
+<p><a href="/7524/0622/1/en">Lightning Network: all the technical details</a></p>
+<p>
+Perhaps, Lightning Network - the most anticipated new technology for Bitcoin. It is assumed that this payment system, an idea which has been camping's a year ago, will allow almost free to perform a huge number of transactions is blokcheyna Bitcoin, and it does not have to sacrifice safety.
+<a href="/7524/0622/1/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7524/0609/1/en"><img src="/7524/0609/1/logo-320x200.jpg"></a>
+<p><a href="/7524/0609/1/en">The concept Lightning Network: creation of a network. Part 2</a></p>
+<p>
+Lightning Network - the most anticipated technological innovations developed over the bitcoin. Payment levels proposed by Joseph Poon and Tadge Dryja promises to support an unlimited number of transactions outside the chain among users of the minimum payment - providing the best level of security offered by bitcoin.
+<a href="/7524/0609/1/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7524/0315/1/en"><img src="/7524/0315/1/logo-320x200.jpg"></a>
+<p><a href="/7524/0315/1/en">The complexities of the project Lightning Network</a></p>
+<p>
+This article looks at one of the proposed network scalability solutions Bitcoin - a very controversial project Lightning Network. Its author - Jameson Lopp, a software engineer in the company BitGo, creator and founder of the site Statoshi.info Bitcoinsig.com. He likes to create Web services, and he is very interested in the problem of scalability Bitcoins.
+<a href="/7524/0315/1/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7524/0207/1/en"><img src="/7524/0207/1/logo-320x200.jpg"></a>
+<p><a href="/7524/0207/1/en">IT settlement system</a></p>
+<p>
+A brief description of the system that Rustam Davletbaev proposed and described. The primary purpose of the system is to survive the crisis, the drop in sales, the cash gaps, the ability to pay for the labor of its employees, even if there are currently no rubles, and receive interest-free loans (investments) to develop the business.
+<a href="/7524/0207/1/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/1017/1/en"><img src="/7523/1017/1/logo-320x200.jpg"></a>
+<p><a href="/7523/1017/1/en">Multichain opens up new possibilities of designing blockchain</a></p>
+<p>
+"Blockchain" has already become a buzzword finteha the world, but like any other c general concept, an accurate understanding of its meaning no one. Perhaps a blokcheyne reasonable to think not about how a particular decision, and as not entirely certain set of goals that the financial institutions hope to achieve by means of distributed registries.
+<a href="/7523/1017/1/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0305/1/en"><img src="/7523/0305/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0305/1/en">Sidechain: a simple explanation</a></p>
+<p>
+Infrastructure around Bitcoin continues to grow and become more complex, there are as new cryptocurrency and various "superstructure" above the Bitcoin system. One of these promising technologies can be the idea sidechain.
+<a href="/7523/0305/1/en">More...</a>
+</p>
+</div>
+
+
+
+
+<nav class="main-footer-nav"><a href="/en">Main</a></nav>
+
+</main>
+<footer><div>7524-05-31 - 7525-05-15</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
