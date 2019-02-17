@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>NextCoin - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>NextCoin</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+NextCoin in many respects very different from all other cryptocurrency. In NextCoin used concept that calls Proof of Stake, and is based on the fact that in order to create a new unit, you must have in your account as many coins as possible.
+</p>
+
+
+<p class=h2>
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/money/en">Money</a></nav>
+
+</main>
+<footer><div>7524-05-23 - 7524-07-30</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
