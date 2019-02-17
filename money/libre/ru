@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Libre.Money - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Libre.Money</h1>
+
+<p class="h">
+<a href="img/logo/800.png"><img src="img/logo/400.png"/></a>
+</p>
+
+<p>
+LibreMoney - это игровая виртуальная валюта с целью мотивации людей развивать OpenSource проекты, фильмы, музыку и другие произведения в общественное достояние. Подробнее про игровую валюту смотри <a href="/game/ru">здесь</a>.
+</p>
+
+<p>
+LibreMoney - это децентрализованная система краудинвестинга с начислением репутации и Lm-денег (криптовалюта) за успешно выполненные крауд проекты.
+</p>
+
+<p>
+<b>
+<a href="about/ru">Про Libre.Money</a>
+<br/>
+<a href="/doc/money/book/ru">"Белая книга" Libre.Money</a>
+<br/>
+<a href="/7522/0526/2/ru">План действий</a>
+<br/>
+<a href="purpose/ru">Цели проекта LibreMoney по SMART</a>
+</b>
+</p>
+
+<p>
+<a href="http://libremoney.org/" target="_blank">libremoney.org</a> - Проект "Свободные деньги" (Blog)
+<br/>
+<a href="http://libremoney.com/" target="_blank">libremoney.com</a> - Проект "Свободные деньги" (Node.js)
+</p>
+<br/>
+
+
+
+<h2>Подробнее</h2>
+
+<p>
+<a href="http://libremoney.org/" target="_blank">libremoney.org</a> - сайт
+<br/>
+<a href="http://libremoney.org/video/" target="_blank">libremoney.org/video</a> - видео
+<br/>
+<a href="http://libremoney.org/BizModel1.html" target="_blank">libremoney.org/BizModel1.html</a> - бизнес модели
+<br/>
+<a href="http://libremoney.org/LibreMoney-FinModel.ods" target="_blank">libremoney.org/LibreMoney-FinModel.ods</a> - финансовая модель (наброски)
+<br/>
+<a href="http://libremoney.org/LibreMoney-iidf.odt" target="_blank">libremoney.org/LibreMoney-iidf.odt</a> - описание проекта для инвесторов (немного устарела, но актуальная)
+<br/>
+<a href="http://libremoney.org/LibreMoney-Presentation2.pdf" target="_blank">libremoney.org/LibreMoney-Presentation2.pdf</a> - презентация
+<br/>
+<a href="http://www.slideshare.net/prof1983/libremoneypresentation1" target="_blank">slideshare.net/prof1983/libremoneypresentation1</a> - первая презентация (старая)
+<br/>
+<a href="http://libremoney.com/" target="_blank">libremoney.com</a> - Прототип системы
+<br/>
+<a href="https://github.com/libremoney/main" target="_blank">github.com/libremoney/main</a> - проект OpenSource, исходники доступны на GitHub
+</p>
+
+<!--
+Статья "Что такое деньги" на английском доступна тут:
+<br/>
+<a href="https://bitcointalk.org/index.php?topic=722464.msg8742382#msg8742382">bitcointalk.org/index.php?topic=722464.msg8742382#msg8742382</a>
+-->
+
+
+<p>
+<b>Про форджинг:</b>
+<br/>
+<a href="https://ru.wikipedia.org/wiki/Proof-of-stake" target="_blank">ru.wikipedia.org/wiki/Proof-of-stake</a>
+<br/>
+<a href="https://en.wikipedia.org/wiki/Proof-of-stake" target="_blank">en.wikipedia.org/wiki/Proof-of-stake</a>
+<br/>
+<a href="https://ru.wikipedia.org/wiki/Nxt" target="_blank">ru.wikipedia.org/wiki/Nxt</a>
+<br/>
+<a href="https://en.wikipedia.org/wiki/Nxt" target="_blank">en.wikipedia.org/wiki/Nxt</a>
+<br/>
+<a href="http://nxt4all.co.in/index.php/o-platforme-nxt/podrobno-o-kriptoplatforme-nxt" target="_blank">Подробно о криптоплатформе Nxt</a>
+<br/>
+<a href="/7523/0527/1/ru" target="_blank">Дерево технологий Nxt</a>
+</p>
+
+<p>
+<b>Дополнительно:</b>
+<br/>
+<a href="http://libremoney.org/article/237/" target="_blank">Немного про Bitcoin, NextCoin и альткоины</a>
+<br/>
+<a href="http://libremoney.org/article/573/" target="_blank">Proof of Activity</a>
+<br/>
+<a href="http://libremoney.org/article/789/" target="_blank">Делегированное доказательство доли или протокол DPOS</a>
+<br/>
+<a href="http://libremoney.org/article/239/" target="_blank">План по дальнейшей разработке NXT</a>
+<br/>
+<a href="http://libremoney.org/article/820/" target="_blank">Про деньги, будущее и нейрорубль</a>
+<br/>
+<a href="/game/ru">Подробнее про игровую валюту</a>
+</p>
+
+<!--
+Про сайт для группы FinNet.
+Думаю, что нет необходимости создавать сайт. Достаточно группы в социальных сетях, а работу по проектам осуществлять на compractice.com или на любом другом (как удобно команде того или иного проекта).
+
+Например Рустам инициировал проект - IT-платформа «Расчетный центр для потребительских обществ и кооперативов»
+http://www.compractice.com/project/79/
+Мы с ним теперь работаем вместе.
+
+Присоединяйся. :)
+
+Данные по голосованию кто чем хочет заниматься
+https://docs.google.com/spreadsheets/d/1kb7sOKQue3qCtjZ-TUHRn9qDkXzC7WJDlI8HFgREaN8
+
+Но там всего несколько проголосовало. Этот документ по моему не представляет интереса.
+-->
+
+
+
+
+<br/>
+<br/>
+
+
+<blockquote>
+<a href="/money/libre/doc/BizModel1.html">BizModel1.html</a>
+<br/>
+<a href="/money/libre/doc/Libre.pdf">Libre.pdf</a>
+<br/>
+<a href="/money/libre/doc/LibreMoney-404.odt">LibreMoney-404.odt</a>
+<br/>
+<a href="/money/libre/doc/LibreMoney-FinModel.ods">LibreMoney-FinModel.ods</a>
+<br/>
+<a href="/money/libre/doc/LibreMoney-FinModel.xlsx">LibreMoney-FinModel.xlsx</a>
+<br/>
+<a href="/money/libre/doc/LibreMoney-iidf.odt">LibreMoney-iidf.odt</a>
+<br/>
+<a href="/money/libre/doc/LibreMoney-presentanion2-en.pdf">LibreMoney-presentanion2-en.pdf</a>
+<br/>
+<a href="/money/libre/doc/LibreMoney-Presentation1.odp">LibreMoney-Presentation1.odp</a>
+<br/>
+<a href="/money/libre/doc/LibreMoney-Presentation2.pdf">LibreMoney-Presentation2.pdf</a>
+<br/>
+<a href="/money/libre/doc/libremoney-white-paper.pdf">libremoney-white-paper.pdf</a>
+<br/>
+<a href="/money/libre/doc/libremoney-white-paper-full.pdf">libremoney-white-paper-full.pdf</a>
+<br/>
+<a href="/money/libre/doc/Structure2-en.odt">Structure2-en.odt</a>
+<br/>
+<a href="/money/libre/doc/Structure2-en.png">Structure2-en.png</a>
+<br/>
+<a href="/money/libre/doc/Structure2-ru.html">Structure2-ru.html</a>
+<br/>
+<a href="/money/libre/doc/Structure2-ru.odt">Structure2-ru.odt</a>
+<br/>
+<a href="/money/libre/doc/Structure2-ru.png">Structure2-ru.png</a>
+</blockquote>
+
+
+<br/>
+<br/>
+
+
+
+
+<h2>Публикации</h2>
+
+<div class="article">
+<a href="/7523/0527/1/ru"><img src="/7523/0527/1/logo-320x200.jpg" /></a>
+<p><a href="/7523/0527/1/ru">Дерево технологий Nxt</a></p>
+<p>
+Asset Exchange, Alias System, Arbitrary Messages, Market Place, Smart Contracts, Voting System, Transparent Forging, Economic Clustering, Anti Deflation, Instant Transactions, Monetary System, Social Graph, Reputation System, Global Collaboration, Distributed Storage, Distributed Computing, Intelligent Agent...
+<a href="/7523/0527/1/ru">Подробнее...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0509/1/ru"><img src="/7523/0509/1/logo-320x200.png" /></a>
+<p><a href="/7523/0509/1/ru">Альтруистическая валюта vs LibreMoney</a></p>
+<p>
+Очень интересный проект LibreMoney. Его суть в том, что денежная эмиссия осуществляется напрямую для финансирования инновационного проекта.
+<a href="/7523/0509/1/ru">Подробнее...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/1028/2/ru"><img src="/7522/1028/2/logo-320x200.jpg" /></a>
+<p><a href="/7522/1028/2/ru">Белая книга проекта LibreMoney</a></p>
+<p>
+По первоначальным планам, 24.10.2014 должна быть готова LibreMoney-Beta1. Но проект оказался сложнее, чем я рассчитывал. К данному моменту реализовано часть функционала, проработана концепция, сделаны бизнес-модели, и другие материалы.
+<a href="/7522/1028/2/ru">Подробнее...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/1026/1/ru"><img src="/7522/1026/1/logo-320x200.jpg" /></a>
+<p><a href="/7522/1026/1/ru">Про деньги, будущее и нейрорубль</a></p>
+<p>
+Очень мало людей даже из финансовой сферы понимают откуда берутся деньги, что это такое, зачем они нужны, какое отличие слов "деньги" и "валюты". Для этих людей финансовый сектор - это всего-лишь бизнес. Но для меня это не так. На мой взгляд финансы - это очень мощное средство управления людьми, управления развитием.
+<a href="/7522/1026/1/ru">Подробнее...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/0930/1/ru"><img src="/7522/0930/1/logo-320x200.jpg" /></a>
+<p><a href="/7522/0930/1/ru">Отличие LibreMoney от остальных криптовалют</a></p>
+<p>
+Bitcoin — это первая и самая популярная на сегодняшний день криптовалюта которая работает по этой схеме. В протоколе Bitcoin изначально предусмотрена возможность создания «умных контрактов». Или, по другому, «самоисполняющихся контрактов». Всё это достаточно хорошо проработано, но пока пользуется ограниченной популярностью. Многие люди не знают что такое существует.
+<a href="/7522/0930/1/ru">Подробнее...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/0829/2/ru"><img src="/7522/0829/2/logo-320x200.jpg" /></a>
+<p><a href="/7522/0829/2/ru">Презентация проекта LibreMoney 20140829</a></p>
+<p>
+20140829 Startup BootCamp LaunchGurus
+<a href="/7522/0829/2/ru">Подробнее...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/0829/1/ru"><img src="/7522/0829/1/logo-320x200.png" /></a>
+<p><a href="/7522/0829/1/ru">Что такое деньги</a></p>
+<p>
+Деньги не являются ценностью. Деньги — это лишь численное отражение ценностей.
+<a href="/7522/0829/1/ru">Подробнее...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/0828/1/ru"><img src="/7522/0828/1/logo-320x200.jpg" /></a>
+<p><a href="/7522/0828/1/ru">BitLegal</a></p>
+<p>
+BitLegal is the easiest way to explore the evolving regulatory landscape of virtual currency around the world.
+<a href="/7522/0828/1/ru">Подробнее...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/0815/1/ru"><img src="/7522/0815/1/logo-320x200.jpg" /></a>
+<p><a href="/7522/0815/1/ru">Механизм венчурного краудинвестирования в LibreMoney</a></p>
+<p>
+LibreMoney создается как система для привлечения финансирования для «стартапов» на начальных этапах. Это называется краудфандинг. Результат краудфандинга обычно — это некие не материальные блага на подобие постера с личной подписью автора и т.п. Это интересно, однако для многих намного более актуально инвестирование с целью получения денежной прибыли в будущем. Это называется краудинвестинг. Система LibreMoney предназначена и для этого. Люди могут вкладывать деньги (Lm) в крауд-проект за долю в этом проекте.
+<a href="/7522/0815/1/ru">Подробнее...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/0814/1/ru"><img src="/7522/0814/1/logo-320x200.jpg" /></a>
+<p><a href="/7522/0814/1/ru">Видеоинтервью о LibreMoney с Татьяной Чебыкиной</a></p>
+<p>
+Деньги не являются ценностью. Деньги — это лишь численное отражение ценностей.
+<a href="/7522/0814/1/ru">Подробнее...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/0813/1/ru"><img src="/7522/0813/1/logo-320x200.jpg" /></a>
+<p><a href="/7522/0813/1/ru">Предварительные правила проектов в системе LibreMoney</a></p>
+<p>
+LibreMoney создан для привлечения финансирования в высокорискованные (венчурные) OpenSource проекты в области информационных технологий и создания иных не материальных ценностей (музыкальных произведений, видео, и пр).
+<a href="/7522/0813/1/ru">Подробнее...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/0812/1/ru"><img src="/7522/0812/1/logo-320x200.jpg" /></a>
+<p><a href="/7522/0812/1/ru">Наша первая видеопрезентация готова</a></p>
+<p>
+Наша первая видеопрезентация готова! Мы счастливы — проект развивается и эту презентацию нам удалось реализовать с помощью краудфандига! Присоединяйтесь, нам очень нужны партнеры! :)
+<a href="/7522/0812/1/ru">Подробнее...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/0802/1/ru"><img src="/7522/0802/1/logo-320x200.jpg" /></a>
+<p><a href="/7522/0802/1/ru">Составляющие элементы LibreMoney</a></p>
+<p>
+Активы LibreMoney, Псевдонимы и сообщения LibreMoney, Мульти-шлюз, Почему децентрализованная биржа, Как работает биржа активов, Децентрализованный краудфандинг, Безопасная система с открытым исходным кодом, Концепция цветных монет
+<a href="/7522/0802/1/ru">Подробнее...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/0715/1/ru"><img src="/7522/0715/1/logo-320x200.jpg" /></a>
+<p><a href="/7522/0715/1/ru">Мотивирующее видео</a></p>
+<p>
+Мотивирующее видео. Очень рекомендую посмотреть. :)
+<a href="/7522/0715/1/ru">Подробнее...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/0713/1/ru"><img src="/7522/0713/1/logo-320x200.jpg" /></a>
+<p><a href="/7522/0713/1/ru">Немного про ФРС, Bitcoin и обеспечение денег</a></p>
+<p>
+Большинство людей задают однотипные вопросы, поэтому я решил поделиться цитатой с форума, где обсуждаются банки и финансовые инструменты.
+<a href="/7522/0713/1/ru">Подробнее...</a>
+</p>
+</div>
+
+<!--div class="article">
+<a href="/7522/0707/2/ru"><img src="/7522/0707/2/logo-320x200.png" /></a>
+<p><a href="/7522/0707/2/ru">Сбор средств на реализацию LibreMoney-Alpha1</a></p>
+<p>
+Производится сбор средств на реализацию LibreMoney-Alpha1 на свободной краудфандинговой площадке cryptojoin.com. Сбор производится в Биткоинах.
+<a href="/7522/0707/2/ru">Подробнее...</a>
+</p>
+</div-->
+
+<div class="article">
+<a href="/7522/0707/1/ru"><img src="/7522/0707/1/logo-320x200.png" /></a>
+<p><a href="/7522/0707/1/ru">План работ на июль (07.2014)</a></p>
+<p>
+Сейчас идет первый этап, в котором запланированы следующие работы с указанными затратами в Lm-деньгах.
+<a href="/7522/0707/1/ru">Подробнее...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/0705/1/ru"><img src="/7522/0705/1/logo-320x200.jpg" /></a>
+<p><a href="/7522/0705/1/ru">Немного про Bitcoin, NextCoin и альткоины</a></p>
+<p>
+Я давно слежу за криптовалютами. В свое время устанавливал и майнил немного на своем ПК. Потом удал клиент вместе с кошельком. Дело в том, что я не понимаю в чем обеспечение у Биткоина и остальных PoW криптовалют. Смысл в том — чтобы сжечь побольше электричества за подбор хешей?
+<a href="/7522/0705/1/ru">Подробнее...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/0703/1/ru"><img src="/7522/0703/1/logo-320x200.jpg" /></a>
+<p><a href="/7522/0703/1/ru">Цели проекта по SMART</a></p>
+<p>
+Цель (нем. Ziel) — идеальный или реальный предмет сознательного или бессознательного стремления субъекта; конечный результат, на который преднамеренно направлен процесс; «доведение возможности до её полного завершения»; осознанный образ предвосхищаемого результата.
+<a href="/7522/0703/1/ru">Подробнее...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/0621/2/ru"><img src="/7522/0621/2/logo-320x200.jpg" /></a>
+<p><a href="/7522/0621/2/ru">LibreMoney — Талисман</a></p>
+<p>
+Встречайте талисман Libre.Money
+<a href="/7522/0621/2/ru">Подробнее...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/0621/1/ru"><img src="/7522/0621/1/logo-320x200.jpg" /></a>
+<p><a href="/7522/0621/1/ru">LibreMoney — Как это работает</a></p>
+<p>
+Описание работы системы наиболее понятно получается объяснить на примере. Предположим, что в системе есть несколько участников и есть сообщества. Один из участников предлагает реализовать CrowdFunding проект. Проект в LibreMoney обязательно реализуется в рамках какого-либо сообщества. При этом автор проекта должен являться членом того сообщества в рамках которого планирует проводить сбор средств.
+<a href="/7522/0621/1/ru">Подробнее...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/0613/1/ru"><img src="/7522/0613/1/logo-320x200.jpg" /></a>
+<p><a href="/7522/0613/1/ru">Полезный и бесполезный труд</a></p>
+<p>
+Если эмитировать деньги за любой труд (как полезный, так и без полезный), то стоимость «денег» будет уменьшаться. Поэтому в LibreMoney новые деньги эмитируются только после оценки работы автора проекта.
+<a href="/7522/0613/1/ru">Подробнее...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/0527/1/ru"><img src="/7522/0527/1/logo-320x200.png" /></a>
+<p><a href="/7522/0527/1/ru">Стартап LibreMoney на spark.ru</a></p>
+<p>
+Зарегистрировал проект на spark.ru
+<a href="/7522/0527/1/ru">Подробнее...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/0526/2/ru"><img src="/7522/0526/1/logo-320x200.png" /></a>
+<p><a href="/7522/0526/2/ru">План действий</a></p>
+<p>
+<a href="/7522/0526/2/ru">Подробнее...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/0526/1/ru"><img src="/7522/0526/1/logo-320x200.png" /></a>
+<p><a href="/7522/0526/1/ru">Про Libre.Money из обсуждения на forumprobanki.ru</a></p>
+<p>
+Предлагаю реализовать систему, в котором эмиссия производится за выполненную полезную работу. Контролируют полезность люди: вкладчики в Crowd проект, участники сообщества в тематике которого реализуется проект (эксперты).
+<a href="/7522/0526/1/ru">Подробнее...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/0403/1/ru"><img src="/7522/0403/1/logo-320x200.jpg" /></a>
+<p><a href="/7522/0403/1/ru">Делегированное доказательство доли или протокол DPOS</a></p>
+<p>
+Эта статья знакомит с новой реализацией протокола доказательства доли, в рамках которого подтверждение сделок занимает секунды, обеспечивая большую безопасность за более короткий период времени, чем все существующие системы, функционирующие под протоколом доказательства доли PoS. К тому времени как в системе Bitcoin будет произведён лишь один блок, ваша транзакция будет заверена уже 20% акционеров, а к тому времени, Bitcoin утвердит сделку и сделает её почти необратимой (6 блоков, 1 час), ваша транзакция под протоколом DPOS уже будет заверена 100% акционеров через своих делегатов.
+<a href="/7522/0403/1/ru">Подробнее...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/0304/1/ru"><img src="/7522/0304/1/logo-320x200.jpg" /></a>
+<p><a href="/7522/0304/1/ru">NextCoin</a></p>
+<p>
+Нексткойн во многих аспектах очень сильно отличается от всех остальных криптовалют. В Нексткойне используется концепция, которая называет Proof of Stake, и основывается на том, что для того чтобы сгенерировать новый блок необходимо иметь на своем счету как можно больше монет.
+<a href="/7522/0304/1/ru">Подробнее...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7521/1128/1/ru"><img src="/7521/1128/1/logo-320x200.jpg" /></a>
+<p><a href="/7521/1128/1/ru">Транзакции как доказательство доли</a></p>
+<p>
+Протокол доказательства доли Proof-of-Stake, основывается на концепции, подразумевающей, что безопасность цепочки блоков должна обеспечиваться теми, кто имеет в существовании данной цепи финансовую заинтересованность.
+<a href="/7521/1128/1/ru">Подробнее...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7521/0517/1/ru"><img src="/7521/0517/1/logo-320x200.jpg" /></a>
+<p><a href="/7521/0517/1/ru">КрияДеньги. Часть 3. Теория</a></p>
+<p>
+Теоретические формулы проекта КрияДеньги. Данная модель оказалась сложной и не жизнеспособной. Поэтому родился проект Libre.Money, в котором учтены недостатки проекта КрияДеньги. Однако основная суть - остала не изменной. А именно: 1) Право эмиссии принадлежит всем пользователям; 2) Для получения эмиссии нужно успешно реализовать общественно полезный проект; 3) Полезность того или иного проекта определяется открытым голосованием...
+<a href="/7521/0517/1/ru">Подробнее...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7521/0516/1/ru"><img src="/7521/0516/1/logo-320x200.jpg" /></a>
+<p><a href="/7521/0516/1/ru">КрияДеньги. Часть 2. Идея</a></p>
+<p>
+В первой части я попытался описать недостатки существующей системы финансов. А так же рассмотрел альтернативные варианты. Во этой части я попытаюсь максимально доходчиво описать что такое настоящая ценность. И тогда, надеюсь, станет ясно почему существующие деньги не могут быть ценностью (то есть не могут быть надежным средством накопления из-за их не обеспеченности).
+<a href="/7521/0516/1/ru">Подробнее...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7521/0515/1/ru"><img src="/7521/0515/1/logo-320x200.jpg" /></a>
+<p><a href="/7521/0515/1/ru">КрияДеньги. Часть 1. Введение</a></p>
+<p>
+Судя по разным материалам в интернете, кризис 2008 года в США и кризис 2010 года в России - это только начало глобального кризиса экономик. Нужно что-то с этим делать. А именно, нужно найти удобный и надежный способ оплаты различных "благ", нужен удобный инструмент для инвестирования, нужно удобное средство для накопления.
+<a href="/7521/0515/1/ru">Подробнее...</a>
+</p>
+</div>
+
+
+
+
+<nav class="main-footer-nav"><a href="/money/ru">Деньги</a></nav>
+
+</main>
+<footer><div>7523-02-01 - 7525-05-15</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

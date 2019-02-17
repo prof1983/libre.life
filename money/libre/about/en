@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>About LibreMoney - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>About LibreMoney</h1>
+
+<figure>
+<a href="/money/libre/img/logo/800.png"><img src="/money/libre/img/logo/400.png"/></a>
+</figure>
+
+<p style="font-size: 250%; vertical-align: top;"><b>LibreMoney</b> - this is the first secured cryptocurrency with emission-based crowdfunding.</p>
+<p style="font-size: 150%; vertical-align: top;"><b>LibreMoney</b> - the first and only secured cryptocurrency not subject to neither inflation nor deflation.</p>
+
+
+<figure>
+<img src="http://storage9.static.itmages.ru/i/14/0719/h_1405751105_6189245_700c8b8bb7.jpg" /></td>
+</figure>
+
+<p style="font-size: 150%; vertical-align: top;">New Money (emission) in LibreMoney can only get the authors successful crowdfunding projects. The authors introduce new <b>value</b> in the world and receive for <b>money creation</b>, as a bonus for useful <b>work</b>. In fact, all the money in LibreMoney provided useful real work. Therefore, we say that <b>LibreMoney - is to secured currency</b>.</p>
+
+
+<h3>Target</h3>
+
+<ul>
+<li>Create a complete financial system.</li>
+</ul>
+
+
+<h3>Principles</h3>
+
+<ul>
+<li>Openness. Completely open system.</li>
+<li>Decentralization. Septic system! No single server, there is no single mechanism for transferring data.</li>
+<li>Stability. Maximum cryptographic protection. Encrypting the entire (transmitted data, the stored data) - this is necessary to avoid the possibility of compromise and destroy the system.</li>
+<li>Anonymity. Exclude the possibility of tracking the real location of the user.</li>
+<li>Scalability. The system should be able to scale up to larger sizes is not limited. Including should be able to work the system in interplanetary scale.</li>
+<li>Reliability. Accurate execution of all tasks, regardless of the desires of third parties.</li>
+<li>The uniqueness. The system is one. All actions are unambiguity. Not allowed parallel on different subnets of a system, is not allowed fragmentation of the system.</li>
+</ul>
+
+
+<h3>Сapabilities of the system</h3>
+
+<ul>
+<li>Co-financing of projects (crowdfunding, crowdsourcing, crowdinvesting).</li>
+<li>Investment.</li>
+<li>VC funding.</li>
+<li>Long-term accumulation.</li>
+<li>Decentralized exchange of assets.</li>
+<li>Trade.</li>
+<li>Freelance.</li>
+<li>and so on.</li>
+</ul>
+
+
+<h3>Features</h3>
+
+<ul>
+<li>Until the system at least three computer system continues operation.</li>
+<li>When the temporary isolation subnet system does not violate its functioning. Occurs only a limited number of users available for financial calculations and contracting.</li>
+<li>The emergence and cash flows are subject only to open algorithms.</li>
+<li>The amount of cash system reflects the totality of the real values ​​in the system.</li>
+<li>Emission is produced only when creating a new real values.</li>
+</ul>
+
+
+<!--h3>Time</h3>
+
+<p>
+Beta version is planned to be implemented by October 24, 2014
+</p-->
+
+
+<h3>Business Plan</h3>
+
+<p>
+<a href="http://libremoney.org/article/95/">Business Plan (Version 0.1)</a>
+</p>
+
+
+<h3>Presentation of the project</h3>
+
+<p>
+<iframe src="http://www.slideshare.net/slideshow/embed_code/36203786" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</p>
+
+<p>
+<a href="http://libremoney.org/LibreMoney-Presentation1.odp" target="_blank">Download the presentation of the project LibreMoney</a> (3.8 MB)
+</p>
+
+
+<h3>Video presentation</h3>
+
+<p>
+<iframe width="420" height="315" src="//www.youtube.com/embed/Et-xCGOjnEU" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="//www.youtube.com/embed/1FgzMDO-G8k" frameborder="0" allowfullscreen></iframe>
+</p>
+
+
+<h3>Talisman project</h3>
+
+<p>
+<a target="_blank" href="http://itmages.ru/image/view/1737025/f51525fe"><img src="http://storage7.static.itmages.ru/i/14/0621/h_1403378307_4187656_f51525fee0.jpg" height="50%" width="50%"/></a>
+<a target="_blank" href="http://itmages.ru/image/view/1737034/c65d784b"><img src="http://storage6.static.itmages.ru/i/14/0621/s_1403378867_7516806_c65d784b24.jpg" /></a> <a target="_blank" href="http://itmages.ru/image/view/1737040/e1adb3ff"><img src="http://storage7.static.itmages.ru/i/14/0621/s_1403379116_1134986_e1adb3ffd5.jpg" /></a> <a target="_blank" href="http://itmages.ru/image/view/1737036/e8e7f00c"><img src="http://storage8.static.itmages.ru/i/14/0621/s_1403378902_7753725_e8e7f00c3e.jpg" /></a>
+</p>
+
+
+<br/>
+<br/>
+
+<p class="h2"><a href="/money/libre/en">Libre.Money</a></p>
+
+</main>
+<footer><div>7523-02-01 - 7524-05-25</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

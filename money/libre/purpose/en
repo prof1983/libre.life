@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Purpose of the LibreMoney project - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Purpose of the LibreMoney project</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+These goals have been written in 2014. It turned out that my ideas about startups at that time were very different from Valid. Everything was much more difficult. The main problem in the implementation of, and in the proper definition of people's needs - for whom and for what this start, what value it offers to customers (your target audience).
+</p>
+
+
+
+
+<h2>0. LibreMoney-Start — June 06.2014</h2>
+
+<p>
+<b>S:</b>
+<br/>
+1. Write a few articles that explain the essence of the project LibreMoney.
+<br/>
+2. Find a mentor (a mentor).
+<br/>
+3. Fill out the application in several investment funds.
+<br/>
+4. Create an initial business plan.
+<br/>
+5. Create the initial financial model.
+<br/>
+6. Describe the business process.
+<br/>
+7. Describe the market, competitors, threats, pre-calculate the probability of monetization.
+<br/>
+8. Make a presentation of the project.
+<br/>
+9. Make a video presentation LibreMoney.
+<br/>
+10. Select your language and technology implementation.
+<br/>
+11. Make a prototype.
+<br/>
+12. Partially implement internal functionality of the system.
+<br/>
+13. Post source version 0.0.1.
+<br/>
+<b>M:</b>
+<br/>
+<b>A:</b> 1 person (leader — the organizer — Coordinator — Software — marketing — rerayter)
+<br/>
+<b>R:</b> Costs $3000 = 100 KLm = 10% LibreMoney
+<br/>
+<b>T:</b> 30.06.2014
+</p>
+
+
+
+
+<h2>1. LibreMoney-Alpha1 — July-August 2014</h2>
+
+<p>
+<b>S:</b> Implement and release LibreMoney-Alpha1; Create a promotional video for 1 min; Participation in conferences
+<br/>
+<b>M:</b>
+<br/>
+<b>A:</b> You must 2 person (leader-organizer-coordinator Software + Video Marketing)
+<br/>
+<b>R:</b> Сosts $6000 = 100 KLm = 10% LibreMoney; To each according to 50000Lm
+<br/>
+<b>T:</b> 31.07.2014 + 28.08.2014
+</p>
+
+
+
+
+<h2>2. LibreMoney-Alpha2 — September-October 2014</h2>
+
+<p>
+<b>S:</b> Implement and release LibreMoney-Alpha2; Create a promotional video for 2 minutes; Participation in conferences
+<br/>
+<b>M:</b>
+<br/>
+<b>A:</b> It should be 4 person (leader-organizer-coordinator + programmer + Marketing + Translator + video)
+<br/>
+<b>R:</b> Costs $12,000 = 100 KLm = 10% LibreMoney; To each according to 25000Lm
+<br/>
+<b>T:</b> 25.09.2014 + 24.10.2014
+</p>
+
+
+
+
+<h2>3. LibreMoney-Alpha3 — November-December 2014</h2>
+
+<p>
+<b>S:</b> Implement and release LibreMoney-Alpha3; Create a promotional video for 4 minutes; Participation in conferences
+<br/>
+<b>M:</b>
+<br/>
+<b>A:</b> You must 8 person (leader-organizer + + programmer coordinator-Front + programmer-Back + Marketing + + interpreter rerayter + video)
+<br/>
+<b>R:</b> Costs $24,000 = 100 KLm = 10% LibreMoney; To each according to 12500Lm
+<br/>
+<b>T:</b> 27.11.2014 + 25.12.2014
+</p>
+
+
+
+
+<h2>4. LibreMoney-Beta1 — January-February 2015</h2>
+
+<p>
+<b>S:</b> Implement and release LibreMoney-Beta1; Create a promotional video for 8 minutes; Participation in conferences
+<br/>
+<b>M:</b>
+<br/>
+<b>A:</b> You must 16 (leader + organizer + coordinator + main developer + programmer-Back1 + programmer-Back2 + programmer-Front1 + programmer-Front2 + Coordinator + Marketing Assistant Coordinator Marketing + rerayter1 rerayter2 + perevodchik1 + perevodchik2 + video1 + video2)
+<br/>
+<b>R:</b> Costs $48,000 = 100 KLm = 10% LibreMoney; To each according to 6250Lm
+<br/>
+<b>T:</b> 01.01.2015 + 26.02.2014
+</p>
+
+
+
+
+<h2>5. LibreMoney-Beta2 — March-April 2015</h2>
+
+<p>
+<b>S:</b> Implement and release LibreMoney-Beta2; Create a promotional video for 16 min; Participation in conferences
+<br/>
+<b>M:</b>
+<br/>
+<b>A:</b> You must 32 people:
+<br/>
+leader
+<br/>
+— organizer
+<br/>
+— The coordinator of the development
+<br/>
+— The main developer
+<br/>
+— Software-Back1
+<br/>
+— Software-Back2
+<br/>
+— Software-Front1
+<br/>
+— Software-Front2
+<br/>
+— Assistant Chief Developer
+<br/>
+— Software-Back1
+<br/>
+— Software-Back2
+<br/>
+— Software-Front1
+<br/>
+— Software-Front2
+<br/>
+— Marketing Coordinator
+<br/>
+— Assistant Coordinator of Marketing 1
+<br/>
+— rerayter1
+<br/>
+— rerayter2
+<br/>
+— perevodchik1
+<br/>
+— perevodchik2
+<br/>
+— video1
+<br/>
+— video2
+<br/>
+— Assistant Coordinator of Marketing 2
+<br/>
+— rerayter1
+<br/>
+— rerayter2
+<br/>
+— perevodchik1
+<br/>
+— perevodchik2
+<br/>
+— video1
+<br/>
+— video2
+<br/>
+<b>R:</b> Costs $96,000 = 100 KLm = 10% LibreMoney; To each according to 3125Lm
+<br/>
+<b>T:</b> ?
+</p>
+
+
+
+
+<h2>6. LibreMoney-Beta3 — May-June 2015</h2>
+
+<p>
+<b>S:</b> Implement and release LibreMoney-Beta3; Create a Movie for 32 min; Participation in conferences
+<br/>
+<b>M:</b>
+<br/>
+<b>A:</b> You must 64 people
+<br/>
+<b>R:</b> Costs $192,000 = 100 KLm = 10% LibreMoney; To each according to 1563Lm
+<br/>
+<b>T:</b> ?
+</p>
+
+
+
+
+<h2>7. LibreMoney-Release -?</h2>
+
+<p>
+<b>S:</b>
+<br/>
+1) Implement and release LibreMoney-Release
+<br/>
+2) Correction of errors; Implementation exchangers; Advertising; Versions for mobile platforms; Create a Movie 64 min; Participation in international conferences
+<br/>
+<b>M:</b>
+<br/>
+<b>A:</b> It is necessary to 128 people
+<br/>
+<b>R:</b> Cost $384,000 = 100 KLm = 10% LibreMoney; To each according to 781Lm
+<br/>
+<b>T:</b> ?
+</p>
+
+
+
+
+<h2>8. LibreMoney-BugFix1 -?</h2>
+
+<p>
+<b>S:</b> Correction of errors; Implementation exchangers; Advertising; Versions for mobile platforms; Create a film about the economy and freedom for 128 min; Participation in international conferences
+<br/>
+<b>M:</b>
+<br/>
+<b>A:</b> It is necessary to 256 people
+<br/>
+<b>R:</b> Cost $768,000 = 100 KLm = 10% LibreMoney; To each according to 391Lm
+<br/>
+<b>T:</b> ?
+</p>
+
+
+
+
+<h2>9. LibreMoney-BugFix2 -?</h2>
+
+<p>
+<b>S:</b> Correction of errors; Implementation exchangers; Advertising; Versions for mobile platforms; Create two films about the economy and freedom for 128 min; Participation in international conferences
+<br/>
+<b>M:</b>
+<br/>
+<b>A:</b> It is necessary to 512 people
+<br/>
+<b>R:</b> Cost $1.5 million = 100 KLm = 10% LibreMoney; To each according to 195Lm
+<br/>
+<b>T:</b> ?
+</p>
+
+<br/>
+
+<p>
+Source:
+<a href="http://libremoney.org/purpose/en/" target="_blank">libremoney.org/purpose/en</a>
+</p>
+
+<br/>
+
+<p>
+<a href="http://ru.wikipedia.org/wiki/SMART" target="_blank">ru.wikipedia.org/wiki/SMART</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/money/libre/en">Libre.Money</a></nav>
+
+</main>
+<footer><div>7524-07-03 - 7524-07-03</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
