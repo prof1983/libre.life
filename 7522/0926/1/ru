@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>История экономической мысли (сокращенный вариант) - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>История экономической мысли (сокращенный вариант)</h1>
+
+<figure>
+<a href="00b.jpg"><img src="00.jpg"/></a>
+</figure>
+
+<p>
+Сделал сокращенный вариант лекций "История экономической мысли" для более быстрого просмотра. Эти лекции, в частности, хорошо объясняют теорию проекта LibreMoney. Я выделил, самые главные мысли, которые наиболее понятно отражают суть проекта.
+</p>
+
+<figure>
+<b>Система Кантильона - Предпрениматель</b>
+<br/>
+<iframe width="640" height="360" src="//www.youtube.com/embed/F5hcZ_91yIU" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+<figure>
+<b>Адам Смит - Труд</b>
+<br/>
+<iframe width="640" height="360" src="//www.youtube.com/embed/gPy7vE-_GGA" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+<figure>
+<b>Карл Маркс</b>
+<br/>
+<iframe width="640" height="360" src="//www.youtube.com/embed/RhFz6wgaf7c" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+<p>
+Источник:
+<a href="http://libremoney.org/article/510/" target="_blank">libremoney.org/article/510</a>
+</p>
+
+<p>
+Первоисточник: <a href="http://rutracker.org/forum/viewtopic.php?t=4794401" target="_blank">rutracker.org/forum/viewtopic.php?t=4794401</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/economy/ru">Экономика</a></nav>
+
+</main>
+<footer><div>7524-09-26 - 7524-09-26</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
