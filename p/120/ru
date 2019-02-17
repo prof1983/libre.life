@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Завод Кристалл - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Завод Кристалл</h1>
+
+<figure>
+<a href="img/00b.jpg"><img src="img/00.jpg"/></a>
+</figure>
+
+
+<figure>
+<b>Кристалл (1)</b>
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/GzaafRnz74U" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+<figure>
+<b>Кристалл (2)</b>
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/_197aCdbQF4" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/p/ru">Проекты</a></p>
+
+</main>
+<footer><div>7523-07-20 - 7523-07-21</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
