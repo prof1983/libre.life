@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Main - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Start</h1>
+
+
+<p class="h">
+<b>Per cognitione universum ad homo divinus</b>
+</p>
+
+
+
+<h2><a href="/section/en">Sections</a></h2>
+
+<center>
+
+<div class="blocks blocks-front">
+
+<a href="/club/en">
+<div>
+<figure>
+<img src="/club/img/logo/300x300.jpg"/>
+</figure>
+<h3>Club</h3>
+<p>A community of free people</p>
+</div>
+</a>
+
+<a href="/economy/en">
+<div>
+<figure>
+<img src="/economy/img/logo/300x300.jpg"/>
+</figure>
+<h3>Economy</h3>
+<p>Creation of resource-reputational economy</p>
+</div>
+</a>
+
+<a href="/money/en">
+<div>
+<figure>
+<img src="/money/img/logo/300x300.jpg"/>
+</figure>
+<h3>Money</h3>
+<p>The measure of value, medium of exchange, a store of value</p>
+</div>
+</a>
+
+<a href="/city/en">
+<div>
+<figure>
+<img src="/city/img/logo/200x200.jpg" width="300"/>
+</figure>
+<h3>City</h3>
+<p>Free city</p>
+<p>Places for work and live</p>
+</div>
+</a>
+
+<a href="/nation/en">
+<div>
+<figure>
+<img src="/nation/img/logo/300x300.jpg"/>
+</figure>
+<h3>Nation</h3>
+<p>Government 2.0</p>
+</div>
+</a>
+
+<a href="/land/en">
+<div>
+<figure>
+<img src="/land/img/logo/300x300.png"/>
+</figure>
+<h3>Land</h3>
+<p>Territory free states</p>
+</div>
+</a>
+
+<a href="/future/en">
+<div>
+<figure>
+<img src="/future/img/logo/300x300.jpg"/>
+</figure>
+<h3>Future</h3>
+<p>Prolongation of life, Space, Singularity, Avatar, AI, 2045</p>
+</div>
+</a>
+
+<a href="/sec/en">
+<div>
+<figure>
+<img src="/sec/img/logo/300x300.png"/>
+</figure>
+<h3>Security</h3>
+<p>Data security, personal security, national security</p>
+</div>
+</a>
+
+<a href="/net/en">
+<div>
+<figure>
+<img src="/net/img/logo/300x300.jpg"/>
+</figure>
+<h3>Network</h3>
+<p>Decentralization, Future Networks, Neyronet</p>
+</div>
+</a>
+
+</div>
+
+
+
+
+
+<a href="/p/en"><h2>Projects</h2></a>
+
+<div class="blocks blocks-front">
+
+<a href="/p/0/en">
+<div>
+<figure>
+<img src="/p/0/img/logo/300x300.jpg"/>
+</figure>
+<h3>Core</h3>
+<p>Core of system</p>
+</div>
+</a>
+
+<!--a href="/p/2/en">
+<div>
+<figure>
+<img src="/p/2/img/logo/300x300.jpg"/>
+</figure>
+<h3>Domodelovo</h3>
+<p>Home building</p>
+</div>
+</a-->
+
+<a href="/p/3/en">
+<div>
+<figure>
+<img src="/p/3/img/logo/300x300.jpg"/>
+</figure>
+<h3>Derevnya-21</h3>
+<p>Willage XXI</p>
+</div>
+</a>
+
+<!--a href="/p/4/en">
+<div>
+<figure>
+<img src="/p/4/img/logo/300x300.jpg"/>
+</figure>
+<h3>Neuro.Life</h3>
+<p>New generation neuroheadset</p>
+</div>
+</a-->
+
+<a href="/p/10/en">
+<div>
+<figure>
+<img src="/p/10/img/logo/300x300.jpg"/>
+</figure>
+<h3>StupInno</h3>
+<p>Innovative city</p>
+</div>
+</a>
+
+</div>
+
+
+
+
+<h2><a href="/doc/en">Documentation</a></h2>
+
+<div class="blocks blocks-front2">
+
+<a href="/doc/about/en">
+<div>
+<figure>
+<img src="/img/logo/300x300.png"/>
+</figure>
+<h3>About</h3>
+<p>About Libre.Life</p>
+</div>
+</a>
+
+<!--a href="/doc/manifest/en">
+<div>
+<figure>
+<img src="/doc/manifest/300x300.png"/>
+</figure>
+<h3>Manifesto</h3>
+<p></p>
+</div>
+</a>
+
+<a href="/doc/constitution/en">
+<div>
+<figure>
+<img src="/doc/constitution/300x300.png"/>
+</figure>
+<h3>Constitution</h3>
+<p></p>
+</div>
+</a>
+
+<a href="/doc/license/en">
+<div>
+<figure>
+<img src="/doc/license/300x300.png"/>
+</figure>
+<h3>License</h3>
+<p></p>
+</div>
+</a>
+
+<a href="/doc/book/en">
+<div>
+<h3>White papper</h3>
+<p>Project description</p>
+</div>
+</a-->
+
+<a href="/pr/en">
+<div>
+<figure>
+<img src="/pr/img/logo/300x300.png"/>
+</figure>
+<h3>Presentations</h3>
+<p>Presentations</p>
+</div>
+</a>
+
+<a href="/video/en">
+<div>
+<figure>
+<img src="/video/img/logo/300x300.png"/>
+</figure>
+<h3>Video</h3>
+<p></p>
+</div>
+</a>
+
+</div>
+
+
+
+
+<a href="/other"><h2>Other</h2></a>
+
+</center>
+
+
+
+
+<nav class="main-footer-nav"><a href="/en">Main</a></nav>
+
+</main>
+<footer><div>7523-02-01 - 7524-12-30</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Старт - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<center>
+
+<h1>Старт</h1>
+
+<p class="h">
+<b>Per cognitione universum ad homo divinus</b>
+<br/>
+Через познание Вселенной к Человеку Божественному
+</p>
+
+
+<h2><a href="/section/ru">Секции</a></h2>
+
+<div class="blocks blocks-front">
+
+<a href="/club/ru">
+<div>
+<figure>
+<img src="/club/img/logo/300x300.jpg"/>
+</figure>
+<h3>Клуб</h3>
+<p>Сообщество свободных людей</p>
+</div>
+</a>
+
+<a href="/economy/ru">
+<div>
+<figure>
+<img src="/economy/img/logo/300x300.jpg"/>
+</figure>
+<h3>Экономика</h3>
+<p>Создание ресурсно-репутационной экономики</p></p>
+</div>
+</a>
+
+<a href="/money/ru">
+<div>
+<figure>
+<img src="/money/img/logo/300x300.jpg"/>
+</figure>
+<h3>Деньги</h3>
+<p>Мера стоимости, средство обмена, средство накопления</p>
+</div>
+</a>
+
+<a href="/city/ru">
+<div>
+<figure>
+<img src="/city/img/logo/200x200.jpg" width="300"/>
+</figure>
+<h3>Город</h3>
+<p>Свободный город</p>
+<p>Место для работы и жизни</p>
+</div>
+</a>
+
+<a href="/nation/ru">
+<div>
+<figure>
+<img src="/nation/img/logo/300x300.jpg"/>
+</figure>
+<h3>Государство</h3>
+<p>Государственные услуги 2.0</p>
+</div>
+</a>
+
+<a href="/land/ru">
+<div>
+<figure>
+<img src="/land/img/logo/300x300.png"/>
+</figure>
+<h3>Земля</h3>
+<p>Территории свободных государств</p>
+</div>
+</a>
+
+<a href="/future/ru">
+<div>
+<figure>
+<img src="/future/img/logo/300x300.jpg"/>
+</figure>
+<h3>Будущее</h3>
+<p>Продление жизни, Космос, Сингулярность, Аватар, ИИ, 2045</p>
+</div>
+</a>
+
+<a href="/sec/ru">
+<div>
+<figure>
+<img src="/sec/img/logo/300x300.png"/>
+</figure>
+<h3>Безопасность</h3>
+<p>Безопасность данных, личная безопасность, национальная безопасность</p>
+</div>
+</a>
+
+<a href="/net/ru">
+<div>
+<figure>
+<img src="/net/img/logo/300x300.jpg"/>
+</figure>
+<h3>Сеть</h3>
+<p>Децентрализация, Сети будущего, Нейронет</p>
+</div>
+</a>
+
+</div>
+
+
+
+
+
+<a href="/p/ru"><h2>Проекты</h2></a>
+
+<div class="blocks blocks-front">
+
+<a href="/p/0/ru">
+<div>
+<figure>
+<img src="/p/0/img/logo/300x300.jpg"/>
+</figure>
+<h3>Ядро</h3>
+<p>Ядро системы</p>
+</div>
+</a>
+
+<!--a href="/p/2/ru">
+<div>
+<figure>
+<img src="/p/2/img/logo/300x300.jpg"/>
+</figure>
+<h3>Домоделово</h3>
+<p>Строительный принтер</p>
+</div>
+</a-->
+
+<a href="/p/3/ru">
+<div>
+<figure>
+<img src="/p/3/img/logo/300x300.jpg"/>
+</figure>
+<h3>Деревня-21</h3>
+<p>Креативное поселение под Можайском</p>
+</div>
+</a>
+
+<!--a href="/p/4/ru">
+<div>
+<figure>
+<img src="/p/4/img/logo/300x300.jpg"/>
+</figure>
+<h3>Neuro.Life</h3>
+<p>Нейрогарнитура нового поколения</p>
+</div>
+</a-->
+
+<a href="/p/10/ru">
+<div>
+<figure>
+<img src="/p/10/img/logo/300x300.jpg"/>
+</figure>
+<h3>СтупИнно</h3>
+<p>Инновационный город</p>
+</div>
+</a>
+
+</div>
+
+
+
+
+<h2><a href="/doc/ru">Документация</a></h2>
+
+<div class="blocks blocks-front2">
+
+<a href="/doc/about/ru">
+<div>
+<figure>
+<img src="/img/logo/300x300.png"/>
+</figure>
+<h3>О проекте</h3>
+<p>О проекте</p>
+</div>
+</a>
+
+<!--a href="/doc/manifest/ru">
+<div>
+<figure>
+<img src="/doc/manifest/300x300.png"/>
+</figure>
+<h3>Манифест</h3>
+<p>Манифест</p>
+</div>
+</a>
+
+<a href="/doc/constitution/ru">
+<div>
+<figure>
+<img src="/doc/constitution/300x300.png"/>
+</figure>
+<h3>Конституция</h3>
+<p>Конституция</p>
+</div>
+</a>
+
+<a href="/doc/license/ru">
+<div>
+<figure>
+<img src="/doc/license/300x300.png"/>
+</figure>
+<h3>Лицензия</h3>
+<p>Лицензия</p>
+</div>
+</a>
+
+<a href="/doc/book/ru">
+<div>
+<figure>
+<img src="img/logo/300x300.png"/>
+</figure>
+<h3>"Белая книга"</h3>
+<p>Описание проекта</p>
+</div>
+</a-->
+
+<a href="/pr/ru">
+<div>
+<figure>
+<img src="/pr/img/logo/300x300.png"/>
+</figure>
+<h3>Презентации</h3>
+<p>Презентации</p>
+</div>
+</a>
+
+<a href="/video/ru">
+<div>
+<figure>
+<img src="/video/img/logo/300x300.png"/>
+</figure>
+<h3>Видео</h3>
+<p>Видео</p>
+</div>
+</a>
+
+</div>
+
+
+
+
+<a href="/other"><h2>Разное</h2></a>
+
+<!--a href="/union/ru"><p><strong>Union</strong> <span>Союз</span></p></a-->
+
+</div>
+
+</center>
+
+
+
+
+<nav class="main-footer-nav"><a href="/ru">Главная</a></nav>
+
+</main>
+<footer><div>7523-02-01 - 7524-12-30</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
