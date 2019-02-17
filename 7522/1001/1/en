@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Proof of Activity - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Proof of Activity</h1>
+
+<p><img src="http://storage8.static.itmages.ru/i/14/1001/h_1412198445_4492681_4ae9875c5f.png" width="144" height="144"/><br />
+<strong>How does PoA work, and what is different?</strong></p>
+<p>Node relies on an new mechanism for a secured an equitable forging process. </p>
+<p>Because the current forging algorithms are not sufficient for ensuring a long term exploitation and have drawbacks we decided to innovate further. </p>
+<p>We had the following prerogatives when elaborating PoA:<br />
+1. To motivate people to actively participate in the network development;<br />
+2. To encourage users to spend coins, facilitating the further distribution;<br />
+3. To reward those that give back to the network by maintaining their node active;<br />
+4. To increase democracy/fairness/egalitarianism/chances towards generating a block;<br />
+<span id="more-573"></span></p>
+<p>PoA stands for Proof of Activity, and its name expresses the way forging will be executed and forgers will be elected &#8212; by activity.<br />
+In this context activity is viewed as contribution towards the network, and the main indicators are: Time and Spent Amount</p>
+<p><strong>Time</strong><br />
+Each node’s active time will be recorded and calculated in seconds, since its last connection. This way a TimeHeight will be determined and used in the algorithm.<br />
+<strong>Spent Amount</strong><br />
+Each extra coin spent will equivalate one unit of time, in this case 1 Node = 1 second. The Spent amount will be calculated within a day timeframe. Those extra units will be added to the timeheight to determine the actual Nodeheight = Timeheight + Units. </p>
+<p><strong>Procedure:</strong><br />
+After syncing with the network, a node will become active, and will be able to generate blocks thus receiving rewards. After connecting to the network, the time of that connection will be recorded and constantly compared with other active nodes. As soon as a transaction is made, the network will be scouting the most active node by NodeHeight(by the longest activity + Nodes sent in the last 24h). When that node is identified it will be selected to generate the block, it will: send the intention, sign the block, validate , and consolidate it in the chain. After the generation the node’s NodeHeight is reseted. Time and 24h sent coin amount is calculated again, till the next positive generation call.</p>
+<p>This is a simple and efficient method to select eligible forgers. In order for it to work properly rules will be involved to eliminate the possibility of gaming the system, for example:<br />
+&#8212; Singles (blocks with only 1 transaction) will not be forged by the sender.<br />
+&#8212; Bounty quest link!</p>
+<p>
+Source: <a href="https://docs.google.com/document/d/1zDlGZn7sICIA8bUPhe6jPPzGOxA4YgTgi6J4XilFpgs" target="_blank">docs.google.com/document/d/1zDlGZn7sICIA8bUPhe6jPPzGOxA4YgTgi6J4XilFpgs</a>
+</p>
+
+<p>
+http://libremoney.org/article/573
+</p>
+
+
+<p class="h">
+<a href="ru">RU</a>
+</p>
+
+
+<p class="h2"><a href="/money/libre/en">Libre.Money</a></p>
+
+</main>
+<footer><div>7522-10-01 - 7526-10-10</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
