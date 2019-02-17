@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>The system of summary calculations - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>The system of summary calculations</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+In today's world occur extremely important economic processes in the near future will affect the life of every Russian. The global economic crisis of 2008, which could slightly dampen returns in a new way. Its effects can be extremely destructive, even when compared with "the Great Depression of the 30s" in the United States.
+</p>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/economy/en">Economy</a></nav>
+
+</main>
+<footer><div>7524-03-07 - 7524-08-07</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
