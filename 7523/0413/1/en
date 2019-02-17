@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>BitTorrent Secure Web Browser Project Maelstrom Edges Closer To Release - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>BitTorrent Secure Web Browser Project Maelstrom Edges Closer To Release</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p class="h">
+11:56 am April 13, 2015 By <a href="http://www.geeky-gadgets.com/author/jhorsey/" target="_blank">Julian Horsey</a>
+</p>
+
+<p>
+Anyone looking forward to using BitTorrent’s secure web browser codenamed Project Malestrom as a final release will be pleased to learn that is has taken another step closer.
+</p>
+
+<p>
+Over the weekend <a href="http://www.geeky-gadgets.com/bittorrent-gives-filesharing-a-twist-07-01-2012/" target="_blank">BitTorrent</a> announced new features that have been rolled out and developed since the release of the alpha version last December and are now available in the bets version of the secure browser.
+</p>
+
+<p>
+New features in Project Malestrom include a new Developer publishing tool, DHT visualisation for users when loading torrents, Improved stability and Support for auto-update. BitTorrent explained over on the official blog :
+</p>
+
+<p>
+“Since December, we have learned a lot. We also have established a growing community of testers, developers and publishers. More than 10,000 developers in fact, and an additional 3,500 publishers, looking to share our vision of how the Internet can work.
+</p>
+
+<p>
+Today marks the next step toward a distributed web with the beta release of Project Maelstrom. With Project Maelstrom, we aim to deliver technology that can sustain an open internet; one that doesn’t require servers, that allows anyone to publish to a truly open web, and that uses the power of distributed technology to scale efficiently.
+</p>
+
+<p>
+The developer tool for publishing will help you build for Project Maelstrom easily, even from the command line. This will streamline the process for creating and publishing content for other users to access while using Project Maelstrom. For more information, check out the project on Github.
+</p>
+
+<p>
+The new beta of Project Maelstrom has the ease of use of a browser, with all of the power of BitTorrent technology. We hope you enjoy building with it.”
+</p>
+
+<p>
+If you are interested in downloading a copy of the latest beta release of Project Malestrom visit the BitTorrent Blog via the download link below.
+</p>
+
+<p>
+Source: <a href="http://blog.bittorrent.com/2015/04/10/project-maelstrom-developer-tools/" target="_blank">BitTorrent</a> : <a href="http://blog.bittorrent.com/2015/04/10/project-maelstrom-enters-beta/" target="_blank">Download</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/net/en">Network</a></nav>
+
+</main>
+<footer><div>7523-04-15 - 7524-11-21</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Релиз BitTorrent-браузера Project Maelstrom состоится совсем скоро - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Релиз BitTorrent-браузера Project Maelstrom состоится совсем скоро</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+Защищённый браузер от компании BitTorrent, получивший название Project Maelstrom, всё ближе подбирается к релизу. За последнее время программа получила несколько важных улучшений. Среди них инструмент публикации для разработчиков, DHT-визуализация для пользователей во время загрузки торрентов, возможность активизации режима автообновления и повышенная стабильность работы клиента. Разработчики, рассказывая о своём продукте, отмечают, что он, как и любой браузер, лёгок в эксплуатировании, но "обладает мощностью технологии BitTorrent".
+</p>
+
+<p>
+Разработчики о новой версии браузера:
+</p>
+
+<blockquote>
+<p>
+С начала декабря мы изучили многое. Нами был отмечен рост сообщества тестеров, разработчиков и издателей. Фактически более 10 000 разработчиков и 3 500 издателей разделяют наше видение того, как может работать Интернет. Сегодня настало время сделать следующий шаг к расширению возможностей сети вместе с выпуском бета-версии Project Maelstrom. Мы сосредоточились на поставке технологии, которая может поддержать открытый Интернет, тот самый, для которого не требуется наличие серверов, который позволяет любому желающему размещать действительно открытые веб-страницы, и который использует мощь технологии распределения для эффективной оптимизации.
+</p>
+<p>
+Инструмент публикации для разработчиков позволит вам легко разрабатывать под Project Maelstrom, даже с помощью командной строки. Это оптимизирует процесс разработки и издания контента для других пользователей с организацией доступа для всех людей, использующих Project Maelstrom.
+</p>
+</blockquote>
+
+<p>
+Скачать последнюю версию Project Maelstrom можно по следующей ссылке.
+<br/>
+<a href="http://blog.bittorrent.com/2015/04/10/project-maelstrom-enters-beta/" target="_blank">blog.bittorrent.com/2015/04/10/project-maelstrom-enters-beta</a>
+</p>
+
+<p>
+Источник:
+<a href="http://4pda.ru/2015/04/13/213982/" target="_blank">4pda.ru/2015/04/13/213982</a>
+<br/>
+Первоисточник:
+<a href="http://www.geeky-gadgets.com/bittorrent-secure-web-browser-project-maelstrom-edges-closer-to-release-12-04-2015/" target="_blank">geeky-gadgets.com/bittorrent-secure-web-browser-project-maelstrom-edges-closer-to-release-12-04-2015</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/net/ru">Сеть</a></nav>
+
+</main>
+<footer><div>7523-04-15 - 7524-11-21</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
