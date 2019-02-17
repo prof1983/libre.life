@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<title>Future - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Future</h1>
+
+<p class="h2">
+<a href="ru">Read mode...</a> (RU)
+</p>
+
+
+</main>
+<footer><div>7523-03-14 - 7523-04-23</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
