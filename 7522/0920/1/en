@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Neurorub - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Neurorub</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+In the 21st century, everything becomes smart ... smart gadgets, smart appliances, smart clothes ... To control developed neurointerfaces themselves economic processes begin to occur in neuroeconomics, so let's talk about an important economic element in all this clever management - smart money or neurocurrency.
+</p>
+
+<p class="h">
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/economy/en">Economy</a></nav>
+
+</main>
+<footer><div>7524-10-02 - 7524-10-02</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
