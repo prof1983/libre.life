@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<style>
+div.blocks-front > a > div {
+	max-width: 350px;
+	min-height: 25em;
+	width: 15em;
+}
+</style>
+<title>Проекты - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Проекты</h1>
+
+<p class="h">
+Проект — разработка нового или улучшения существующего продукта.
+</p>
+
+<div class="blocks blocks-front">
+
+<a href="/p/0/ru">
+<div>
+<figure>
+<img src="/p/0/img/logo/300x300.jpg"/>
+</figure>
+<h3>Ядро</h3>
+<p>Ядро системы</p>
+<figure class="moneta" data-proj-id="0" data-sum="1234567"></figure>
+</div>
+</a>
+
+<a href="/p/1/ru">
+<div>
+<figure>
+<img src="/p/1/img/logo/300x300.png"/>
+</figure>
+<h3>LibreMoney</h3>
+<p>Проект "Свободные деньги"</p>
+<figure class="moneta" data-proj-id="1" data-sum="1234"></figure>
+</div>
+</a>
+
+<!--a href="/p/4/ru">
+<div>
+<figure>
+<img src="/p/4/img/logo/300x300.jpg"/>
+</figure>
+<h3>Neuro.Life</h3>
+<p>Нейрогарнитура нового поколения</p>
+<figure class="moneta" data-proj-id="4" data-sum="1000000"></figure>
+</div>
+</a-->
+
+<a href="http://coinfest.ru">
+<div>
+<figure>
+<img src="/p/5/img/logo/300x300.jpg"/>
+</figure>
+<h3>CoinFest</h3>
+<p>Free. Open source. So crypto!</p>
+<figure class="moneta" data-proj-id="5" data-sum="1000000"></figure>
+</div>
+</a>
+
+<!--a href="/p/6/ru">
+<div>
+<figure>
+<img src="/p/6/img/logo/300x300.png"/>
+</figure>
+<h3>МояМаруся</h3>
+<p>Продукты высокого качества</p>
+<figure class="moneta" data-proj-id="6" data-sum="1000000"></figure>
+</div>
+</a-->
+
+<!--a href="/p/7/ru">
+<div>
+<figure>
+<img src="/p/7/img/logo/300x300.png"/>
+</figure>
+<h3>Лаборатория Кузнецова</h3>
+<p>Создание инновационных высокотехнологичных продуктов</p>
+<figure class="moneta" data-proj-id="7" data-sum="1000000"></figure>
+</div>
+</a-->
+
+<!--a href="/p/8/ru">
+<div>
+<figure>
+<img src="/p/8/img/logo/300x300.png"/>
+</figure>
+<h3>Глобальная волна</h3>
+<p>Продвижение прорывных технологий, альтернативной энергетики и физики</p>
+<figure class="moneta" data-proj-id="8" data-sum="1000000"></figure>
+</div>
+</a-->
+
+<!--a href="/p/9/ru">
+<div>
+<figure>
+<img src="/p/9/img/logo/300x300.jpg"/>
+</figure>
+<h3>Продукты разума</h3>
+<p>Креативная среда разработки идей</p>
+<figure class="moneta" data-proj-id="9" data-sum="1000000"></figure>
+</div>
+</a-->
+
+<!--a href="/p/10/ru">
+<div>
+<figure>
+<img src="/p/10/img/logo/300x300.jpg"/>
+</figure>
+<h3>СтупИнно</h3>
+<p>Инновационный город</p>
+<figure class="moneta" data-proj-id="10" data-sum="1000000"></figure>
+</div>
+</a-->
+
+<!--a href="/p/11/ru">
+<div>
+<figure>
+<img src="/p/11/img/logo/300x300.jpg"/>
+</figure>
+<h3>Познай Малую Родину</h3>
+<p></p>
+<figure class="moneta" data-proj-id="11" data-sum="1000000"></figure>
+</div>
+</a-->
+
+<!--a href="/p/12/ru">
+<div>
+<figure>
+<img src="/p/12/img/logo/300x300.jpg"/>
+</figure>
+<h3>Киберсани</h3>
+<p></p>
+<figure class="moneta" data-proj-id="12" data-sum="1000000"></figure>
+</div>
+</a-->
+
+<!--a href="/p/13/ru">
+<div>
+<figure>
+<img src="/p/13/img/logo/300x300.jpg"/>
+</figure>
+<h3>КиберКепка</h3>
+<p></p>
+<figure class="moneta" data-proj-id="13" data-sum="1000000"></figure>
+</div>
+</a-->
+
+<a href="/p/14/ru">
+<div>
+<figure>
+<img src="/p/14/img/logo/300x300.jpg"/>
+</figure>
+<h3>CrowdFunder</h3>
+<p>Помогаем проектам найти умные деньги</p>
+<figure class="moneta" data-proj-id="14" data-sum="1000000"></figure>
+</div>
+</a>
+
+<!--a href="/p/15/ru">
+<div>
+<figure>
+<img src="/p/15/img/logo/300x300.jpg"/>
+</figure>
+<h3>Клуб ДоброТех</h3>
+<p>Финансируй проекты бесплатно!</p>
+<figure class="moneta" data-proj-id="15" data-sum="1000000"></figure>
+</div>
+</a-->
+
+<!--a href="/p/16/ru">
+<div>
+<figure>
+<img src="/p/16/img/logo/300x300.jpg"/>
+</figure>
+<h3>Деньги Даром</h3>
+<p>Сервис увеличения продаж с оплатой за результат</p>
+<figure class="moneta" data-proj-id="16" data-sum="1000000"></figure>
+</div>
+</a-->
+
+<a href="/p/18/ru">
+<div>
+<figure>
+<img src="/p/18/img/logo/300x300.png"/>
+</figure>
+<h3>IT-платформа</h3>
+<p>IT-платформа «Расчетный центр для кооперативов»</p>
+<figure class="moneta" data-proj-id="18" data-sum="1000000"></figure>
+</div>
+</a>
+
+<a href="/p/21/ru">
+<div>
+<figure>
+<img src="/p/21/img/logo/300x300.jpg"/>
+</figure>
+<h3>Эксперты инноваций</h3>
+<p>Открытое сообщество компетентных людей</p>
+</div>
+</a>
+
+<!--a href="/p/22/ru">
+<div>
+<figure>
+<img src="/p/22/img/logo/300x300.jpg"/>
+</figure>
+<h3>Клуб защиты прав потребителей</h3>
+<p>Открытое сообщество потребителей товаров и услуг</p>
+</div>
+</a-->
+
+<a href="/p/23/ru">
+<div>
+<figure>
+<img src="/p/23/img/logo/300.jpg"/>
+</figure>
+<h3>Клуб защиты прав производителей</h3>
+<p>Сообщество производителей товаров и услуг</p>
+</div>
+</a>
+
+<a href="/p/24/ru">
+<div>
+<figure>
+<img src="/p/24/img/logo/300x300.jpg"/>
+</figure>
+<h3>Correlation Center</h3>
+<p>Прототип Центра Координации (по идеи из Проекта Венера)</p>
+<figure class="moneta" data-proj-id="10011" data-sum="100000"></figure>
+</div>
+</a>
+
+<a href="/p/25/ru">
+<div>
+<figure>
+<img src="/p/25/img/logo/300x300.jpg"/>
+</figure>
+<h3>Зеленый комплекс</h3>
+<p>Производственный кооператив «­­Зеленый комплекс»</p>
+</div>
+</a>
+
+<a href="/p/26/ru">
+<div>
+<figure>
+<img src="/p/26/img/logo/300x300.jpg"/>
+</figure>
+<h3>Ресурсная база</h3>
+<p>Список производств</p>
+</div>
+</a>
+
+<a href="/p/28/ru">
+<div>
+<figure>
+<img src="/p/28/img/logo/300x300.png"/>
+</figure>
+<h3>Добро За Добро</h3>
+<p>Потребительское Общество</p>
+</div>
+</a>
+
+<a href="/p/29/ru">
+<div>
+<figure>
+<img src="/p/29/img/logo/300x300.jpg"/>
+</figure>
+<h3>Страна Нигде</h3>
+<p>Краудсорсинговая социальная сеть и виртуальное государство</p>
+</div>
+</a>
+
+<a href="/p/30/ru">
+<div>
+<figure>
+<img src="/p/30/img/logo/300x300.jpg"/>
+</figure>
+<h3>Генератор Сделок</h3>
+<p>Предпринимательский воркшоп</p>
+</div>
+</a>
+
+<a href="/p/31/ru">
+<div>
+<figure>
+<img src="/p/31/img/logo/300.jpg"/>
+</figure>
+<h3>Зелёная экономика</h3>
+<p>Градусник «Зелёной экономики»</p>
+</div>
+</a>
+
+<!--
+32 - Клуб Лояльных Потребителей
+33 - Кооперативная франшиза
+34 - Фонд
+35 - Бесплатное пожизненное питание (как часть БОД)
+36 - FreePe
+37 - Конституция
+-->
+
+<!--a href="/p/120/ru">
+<div>
+<figure>
+<img src="/p/120/img/logo/300x300.jpg"/>
+</figure>
+<h3>Завод Кристалл</h3>
+<p></p>
+<figure class="moneta" data-proj-id="10011" data-sum="100000"></figure>
+</div>
+</a-->
+
+</div>
+
+
+
+
+<h2>Полный список</h2>
+
+<p>
+<a href="/p/0/ru">Ядро</a> - Ядро системы
+<br/>
+<a href="/p/1/ru">Libre.Money</a> - Проект "Свободные деньги"
+<br/>
+<a href="/p/2/ru">Домоделово</a> - Технологии автоматиированного строительства
+<br/>
+<a href="/p/3/ru">Деревня-21</a> - Квартал инноваторов в креативном пространстве
+<br/>
+<a href="/p/4/ru">Neuro.Life</a> - Нейрогарнитура нового поколения
+<br/>
+<a href="/p/5/ru">CoinFest</a> - Free. Open source. So crypto!
+<br/>
+<a href="/p/6/ru">МояМаруся</a> - Продукты высокого качества
+<br/>
+<a href="/p/7/ru">Лаборатория Кузнецова</a> - Создание инновационных высокотехнологичных продуктов
+<br/>
+<a href="/p/8/ru">Глобальная волна</a> - Продвижение прорывных технологий, альтернативной энергетики и физики
+<br/>
+<a href="/p/9/ru">Продукты разума</a> - Креативная среда разработки идей
+<br/>
+<a href="/p/10/ru">СтупИнно</a> - Инновационный город
+<br/>
+<a href="/p/11/ru">Познай Малую Родину</a> - Экскурсии для школьников
+<br/>
+<a href="/p/12/ru">Киберсани</a> - Транспортное средство нового поколения
+<br/>
+<a href="/p/13/ru">КиберКепка</a> - Головной убор с коммуникативными элементами
+<br/>
+<a href="/p/14/ru">CrowdFunder</a> - Помогаем проектам найти умные деньги
+<br/>
+<a href="/p/15/ru">Клуб ДоброТех</a> - Финансируй проекты бесплатно!
+<br/>
+<a href="/p/16/ru">Деньги Даром</a> - Сервис увеличения продаж с оплатой за результат
+<br/>
+<a href="/p/17/ru">VodaHome</a> - Небольшой дачный посёлок на 60 жителей
+<br/>
+<a href="/p/18/ru">IT-платформа</a> - Экономическая платформа «Расчетный центр для кооперативов»
+<br/>
+<a href="/p/19/ru">Клуб-дом Новаторов</a> - Краудсорсинговый проект «Клуб-дом Новаторов»
+<br/>
+<a href="/p/20/ru">Давайте печатать бетоном</a> - 3D принтер для печати бетоном
+<br/>
+<a href="/p/21/ru">Эксперты инноваций</a> - Открытое сообщество компетентных людей
+<br/>
+<a href="/p/22/ru">Клуб защиты прав потребителей</a> - Открытое сообщество потребителей товаров и услуг
+<br/>
+<a href="/p/23/ru">Клуб защиты прав производителей</a> - Сообщество производителей товаров и услуг
+<br/>
+<a href="/p/24/ru">Correlation Center</a> - Прототип Центра Координации (по идеи из Проекта Венера)
+<br/>
+<a href="/p/25/ru">Зеленый комплекс</a> - Производственный кооператив «­­Зеленый комплекс»
+<br/>
+<a href="/p/26/ru">Ресурсная база</a> - Список производств
+<br/>
+<a href="/p/27/ru">АрхиЗов</a> - Архитектурный конкурс
+<br/>
+<a href="/p/28/ru">Добро За Добро</a> - Потребительское Общество
+<br/>
+<a href="/p/29/ru">Страна Нигде</a> - Краудсорсинговая социальная сеть и виртуальное государство
+<br/>
+<a href="/p/30/ru">Генератор Сделок</a> - Предпринимательский воркшоп
+<br/>
+<a href="/p/31/ru">Зелёная экономика</a> - Градусник «Зелёной экономики»
+<br/>
+<a href="/p/32/ru">Клуб Лояльных Потребителей</a> - Создание дружеских отношений между производителями и потребителями
+<br/>
+<a href="/p/33/ru">Кооперативная франшиза - консалтинг, адаптации предпринимателей к кооперативной (sharing) экономики
+<br/>
+<a href="/p/34/ru">Фонд</a> - Инвестиционный фонд для сбережения средств
+<br/>
+<a href="/p/35/ru">Бесплатное пожизненное питание</a> - Организация бесплатного общественного питания (как часть БОД)
+<br/>
+<a href="/p/36/ru">FreePe</a> - международная Социально-Экономическая Сеть
+<!-- 37 - Конституция -->
+<br/>
+<a href="/p/38/ru">InInIn</a> - Информационная инфраструктура инноваций
+</a>
+
+
+
+
+
+
+
+
+
+
+<br/></br><a name="more"></a>
+
+
+
+
+<figure>
+<img src="/projects/00.jpg">
+</figure>
+
+<p>
+<a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_(%D0%B2_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9_%D0%B4%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8)" target="_blank"><b>Проект (в управленческой деятельности)</b></a> — временное предприятие, направленное на создание уникального продукта, услуги или результата.
+</p>
+
+<p>
+<b>Проект</b> — совокупность мероприятий для разработки нового продукта или улучшения существующего продукта.
+</p>
+
+<p>
+<b>Проект</b> — предприятие (предпринятие) с предопределёнными целями, масштабом и длительностью.
+</p>
+
+<p>
+<b>Проект</b> — предприятие (предпринятие) с определёнными датами начала и завершения, предпринятое для создания продукта или услуги (сервиса) в соответствии с заданными ресурсами и требованиями.
+</p>
+
+<p>
+<a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82" target="_blank"><b>Продукт</b></a> — произведение труда, законченный результат некоторой деятельности, в том числе
+<br/>
+<a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82_(%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81)" target="_blank"><b>Промышленный продукт</b></a> — товар или услуга, которую можно предложить для рынка, и которая будет удовлетворять потребности потребителей.
+</p>
+
+<p>
+См также: <a href="/doc/project/ru">Проект (описание)</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/projects/ru">Проекты</a></nav>
+
+<script src="/js/dobro.js"></script><script>applyMonetas1();</script>
+
+</main>
+<footer><div>7523-02-01 - 7525-05-14</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<style>
+div.blocks-front > a > div {
+	max-width: 350px;
+	min-height: 25em;
+	width: 15em;
+}
+</style>
+<title>Проекты - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Проекты</h1>
+
+
+<div class="blocks blocks-front">
+
+<a href="/p/0/ru">
+<div>
+<figure>
+<img src="/p/0/img/logo/300x300.jpg"/>
+</figure>
+<h3>Ядро</h3>
+<p>Ядро системы</p>
+<figure class="moneta" data-proj-id="0" data-sum="1234567"></figure>
+</div>
+</a>
+
+<a href="/p/1/ru">
+<div>
+<figure>
+<img src="/p/1/img/logo/300x300.png"/>
+</figure>
+<h3>LibreMoney</h3>
+<p>Проект "Свободные деньги"</p>
+<figure class="moneta" data-proj-id="1" data-sum="1234"></figure>
+</div>
+</a>
+
+<!--a href="/p/4/ru">
+<div>
+<figure>
+<img src="/p/4/img/logo/300x300.jpg"/>
+</figure>
+<h3>Neuro.Life</h3>
+<p>Нейрогарнитура нового поколения</p>
+<figure class="moneta" data-proj-id="4" data-sum="1000000"></figure>
+</div>
+</a-->
+
+<a href="http://coinfest.ru">
+<div>
+<figure>
+<img src="/p/5/img/logo/300x300.jpg"/>
+</figure>
+<h3>CoinFest</h3>
+<p>Free. Open source. So crypto!</p>
+<figure class="moneta" data-proj-id="5" data-sum="1000000"></figure>
+</div>
+</a>
+
+<!--a href="/p/6/ru">
+<div>
+<figure>
+<img src="/p/6/img/logo/300x300.png"/>
+</figure>
+<h3>МояМаруся</h3>
+<p>Продукты высокого качества</p>
+<figure class="moneta" data-proj-id="6" data-sum="1000000"></figure>
+</div>
+</a-->
+
+<!--a href="/p/7/ru">
+<div>
+<figure>
+<img src="/p/7/img/logo/300x300.png"/>
+</figure>
+<h3>Лаборатория Кузнецова</h3>
+<p>Создание инновационных высокотехнологичных продуктов</p>
+<figure class="moneta" data-proj-id="7" data-sum="1000000"></figure>
+</div>
+</a-->
+
+<!--a href="/p/8/ru">
+<div>
+<figure>
+<img src="/p/8/img/logo/300x300.png"/>
+</figure>
+<h3>Глобальная волна</h3>
+<p>Продвижение прорывных технологий, альтернативной энергетики и физики</p>
+<figure class="moneta" data-proj-id="8" data-sum="1000000"></figure>
+</div>
+</a-->
+
+<!--a href="/p/9/ru">
+<div>
+<figure>
+<img src="/p/9/img/logo/300x300.jpg"/>
+</figure>
+<h3>Продукты разума</h3>
+<p>Креативная среда разработки идей</p>
+<figure class="moneta" data-proj-id="9" data-sum="1000000"></figure>
+</div>
+</a-->
+
+<!--a href="/p/10/ru">
+<div>
+<figure>
+<img src="/p/10/img/logo/300x300.jpg"/>
+</figure>
+<h3>СтупИнно</h3>
+<p>Инновационный город</p>
+<figure class="moneta" data-proj-id="10" data-sum="1000000"></figure>
+</div>
+</a-->
+
+<!--a href="/p/11/ru">
+<div>
+<figure>
+<img src="/p/11/img/logo/300x300.jpg"/>
+</figure>
+<h3>Познай Малую Родину</h3>
+<p></p>
+<figure class="moneta" data-proj-id="11" data-sum="1000000"></figure>
+</div>
+</a-->
+
+<!--a href="/p/12/ru">
+<div>
+<figure>
+<img src="/p/12/img/logo/300x300.jpg"/>
+</figure>
+<h3>Киберсани</h3>
+<p></p>
+<figure class="moneta" data-proj-id="12" data-sum="1000000"></figure>
+</div>
+</a-->
+
+<!--a href="/p/13/ru">
+<div>
+<figure>
+<img src="/p/13/img/logo/300x300.jpg"/>
+</figure>
+<h3>КиберКепка</h3>
+<p></p>
+<figure class="moneta" data-proj-id="13" data-sum="1000000"></figure>
+</div>
+</a-->
+
+<a href="/p/14/ru">
+<div>
+<figure>
+<img src="/p/14/img/logo/300x300.jpg"/>
+</figure>
+<h3>CrowdFunder</h3>
+<p>Помогаем проектам найти умные деньги</p>
+<figure class="moneta" data-proj-id="14" data-sum="1000000"></figure>
+</div>
+</a>
+
+<!--a href="/p/15/ru">
+<div>
+<figure>
+<img src="/p/15/img/logo/300x300.jpg"/>
+</figure>
+<h3>Клуб ДоброТех</h3>
+<p>Финансируй проекты бесплатно!</p>
+<figure class="moneta" data-proj-id="15" data-sum="1000000"></figure>
+</div>
+</a-->
+
+<!--a href="/p/16/ru">
+<div>
+<figure>
+<img src="/p/16/img/logo/300x300.jpg"/>
+</figure>
+<h3>Деньги Даром</h3>
+<p>Сервис увеличения продаж с оплатой за результат</p>
+<figure class="moneta" data-proj-id="16" data-sum="1000000"></figure>
+</div>
+</a-->
+
+<a href="/p/18/ru">
+<div>
+<figure>
+<img src="/p/18/img/logo/300x300.png"/>
+</figure>
+<h3>IT-платформа</h3>
+<p>IT-платформа «Расчетный центр для кооперативов»</p>
+<figure class="moneta" data-proj-id="18" data-sum="1000000"></figure>
+</div>
+</a>
+
+<a href="/p/21/ru">
+<div>
+<figure>
+<img src="/p/21/img/logo/300x300.jpg"/>
+</figure>
+<h3>Эксперты инноваций</h3>
+<p>Открытое сообщество компетентных людей</p>
+</div>
+</a>
+
+<!--a href="/p/22/ru">
+<div>
+<figure>
+<img src="/p/22/img/logo/300x300.jpg"/>
+</figure>
+<h3>Клуб защиты прав потребителей</h3>
+<p>Открытое сообщество потребителей товаров и услуг</p>
+</div>
+</a-->
+
+<a href="/p/23/ru">
+<div>
+<figure>
+<img src="/p/23/img/logo/300.jpg"/>
+</figure>
+<h3>Клуб защиты прав производителей</h3>
+<p>Сообщество производителей товаров и услуг</p>
+</div>
+</a>
+
+<a href="/p/24/ru">
+<div>
+<figure>
+<img src="/p/24/img/logo/300x300.jpg"/>
+</figure>
+<h3>Correlation Center</h3>
+<p>Прототип Центра Координации (по идеи из Проекта Венера)</p>
+<figure class="moneta" data-proj-id="10011" data-sum="100000"></figure>
+</div>
+</a>
+
+<a href="/p/25/ru">
+<div>
+<figure>
+<img src="/p/25/img/logo/300x300.jpg"/>
+</figure>
+<h3>Зеленый комплекс</h3>
+<p>Производственный кооператив «­­Зеленый комплекс»</p>
+</div>
+</a>
+
+<a href="/p/26/ru">
+<div>
+<figure>
+<img src="/p/26/img/logo/300x300.jpg"/>
+</figure>
+<h3>Ресурсная база</h3>
+<p>Список производств</p>
+</div>
+</a>
+
+<a href="/p/28/ru">
+<div>
+<figure>
+<img src="/p/28/img/logo/300x300.png"/>
+</figure>
+<h3>Добро За Добро</h3>
+<p>Потребительское Общество</p>
+</div>
+</a>
+
+<a href="/p/29/ru">
+<div>
+<figure>
+<img src="/p/29/img/logo/300x300.jpg"/>
+</figure>
+<h3>Страна Нигде</h3>
+<p>Краудсорсинговая социальная сеть и виртуальное государство</p>
+</div>
+</a>
+
+<a href="/p/30/ru">
+<div>
+<figure>
+<img src="/p/30/img/logo/300x300.jpg"/>
+</figure>
+<h3>Генератор Сделок</h3>
+<p>Предпринимательский воркшоп</p>
+</div>
+</a>
+
+<a href="/p/31/ru">
+<div>
+<figure>
+<img src="/p/31/img/logo/300.jpg"/>
+</figure>
+<h3>Зелёная экономика</h3>
+<p>Градусник «Зелёной экономики»</p>
+</div>
+</a>
+
+<!--
+32 - Клуб Лояльных Потребителей
+33 - Кооперативная франшиза
+34 - Фонд
+35 - Бесплатное пожизненное питание (как часть БОД)
+36 - FreePe
+-->
+
+<!--a href="/p/120/ru">
+<div>
+<figure>
+<img src="/p/120/img/logo/300x300.jpg"/>
+</figure>
+<h3>Завод Кристалл</h3>
+<p></p>
+<figure class="moneta" data-proj-id="10011" data-sum="100000"></figure>
+</div>
+</a-->
+
+</div>
+
+<br/>
+
+<p>
+См также: <a href="/doc/project/ru">Проект (описание)</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/ru">Главная</a></nav>
+
+<script src="/js/dobro.js"></script><script>applyMonetas1();</script>
+
+</main>
+<footer><div>7523-02-01 - 7524-06-20</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

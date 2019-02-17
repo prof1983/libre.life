@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Projects - Libre</title>
+<script src="/js/dobro.js"></script>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Projects</h1>
+
+
+<div class="blocks blocks-front">
+
+<a href="/p/0/en">
+<div>
+<figure>
+<img src="/p/0/img/logo/300x300.jpg"/>
+</figure>
+<h3>Core</h3>
+<p>Core of system</p>
+<figure class="moneta"></figure>
+</div>
+</a>
+
+<a href="/p/1/en">
+<div>
+<figure>
+<img src="/p/1/img/logo/300x300.png"/>
+</figure>
+<h3>LibreMoney</h3>
+<p>Libre Money project</p>
+<figure class="moneta"></figure>
+</div>
+</a>
+
+<a href="/p/2/en">
+<div>
+<figure>
+<img src="/p/2/img/logo/300x300.jpg"/>
+</figure>
+<h3>Domodelovo</h3>
+<p>Home building</p>
+<figure class="moneta"></figure>
+</div>
+</a>
+
+<a href="/p/3/en">
+<div>
+<figure>
+<img src="/p/3/img/logo/300x300.jpg"/>
+</figure>
+<h3>Derevnya-21</h3>
+<p>Willage XXI</p>
+<figure class="moneta"></figure>
+</div>
+</a>
+
+<a href="/p/4/en">
+<div>
+<figure>
+<img src="/p/4/img/logo/300x300.jpg"/>
+</figure>
+<h3>Neuro.Life</h3>
+<p>New generation neuroheadset</p>
+<figure class="moneta"></figure>
+</div>
+</a>
+
+<a href="http://coinfest.ru">
+<div>
+<figure>
+<img src="/p/5/img/logo/300x300.jpg"/>
+</figure>
+<h3>CoinFest</h3>
+<p>Free. Open source. So crypto!</p>
+<figure class="moneta"></figure>
+</div>
+</a>
+
+<a href="/p/6/en">
+<div>
+<figure>
+<img src="/p/6/img/logo/300x300.png"/>
+</figure>
+<h3>MoyaMarusya</h3>
+<p>High Quality Products</p>
+<figure class="moneta"></figure>
+</div>
+</a>
+
+<a href="/p/7/en">
+<div>
+<figure>
+<img src="/p/7/img/logo/300x300.png"/>
+</figure>
+<h3>Kuznetsoff Laboratory</h3>
+<p>Creation of companies innovative, educational and high-tech products</p>
+<figure class="moneta"></figure>
+</div>
+</a>
+
+<a href="/p/8/en">
+<div>
+<figure>
+<img src="/p/8/img/logo/300x300.png"/>
+</figure>
+<h3>Global Wave</h3>
+<p>Promoting Russian breakthrough technologies, alternative energy and physics</p>
+<figure class="moneta"></figure>
+</div>
+</a>
+
+<a href="/p/9/en">
+<div>
+<figure>
+<img src="/p/9/img/logo/300x300.jpg"/>
+</figure>
+<h3>Mind Products</h3>
+<p>Creative ideas development environment</p>
+<figure class="moneta"></figure>
+</div>
+</a>
+
+<a href="/p/10/en">
+<div>
+<figure>
+<img src="/p/10/img/logo/300x300.jpg"/>
+</figure>
+<h3>StupInno</h3>
+<p>Innovative city</p>
+<figure class="moneta"></figure>
+</div>
+</a>
+
+<a href="/p/11/en">
+<div>
+<figure>
+<img src="/p/11/img/logo/300x300.jpg"/>
+</figure>
+<h3>Know small home</h3>
+<p></p>
+<figure class="moneta"></figure>
+</div>
+</a>
+
+<a href="/p/12/en">
+<div>
+<figure>
+<img src="/p/12/img/logo/300x300.jpg"/>
+</figure>
+<h3>CyberSleigh</h3>
+<p></p>
+<figure class="moneta"></figure>
+</div>
+</a>
+
+<a href="/p/13/en">
+<div>
+<figure>
+<img src="/p/13/img/logo/300x300.jpg"/>
+</figure>
+<h3>CyberCap</h3>
+<p></p>
+<figure class="moneta"></figure>
+</div>
+</a>
+
+<a href="/p/14/en">
+<div>
+<figure>
+<img src="/p/14/img/logo/300x300.jpg"/>
+</figure>
+<h3>CrowdFunder</h3>
+<p>Helping projects to find the smart money</p>
+<figure class="moneta"></figure>
+</div>
+</a>
+
+<a href="/p/15/en">
+<div>
+<figure>
+<img src="/p/15/img/logo/300x300.jpg"/>
+</figure>
+<h3>Клуб ДоброТех</h3>
+<p>Финансируй проекты бесплатно!</p>
+<figure class="moneta"></figure>
+</div>
+</a>
+
+<a href="/p/16/en">
+<div>
+<figure>
+<img src="/p/16/img/logo/300x300.jpg"/>
+</figure>
+<h3>Деньги Даром</h3>
+<p>Сервис увеличения продаж с оплатой за результат</p>
+<figure class="moneta"></figure>
+</div>
+</a>
+
+<a href="/p/17/en">
+<div>
+<figure>
+<img src="/p/17/img/logo/300x300.jpg"/>
+</figure>
+<h3>УмноЖитель</h3>
+<p>Рекреационный комплекс и совместная работа над творческими проектами.</p>
+<figure class="moneta"></figure>
+</div>
+</a>
+
+<a href="/p/18/en">
+<div>
+<figure>
+<img src="/p/18/img/logo/300x300.png"/>
+</figure>
+<h3>IT-платформа</h3>
+<p>IT-платформа «Расчетный центр для кооперативов»</p>
+<figure class="moneta"></figure>
+</div>
+</a>
+
+<a href="/p/19/en">
+<div>
+<figure>
+<img src="/p/19/img/logo/300x300.jpg"/>
+</figure>
+<h3>Клуб-дом Новаторов</h3>
+<p>Краудсорсинговый проект «Клуб-дом Новаторов»</p>
+<figure class="moneta" data-proj-id="10011" data-sum="100000"></figure>
+</div>
+</a>
+
+<!--a href="/p/20/ru">
+<div>
+<figure>
+<img src="/p/20/img/logo/300x300.jpg"/>
+</figure>
+<h3>Домоделово</h3>
+<p>Технологии автоматиированного строительства</p>
+<figure class="moneta" data-proj-id="10011" data-sum="100000"></figure>
+</div>
+</a-->
+
+<a href="/p/21/ru">
+<div>
+<figure>
+<img src="/p/21/img/logo/300x300.jpg"/>
+</figure>
+<h3>Эксперты инноваций</h3>
+<p>Открытое сообщество компетентных людей</p>
+<!--figure class="moneta" data-proj-id="10011" data-sum="100000"></figure-->
+</div>
+</a>
+
+<a href="/p/22/ru">
+<div>
+<figure>
+<img src="/p/22/img/logo/300x300.jpg"/>
+</figure>
+<h3>Клуб защиты прав потребителей</h3>
+<p>Открытое сообщество потребителей товаров и услуг</p>
+<figure class="moneta" data-proj-id="10011" data-sum="100000"></figure>
+</div>
+</a>
+
+<a href="/p/23/ru">
+<div>
+<figure>
+<img src="/p/23/img/logo/300.jpg"/>
+</figure>
+<h3>Клуб защиты прав производителей</h3>
+<p>Сообщество производителей товаров и услуг</p>
+<!--figure class="moneta" data-proj-id="10011" data-sum="100000"></figure-->
+</div>
+</a>
+
+<a href="/p/24/ru">
+<div>
+<figure>
+<img src="/p/24/img/logo/300x300.jpg"/>
+</figure>
+<h3>Correlation Center</h3>
+<p>Прототип Центра Координации (по идеи из Проекта Венера)</p>
+<figure class="moneta" data-proj-id="10011" data-sum="100000"></figure>
+</div>
+</a>
+
+<a href="/p/25/ru">
+<div>
+<figure>
+<img src="/p/25/img/logo/300x300.jpg"/>
+</figure>
+<h3>Зеленый комплекс</h3>
+<p>Производственный кооператив «­­Зеленый комплекс»</p>
+<!--figure class="moneta" data-proj-id="10011" data-sum="100000"></figure-->
+</div>
+</a>
+
+<a href="/p/26/ru">
+<div>
+<figure>
+<img src="/p/26/img/logo/300x300.jpg"/>
+</figure>
+<h3>Ресурсная база</h3>
+<p>Список производств</p>
+<!--figure class="moneta" data-proj-id="10011" data-sum="100000"></figure-->
+</div>
+</a>
+
+<a href="/p/27/ru">
+<div>
+<figure>
+<img src="/p/27/img/logo/300x300.jpg"/>
+</figure>
+<h3>АрхиЗов</h3>
+<p>Архитектурный конкурс</p>
+<!--figure class="moneta" data-proj-id="10011" data-sum="100000"></figure-->
+</div>
+</a>
+
+<a href="/p/28/ru">
+<div>
+<figure>
+<img src="/p/28/img/logo/300x300.png"/>
+</figure>
+<h3>Добро За Добро</h3>
+<p>Потребительское Общество</p>
+<!--figure class="moneta" data-proj-id="10011" data-sum="100000"></figure-->
+</div>
+</a>
+
+<a href="/p/29/ru">
+<div>
+<figure>
+<img src="/p/29/img/logo/300x300.jpg"/>
+</figure>
+<h3>Страна Нигде</h3>
+<p>Краудсорсинговая социальная сеть и виртуальное государство</p>
+<!--figure class="moneta" data-proj-id="10011" data-sum="100000"></figure-->
+</div>
+</a>
+
+<a href="/p/30/en">
+<div>
+<figure>
+<img src="/p/30/img/logo/300x300.jpg"/>
+</figure>
+<h3>Generator Sdelok</h3>
+<p>Entrepreneurial workshop</p>
+</div>
+</a>
+
+<!--a href="/p/120/ru">
+<div>
+<figure>
+<img src="/p/120/img/logo/300x300.jpg"/>
+</figure>
+<h3>Завод Кристалл</h3>
+<p></p>
+<figure class="moneta" data-proj-id="10011" data-sum="100000"></figure>
+</div>
+</a-->
+
+<!--a href="/e/en">
+<div>
+<h3>Exchange</h3>
+<p>LibreMoney exchanger</p>
+</div>
+</a-->
+
+</div>
+
+
+
+
+<br><br/><a name="more"></a>
+
+<figure>
+<img src="/projects/00.jpg">
+</figure>
+
+<p>
+See also: <a href="/doc/project/en">The project (description)</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/projects/en">Projects</a></nav>
+
+<script src="/js/dobro.js"></script><script>applyMonetas1();</script>
+
+</main>
+<footer><div>7523-02-01 - 7524-06-24</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
