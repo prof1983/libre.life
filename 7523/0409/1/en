@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>City, which employs all the police - no, and the average salary - 1200 euros - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>City, which employs all the police - no, and the average salary - 1200 euros</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+This Spanish city is no police, crime and unemployment. Here lives only a couple of thousand people who were able to build your personal social-democratic utopia.
+</p>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+</main>
+<footer><div>7524-04-07 - 7524-04-07</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
