@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Белая книга проекта LibreMoney - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Белая книга проекта LibreMoney</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+По первоначальным планам, 24.10.2014 должна быть готова LibreMoney-Beta1. Но проект оказался сложнее, чем я рассчитывал. К данному моменту реализовано часть функционала, проработана концепция, сделаны бизнес-модели, и другие материалы.
+</p>
+
+<p>
+Я решил собрать опубликованные материалы и создать так называемую «Белую книгу» проекта LibreMoney (версия Alpha). Получилась целая книга Эта работа заняла у меня две недели. Результат доступен по следующим ссылкам:
+</p>
+
+<p>
+<a href="https://libre.life/doc/money/book/ru" target="_blank">libre.life/doc/money/book/ru</a>
+<br/>
+<a href="http://libremoney.org/libremoney-white-paper.pdf" target="_blank">libremoney-white-paper.pdf</a>
+<br/>
+<a href="http://libremoney.org/libremoney-white-paper-full.pdf">libremoney-white-paper-full.pdf (with API)</a>
+</p>
+
+<p>
+Источник:
+<a href="http://libremoney.org/article/849/" target="_blank">libremoney.org/article/849/</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/money/libre/ru">Libre.Money</a></nav>
+
+</main>
+<footer><div>7524-11-07 - 7524-11-07</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
