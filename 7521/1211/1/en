@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Mondragon Corporation - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Mondragon Corporation</h1>
+
+<figure>
+<a href="00b.jpg"><img src="00.jpg" alt="Mondragon Corporation"/></a>
+</figure>
+
+<p>
+Mondragon Corporation - one of Spain's leading business groups. 289 companies and cooperatives. More than 80 thousand. Workers. Representative offices in 41 countries. Sales in more than 150 countries.
+</p>
+
+<p class="h2">
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/co/operate/en">Cooperation</a></nav>
+
+</main>
+<footer><div>7523-04-09 - 7524-12-11</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
