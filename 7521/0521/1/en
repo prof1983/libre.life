@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Versatile and compact children's room - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Versatile and compact children's room</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+Today, nobody cares "to make all sorts of house necessary and unnecessary things." For any modern home is important functionality and convenience and comfort of what can be discussed, there is nowhere to turn!?
+</p>
+
+<figure>
+<iframe src="https://player.vimeo.com/video/57196372" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</figure>
+
+<br/>
+
+<p class=h2>
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+
+
+<br/>
+<br/>
+
+<p class="h2"><a href="/p/27/en">ArchiZov</a></p>
+
+</main>
+<footer><div>7523-12-06 - 7523-12-06</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
