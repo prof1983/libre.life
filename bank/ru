@@ -7,7 +7,7 @@
 <title>Банк - Libre</title>
 </head>
 <body>
-<header></header><script src="/js/header-dark.js"></script>
+<header></header><script src="/js/header-bank.js"></script>
 <main>
 
 <h1>Банк</h1>
