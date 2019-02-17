@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>The workshop report Neyronet in RVC - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>The workshop report Neyronet in RVC</h1>
+
+<figure>
+<a href="00-orig.jpg"><img src="00.jpg"/></a>
+</figure>
+
+<p>
+16 October 2014 in RVC hosted a seminar on "Neuronet". Among the participants there were foreign experts invited by the Russian group and neyroneta forum "Open Innovation" at the round table the day before. In addition to them in the seminar was attended by some members of the Russian group neyroneta and other acceding specialists.
+</p>
+
+<p class=h2>
+<a href="ru">RU</a>
+</p>
+
+
+<p class="h2"><a href="/net/neuro/en">Neuronet</a></p>
+
+</main>
+<footer><div>7523-03-07 - 7523-04-15</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
