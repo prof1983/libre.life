@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Offer - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Offer</h1>
+
+<figure>
+<a href="img/00b.jpg"><img src="img/00.jpg"></a>
+</figure>
+
+<p>
+Procurement of a contract-offer for free people entering the nation:
+</p>
+
+<p>
+For people (for individuals):
+<br/>
+1. Compulsory payment of tithes (10%) for social security. Of these, 5% for Basic income and 1% for leaders of 1) the district, 2) the region, 3) the county, 4) the country, 5) the world.
+<br/>
+2. Additionally, if a person wishes, voluntary security services (5.10% of income), health care (5.10% of income), education (5.10% of waste), as well as provision of infrastructure And economic development (5.10% of income).
+</p>
+
+<p>
+For organizations (for legal entities):
+<br/>
+1. Compulsory payment of tithing (10%) from all sales. Of these, 5% for insurance and 5% for the maintenance and development of economic instruments, legal protection, arbitration, etc. Insurance is distributed at 1% for five levels 1) district, 2) region, 3) county, 4) country, 5) world . The payment for the development of economic instruments is divided by 1% for five yields to the heads of 1) the district, 2) the region, 3) the county, 4) the country, 5) the world.
+<br/>
+2. Additionally, if the organization wishes, security services, provision of infrastructure and other services are voluntarily paid.
+</p>
+
+<p>
+The Basic income is divided among all citizens and is the minimum social security guarantee for life. In my model, all taxes (including social tax) are divided into five levels: 1) district, 2) regional, 3) county, 4) country, 5) world. In the case of Basic income (5%): 1% is divided between all residents of the district, 1% is divided among all residents of the region, 1% between all residents of the district, etc.
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/en">Main</a></nav>
+
+</main>
+<footer><div>7525-04-01 - 7525-04-01</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
