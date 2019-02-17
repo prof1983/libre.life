@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Влияние Денег На Сознание - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Влияние Денег На Сознание</h1>
+
+<p class="h">
+<img src="00.jpg"/>
+</p>
+
+<p class="h">
+Наталья Грэйс является руководителем Института Риторики, основным брендом которого является тренинг-курс "Потенциал личности", а девизом -- "Крылья любого размера!".
+</p>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/5S2tWnUCMAU" frameborder="0" allowfullscreen></iframe>
+<br/>
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/NN6QT-wwAeg" frameborder="0" allowfullscreen></iframe>
+<br/>
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/VpV5ybJ_XVs" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/money/ru">Деньги</a></h2>
+
+</main>
+<footer><div>7523-09-20 - 7523-09-20</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
