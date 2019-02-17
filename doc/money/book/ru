@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8" />
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Белая книга LibreMoney</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Белая книга LibreMoney</h1>
+
+<figure>
+<img src="img/logo-800x800.png" width="400" height="400"/>
+</figure>
+
+
+<p class="h3"><a href="100">1. Введение</a></p>
+
+<p>
+<a href="110">1.1. Термины и определения</a>
+<br/>
+<a href="120">1.2. ФРС, Bitcoin, валюты, их недостатки и обеспеченность денег</a>
+<br/>
+<a href="130">1.3. Что такое деньги. Трудовая теория денег</a>
+</p>
+
+
+<p class="h3"><a href="200">2. Основная часть</a></p>
+
+<p>
+<a href="210">2.1. Описание</a>
+<br/>
+<a href="220">2.2. Составляющие элементы LibreMoney</a>
+<br/>
+<a href="230">2.3. Предварительные правила проектов в системе LibreMoney</a>
+<br/>
+<a href="240">2.4. Группы и сообщества</a>
+<br/>
+<a href="250">2.5. Защита от создания пустых денег</a>
+<br/>
+<a href="260">2.6. Протокол</a>
+<br/>
+<a href="270">2.7. Программная реализация</a>
+<br/>
+<a href="/doc/api/ru">2.8. API (RestAPI)</a>
+<br/>
+<a href="290">2.9. Структура управления сообществом разработчиков LibreMoney</a>
+</p>
+
+
+<p class="h3"><a href="300">3. Заключение</a></p>
+
+<p>
+<a href="310">3.1. История появления LibreMoney</a>
+<br/>
+<a href="320">3.2. Немного про Bitcoin, NXT и альткоины</a>
+<br/>
+<a href="330">3.3. История появления криптовалют</a>
+<br/>
+<a href="340">3.4. КриптоНотариус- блокчейн</a>
+<br/>
+<a href="350">3.5. Видео</a>
+<br/>
+<a href="360">3.6. Что дальше?</a>
+</p>
+
+
+<br/>
+<br/>
+
+
+<p>
+Скачать:
+<br/>
+<a href="libremoney-white-paper.pdf" target="_blank">libremoney-white-paper.pdf</a>
+<br/>
+<a href="libremoney-white-paper-full.pdf" target="_blank">libremoney-white-paper-full.pdf</a> (with API)
+</p>
+
+<p>
+Книга опубликована 24.10.2014 первоначально по следующим ссылкам.
+<br/>
+<a href="http://libremoney.org/doc" target="_blank">libremoney.org/doc</a>
+<br/>
+<a href="http://libremoney.org/libremoney-white-paper.pdf" target="_blank">libremoney.org/libremoney-white-paper.pdf</a>
+<br/>
+<a href="http://libremoney.org/libremoney-white-paper-full.pdf" target="_blank">libremoney.org/libremoney-white-paper-full.pdf</a> (with API)
+</p>
+
+<!--
+Белая книга проекта LibreMoney
+https://libre.life/7522/1028/2/ru
+По первоначальным планам, 24.10.2014 должна быть готова LibreMoney-Beta1. Но проект оказался сложнее, чем я рассчитывал. К данному моменту реализовано часть функционала, проработана концепция, сделаны бизнес-модели, и другие материалы.
+
+Я решил собрать опубликованные материалы и создать так называемую «Белую книгу» проекта LibreMoney (версия Alpha). Получилась целая книга Эта работа заняла у меня две недели. Результат доступен по следующим ссылкам:
+libremoney.org/doc
+libremoney-white-paper.pdf
+libremoney-white-paper-full.pdf (with API)
+-->
+
+
+
+
+<nav class="main-footer-nav"><a href="/money/ru">Деньги</a></nav>
+
+</main>
+<footer><div>7522-10-24 - 7525-03-13</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

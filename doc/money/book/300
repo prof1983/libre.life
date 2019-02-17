@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href='/css/main.css' rel='stylesheet' type='text/css'/>
+<meta charset="utf-8" />
+<title>Заключение - Белая книга LibreMoney</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h2>LibreMoney</h2>
+<h3>3. Заключение</h3>
+
+
+<p class="h4"><a href="310">3.1. История появления LibreMoney</a></p>
+
+
+<p class="h4"><a href="320">3.2. Немного про Bitcoin, NXT и альткоины</a></p>
+
+
+<p class="h4"><a href="330">3.3. История появления криптовалют</a></p>
+
+
+<p class="h4"><a href="340">3.4. КриптоНотариус- блокчейн</a></p>
+
+
+<p class="h4"><a href="350">3.5. Видео</a></p>
+
+<!--p>
+<a href="351#a351">3.5.1. Мотивирующее видео</a>
+<br/>
+<a href="352#a352">3.5.2. Теории денег. От ракушки до биткоин (видео)</a>
+<br/>
+<a href="353#a353">3.5.3. Теория денег (Маркс) (видео)</a>
+<br/>
+<a href="354#a354">3.5.4. История экономической мысли / History of Economic Thought (Coursera / ВШЭ) (видео)</a>
+<br/>
+<a href="355#a355">3.5.5. Anonymous to Russian Leaders (видео)</a>
+</p-->
+
+
+<p class="h4"><a href="360">3.6. Что дальше?</a></p>
+
+<p class="h">
+<a href="361">3.6.1. Либертарианство за один урок</a>
+<br/>
+<a href="362">3.6.2. Манифест свободы интернета</a>
+<br/>
+<a href="363">3.6.3. Малая Конституция для виртуального государства</a>
+<br/>
+<a href="364">3.6.4. Распределенный капитализм</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="ru">Белая книга LibreMoney</a></nav>
+
+</main>
+<footer><div>7522-10-24 - 7524-03-13</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href='/css/main.css' rel='stylesheet' type='text/css'/>
+<meta charset="utf-8" />
+<title>Программная реализация - Белая книга LibreMoney</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h2>LibreMoney</h2>
+
+<h3>2. Основная часть</h3>
+
+<h4>2.7. Программная реализация</h4>
+
+<p>
+Криптовалюты, основанные на PoW не подходят, необходим 100% PoS. За основу мы взяли исходный код криптовалюты NXT (NextCoin). Исходный код полностью переписан на JavaScript (Node.js) и в него добавлен механизм эмиссии.
+</p>
+
+<p>
+NXT &#8212; это 100% PoS криптовалюта второго поколения. Подробнее:
+<br />
+<a href="https://nxtforum.org/k-(russian)/to-eaet-nxt-ktoatomo-tooo-okoe/" target="_blank">Что делает NXT криптоплатформой второго поколения</a> <!--a href="//habrahabr.ru/sandbox/77572/">habrahabr.ru/sandbox/77572</a-->
+<br />
+<a href="//habrahabr.ru/post/207120/" target="_blank">Новые веяния в криптовалютах: 100% proof-of-stake и Nxt</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="ru">Белая книга LibreMoney</a></nav>
+
+</main>
+<footer><div>7522-10-24 - 7525-03-13</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
