@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Inter-Blockchain 2.0 - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Inter-Blockchain 2.0</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+Bitnation, Horizon and Blocknet make a revolution in the field of IT and public relations. Innovators, known for its achievements in the field of cryptography, digital rights and electronic money, using the principles of decentralization and consolidation of the collective capacity of the user environment, developed and started to implement a unique technology.
+</p>
+
+<p class=h2>
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/nation/bitnation/en">Bitnation</a></nav>
+
+</main>
+<footer><div>7523-03-07 - 7524-11-10</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
