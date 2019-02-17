@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Project management tool - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Project management tool</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p class="h"><a href="/people/2/en">Zamir Akimov</a></p>
+
+<p>
+<b>For the design of the production system, we outline in conjunction with the Aviation and Stupino Metallurgical College create an industrial accelerator "StupInno" with the information environment of project management, which is a pilot project of 3D printing houses "Domodelovo." The system creates a group of students pros IS-2 third-year college.</b>
+</p>
+
+<p class="h2">
+<a href="ru">RU</a>
+</p>
+
+
+<p class="h2"><a href="/club/en">Club</a></p>
+
+</main>
+<footer><div>7523-02-16 - 7523-04-17</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
