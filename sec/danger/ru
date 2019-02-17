@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Опасность - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<p class="h2"><a href="/doc/ru">Документация</a></p>
+
+
+<h1>Опасность</h1>
+
+<p class="h">
+Человечество может быть уничтожено внешним космическим объектом.
+<br/>
+Только освоение космоса позволит сохранить цивилизацию.
+</p>
+
+<figure>
+<b>Эвакуация с Земли</b>
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/iIn__Qxc14w" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+<figure>
+<b>Космические путешествия. Эвакуация с Земли</b>
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/VOSmQqQ9KH8" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+<figure>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/mAkeJmZYa0Q" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+
+
+<p class="h2"><a href="/doc/ru">Документация</a></p>
+
+</main>
+<footer><div>7523-03-29 - 7523-04-05</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Безопасность - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Безопасность</h1>
+
+<div class="blocks blocks-front">
+
+<a href="/verify/ru">
+<div>
+<figure>
+<img src="/verify/img/logo/300.jpg"/>
+</figure>
+<h3>Верификация</h3>
+<p>Верификация документов</p>
+</div>
+</a>
+
+</div>
+
+<br/>
+<br/>
+
+
+
+
+<figure>
+<a href="img/00.png"><img src="img/00.png"/></a>
+</figure>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/nPgDmDBkXr8" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/zGVnZShlZ1E" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+<figure>
+<a href="img/01.jpg"><img src="img/01-400x300.jpg"/></a>
+<br/>
+<a href="img/02.jpg"><img src="img/02-400x300.jpg"/></a>
+<br/>
+<a href="img/03.jpg"><img src="img/03-400x300.jpg"/></a>
+</figure>
+
+
+
+
+<!--
+<a href="/save/ru">Сохранность</a> - надежность, <a href="/stability/ru">Устойчивость</a>, <a href="/sec/ru">Безопасность</a> (security)
+Устойчивость — способность системы сохранять текущее состояние при влиянии внешних воздействий.
+https://ru.wikipedia.org/wiki/%D0%A3%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D1%8C
+reliability - надежность, достоверность, прочность
+dependability - надежность, зависимость
+security - безопасность, охрана, обеспечение, защита, надежность, гарантия
+safety - безопасность, сохранность, надежность
+trustworthiness - надежность
+solidity - прочность, солидность, твердость, основательность, плотность, надежность
+trustability - надежность, кредитоспособность
+сохранять - save, keep, retain, preserve, maintain, continue
+экономить - save, economize, spare, skimp, retrench, thrift
+спасать - save, rescue, salvage, redeem, retrieve, bring off
+сберечь - save
+-->
+
+
+
+
+<br/><br/><p class="h2"><a href="/ru">Главная</a></p>
+
+</main>
+<footer><div>7523-03-14 - 7524-06-02</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

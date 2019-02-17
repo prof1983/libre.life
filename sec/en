@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Security - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Security</h1>
+
+<div class="blocks blocks-front">
+
+<a href="/verify/en">
+<div>
+<figure>
+<img src="/verify/img/logo/300.jpg"/>
+</figure>
+<h3>Verify</h3>
+<p>Document certification</p>
+</div>
+</a>
+
+
+</div>
+
+<br/>
+<br/>
+
+
+
+
+<figure>
+<a href="img/00.png"><img src="img/00.png"/></a>
+</figure>
+
+
+<figure>
+<a href="img/01.jpg"><img src="img/01-400x300.jpg"/></a>
+<br/>
+<a href="img/02.jpg"><img src="img/02-400x300.jpg"/></a>
+<br/>
+<a href="img/03.jpg"><img src="img/03-400x300.jpg"/></a>
+</figure>
+
+
+
+
+<br/><br/><p class="h2"><a href="/ru">Главная</a></p>
+
+</main>
+<footer><div>7523-03-14 - 7524-06-02</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
