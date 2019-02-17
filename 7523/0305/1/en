@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Sidechain: a simple explanation - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Sidechain: a simple explanation</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+Infrastructure around Bitcoin continues to grow and become more complex, there are as new cryptocurrency and various "superstructure" above the Bitcoin system. One of these promising technologies can be the idea sidechain.
+</p>
+
+<p class=h2>
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/sys/en">System</a></nav>
+
+</main>
+<footer><div>7524-11-15 - 7524-11-15</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
