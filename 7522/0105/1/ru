@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Cписок децентрализованных сервисов - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Cписок децентрализованных сервисов</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<!--
+DNS-сервисы, Блоги, форумы и социальные сети, Чаты и IM-сервисы, Многоцелевые децентрализованные и анонимные сети общего назначения, Файловые хранилища и файлообмен, Другие проекты
+-->
+
+
+<p>
+<a href="#dns">DNS-сервисы
+<br/>
+<a href="#social">Блоги, форумы и социальные сети
+<br/>
+<a href="#im">Чаты и IM-сервисы
+<br/>
+<a href="#net">Многоцелевые децентрализованные и анонимные сети общего назначения
+<br/>
+<a href="#storage">Файловые хранилища и файлообмен
+<br/>
+<a href="#other">Другие проекты (несортированное)
+</p>
+
+
+
+<a name="dns"></a>
+<h2>DNS-сервисы</h2>
+
+<p>
+<!--DIANNA Project - Decetralized Internet Assigned Names and Numbers Authority (Децентрализованное хранилище записей Интернет).-->
+<a href="http://namecoin.info/" target="_blank">NameCoin</a> - Распределенная система DNS на технологии Bitcoin.
+<br/>
+<a href="http://hyperboria.net/" target="_blank">Hyperboria</a> () - Децентрализованная, одноранговая сеть, которая построена на движке маршрутизации <a href="https://ru.wikipedia.org/wiki/Cjdns" target="_blank">cjdns</a>.
+<br/>
+<a href="https://www.opennicproject.org/" target="_blank">OpenNIC Project</a> - Открытый и демократичный альтернативный DNS-провайдер.
+</p>
+
+
+
+
+<a name="social"></a>
+<h2>Блоги, форумы и социальные сети</h2>
+
+<p>
+<a href="http://wiki.ucis.nl/Anonet" target="_blank">AnoNet</a> - Децентрализованная сеть между друзьями с использованием VPN и программных BGP-маршрутизаторов.
+<br/>
+<a href="https://diasporafoundation.org/" target="_blank">Diaspora</a> - Распределенная социальная сеть, поддерживаемая сообществом.
+<br/>
+<a href="https://retroshare.github.io/index.html" target="_blank">RetroShare</a> - Open source, децентрализованная коммуникационная платформа для чатов и обмена файлами.
+<br/>
+<a href="http://syndie.i2p2.de/" target="_blank">Syndie</a> - Open source система для поддержки распределенных форумов.
+<br/>
+<a href="https://pdos.csail.mit.edu/~petar/5ttt.org/" target="_blank">Tonika</a> - Распределенная социальная сеть, в которой коммуникации осуществляются напрямую между друзьями.
+<!--Vole - Социальная сеть в браузере, без центрального сервера, использует Bittorrent, Go и Ember.js, а также Bittorrent Sync.-->
+<br/>
+<a href="https://tent.io/" target="_blank">Tent</a> - Протокол для децентрализованного обмена сообщениями в реальном времени и персонального хранилища данных.
+<br/>
+<a href="http://twister.net.co/" target="_blank">Twister</a> (<a href="https://github.com/miguelfreitas/twister-core" target="_blank">git</a>) - Анонимный, децентрализованный сервис микроблогинга который вобрал в себя всё лучшее от Bittorrent и Bitcoin.
+<br/>
+<a href="https://movim.eu/" target="_blank">Movim</a> - Сервер приватной и децентрализованной социальной сети.
+</p>
+
+
+
+
+<a name="im"></a>
+<h2>Чаты и IM-сервисы</h2>
+
+<p>
+<a href="https://github.com/prof7bit/TorChat/wiki" target="_blank">TorChat</a> - Анонимный распределенный P2P чат, построенный на скрытых сервисах Tor.
+<br/>
+<a href="https://bitmessage.org/wiki/Main_Page" target="_blank">BitMessage</a> - Коммуникационный протокол P2P, используемый для обмена зашифрованными сообщениями от одного пользователя ко многим подписчикам.
+</p>
+
+
+
+
+<a name="net"></a>
+<h2>Многоцелевые децентрализованные и анонимные сети общего назначения</h2>
+
+<p>
+<!--Commotion Wireless - Open source коммуникационный инструмент, работающий на мобильных телефонах, компьютерах и других беспроводных устройствах для создания децентрализованных mesh-сетей.-->
+<a href="http://wiki.freifunk.net/Kategorie:English" target="_blank">Freifunk</a> - Некоммерческая инициатива по созданию свободной децентрализованной mesh-сети. Прошивки Freifunk основаны на OpenWRT и OLSR или B.A.T.M.A.N.
+<br/>
+<a href="https://freenetproject.org/" target="_blank">Freenet</a> - Свободное программное обеспечения для анонимного обмена файлами, публикации сайтов (доступны только через Freenet), чатов и форумов.
+<br/>
+<a href="https://www.torproject.org/" target="_blank">Tor</a> - Без комментариев.
+<br/>
+<a href="https://gnunet.org/" target="_blank">GNUnet</a> - Фреймворк для безопасных peer-to-peer коммуникаций без использования центральных или промежуточных серверов.
+<br/>
+<a href="http://guifi.net/" target="_blank">Guifi</a> - Европейская (преимущественно, испанская) большая mesh-сеть с более чем 22000 активными узлами WiFi и 25 км оптоволокна.
+<br/>
+<a href="https://geti2p.net/en/" target="_blank">I2P</a> - Анонимизирующая сеть, использующая несколько уровней шифрования.
+<br/>
+<a href="http://librevpn.org.ar/" target="_blank">LibreVPN</a> - Виртуальная mesh-сеть с конфигурационными скриптами, позволяющими поднять собственный mesh-VPN.
+<br/>
+<a href="http://project-byzantium.org/" target="_blank">Project Byzantium</a> - Linux-дистрибутив с поддержкой беспроводных mesh-сетей, который обеспечит связь в случае стихийного бедствия или аварии интернет-провайдера.
+<br/>
+<a href="https://hyperboria.net/" target="_blank">Project Meshnet (Huperboria)</a> - Проект ставит целью создание устойчивого децентрализованного альтернативного интернета.
+<br/>
+<a href="http://qmp.cat/Home" target="_blank">Quick mesh project</a> - Прошивка на базе OpenWRT для создания mesh-сетей.
+<br/>
+<a href="https://thefnf.org/" target="_blank">FNF</a> - Организация Free Network Foundation для информационной поддержки в создании локальных беспроводных сетей.
+<br/>
+<a href="https://github.com/Tribler/tribler/wiki" target="_blank">Tribler</a> - Проект по созданию интернета, свободного от цензуры, развивается уже восемь лет, создано экспериментальное приложение для Android.
+<br/>
+<a href="https://www.zerotier.com/" target="_blank">ZeroTier One</a> - Open source приложение для создания огромных распределенных Ethernet-сетей. Используется end-to-end шифрование для всего трафика. Есть коммерческая и бесплатная версия.
+<br/>
+<a href="http://netsukuku.freaknet.org/" target="_blank">Netsukuku</a> - Проект создания распределённой самоорганизующейся одноранговой сети, способной обеспечить взаимодействие огромного количества узлов при минимальной нагрузке на центральный процессор и память.
+</p>
+
+
+
+
+<a name="storage"></a>
+<h2>Файловые хранилища и файлообмен</h2>
+
+<p>
+<a href="http://drogul.us/" target="_blank">Drogulus</a> (WIP) - Программируемое P2P-хранилище данных с поддержкой криптографии.
+<br/>
+<a href="https://en.wikipedia.org/wiki/EDonkey_network" target="_blank">Сеть eDonkey</a> - Файлообменная децентрализованная сеть для обмена большими файлами.
+<br/>
+<a href="https://github.com/cryptosphere/cryptosphere" target="_blank">Cryptosphere</a> - Распределенное зашифрованное облачное хранилище на базе модели данных Git.
+<br/>
+<a href="https://tahoe-lafs.org/trac/tahoe-lafs" target="_blank">Tahoe-LAFS</a> - Свободная распределенная файловая система с дублированием информации.
+</p>
+
+
+
+
+<a name="other"></a>
+<h2>Другие проекты (несортированное)</h2>
+
+<p>
+<!--BitPhone - Мобильное коммуникационное устройство, работающее на базе децентрализованной сети в стиле Bitcoin.-->
+<a href="https://scuttlebot.io/#2013-04-04-grimwire.md" target="_blank">Grimwire</a> - Браузерное приложение, которое использует Web Workers для изоляции процессов и WebRTC для peer-to-peer коммуникаций.
+<br/>
+<a href="https://en.wikipedia.org/wiki/Kademlia" target="_blank">Kademlia</a> - Распределенная хэш-таблица для P2P-сетей.
+<!--Nightweb - Экспериментальное приложение для Android или ПК, которое позволяет публиковать контент и общаться через BitTorrent поверх I2P.-->
+<br/>
+<a href="http://www.osiris-sps.org/" target="_blank">Osiris</a> - ПО для децентрализованного портала, управляемого и работающего по P2P. Более подробно о нем я уже писал на этом форуме.
+<br/>
+<a href="https://github.com/PeerCDN" target="_blank">PeerCDN</a> - Автоматически раздает статичные ресурсы на сайте (изображения, видео, файлы) через P2P-сеть, составленную из посетителей, который в данный момент находятся на сайте.
+<!--{PeerCoin,PPCoi} - nПервая криптовалюта, основанная на реализации одновременно систем proof-of-stake и proof-of-work.-->
+<br/>
+<a href="http://www.peer-server.com/" target="_blank">PeerServer</a> - Пиринговая клиент-серверная технология, с использованием WebRTC, где ваш браузер работает как сервер для других браузеров через пиринговые P2P-каналы WebRTC.
+<br/>
+<a href="https://code.google.com/archive/p/phantom/" target="_blank">Phantom</a> - Система децентрализованной интернет-анонимности.
+<br/>
+<a href="http://tinc-vpn.org/" target="_blank">tinc</a> - Свободное программное обеспечение, использующее туннелирование и шифрование для создания безопасной приватной сети.
+<br/>
+<a href="http://www.servalproject.org/" target="_blank">Serval Project</a> - Позволяет осуществлять звонки между мобильными телефонами без использования базовых станций.
+<!--Tavern - Распределенная, анонимная невзламываемая сеть, защищенная от любого пользователя извне.-->
+<br/>
+<a href="http://telehash.org/" target="_blank">Telehash</a> - Новый криптографический протокол на базе JSON, позволяющий быстро создавать защищенные P2P-приложения.
+<br/>
+<a href="https://github.com/irungentoo/toxcore" target="_blank">Tox</a> - Проект, ставящий целью создать P2P-альтернативу Skype.
+<br/>
+<a href="http://unhosted.org/" target="_blank">Unhosted</a> - Бессерверные веб-приложения, которые исполняются в браузере клиента.
+<br/>
+<a href="http://mediagoblin.org/" target="_blank">MediaGoblin</a> - Децентрализованная платформа для публикации медиа.
+</p>
+
+<p>
+Источник:
+<a href="https://www.pgpru.com/chernowiki/statji/anonimnostj/cpisokdecentralizovannyhservisov" target="_blank">pgpru.com/chernowiki/statji/anonimnostj/cpisokdecentralizovannyhservisov</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/co/munication/ru">Коммуникации</a></nav>
+
+</main>
+<footer><div>7524-07-30 - 7524-07-30</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
