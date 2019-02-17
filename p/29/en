@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Nowhere Country - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Nowhere Country</h1>
+
+<figure>
+<a href="img/00b.jpg"><img src="img/00.jpg"/></a>
+</figure>
+
+<p>
+Description: The outline of the project for a hybrid crowdsourcing social network and virtual state. The project with "open source". Any suggestions, comments, criticism and participation. Crowdsourcing in pure form from the beginning to the end. Or rather - to infinity.
+</p>
+
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/p/en">Projects</a></p>
+
+</main>
+<footer><div>7523-11-06 - 7523-11-06</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
