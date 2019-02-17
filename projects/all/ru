@@ -457,8 +457,6 @@ div.blocks-front > a > div {
 
 <nav class="main-footer-nav"><a href="/projects/ru">Проекты</a></nav>
 
-<script src="/js/dobro.js"></script><script>applyMonetas1();</script>
-
 </main>
 <footer><div>7523-02-01 - 7525-05-14</div></footer><script src="/js/footer.js"></script>
 </body>

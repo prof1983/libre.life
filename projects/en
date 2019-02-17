@@ -5,7 +5,6 @@
 <meta charset="utf-8"/>
 <meta http-equiv="Content-Language" content="en"/>
 <title>Projects - Libre</title>
-<script src="/js/dobro.js"></script>
 </head>
 <body>
 <header></header><script src="/js/header.js"></script>
@@ -377,8 +376,6 @@
 </div>
 
 <p class="h2"><a href="/en">Main</a></p>
-
-<script src="/js/dobro.js"></script><script>applyMonetas1();</script>
 
 </main>
 <footer><div>7523-02-01 - 7524-02-10</div></footer><script src="/js/footer.js"></script>
