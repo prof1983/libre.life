@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Как будет создано бессмертие - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Как будет создано бессмертие</h1>
+
+<p>
+«Дорожная карта достижения бессмертия» — проект благотворительного фонда «<a href='http://www.scienceagainstaging.com/'>Наука за продление жизни</a>», который проводит научные конференции, посвященные социальным, биологическим и техническим способам продления человеческой жизни.
+</p>
+
+<p>
+Каждый плакат поясняет, каких научных достижений в определенном направлении необходимо добиться, чтобы радикальное продление жизни человека стало возможным.
+</p>
+
+<figure>
+<img src='immortality-roadmap-01-genetic-engineering-01.jpg'/>
+<br>
+Генная инженерия долголетия
+<br>
+<img src='immortality-roadmap-02-regenerative-medicine-01.jpg'/>
+<br>
+Регенеративная медицина
+<br>
+<img src='immortality-roadmap-03-cryonics-01.jpg'/>
+<br>
+Крионика
+<br>
+<img src='immortality-roadmap-04-nanomedicine-01.jpg'/>
+<br>
+Наномедицина
+<br>
+<img src='immortality-roadmap-05-artificial-intelligence-01.jpg'/>
+<br>
+Искусственный интеллект
+<br>
+<img src='immortality-roadmap-06-digital-immortality-01.jpg'/>
+<br>
+Цифровое бессмертие
+<br>
+<img src='immortality-roadmap-07-cyborgization-01.jpg'/>
+<br>
+Киборгизация
+</figure>
+
+<p>
+Источник:
+<a href="http://imcoins.org/ru/how.html">imcoins.org/ru/how.html</a>
+<br/>
+Первоисточник:
+<a href="http://web.artlebedev.ru/everything/immortality-roadmap/">web.artlebedev.ru/everything/immortality-roadmap</a>
+</p>
+
+
+<p class="h2"><a href="/club/ru">Клуб</a></p>
+
+</main>
+<footer><div>7523-04-01 - 7523-04-15</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
