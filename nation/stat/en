@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>State - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>State</h1>
+
+<figure>
+<img src="00.jpg">
+</figure>
+
+<p class="h">
+What is the state. Vladimir Zolotarev.
+</p>
+
+<figure>
+"План Б" против "Плана А", часть 1
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/4MiYqdsZVMc" frameborder="0" allowfullscreen></iframe>
+<!-- https://youtu.be/01MxmBWlDL0 -->
+</figure>
+
+<figure>
+"План Б" против "Плана А", часть 2
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/sZcnTQu1Z_8" frameborder="0" allowfullscreen></iframe>
+<!-- https://youtu.be/GrBZPT-0Wks -->
+</figure>
+
+
+<figure>
+Демократия 2.0. Часть 1
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/mJfZ9pXycwE" frameborder="0" allowfullscreen></iframe>
+<!-- https://youtu.be/Ed4J6BQsFlA -->
+</figure>
+
+<figure>
+Демократия 2.0. Часть 2
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/P89REOw8O7o" frameborder="0" allowfullscreen></iframe>
+<!-- https://youtu.be/Hd1Kf8zX3Tg -->
+</figure>
+
+<figure>
+Демократия 2.0. Часть 3
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/u1-RVv0-mRQ" frameborder="0" allowfullscreen></iframe>
+<!-- https://youtu.be/UUgK2QnDcLA -->
+</figure>
+
+
+
+
+<nav class="main-footer-nav"><a href="/nation/en">Nation</a></nav>
+
+</main>
+<footer><div>7524-12-30 - 7524-12-30</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

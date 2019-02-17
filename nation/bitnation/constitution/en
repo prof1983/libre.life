@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Bitnation Constitution - Libre</title>
+<style type="text/css">
+a.non { text-decoration: none; }
+a:hover { text-decoration: underline; }
+</style>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Bitnation Constitution</h1>
+
+<figure>
+<a href="00-en.png"><img src="00-en.jpg"/></a>
+<!-- Font DeJaVu Sans -->
+</figure>
+
+<p>
+This poem was found on the BITNATION forum a few weeks after BITNATION was created. It was posted anonymously. A few minor revisions have been made from the original poem, which we've integrated as the framework for our constitution.
+</p>
+
+<p>
+These 10 lines (each corresponding to an article) were preserved on the Ethereum blockchain during the creation of our Decentralized Borderless Voluntary Nation (DBVN). The articles are intentionally broad because they’ll live forever on the blockchain. They can’t be modified. However, we can continuously update the interpretation of what the articles mean, and how to implement them. To contribute to the meaning of the article, go to <a href="https://github.com/Bit-Nation/BITNATION-Constitution" target="_blank">this GitHub repo</a>, and open an issue, or do a pull request.
+</p>
+
+<p>
+The constitution is meant to be a general framework that grows organically over time through contributions from citizens.
+</p>
+
+	
+<br/>
+
+
+<p>
+<b>
+<a href="#1" class="non">We are Ƀitnation.</a>
+<br/>
+<a href="#2" class="non">We are the Birth of a New Virtual Nation.</a>
+<br/>
+<a href="#3" class="non">We are a Future for Our World and Humanity.</a>
+<br/>
+<a href="#4" class="non">We are Sentinels, Universal and Inalienable.</a>
+<br/>
+<a href="#5" class="non">We are Creativity and Visionary.</a>
+<br/>
+<a href="#6" class="non">We are Rights and Freedoms.</a>
+<br/>
+<a href="#7" class="non">We are Tolerant and Accepting.</a>
+<br/>
+<a href="#8" class="non">We are Polity and Entity.</a>
+<br/>
+<a href="#9" class="non">We are Privacy and Security.</a>
+<br/>
+<a href="#10" class="non">We are Openness and Transparency.</a>
+<br/>
+<a href="#11" class="non">We are a Dream and a Reality.</a>
+<br/>
+<a href="#12" class="non">We are Ƀitnation.</a>
+</b>
+</p>
+
+
+<br/>
+
+
+<a name="1"></a>
+<p>
+<b>Article 1: We are Ƀitnation.</b>
+</p>
+
+<p>
+We’re the world’s first Decentralized Borderless Virtual Nation (DBVN), a Blockchain Jurisdiction.
+</p>
+
+<p>
+We define a nation the following way:
+</p>
+
+<a name="1.1"></a>
+<p>
+1.1 A Community
+</p>
+
+<p>
+A community of likeminded individuals (citizens), working towards a common goal, who’ve become aware of its political autonomy.
+</p>
+
+<a name="1.2"></a>
+<p>
+1.2 Governance Services
+</p>
+
+<p>
+An entity providing opt-in core governance services (rule of law, security) to its citizens, and to non-citizen customers.
+</p>
+
+
+<br/>
+
+
+<a name="2"></a>
+<p>
+<b>Article 2: We are the Birth of a New Virtual Nation.</b>
+</p>
+
+<p>
+We use a holocratic governance model, comprised of different entities with various degrees of autonomy: Core, Holons, Citizens, Laws, The Archipelago:
+</p>
+
+<a name="2.1"></a>
+<p>
+<b>2.1 Core</b>
+</p>
+
+<p>
+The core is the lead of the holocracy, a small group of dedicated citizens, who are able to set the general framework, and make swift decisions. Generally the founders and/ or core developers.
+</p>
+
+<p>
+A new core can be created at anytime, and the holons and citizens can choose to follow the new core.
+</p>
+
+<p>
+The responsibility of core is to manage the key infrastructure, including funds, wallets, domain names, general political positioning, core development priorities, etc.
+</p>
+
+<p>
+Core is the genesis holon of a chain of human operated holons in the DBVN, in the same way a genesis block in a cryptocurrency births the blockchain.
+</p>
+
+<a name="2.2"></a>
+<p>
+<b>2.2 Holons</b>
+</p>
+
+<p>
+Holons are parts within the DBVN, with various degree of autonomy, at various times. Any citizen can start their own holon, for profit or non-for profit, without any central approval. Citizens suggest Holons, and others can choose to finance them or work on them. The holons benefits from the DBVN resources and infrastructure.
+</p>
+
+<a name="2.3"></a>
+<p>
+<b>2.3 Citizens</b>
+</p>
+
+<p>
+Citizens opt in or out on a voluntary basis, and can be part of several nations, or none at all.
+</p>
+
+<p>
+Citizens should contribute in some way, either through work, computing power or in other ways, to the nation.
+</p>
+
+<p>
+Citizens should have read the constitution, and signed off on the principles.
+</p>
+
+<p>
+Being a citizen means receiving dividend from the profit of the nation, and being part in building the nation. You do not have to be a citizen to use BITNATION’s services.
+</p>
+
+<p>
+Each citizen is subject to the reputation system, which serves as an incentive for good behaviour.
+</p>
+
+<p>
+We accept homo sapiens, as well as artificial intelligence (AI) agents as citizens.
+</p>
+
+<a name="2.4"></a>
+<p>
+2.4 Laws
+</p>
+
+<p>
+We practice a Polylegal system, meaning people are free to choose the code of law of their preference, whether that’s Common Law, Sharia Law, Civil Law, Pashtunwali, or whatever it may be. People are also free to create new individual laws, or new codes of law.
+</p>
+
+<p>
+Laws can be refereed to, or coded into agreements.
+</p>
+
+<p>
+Laws are subject to reputation as well, and people reviewing law are equally subject to reputation of being good or bad at reviewing laws.
+</p>
+
+<p>
+All laws compete on a free market, and people can choose which exact law is better suited for each individual agreement.
+</p>
+
+<a name="2.5"></a>
+<p>
+2.5 The Archipelago
+</p>
+
+<p>
+The Archipelago is a loose federation of different virtual nations, allies, embassies, ambassadors who pledge to assist each other when possible, and desirable.
+</p>
+
+
+<br/>
+
+
+<a name="3"></a>
+<p>
+<b>Article 3: We are a Future for Our World and Humanity.</b>
+</p>
+
+<p>
+We’ll prevent eternal bloodshed through empowering people to compete through offering better governance services, rather than through imposing a one-fit-all governance model through the use of force. We’re creating a precedent for a beautiful universe of millions of entities, one for each preference and desire.
+</p>
+
+
+<br/>
+
+
+<a name="4"></a>
+<p>
+<b>Article 4: We are Sentinels, Universal and Inalienable.</b>
+</p>
+
+<p>
+The imaginary lines in the sand, called borders, belongs to a world of the past, a world of oppressive geographical apartheid. Where we live, there are no nation state borders, only universal freedom of movement.
+</p>
+
+
+<br/>
+
+
+<a name="5"></a>
+<p>
+<b>Article 5: We are Creativity and Visionary.</b>
+</p>
+
+<p>
+In our world, problems are mere obstacles, interesting challenges to be solved through the ingenuity of humans and machines working together. We do not dwell on negativity, rather we work together to find mutually beneficial creative solutions, to be radically innovative.
+</p>
+
+
+<br/>
+
+
+<a name="6"></a>
+<p>
+<b>Article 6: We are Rights and Freedoms.</b>
+</p>
+
+<p>
+We honour the Non-Aggression Principe (NAP) moral framework. We stand unified against any and all forms of coercion, whether it’s through violence, or the implied threat of violence. We’re building a world based on voluntary agreements between consenting entities.
+</p>
+
+
+<br/>
+
+
+<a name="7"></a>
+<p>
+<b>Article 7: We are Tolerant and Accepting.</b>
+</p>
+
+<p>
+We do not judge or select based on the colour of your skin, ethnicity, religion, country of origin, sexual preference, or degree of post-human. In our DBVN, everyone who wishes to make the world a better place through furthering voluntary agreements, is welcome to be a part of our Nation.
+</p>
+
+
+<br/>
+
+
+<a name="8"></a>
+<p>
+<b>Article 8: We are Polity and Entity.</b>
+</p>
+
+<p>
+We have become aware of our political autonomy. We’re no longer willing to be oppressed by the coercive nation-state oligopoly. We live in Cyberspace, and we work together, to achieve freedom and independence.
+</p>
+
+
+<br/>
+
+
+<a name="9"></a>
+<p>
+<b>Article 9: We are Privacy and Security.</b>
+</p>
+
+<p>
+We will not sell the data of our citizens or customers to any entity, under any circumstances. We strive for client side technology, encryption, and pseudo anonymity.
+</p>
+
+
+<br/>
+
+
+<a name="10"></a>
+<p>
+<b>Article 10: We are Openness and Transparency.</b>
+</p>
+
+<p>
+Everyone is welcome to join. Everything we do is public.
+</p>
+
+
+<br/>
+
+
+<a name="11"></a>
+<p>
+<b>Article 11: We are a Dream and a Reality.</b>
+</p>
+
+<p>
+Itshappening.gif
+</p>
+
+
+<br/>
+
+
+<a name="12"></a>
+<p>
+<b>Article 12: We are Ƀitnation.</b>
+</p>
+
+<p>
+We are sovereign. We’re together. We’re the future.
+</p>
+
+
+<br/>
+
+
+<p>
+Source:
+<a href="https://github.com/Bit-Nation/BITNATION-Constitution" target="_blank">github.com/Bit-Nation/BITNATION-Constitution</a>
+</p>
+
+
+<br/>
+
+<p>
+Further reading: Bitnation Foundational Document, Published July 14 2014
+<br/>
+<a href="https://docs.google.com/document/d/16HDB9AABa5rTOVFJj_8VLdOxgMguovLLAMviaTkZ1q4" target="_blank">docs.google.com/document/d/16HDB9AABa5rTOVFJj_8VLdOxgMguovLLAMviaTkZ1q4</a>
+</p>
+
+<p>
+Bitnation Whitepaper, Published October 10 2014
+<br/>
+<a href="https://docs.google.com/document/d/1r_VqWrKQw07E06XAtMv_cZnFyBZma4PFTBJpM5GuzbA" target="_blank">docs.google.com/document/d/1r_VqWrKQw07E06XAtMv_cZnFyBZma4PFTBJpM5GuzbA</a>
+</p>
+
+<p>
+An evolutionary Nomic structure for digital rule making in Bitnation, Published Feburary 7 2016
+<br/>
+<a href="https://docs.google.com/document/d/1l00egk-PyNIE4-kHZwFGA-asIB_rsIRwtbMPDZ0JYJ8" target="_blank">docs.google.com/document/d/1l00egk-PyNIE4-kHZwFGA-asIB_rsIRwtbMPDZ0JYJ8</a>
+</p>
+
+
+
+
+<br/>
+<br/>
+
+<p class="h2"><a href="/nation/bitnation/en">Bitnation</a></p>
+
+</main>
+<footer><div>7524-05-04 - 7524-05-04</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

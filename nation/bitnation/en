@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Bitnation - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Bitnation</h1>
+
+<figure>
+<a href="img/00b.jpg"><img src="img/00.jpg"/></a>
+</figure>
+
+
+<p class="h2">
+<a href="http://bitnation.co/" target="_blank">bitnation.co</a>
+</p>
+
+<figure>
+<a href="img/01b.jpg"><img src="img/01.jpg"/></a>
+</figure>
+
+
+<h2>BITNATION IS A COLLABORATIVE PLATFORM FOR DO-IT-YOURSELF GOVERNANCE</h2>
+
+<p>
+Bitnation provides the same services traditional governments provide, from dispute resolution and insurance to security and much more – but in a geographically unbound, decentralized, and voluntary way. Bitnation is powered by Bitcoin 2.0 blockchain technology – a cryptograhically secured public ledger distributed amongst all of its users.
+</p>
+
+<p>
+As we like to say – Bitnation: Blockchains, Not Borders.
+</p>
+
+
+<h2>BORDERLESS</h2>
+
+<p>
+BITNATION does not care where in the world you are from, where you live, or what passport you hold. Everyone hast he right to enjoy, high-end, competitive governance services.
+</p>
+
+
+<h2>DECENTRALIZED</h2>
+
+<p>
+BITNATION operates on the Blockchain – a cryptographically secured public ledger distributed amongst all of ist millions of users around the world, to ensure peer-to-peer autonomy.
+</p>
+
+
+<h2>VOLUNTARY</h2>
+
+<p>
+BITNATION is dedicated to the open source philosophy, and provides a platform for users to develop their own governance functions, or fork the code and create a brand new governance system.
+</p>
+
+
+<figure>
+<a href="img/05b.png"><img src="img/05.jpg"/></a>
+</figure>
+
+<p>
+BITNATION is incorporated with the same technology cryptocurrencies use – the Blockchain technology. BITNATION also accepts cryptocurrencies for its services, and pays expenses such as salaries and dividends in cryptocurrencies.
+</p>
+
+<p>
+All code used will be open source code, shared on GiftHub for the community to use, improve, and fork.
+</p>
+
+<p>
+“During the roughly five months since the start of Bitnation, beyond setting up the organization, creating crypto-equity and launching a crowdsale, Bitnation has accomplished a range of groundbreaking events, not only proving the technology, but also communicating a clear message to the world: you do not need a monopolistic nation state government to enjoy governance services.”
+</p>
+
+<p>
+Susanne Tarkowski Tempelhof, CEO Successful pilots cover DApps providing Land Deeds (BitLand), Family Contracts (BitMarriage), Borderless World Citizenship (BitID). Next pilots feature Corporate Incorporation and Dispute Resolution.	
+</p>
+
+
+<h2>Bitnation projects</h2>
+
+<ul>
+
+<li>
+<b>Bitmarriage</b> – World’s first blockchain wedding: Bitnation organized the first ever blockchain marriage on October 5th at Disney World, Florida, US at the Coins in The Kingdom conference. The wedding was widely covered by media, including the Wall Street Journal and Russia Today.
+</li>
+
+<li>
+<b>BitID</b> – World Citizenship Passport on the blockchain: Bitnation organized the first ever pilot for a blockchain based World Citizen Passport in London, based on Chris Ellis World Citizenship Passport protocol, covered by, amongst others; Wired, Forbes, and TechCrunch.
+</li>
+
+<li>
+<b>Bitland</b> – World’s first blockchain land deed pilot: In November 2014 Bitnation started its Land deed pilot in Ghana, Outside of Kumasi, which will be finalized in January 2015. The lack of land deeds in Ghana is a major source of conflict, and prevents economic growth and mobility.
+</li>
+
+<li>
+<a href="https://www.bitrated.com/" target="_blank"><b>Bitrated</b></a> - your online reputation.
+</li>
+
+<li>
+<b>Other upcoming pilots</b>: During Q1 and Q2 2015 Bitnation plan on conducting two more pilots, one for corporate incorporation on the blockchain, and another to create birth certificates on the blockchain.
+</li>
+
+</ul>
+
+
+<h2>Contacts</h2>
+
+<p>
+<a href="http://bitnation.co" target="_blank">bitnation.co</a>
+<br/>
+Email: erik.vollstadt@bitnation.co
+</p>
+
+
+<p class="h3">
+<a href="/doc/nation/en">Googlements</a>
+<br/>
+<a href="doc/bitnation-leaflet-for-events.pdf" target="_blank">Bitnation-leaflet-for-events.pdf</a>
+</p>
+
+
+<p class="h">
+<a href="https://www.facebook.com/groups/BitnationRussia/" target="_blank">fb.com/groups/BitnationRussia</a>
+<br/>
+<a href="https://www.facebook.com/groups/381280372054773/" target="_blank">fb.com/groups/381280372054773</a>
+<br/>
+<a href="https://vk.com/bitnation" target="_blank">vk.com/bitnation</a>
+</p>
+
+
+
+
+<h2>Documentation</h2>
+
+<ul>
+<li><a href="constitution/en" target="_blank">Constitution</a>
+<li><a href="https://docs.google.com/spreadsheets/d/1uCor1qnGDtWLqjossX7tYHy6nz9oviSCHNOSXR0IqlI">Financial Plan</a> (<a href="doc/bitnation-financial-projections-v-14.ods">ods</a>, <a href="doc/bitnation-financial-projections-v-14.pdf" target="_blank">pdf</a>)</li>
+<li><a href="https://docs.google.com/document/d/1ZiIZ-rmI79HPNbfJ1AXwcgoe8TKMoUMatDf7YfO5LZw" target="_blank">Whitepaper</a> (<a href="doc/bitnation-whitepaper.odt" target="_blank">odt</a>, <a href="doc/bitnation-whitepaper.pdf" target="_blank">pdf</a>)</li>
+<li><a href="https://docs.google.com/document/d/1TkIbnrDeRLCXzP78khhpGnABMZt90eW4AZ4DoaKNbbo" target="_blank">DEV Plan</a> (<a href="doc/bitnation-dev-plan.odt" target="_blank">odt</a>, <a href="doc/bitnation-dev-plan.pdf" target="_blank">pdf</a>)</li>
+<li><a href="https://github.com/Bit-Nation" target="_blank">GitHub</a></li>
+<li><a href="https://docs.google.com/presentation/d/1z3C1qUm9-nr3_BYeDxnJurFVD-7iI8_AL9VE6EWk0S0" target="_blank">The procedure of how to create a certificate of citizen of the world</a> (<a href="doc/BlockchainIdTutorial.pdf" target="_blank">pdf</a>, <a href="doc/BlockchainIdTutorial.pptx">pptx</a>)</li>
+<li><a href="https://docs.google.com/document/d/16HDB9AABa5rTOVFJj_8VLdOxgMguovLLAMviaTkZ1q4" target="_blank">Further reading: Bitnation Foundational Document, Published July 14 2014</a>
+<li><a href="https://docs.google.com/document/d/1r_VqWrKQw07E06XAtMv_cZnFyBZma4PFTBJpM5GuzbA" target="_blank">Bitnation Whitepaper, Published October 10 2014</a>
+<li><a href="https://docs.google.com/document/d/1l00egk-PyNIE4-kHZwFGA-asIB_rsIRwtbMPDZ0JYJ8" target="_blank">An evolutionary Nomic structure for digital rule making in Bitnation, Published Feburary 7 2016</a>
+</ul>
+
+
+
+
+<br/>
+<br/>
+<br/>
+
+
+
+
+<h2>Publications</h2>
+
+<div class="article">
+<a href="/7524/0320/1/en"><img src="/7524/0320/1/logo-320x200.jpg"></a>
+<p><a href="/7524/0320/1/en">Trojan horse Bitnation</a></p>
+<p>
+The network has a decentralized project of the Constitution a voluntary nation without borders on Ethereum platform. On many forums devoted to the topic of civil liberties, it has already been widely discussed. It should be noted, is quite amusing initiative.
+<a href="/7524/0320/1/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7524/0314/1/en"><img src="/7524/0314/1/logo-320x200.jpg"></a>
+<p><a href="/7524/0314/1/en">Bitnation project presented the first Constitution in blokchain</a></p>
+<p>
+Public administration has long been a sphere, far from technology and alien to the spirit of time. Bitnation project became one of the main ideologists of the changes in this area. He constructs a universal civic platform on a "do it yourself" based blokcheyna. Now the community has got its policy document - the Constitution decentralized voluntary nation without borders on the basis of Ethereum.
+<a href="/7524/0314/1/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0403/1/ru"><img src="/7523/0403/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0403/1/ru">Let’s Bring Justice Back to the Courts</a></p>
+<p>How do we know a court decision was just? Is there an objective way to make moral judgements? Whereas I’m certainly in no position to tell you whether moreality is objectively definable or not, I’m convinced that the judgement of a mutually agreed upon arbitrator is of higher value for for both conflicting parties than the final verdict of a monopolistic law provider AKA the state. <a href="/7523/0403/1/ru">Read more...</a></p>
+</div>
+
+<div class="article">
+<a href="/7523/0318/2/en"><img src="/7523/0318/2/logo-320x200.jpg"/></a>
+<p><a href="/7523/0318/2/en">Singularity, private law and crypto-anarchy</a></p>
+<p>Keep in mind that the complexity of the subject makes a complete forecast impossible, which is why the text WILL contain errors. Nevertheless, the conclusions derrived from this essay are likely to be correct. It might appear noncredible to the majority of its readers, especially those not familiar with the Austrian School of Economics and technological singularity. The developments to be depicted are inevitable. <a href="/7523/0318/2/en">Read more...</a></p>
+</div>
+
+<div class="article">
+<a href="/7523/0314/1/en"><img src="/7523/0314/1/logo-320x200.jpg"/></a>
+<p><a href="/7523/0314/1/en">Latest update 22.12.2014</a></p>
+<p>Bitnation started in July 2014 and is a Distributed Organisation (DO) incorporated on the Bitcoin blockchain. During the roughly five months since the start of Bitnation, beyond setting up the organization, creating crypto-equity and launching a crowdsale, Bitnation has accomplished a range of groundbreaking events, not only proving the technology, but also communicating a clear message to the world: you do not need monopolistic nation state governments to enjoy governance services. <a href="/7523/0314/1/en">Read more...</a></p>
+</div>
+
+<div class="article">
+<a href="/7523/0313/1/en"><img src="/7523/0313/1/logo-320x200.jpg"/></a>
+<p><a href="/7523/0313/1/en">Bitnation 20150313</a></p>
+<p>We are working to create a resource and reputation system. Where the measure of the value (resources) is an internal accounting unit. In fact, we are creating a real modern money. Money does not exist without resources. Money - it is 1) a measure of value, 2) a medium of exchange, and 3) a means of accumulation. We must understand that dollars, rubles and other currencies - not money. While performing the role of money in the short term. <a href="/7523/0313/1/en">Read more...</a></p>
+</div>
+
+<div class="article">
+<a href="/7523/0307/2/en"><img src="/7523/0307/2/logo-320x200.jpg"></a>
+<p><a href="/7523/0307/2/en">Inter-Blockchain 2.0</a></p>
+<p>Bitnation, Horizon and Blocknet make a revolution in the field of IT and public relations. Innovators, known for its achievements in the field of cryptography, digital rights and electronic money, using the principles of decentralization and consolidation of the collective capacity of the user environment, developed and started to implement a unique technology. <a href="/7523/0307/2/en">Read more...</a></p>
+</div>
+
+<div class="article">
+<a href="/7523/0305/2/en"><img src="/7523/0305/2/logo-320x200.jpg"/></a>
+<p><a href="/7523/0305/2/en">Bitnation, Horizon and Blocknet make a revolution in the field of IT and public relations</a></p>
+<p>Innovators, known for its achievements in the field of cryptography, digital rights and electronic money, using the principles of decentralization and consolidation of the collective capacity of the user environment, developed and started to implement a unique technology. Product under the working title "Inter-Blockchain 2.0" <a href="/7523/0305/2/en">Read more...</a></p>
+</div>
+
+<div class="article">
+<a href="/7523/0304/2/en"><img src="/7523/0304/2/logo-320x200.jpg"></a>
+<p><a href="/7523/0304/2/en">Bitnation is a collaborative platform</a></p>
+<p>
+Bitnation provides the same services as the traditional authorities, on dispute resolution and security to security and many others - but geographically disconnectedness, decentralized and voluntary manner.
+<a href="/7523/0304/2/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0123/1/en"><img src="/7523/0123/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0123/1/en">A New Form of ID Allows You to Be a Citizen of the World</a></p>
+<p>
+Since the media storm around the birth of Silk Road and its eventual takedown, Bitcoin has made its way into the popular consciousness.
+<a href="/7523/0123/1/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0120/1/en"><img src="/7523/0120/1/logo-320x200.jpg"/></a>
+<p><a href="/7523/0120/1/en">Bitcoin 2.0 and Basic Income</a></p>
+<p>
+Bitnation announced decentralized application that allows you to test experimentally the economic idea of a basic income. The technology used is based on Bitcoin 2.0, as well as donations.
+<a href="/7523/0120/1/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/1125/1/en"><img src="/7522/1125/1/logo-320x200.jpg"/></a>
+<p><a href="/7522/1125/1/en">State 2.0 or 5 amazing examples of private public institutions</a></p>
+<p>
+Do we need the state as such? More and more people around the world tend to negative answer to this question. After classical states gradually becoming obsolete, and their function actively adopt private companies or online services.
+<a href="/7522/1125/1/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/1123/1/en"><img src="/7522/1123/1/logo-320x200.jpg"/></a>
+<p><a href="/7522/1123/1/en">Government 2.0: cloud citizens</a></p>
+<p>Political map of the world for a long time cutting the boundaries of nation-states, which can not exist in isolation from their territories. These areas are inhabited by people who are forced to succumb inevitability of a nation-state, to announce their own citizens. What will be the state 2.0, which will replace the nation-states? <a href="/7523/0307/1/en">Подробнее...</a></p>
+</div>
+
+
+
+
+<nav class="main-footer-nav"><a href="/nation/en">Nation</a></nav>
+
+</main>
+<footer><div>7523-02-20 - 7524-08-19</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
