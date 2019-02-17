@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Язык - Libre</title>
+</head>
+
+<body>
+
+<header>
+<div id="headerimg"><a href="/"><img alt="Libre" src="/img/header.jpg"/></a></div>
+<nav>
+<div id="mmlogo"><a href="/"><img src="/img/mmlogo.png"></a></div>
+<div id="mm"></div><script src="/js/mm.js"></script>
+<div id="lang"><a href="en">en</a><b>ru</b></div>
+</nav>
+</header>
+
+<main>
+
+<h1>Язык</h1>
+
+<p>
+Разумеется, не все в мире используют один и тот же язык.
+</p>
+
+<p>
+Официальный язык: любой язык, подлежащий онлайн-переводу
+</p>
+
+<p>
+Прототип:
+<a href="https://www.debian.org/intro/cn.ru.html">debian.org/intro/cn.ru.html</a>
+</p>
+
+</main>
+
+<footer>
+<div>Libre 7522-7523</div>
+<div>20.03.7523 - 20.03.7523 (2015)</div>
+</footer>
+
+</body>
+</html>

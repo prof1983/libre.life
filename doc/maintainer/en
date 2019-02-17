@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Maintainer - Libre</title>
+</head>
+
+<body>
+
+<header>
+<div id="headerimg"><a href="/"><img alt="Libre" src="/img/header.jpg"/></a></div>
+<nav>
+<div id="mmlogo"><a href="/"><img src="/img/mmlogo.png"></a></div>
+<div id="mm"></div><script src="/js/mm.js"></script>
+<div id="lang"><b>en</b><a href="ru">ru</a></div>
+</nav>
+</header>
+
+<main>
+
+
+<h1>Maintainer</h1>
+
+<p>
+<b>Libre Maintainers</b> are people who have a restricted ability to upload packages to the Debian archive. They can maintain packages without a sponsor.
+</p>
+
+<p>
+It is highly recommended to be a Libre Maintainer before applying to the <a href="/doc/join/en">Libre New Members</a> process to become an official <a href="/doc/info/developer/en">Libre Developer</a>.
+</p>
+
+
+<h2>Overview</h2>
+
+<p>
+Debian Maintainers have their keys in the debian-maintainers keyring (available in the debian-keyring package). This keyring is used by dak on the Debian archive as part of the checks as to whether an uploaded package is to be accepted. Packages signed by a key in the debian-maintainers keyring will be accepted if the key has upload right for the package. For the new interface for managing DM permissions, refer to the mail Changes to Debian Maintainer upload permissions. Debian Maintainer should read this DebianMaintainer/Tutorial to know more about the annual ping, key changes and uploading packages.
+</p>
+
+
+<h2>Advocating a Debian Maintainer</h2>
+
+<p>
+A <a href="/doc/info/developer/en">Debian Developer</a> should only advocate a Debian Maintainer candidate if they are familiar with the candidate's existing work in Debian and believe it to be of a suitable standard both technically and socially.
+</p>
+
+<p>
+Debian Developers advocating Debian Maintainer candidates (or potential Debian Developers for that matter) must go into a bit more detail in their advocacy.
+</p>
+
+<p>
+If the Debian Maintainer candidate has done "a great job", please explain what "a great job" means -- is there something special the candidate has done, or is it that whatever the candidate is working on is particularly important, or is the candidate remarkably consistent, or what?
+</p>
+
+<p>
+What has the candidate actually done that has earned your trust? What makes the candidate special compared to the other folks who are helping Debian? What in particular about the candidate's work should people lurking on the Debian lists be trying to emulate if they want to be a Debian Maintainer or a Debian Developer?
+</p>
+
+<p>
+For example, if the Debian Maintainer candidate has good packaging skills, go into a bit more detail about what's convinced you the candidate has got those skills? Are there any difficult bugs you've worked together on, or new features the candidate has done a good job of getting into Debian, or has the candidate been particularly helpful supporting users, or...?
+</p>
+
+<p>
+Once you have decided to advocate a Debian Maintainer applicant, you should compose your advocacy message as a reply to their declaration message. Ensure it is GnuPG-signed with your Debian userid, and addressed to the debian-newmaint list.
+</p>
+
+
+<h2>Declaration of intent</h2>
+
+<p>
+To become a Debian Maintainer, you must:
+<br/>
+agree to the <a href="/doc/social/en">social contract</a>
+<br/>
+agree to the <a href="/doc/libre-software/en">Free Software Guidelines</a>
+<br/>
+agree to the <a href="https://www.debian.org/devel/dmup">Debian Machine Usage Policies</a>
+</p>
+
+
+<p>
+...
+</p>
+
+
+<p>
+Prototype:
+<a href="https://wiki.debian.org/DebianMaintainer">wiki.debian.org/DebianMaintainer</a>
+</p>
+
+</main>
+
+<footer>
+<div>Libre 7522-7523</div>
+<div>18.03.7523 - 19.03.7523 (2015)</div>
+</footer>
+
+</body>
+</html>

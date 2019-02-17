@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Trademarks - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Trademarks</h1>
+
+<p>
+Libre is committed to protect and ensure consistent usage of its trademark, logos, and styles and also make it easier for every bonafide user to use.
+</p>
+
+
+<h2>Trademark Policy</h2>
+
+<!--p>
+Software in the Public Interest, Inc. owns a number of trademarks in both word and logo form including brands, slogans, styles. This policy encompasses all marks, in word and logo form, collectively referred to as Libre trademarks. You can see a non-exhaustive list of Libre trademarks, including both registered and unregistered (but otherwise legally recognized) trademarks at our trademarks page.
+</p-->
+
+<p>
+The objective of this trademark policy is:
+</p>
+
+<ul>
+<li>to encourage widespread use and adoption of the Libre trademarks,</li>
+<li>to clarify proper usage of Libre trademarks by third parties,</li>
+<li>to prevent misuse of Libre trademarks that can confuse or mislead users with respect to Libre or its affiliates.</li>
+</ul>
+
+<p>
+Please note that it is not the goal of this policy to limit commercial activity around Libre. We encourage businesses to work on Libre while being compliant with this policy.
+</p>
+
+<p>
+Following are the guidelines for the proper use of Libre trademarks by publishers and other third parties. Any use of or reference to Libre trademarks that is inconsistent with these guidelines, or other unauthorized use of or reference to Libre trademarks, or use of marks that are confusingly similar to Libre trademarks, is prohibited and may violate Libre trademark rights.
+</p>
+
+<p>
+Any use of Libre trademarks in a misleading and false manner or in a manner that disparages Libre, such as untruthful advertising, is always prohibited.
+</p>
+
+
+<h3>When You Can Use the Libre Trademarks Without Asking Permission</h3>
+
+<ol>
+<li>You can use Libre trademarks to make true factual statements about Libre or communicate compatibility with your product truthfully.</li>
+<li>Your intended use qualifies as nominative fair use of the Libre trademarks, i.e., merely identifying that you are talking about Libre in a text, without suggesting sponsorship or endorsement.</li>
+<li>You can use Libre trademarks to describe or advertise your services or products relating to Libre in a way that is not misleading.</li>
+<li>You can use Libre trademarks to describe Libre in articles, titles or blog posts.</li>
+<li>You can make t-shirts, desktop wallpapers, caps, or other merchandise with Libre trademarks for non-commercial usage.</li>
+<li>You can also make merchandise with Libre trademarks for commercial usage. In case of commercial usage, we recommend that you truthfully advertise to customers which part of the selling price, if any, will be donated to the Libre project. See our donations page for more information on how to <a href="/donate/en">donate to the Libre project</a>.</li>
+</ol>
+
+<p>
+...
+</p>
+
+<p>
+Prototype:
+<a href="https://www.debian.org/trademark.en.html">debian.org/trademark.en.html</a>
+</p>
+
+</main>
+<footer><div>7523-03-19 - 7523-04-15</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

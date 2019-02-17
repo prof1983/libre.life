@@ -1,0 +1,759 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8" />
+<title>Account operations - API</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h2>Account operations API</h2>
+
+
+
+<li class="toclevel-1 tocsection-3"><a href="#Account_operations"><span class="tocnumber">3</span> <span class="toctext"><b>Account operations</b></span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Get_Account"><span class="tocnumber">3.1</span> <span class="toctext"><b>Get Account</b></span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Request"><span class="tocnumber">3.1.1</span> <span class="toctext"><b>Request</b></span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Response"><span class="tocnumber">3.1.2</span> <span class="toctext"><b>Response</b></span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Example"><span class="tocnumber">3.1.3</span> <span class="toctext"><b>Example</b></span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-8"><a href="#Get_Account_ID"><span class="tocnumber">3.2</span> <span class="toctext"><b>Get Account ID</b></span></a>
+<ul>
+<li class="toclevel-3 tocsection-9"><a href="#Request_2"><span class="tocnumber">3.2.1</span> <span class="toctext"><b>Request</b></span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Response_2"><span class="tocnumber">3.2.2</span> <span class="toctext"><b>Response</b></span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Example_2"><span class="tocnumber">3.2.3</span> <span class="toctext"><b>Example</b></span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-12"><a href="#Get_Account_Block_IDs"><span class="tocnumber">3.3</span> <span class="toctext"><b>Get Account Block IDs</b></span></a>
+<ul>
+<li class="toclevel-3 tocsection-13"><a href="#Request_3"><span class="tocnumber">3.3.1</span> <span class="toctext"><b>Request</b></span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#Response_3"><span class="tocnumber">3.3.2</span> <span class="toctext"><b>Response</b></span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="#Example_3"><span class="tocnumber">3.3.3</span> <span class="toctext"><b>Example</b></span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-16"><a href="#Get_Account_Public_Key"><span class="tocnumber">3.4</span> <span class="toctext"><b>Get Account Public Key</b></span></a>
+<ul>
+<li class="toclevel-3 tocsection-17"><a href="#Request_4"><span class="tocnumber">3.4.1</span> <span class="toctext"><b>Request</b></span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="#Response_4"><span class="tocnumber">3.4.2</span> <span class="toctext"><b>Response</b></span></a></li>
+<li class="toclevel-3 tocsection-19"><a href="#Example_4"><span class="tocnumber">3.4.3</span> <span class="toctext"><b>Example</b></span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-20"><a href="#Get_Account_Transaction_IDs"><span class="tocnumber">3.5</span> <span class="toctext"><b>Get Account Transaction IDs</b></span></a>
+<ul>
+<li class="toclevel-3 tocsection-21"><a href="#Request_5"><span class="tocnumber">3.5.1</span> <span class="toctext"><b>Request</b></span></a></li>
+<li class="toclevel-3 tocsection-22"><a href="#Response_5"><span class="tocnumber">3.5.2</span> <span class="toctext"><b>Response</b></span></a></li>
+<li class="toclevel-3 tocsection-23"><a href="#Example_5"><span class="tocnumber">3.5.3</span> <span class="toctext"><b>Example</b></span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-24"><a href="#Get_Balance"><span class="tocnumber">3.6</span> <span class="toctext"><b>Get Balance</b></span></a>
+<ul>
+<li class="toclevel-3 tocsection-25"><a href="#Request_6"><span class="tocnumber">3.6.1</span> <span class="toctext"><b>Request</b></span></a></li>
+<li class="toclevel-3 tocsection-26"><a href="#Response_6"><span class="tocnumber">3.6.2</span> <span class="toctext"><b>Response</b></span></a></li>
+<li class="toclevel-3 tocsection-27"><a href="#Example_6"><span class="tocnumber">3.6.3</span> <span class="toctext"><b>Example</b></span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-28"><a href="#Get_Guaranteed_Balance"><span class="tocnumber">3.7</span> <span class="toctext"><b>Get Guaranteed Balance</b></span></a>
+<ul>
+<li class="toclevel-3 tocsection-29"><a href="#Request_7"><span class="tocnumber">3.7.1</span> <span class="toctext"><b>Request</b></span></a></li>
+<li class="toclevel-3 tocsection-30"><a href="#Response_7"><span class="tocnumber">3.7.2</span> <span class="toctext"><b>Response</b></span></a></li>
+<li class="toclevel-3 tocsection-31"><a href="#Example_7"><span class="tocnumber">3.7.3</span> <span class="toctext"><b>Example</b></span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-32"><a href="#Lease_Balance"><span class="tocnumber">3.8</span> <span class="toctext"><b>Lease Balance</b></span></a>
+<ul>
+<li class="toclevel-3 tocsection-33"><a href="#Request_8"><span class="tocnumber">3.8.1</span> <span class="toctext"><b>Request</b></span></a></li>
+<li class="toclevel-3 tocsection-34"><a href="#Response_8"><span class="tocnumber">3.8.2</span> <span class="toctext"><b>Response</b></span></a></li>
+<li class="toclevel-3 tocsection-35"><a href="#Example_8"><span class="tocnumber">3.8.3</span> <span class="toctext"><b>Example</b></span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-36"><a href="#Start_.2F_Stop_.2F_Get_Forging"><span class="tocnumber">3.9</span> <span class="toctext"><b>Start / Stop / Get Forging</b></span></a>
+<ul>
+<li class="toclevel-3 tocsection-37"><a href="#Request_9"><span class="tocnumber">3.9.1</span> <span class="toctext"><b>Request</b></span></a></li>
+<li class="toclevel-3 tocsection-38"><a href="#Response_9"><span class="tocnumber">3.9.2</span> <span class="toctext"><b>Response</b></span></a></li>
+<li class="toclevel-3 tocsection-39"><a href="#Example_9"><span class="tocnumber">3.9.3</span> <span class="toctext"><b>Example</b></span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-40"><a href="#Set_Account_Information"><span class="tocnumber">3.10</span> <span class="toctext"><b>Set Account Information</b></span></a>
+<ul>
+<li class="toclevel-3 tocsection-41"><a href="#Request_10"><span class="tocnumber">3.10.1</span> <span class="toctext"><b>Request</b></span></a></li>
+<li class="toclevel-3 tocsection-42"><a href="#Response_10"><span class="tocnumber">3.10.2</span> <span class="toctext"><b>Response</b></span></a></li>
+<li class="toclevel-3 tocsection-43"><a href="#Example_10"><span class="tocnumber">3.10.3</span> <span class="toctext"><b>Example</b></span></a></li>
+</ul>
+</li>
+
+
+
+
+<h3><span class="mw-headline" id="Get_Account"><b>Get Account</b></span></h3>
+<p>Retrieves the account information associated with a supplied account number.
+</p>
+<h4><span class="mw-headline" id="Request"><b>Request</b></span></h4>
+<pre>http://localhost:1400/api?
+     requestType=getAccount&amp;
+     account=ACCOUNTNUM
+</pre>
+<p>Where:
+</p>
+<ul>
+<li>ACCOUNTNUM is the account ID you want to check.
+</li>
+</ul>
+<h4><span class="mw-headline" id="Response"><b>Response</b></span></h4>
+<pre>
+{
+    &quot;publicKey&quot;: &quot;PUBKEY&quot;,
+    &quot;assetBalances&quot;: [
+        {
+            [ARRAY_OF_ASSETs]
+        }
+    ],
+    &quot;balance&quot;: &quot;BALANCE&quot;,
+    &quot;accountRS&quot;: &quot;ACCOUNTRS&quot;,
+    &quot;unconfirmedAssetBalances&quot;: [
+        {
+            [ARRAY_OF_UNCONFIRMED_ASSETs]
+        }
+    ],
+    &quot;account&quot;: &quot;ACCOUNT&quot;,
+    &quot;effectiveBalance&quot;: EFFBALANCE,
+    &quot;unconfirmedBalance&quot;: &quot;UNCONFBALANCE&quot;,
+    &quot;forgedBalance&quot;: &quot;FORGEDBAL&quot;
+}
+</pre>
+<p>Where:
+</p>
+<ul>
+<li>PUBKEY is the 64-byte public key associated with the account.
+</li>
+<li>ACCOUNTRS is the Reed-Solomon address of the account.
+</li>
+<li>BALANCE: amount of MilliLm you have regardless of the number of confirmations the transactions associated with that MilliLm have.
+</li>
+<li>ACCOUNT is the account that issued the asset
+</li>
+<li>EFFBALANCE: amount of MilliLm you have that is represented by at least 1440 confirmations. This is the balance that is used for forging.
+</li>
+<li>UNCONFBALANCE: balance (in MilliLm) minus all unconfirmed sent transactions. It doesn't include double-spending and unconfirmed received transactions. A user sees the unconfirmed balance in the client.
+</li>
+<li>FORGEDBAL is the balance of MilliLm that the account has forged in MilliLm
+</li>
+</ul>
+<h4><span class="mw-headline" id="Example"><b>Example</b></span></h4>
+<p>Request:
+</p>
+<pre>http://localhost:1400/api?
+     requestType=getAccount&amp;
+     account=7898870630272254992
+</pre>
+<p>Response:
+</p>
+<pre>
+{
+    &quot;publicKey&quot;: &quot;ce0fc0f2fed0645f7018e251493a8af1e1ecfb444a4603902e71bfd2a4b41558&quot;,
+    &quot;assetBalances&quot;: [
+        {
+            &quot;asset&quot;: &quot;1013693125509851736&quot;,
+            &quot;balanceQNT&quot;: &quot;48&quot;
+        }
+    ],
+    &quot;balance&quot;: &quot;1000700000000&quot;,
+    &quot;accountRS&quot;: &quot;LMA-BK2J-ZMY4-93UY-8EM9V&quot;,
+    &quot;unconfirmedAssetBalances&quot;: [
+        {
+            &quot;unconfirmedBalanceQNT&quot;: &quot;48&quot;,
+            &quot;asset&quot;: &quot;1013693125509851736&quot;
+        }
+    ],
+    &quot;account&quot;: &quot;7898870630272254992&quot;,
+    &quot;effectiveBalance&quot;: 9932,
+    &quot;unconfirmedBalance&quot;: &quot;1000700000000&quot;,
+    &quot;forgedBalance&quot;: &quot;0&quot;
+}
+</pre>
+<p><small><i>Verified 5/12/14</i></small>
+</p>
+
+
+
+
+<h3><span class="mw-headline" id="Get_Account_ID"><b>Get Account ID</b></span></h3>
+<p>Retrieves the account number associated with a supplied passphrase.
+</p>
+<h4><span class="mw-headline" id="Request_2"><b>Request</b></span></h4>
+<pre>http://localhost:1400/api?
+     requestType=getAccountId&amp;
+     secretPhrase=PASSPHRASE
+</pre>
+<p>Where:
+</p>
+<ul>
+<li>PASSPHRASE is the passphrase whose account ID you want to check
+</li>
+</ul>
+<h4><span class="mw-headline" id="Response_2"><b>Response</b></span></h4>
+<pre>
+{
+     &quot;accountId&quot;:       &quot;ACCOUNTNUM&quot;
+     &quot;accountRS&quot;:       &quot;ACCOUNTRS&quot;
+}
+</pre>
+<p>Where:
+</p>
+<ul>
+<li>ACCOUNTNUM is the associated account ID.
+</li>
+<li>ACCOUNTRS is the Reed-Solomon address of the account. 
+</li>
+</ul>
+<h4><span class="mw-headline" id="Example_2"><b>Example</b></span></h4>
+<p>Request:
+</p>
+<pre>http://localhost:1400/api?
+     requestType=getAccountId&amp;
+     secretPhrase=mySuperSecretPassphraseThatYouCanNeverGuess
+</pre>
+<p>Response:
+</p>
+<pre>
+{
+     &quot;accountId&quot;:       &quot;4357314498768237104&quot;
+     &quot;accountRS&quot;:       &quot;LMA-UWKJ-GFEV-AGY4-5C4YS&quot;
+}
+</pre>
+<p><i>Note: You will get errorCode:1 if you don't make this request through a POST</i><br />
+<small><i>Verified 5/13/14</i></small>
+</p>
+
+
+
+
+<h3><span class="mw-headline" id="Get_Account_Block_IDs"><b>Get Account Block IDs</b></span></h3>
+<p>Retrieves the blockIDs for all blocks generated by a supplied account.  Results are sorted chronologically.
+</p>
+<h4><span class="mw-headline" id="Request_3"><b>Request</b></span></h4>
+<pre>http://localhost:1400/api?
+     requestType=getAccountBlockIds&amp;
+     account=ACCOUNT
+     timestamp=TIME
+</pre>
+<p>Where:
+</p>
+<ul>
+<li>ACCOUNT is the account number you want to check
+</li>
+<li>TIME, expressed in seconds since the genesis block, determines the earliest block generation time you'd like to check.  Setting this to 0 will give you all of the IDs of generated blocks for the supplied account.
+</li>
+</ul>
+<h4><span class="mw-headline" id="Response_3"><b>Response</b></span></h4>
+<pre>
+{
+     &quot;blockIds&quot;:
+          [ARRAY_OF_BLOCK_IDs]
+}
+</pre>
+<p><b>Note:</b>  Results are sorted chronologically (earlier block IDs are displayed first)
+</p>
+<h4><span class="mw-headline" id="Example_3"><b>Example</b></span></h4>
+<p>Request:
+</p>
+<pre>http://localhost:1400/api?
+     requestType=getAccountBlockIds&amp;
+     account=387977119245692429
+     timestamp=0
+</pre>
+<p>Response:
+</p>
+<pre>
+{
+     &quot;blockIds&quot;:
+          [
+               &quot;932115710792099523&quot;
+          ]
+}
+</pre>
+<p><small><i>Verified 5/1/14</i></small>
+</p>
+
+
+
+
+<h3><span class="mw-headline" id="Get_Account_Public_Key"><b>Get Account Public Key</b></span></h3>
+<p>Retrieves the public key associated with a supplied account number.
+</p>
+<h4><span class="mw-headline" id="Request_4"><b>Request</b></span></h4>
+<pre>http://localhost:1400/api?
+     requestType=getAccountPublicKey&amp;
+     account=ACCOUNTNUM
+</pre>
+<p>Where:
+</p>
+<ul>
+<li>ACCOUNTNUM is the account number you want to check
+</li>
+</ul>
+<h4><span class="mw-headline" id="Response_4"><b>Response</b></span></h4>
+<pre>
+{
+     &quot;publicKey&quot;:       &quot;PUBKEY&quot;
+}
+</pre>
+<p>Where:
+</p>
+<ul>
+<li>PUBKEY is the 64-byte public key associated with the account.
+</li>
+</ul>
+<p>Note:  If the supplied account number is unknown, you will receive error code 5.  If the account exists but no transaction has ever been sent from the account, you will receive an empty tuple:  <code>{}</code>
+</p>
+<h4><span class="mw-headline" id="Example_4"><b>Example</b></span></h4>
+<p>Request:
+</p>
+<pre>http://localhost:1400/api?
+     requestType=getAccountPublicKey&amp;
+     account=6483973064837388393
+</pre>
+<p>Response:
+</p>
+<pre>
+{
+     &quot;publicKey&quot;:       &quot;29592749cd26f5c1c4bf0225f8ab225f289449b4978495e6fec09d486ae2d217&quot;
+}
+</pre>
+<p><small><i>Verified 5/1/14</i></small>
+</p>
+
+
+
+
+<h3><span class="mw-headline" id="Get_Account_Transaction_IDs"><b>Get Account Transaction IDs</b></span></h3>
+<p>Retrieves the transaction IDs associated with a supplied account number.  The timestamp parameter determines how far back you'd like to go in the transaction list; a value of 0 will give you every transaction for the account since the genesis block.
+</p>
+<h4><span class="mw-headline" id="Request_5"><b>Request</b></span></h4>
+<pre>http://localhost:1400/api?
+     requestType=getAccountTransactionIds&amp;
+     account=ACCOUNT&amp;
+     timestamp=TIME&amp;
+     type=TYPE&amp;
+     subtype=SUBTYPE
+</pre>
+<p>Where:
+</p>
+<ul>
+<li>ACCOUNT is the account number you want to check
+</li>
+<li>TIME, expressed in seconds since the genesis block, determines the earliest transaction time you'd like to check.  Setting this to 0 will give you all of the transaction IDs for the supplied account.
+</li>
+<li>TYPE (Optional) is the type of transaction you want to check
+</li>
+<li>SUBTYPE (Optional) is the type of sub-transaction you want to check
+</li>
+</ul>
+<h4><span class="mw-headline" id="Response_5"><b>Response</b></span></h4>
+<pre>
+{
+     &quot;transactionIds&quot;:
+          [ARRAY_OF_IDs]
+}
+</pre>
+<p>Where:
+</p>
+<ul>
+<li>ARRAY_OF_IDs is the an array of transaction IDs.
+</li>
+</ul>
+<p><b>Note:</b>  Results are sorted by timestamp (earliest transactionIDs are displayed first)
+</p>
+<h4><span class="mw-headline" id="Example_5"><b>Example</b></span></h4>
+<p>Request:
+</p>
+<pre>http://localhost:1400/api?
+     requestType=getAccountTransactionIds&amp;
+     account=25940420118693217452&amp;
+     timestamp=0
+</pre>
+<p>Response:
+</p>
+<pre>
+{
+     &quot;transactionIds&quot;:
+          [
+               &quot;17484500871708980634&quot;,
+               &quot;51938275284739120529&quot;
+          ]
+}
+</pre>
+<p><small><i>Verified 5/5/14</i></small>
+</p>
+
+
+
+
+<h3><span class="mw-headline" id="Get_Balance"><b>Get Balance</b></span></h3>
+<p>Retrieves the balance of an account.
+</p>
+<h4><span class="mw-headline" id="Request_6"><b>Request</b></span></h4>
+<pre>http://localhost:1400/api?
+     requestType=getBalance&amp;
+     account=ACCOUNT
+</pre>
+<p>Where:
+</p>
+<ul>
+<li>ACCOUNT is the LibreMoney account number
+</li>
+</ul>
+<h4><span class="mw-headline" id="Response_6"><b>Response</b></span></h4>
+<pre>
+{
+    &quot;guaranteedBalance&quot;:  &quot;GUARANTEED_BALANCE&quot;,
+    &quot;balance&quot;:            &quot;BALANCE&quot;,
+    &quot;effectiveBalance&quot;:    EFFBALANCE,
+    &quot;unconfirmedBalance&quot;: &quot;UNCONFBALANCE&quot;,
+    &quot;forgedBalance&quot;:      &quot;FORGEDBAL&quot;
+}
+</pre>
+<p>Where:
+</p>
+<ul>
+<li>GUARANTEED_BALANCE is the total balance of the account that meets a criteria. Result is expressed in MilliLm
+</li>
+<li>BALANCE is the amount of MilliLm you have, regardless of the number of confirmations the transactions associated with that MilliLm have.
+</li>
+<li>EFFBALANCE is the amount of MilliLm you have that is represented by at least 1440 confirmations.  This is the balance that is used for forging. 
+</li>
+<li>UNCONFBALANCE is the balance (in MilliLm) minus all unconfirmed sent transactions. It doesn't include double-spending and unconfirmed received transactions. A user sees the unconfirmed balance in the client.
+</li>
+<li>FORGEDBAL is the balance that the account has forged in MilliLm
+</li>
+</ul>
+<h4><span class="mw-headline" id="Example_6"><b>Example</b></span></h4>
+<p>Request:
+</p>
+<pre>http://localhost:1400/api?
+     requestType=getBalance&amp;
+     account=7898870630272254992
+</pre>
+<p>Response:
+</p>
+<pre>
+{
+    &quot;guaranteedBalance&quot;:  &quot;0&quot;,
+    &quot;balance&quot;:            &quot;1000700000000&quot;,
+    &quot;effectiveBalance&quot;:   9932,
+    &quot;unconfirmedBalance&quot;: &quot;1000700000000&quot;,
+    &quot;forgedBalance&quot;:      &quot;0&quot;
+}
+</pre>
+<p><small><i>Verified 5/12/14</i></small>
+</p>
+
+
+
+
+<h3><span class="mw-headline" id="Get_Guaranteed_Balance"><b>Get Guaranteed Balance</b></span></h3>
+<p>Retrieves the balance of an account that is confirmed at least a specified number of times.  Implemented in software version 0.5.5
+</p>
+<h4><span class="mw-headline" id="Request_7"><b>Request</b></span></h4>
+<pre>http://localhost:1400/api?
+     requestType=getGuaranteedBalance&amp;
+     account=ACCOUNT&amp;
+     numberOfConfirmations=CONFIRMATIONS
+</pre>
+<p>Where:
+</p>
+<ul>
+<li>ACCOUNT is the LibreMoney account number
+</li>
+<li>CONFIRMATIONS is the minimum number of confirmations for a transaction to appear as part of the guaranteed balance
+</li>
+</ul>
+<h4><span class="mw-headline" id="Response_7"><b>Response</b></span></h4>
+<pre>
+{
+     &quot;guaranteedBalance&quot;:       GUARANTEED_BALANCE
+}
+</pre>
+<p>Where:
+</p>
+<ul>
+<li>GUARANTEED_BALANCE is the total balance of the account that meets the CONFIRMATIONS criteria.  Result is expressed in MilliLm
+</li>
+</ul>
+<h4><span class="mw-headline" id="Example_7"><b>Example</b></span></h4>
+<p>Request:
+</p>
+<pre>http://localhost:1400/api?
+     requestType=getGuaranteedBalance&amp;
+     account=3847997711292454692&amp;
+     numberOfConfirmations=15
+</pre>
+<p>Response:
+</p>
+<pre>
+{
+     &quot;guaranteedBalance&quot;:       1303400000000
+}
+</pre>
+<p><small><i>Verified 5/1/14</i></small>
+</p>
+
+
+
+
+<h3><span class="mw-headline" id="Lease_Balance"><b>Lease Balance</b></span></h3>
+<p>Lease your balance of MilliLm to another account.
+</p>
+<h4><span class="mw-headline" id="Request_8"><b>Request</b></span></h4>
+<pre>http://localhost:1400/api?
+     requestType=leaseBalance&amp;
+     period=PERIOD&amp;
+     recipient=REC&amp;
+     secretPhrase=SECRET&amp;
+     fee=FEE&amp;
+     deadline=DEADLINE&amp;
+     referencedTransaction=REFTXID&amp;
+     broadcast=BROAD
+</pre>
+<p>Where:
+</p>
+<ul>
+<li>PERIOD is how long the balance will be leased in number of blocks
+</li>
+<li>REC is the account you want to lease your balance to
+</li>
+<li>SECRET is the secret passphrase of the account issuing the transaction
+</li>
+<li>FEE is the fee for the transaction in MilliLm
+</li>
+<li>DEADLINE is the deadline for the transaction to get a confirmation, expressed in minutes
+</li>
+<li>REFTXID is a previous transaction ID that you want to reference. This creates a chained transaction, meaning that the current transaction cannot be confirmed unless the referenced transaction is also confirmed. (optional)
+</li>
+<li>BROAD is if you want the transaction broadcasted or not (optional) 
+</li>
+</ul>
+<h4><span class="mw-headline" id="Response_8"><b>Response</b></span></h4>
+<pre>
+{
+     &quot;fullHash&quot;:                 &quot;FULLHASH&quot;, 
+     &quot;signatureHash&quot;:            &quot;SIGHASH&quot;, 
+     &quot;transactionBytes&quot;:         &quot;TXBYTES&quot;, 
+     &quot;hash&quot;:                     &quot;HASH&quot;, 
+     &quot;transaction&quot;:              &quot;TX&quot;, 
+     &quot;broadcasted&quot;:              BROAD, 
+     &quot;unsignedTransactionBytes&quot;: &quot;UNTXBYTES&quot; 
+}
+</pre>
+<p>Where:
+</p>
+<ul>
+<li>FULLHASH is the full hash of the transaction
+</li>
+<li>SIGHASH is a sha256 hash of the transaction signature. Useful for escrow transactions
+</li>
+<li>TXBYTES is the bytecode of a transaction
+</li>
+<li>HASH is hash of all transaction fields excluding the signature
+</li>
+<li>TX is the ID of the transaction
+</li>
+<li>BROAD is if the transaction was broadcasted or not
+</li>
+<li>UNTXBYTES is the transaction bytes with the signature part being replaced with zeros
+</li>
+</ul>
+<h4><span class="mw-headline" id="Example_8"><b>Example</b></span></h4>
+<p>Request:
+</p>
+<pre>http://localhost:1400/api?
+     requestType=leaseBalance&amp;
+     period=2880&amp;
+     recipient=1562462127635514638&amp;
+     secretPhrase=123&amp;
+     fee=100000000&amp;
+     deadline=1440
+</pre>
+<p>Response:
+</p>
+<pre>
+{
+     &quot;fullHash&quot;:                 &quot;e4d1f83e1cf26ee71d8566d00077510c4a641e04174e7ec3893d7e5aafc82e65&quot;, 
+     &quot;signatureHash&quot;:            &quot;48cab5351b4c08ac2816b5e13e9d238fa910085a0d07a16e1c7d7986222fc444&quot;, 
+     &quot;transactionBytes&quot;:         &quot;0400401adb00a005668683e673274c671802492d6f5...&quot;, 
+     &quot;hash&quot;:                     &quot;9b64d859cecdf63773d0696777c2783892616f3a793794544531e4fd7b8a66b2&quot;, 
+     &quot;transaction&quot;:              &quot;16676532673329025508&quot;, 
+     &quot;broadcasted&quot;:              true, 
+     &quot;unsignedTransactionBytes&quot;: &quot;0400401adb00a005668683e673274c671802492d6f54cdc...&quot; 
+}
+</pre>
+<p><small><i>Verified 5/9/14</i></small>
+</p>
+
+
+
+
+<h3><span class="mw-headline" id="Start_.2F_Stop_.2F_Get_Forging"><b>Start / Stop / Get Forging</b></span></h3>
+<p>Start or stop forging with an account, or check to see if an account is forging.  An account will "forge" when its secret passphrase (private key) is supplied to a LibreMoney server/node.
+</p>
+<h4><span class="mw-headline" id="Request_9"><b>Request</b></span></h4>
+<pre>http://localhost:1400/api?
+     requestType=START_OR_STOP_OR_GET&amp;
+     secretPhrase=SECRET
+</pre>
+<p>Where:
+</p>
+<ul>
+<li>START_OR_STOP_OR_GET is either startForging or stopForging or getForging
+</li>
+<li>SECRET the secret passphrase (private key) for the account whose forging you want to stop or start
+</li>
+</ul>
+<h4><span class="mw-headline" id="Response_9"><b>Response</b></span></h4>
+<p>For "startForging" and "getForging":
+</p>
+<pre>
+{
+     &quot;deadline&quot;:       DEADLINE
+}
+</pre>
+<p>Where:
+</p>
+<ul>
+<li>DEADLINE is the estimated number of seconds until the forging account will generate the next block
+</li>
+</ul>
+<p>For "stopForging":
+</p>
+<pre>
+{
+     &quot;foundAndStopped&quot;:       TRUE_OR_FALSE
+}
+</pre>
+<h4><span class="mw-headline" id="Example_9"><b>Example</b></span></h4>
+<p>Request:
+</p>
+<pre>http://localhost:1400/api?
+     requestType=startForging&amp;
+     secretPhrase=MySuperSecretPasswordThatIsNotActuallyPostedHereOrIsEvenRealSoDoNotEvenTryIt
+</pre>
+<p>Response:
+</p>
+<pre>
+{
+     &quot;deadline&quot;:       1036742
+}
+</pre>
+<p><small><i>Verified 5/5/14</i></small>
+</p>
+
+
+
+
+<h3><span class="mw-headline" id="Set_Account_Information"><b>Set Account Information</b></span></h3>
+<p>Set your account information
+</p>
+<h4><span class="mw-headline" id="Request_10"><b>Request</b></span></h4>
+<pre>http://localhost:1400/api?
+     requestType=setAccountInfo&amp;
+     secretPhrase=SECRET&amp;
+     name=NAME&amp;
+     description=DESCRIPT&amp;
+     publicKey=PUBKEY&amp;  
+     fee=FEE&amp;
+     deadline=DEADLINE&amp;
+     referencedTransactionFullHash=REFTXHASH&amp;
+     broadcast=BROAD
+</pre>
+<p>Where:
+</p>
+<ul>
+<li>SECRET the secret passphrase (private key) for the account
+</li>
+<li>DEADLINE is the deadline for transaction, expressed in minutes
+</li>
+<li>FEE is the fee for the transaction (in MilliLm)
+</li>
+<li>PUBKEY is the public key of the sending account for the transaction (optional)
+</li>
+<li>NAME is the name you want to set for the account (optional)
+</li>
+<li>DESCIPT is the description you want to set for the account (optional)
+</li>
+<li>REFTXHASH is the ID of a transaction referenced by this one (optional)
+</li>
+<li>BROAD true or false if it should be broadcasted (optional)
+</li>
+</ul>
+<h4><span class="mw-headline" id="Response_10"><b>Response</b></span></h4>
+<pre>
+{
+     &quot;fullHash&quot;:                 &quot;FULLHASH&quot;, 
+     &quot;signatureHash&quot;:            &quot;SIGHASH&quot;, 
+     &quot;transactionBytes&quot;:         &quot;TXBYTES&quot;, 
+     &quot;hash&quot;:                     &quot;HASH&quot;, 
+     &quot;transaction&quot;:              &quot;TX&quot;, 
+     &quot;broadcasted&quot;:              BROAD, 
+     &quot;unsignedTransactionBytes&quot;: &quot;UNTXBYTES&quot; 
+}
+</pre>
+<p>Where:
+</p>
+<ul>
+<li>FULLHASH is the full hash of the transaction 
+</li>
+<li>SIGHASH is a sha256 hash of the transaction signature. Useful for escrow transactions
+</li>
+<li>TXBYTES is the bytecode of a transaction 
+</li>
+<li>HASH is hash of all transaction fields excluding the signature
+</li>
+<li>TX is the ID of the transaction
+</li>
+<li>BROAD is if the transaction was broadcasted or not
+</li>
+<li>UNTXBYTES is the transaction bytes with the signature part being replaced with zeros
+</li>
+</ul>
+<h4><span class="mw-headline" id="Example_10"><b>Example</b></span></h4>
+<p>Request:
+</p>
+<pre>http://localhost:1400/api?
+     requestType=setAccountInfo&amp;
+     secretPhrase=MySuperSecretPasswordThatIsNotActuallyPostedHereOrIsEvenRealSoDoNotEvenTryIt&amp;
+     fee=100000000&amp;
+     deadline=1440
+</pre>
+<p>Response:
+</p>
+<pre>
+{ 
+     &quot;fullHash&quot;:                 &quot;93e8bba270eed8693f62576e13b45b45a848dd475e510fdb1e4026712829b734&quot;, 
+     &quot;signatureHash&quot;:            &quot;5487681f5a828d379864cbbdba9b1f4f2c6f7035c8cf2f272dc323147aea5eac&quot;, 
+     &quot;transactionBytes&quot;:         &quot;0105c84ad700a005668683e673274c671802492d6f54cdc33d247aa426e7...&quot;, 
+     &quot;hash&quot;:                     &quot;6b6ec6ad2f06119493caca546b6561069cd5341b41884d5be068e0b1d9ce7748&quot;, 
+     &quot;transaction&quot;:              &quot;7627108136485906579&quot;, 
+     &quot;broadcasted&quot;:              true, 
+     &quot;unsignedTransactionBytes&quot;: &quot;0105c84ad700a005668683e673274c671802492d6f54cdc33d247aa4...&quot; 
+}
+</pre>
+<p><small><i>Verified 5/6/14</i></small>
+</p>
+
+
+
+
+
+
+
+
+<nav class="main-footer-nav"><a href="/doc/api/en">API</a></nav>
+
+</main>
+<footer><div>7522-10-24 - 7525-04-16</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

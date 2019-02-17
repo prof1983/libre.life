@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Follow a Proposal - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Follow a Proposal</h1>
+
+<p>
+Standard Resolution Procedure
+</p>
+
+<p>
+A proposal can be introduced by any developer by posting a message on any qualified mailing list. A qualified mailing list is any "publicly-readable electronic mailing list designated by the Project Leader's Delegate(s)." The mailing list debian-vote@lists.debian.org has been delegated by the project secretary. There is no required text for a proposal but here are some guidelines.
+</p>
+
+
+<h2>Introduction</h2>
+
+<p>
+A proposal is considered formally introduced if it has been proposed by either the Project Leader or the Technical Committee. Otherwise, the proposal needs five (5) additional sponsors before it is open for discussion.
+</p>
+
+
+<h2>Discussion</h2>
+
+<p>
+A proposal stays in discussion for a minimum of two (2) weeks. Anytime after that, the original proposer or one of the five sponsors may call for the vote. The vote doesn't follow discussion automatically. The Project Leader may allow the call to vote to be made up to a week early or require the discussion period to extend up to another week.
+</p>
+
+
+<h2>Voting</h2>
+
+<p>
+After the vote has been called for, a ballot is mailed to the designated mailing list. The developers fill out the ballot and mail it back to the address indicated in the ballot. The voting period lasts two weeks (but can be shortened or lengthened by one week by the Project Leaders discretion).
+</p>
+
+<p>
+The Debian Vote Engine will process the vote and mail an acknowledgement back to the voter. After the voting period has ended, the outcome of the vote as well as each voter and their vote will be made posted to the mailing list. The complete text of each vote will be placed on the website, except for Debian Project Leader election votes,which are deemed secret ballot. In that case, the vote engine takes steps to ensure the anonymity of the voter, while ensuring that each voter can still validate their own votes.
+</p>
+
+
+<h2>Amendments</h2>
+
+<p>
+Amendments to a proposal can be made if the proposal's proposer and all five (5) sponsors agree. If any of them object, the amendment starts this process by first getting five (5) sponsors of it's own. At the time of voting, the amendments become options or forms of the proposal to be voted on.
+</p>
+
+
+<p>
+Prototype:
+<a href="https://www.debian.org/vote/howto_follow.en.html">debian.org/vote/howto_follow.en.html</a>
+</p>
+
+
+<p class="h3">
+<a href="/doc/vote/proposal/en">Vote Proposal</a>
+</p>
+
+
+<p class="h2"><a href="/doc/vote/en">Vote</a></p>
+
+</main>
+<footer><div>7523-03-24 - 7523-05-24</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

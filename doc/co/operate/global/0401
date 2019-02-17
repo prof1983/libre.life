@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Международное Потребительское Общество - Libre</title>
+</head>
+
+<body>
+
+<header>
+<div id="headerimg"><a href="/"><img alt="Libre" src="/img/header.jpg"/></a></div>
+<nav>
+<div id="mmlogo"><a href="/"><img src="/img/mmlogo.png"></a></div>
+<div id="mm"></div><script src="/js/mm.js"></script>
+<div id="lang"><a href="en">en</a><b>ru</b></div>
+</nav>
+</header>
+
+<main>
+
+<p class="h2"><a href="ru">Международное Потребительское Общество</a></p>
+
+<h1>4. Устав</h1>
+
+<h2>Статья 1. Наименование, местонахождение и срок деятельности Общества</h2>
+
+<p>
+1.1. Наименование Общества:
+<br/>
+Полное:
+<br/>
+• на русском языке — «Международное Потребительское Общество»;
+<br/>
+• на английском языке — «International consumers society»;
+<br/>
+• на немецком языке — «International Verbrauche Gesellschaft».
+<br/>
+Сокращенное:
+<br/>
+• на русском языке — МПО;
+<br/>
+• на английском языке — ICS;
+<br/>
+• на немецком языке — IVG.
+<br/>
+Фирменное:
+<br/>
+• «Кооперация»
+</p>
+
+<p>
+1.2. Местонахождение Общества:
+<br/>
+• Россия, 125565, г. Москва, ул. Фестивальная, д.2а.
+<br/>
+Местонахождением Общества является место постоянного нахождения его исполнительного органа в лице Председателя Правления. Местом хранения документов Общества является местонахождение исполнительного органа Общества.
+</p>
+
+<p>
+1.3. Срок деятельности Общества — бессрочный.
+</p>
+
+
+<p>
+<a href="0402">4. Устав. Статья 2. Цели, задачи и предмет деятельности Общества</a>
+</p>
+
+
+<p>
+http://www.filtim.ru/viewpage/338.htm
+http://filtimbank.com/potrebitelskoe-obshestvo/ustav
+</p>
+
+
+
+
+<p class="h2"><a href="ru">Международное Потребительское Общество</a></p>
+
+</main>
+
+<footer>
+<div>Libre 7522-7523</div>
+<div>25.03.7523 - 25.03.7523 (2015)</div>
+</footer>
+
+</body>
+</html>

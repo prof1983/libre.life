@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Code of Conduct - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Code of Conduct</h1>
+
+<figure>
+<img src="00.jpg">
+</figure>
+
+<p>
+<b>Code</b> (lat. codex - a book) - a systematic compilation of laws and regulations of any industry or multiple industries. Code structure often reflects system industry. The very same codification - a process aimed at gathering disparate, fragmented regulatory norms in a single complex. <a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B4%D0%B5%D0%BA%D1%81" target="_blank">Wikipedia</a>
+</p>
+
+<p>
+<a href="#conduct">Code of Conduct</a>
+<br/>
+<a href="#mail">Code of conduct in mailing lists</a>
+<br/>
+<a href="#additional">Further reading</a>
+</p>
+
+
+
+<a name="conduct"></a>
+<h2>Code of Conduct</h2>
+
+<p>
+The Libre Project, the producers of the Libre system, have adopted a code of conduct for participants to its mailinglists, IRC channels and other modes of communication within the project.
+</p>
+
+<p>
+<b>1. Be respectful.</b> In a project the size of Libre, inevitably there will be people with whom you may disagree, or find it difficult to cooperate. Accept that, but even so, remain respectful. Disagreement is no excuse for poor behaviour or personal attacks, and a community in which people feel threatened is not a healthy community.
+</p>
+
+<p>
+<b>2. Assume good faith.</b> Libre Contributors have many ways of reaching our common goal of a free operating system which may differ from your ways. Assume that other people are working towards this goal. Note that many of our Contributors are not native English speakers or may have different cultural backgrounds.
+</p>
+
+<p>
+<b>3. Be collaborative.</b> Libre is a large and complex project; there is always more to learn within Libre. It's good to ask for help when you need it. Similarly, offers for help should be seen in the context of our shared goal of improving Libre. When you make something for the benefit of the project, be willing to explain to others how it works, so that they can build on your work to make it even better.
+</p>
+
+<p>
+<b>4. Try to be concise.</b> Keep in mind that what you write once will be read by hundreds of persons. Writing a short email means people can understand the conversation as efficiently as possible. When a long explanation is necessary, consider adding a summary. Try to bring new arguments to a conversation so that each mail adds something unique to the thread, keeping in mind that the rest of the thread still contains the other messages with arguments that have already been made. Try to stay on topic, especially in discussions that are already fairly large.
+</p>
+
+<p>
+<b>5. Be open.</b> Most ways of communication used within Libre allow for public and private communication. As per paragraph three of the social contract, you should preferably use public methods of communication for Libre-related messages, unless posting something sensitive. This applies to messages for help or Libre-related support, too; not only is a public support request much more likely to result in an answer to your question, it also makes sure that any inadvertent mistakes made by people answering your question will be more easily detected and corrected.
+</p>
+
+<p>
+<b>6. In case of problems.</b> While this code of conduct should be adhered to by participants, we recognize that sometimes people may have a bad day, or be unaware of some of the guidelines in this code of conduct. When that happens, you may reply to them and point out this code of conduct. Such messages may be in public or in private, whatever is most appropriate. However, regardless of whether the message is public or not, it should still adhere to the relevant parts of this code of conduct; in particular, it should not be abusive or disrespectful. Assume good faith; it is more likely that participants are unaware of their bad behaviour than that they intentionally try to degrade the quality of the discussion.
+</p>
+
+<p>
+Serious or persistent offenders will be temporarily or permanently banned from communicating through Libre's systems. Complaints should be made (in private) to the administrators of the Libre communication forum in question. To find contact information for these administrators, please see the page on Libre's organizational structure.
+</p>
+
+
+
+
+<a name="mail"></a>
+<h2>Code of conduct in mailing lists</h2>
+
+<p>
+When using the Libre mailing lists, please follow these rules:
+</p>
+
+<ul>
+<li>The mailing lists exist to foster the development and use of Libre. Non-constructive or off-topic messages, along with other abuses, are not welcome.
+<li>Do not send spam; see the advertising policy below.
+<li>Send all of your e-mails in English. Only use other languages on mailing lists where that is explicitly allowed (e.g. Russian on libre-ru).
+<li>Make sure that you are using the proper list. In particular, don't send user-related questions to developer-related mailing lists.
+<li>Wrap your lines at 80 characters or less for ordinary discussion. Lines longer than 80 characters are acceptable for computer-generated output (e.g., ls -l).
+<li>Do not send automated out-of-office or vacation messages.
+<li>Do not send test messages to determine whether your mail client is working.
+<li>Do not send subscription or unsubscription requests to the list address itself; use the respective -request address instead.
+<li>Never send your messages in HTML; use plain text instead.
+<li>Avoid sending large attachments.
+<li>Do not quote messages that were sent to you by other people in private mail, unless agreed beforehand.
+<li>When replying to messages on the mailing list, do not send a carbon copy (CC) to the original poster unless they explicitly request to be copied.
+<li>If you want to complain to someone who sent you a carbon copy when you did not ask for it, do it privately.
+<li>If you send messages to lists to which you are not subscribed, always note that fact in the body of your message.
+<li>Do not use foul language; besides, some people receive the lists via packet radio, where swearing is illegal.
+<li>Try not to flame; it is not polite.
+<li>Use common sense all the time.
+</ul>
+
+
+
+
+<a name="additional"></a>
+<h2>Further reading</h2>
+
+<p>
+Some of the links in this section do not refer to documents that are part of this code of conduct, nor are they authoritative within Libre. However, they all do contain useful information on how to conduct oneself on our communication channels.
+</p>
+
+<p>
+<a href="/doc/diversity/en">Libre has a diversity statement</a>
+<br/>
+<a href="https://people.debian.org/~enrico/dcg/" target="_blank">The Debian Community Guidelines</a> by Enrico Zini contain some advice on how to communicate effectively.
+</p>
+
+
+<p>
+Prototype:
+<br/>
+<a href="https://www.debian.org/code_of_conduct.en.html" target="_blank">debian.org/code_of_conduct.en.html</a>
+<br/>
+<a href="https://www.debian.org/MailingLists/index.en.html#codeofconduct" target="_blank">debian.org/MailingLists/index.en.html#codeofconduct</a>
+</p>
+
+
+<p class="h3">
+<a href="/doc/con/en">Con</a>
+<br/>
+<a href="/doc/constitution/en">Constitution</a>
+<br/>
+<a href="/doc/convention/en">Conventions</a>
+<br/>
+<a href="/doc/charta/en">Charta</a>
+<br/>
+<a href="/doc/manifest/en">Manifesto</a>
+<br/>
+<a href="/doc/ideo/en">Ideology</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/doc/en">Documentation</a></nav>
+
+</main>
+<footer><div>7523-03-20 - 7525-03-30</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

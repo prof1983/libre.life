@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Charters - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Charters</h1>
+
+<figure>
+<a href="00b.jpg"><img src="00.jpg"></a>
+</figure>
+
+
+
+
+<h2>Internal market</h2>
+
+<p>
+The European Union's (EU) internal market (sometimes known as the single market, formerly the common market) seeks to guarantee the free movement of goods, capital, services, and people – the EU's "four freedoms" – within the EU's 28 member states.
+<a href="https://en.wikipedia.org/wiki/Internal_market" target="_blank">Wikipedia</a>
+</p>
+
+<p>
+1. Free movement of goods <a href="https://en.wikipedia.org/wiki/Internal_market#Free_movement_of_goods" target="_blank">Wikipedia</a>
+<br/>
+2. Free movement of capital <a href="https://en.wikipedia.org/wiki/Internal_market#Free_movement_of_capital" target="_blank">Wikipedia</a>
+<br/>
+3. Free movement of people <a href="https://en.wikipedia.org/wiki/Internal_market#Free_movement_of_people" target="_blank">Wikipedia</a>
+<br/>
+4. Free movement of services <a href="https://en.wikipedia.org/wiki/Internal_market#Free_movement_of_services" target="_blank">Wikipedia</a>
+</p>
+
+
+
+
+<h2>Energy Charter Treaty</h2>
+
+<p>
+The <b>Energy Charter Treaty</b> (ECT) is an international agreement which establishes a multilateral framework for cross-border co-operations in the energy industry. The treaty covers all aspects of commercial energy activities including trade, transit, investments and energy efficiency. The treaty is legally binding, including dispute resolution procedures. Originally, the Energy Charter process was based on integrating the energy sectors of the Soviet Union and Eastern Europe at the end of the Cold War into the broader European and world markets. Its role however extends beyond East-West cooperation and through legally binding instruments strives to promote principles of openness of global energy markets and non-discrimination to stimulate foreign direct investments and global cross-border trade. <a href="https://en.wikipedia.org/wiki/Energy_Charter_Treaty" target="_blank">Wikipedia</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/doc/en">Documentation</a></nav>
+
+</main>
+<footer><div>7523-03-27 - 7525-03-30</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

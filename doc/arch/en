@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>System Аrchitecture - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>System Аrchitecture</h1>
+
+<figure>
+<a href="00b.png"><img src="00.png" /></a>
+</figure>
+
+<figure>
+<a href="01b.png"><img src="01.png" /></a>
+</figure>
+
+<p class="h3">
+(<a href="libre.system.arch.odg">ODG</a>)
+(<a href="libre.system.arch.pdf">PDF</a>)
+</p>
+
+<p>
+A <b>system architecture</b> is the conceptual model that defines the structure, behavior, and more views of a system.[1] An architecture description is a formal description and representation of a system, organized in a way that supports reasoning about the structures and behaviors of the system. <a href="https://en.wikipedia.org/wiki/Systems_architecture">Wikipedia</a>
+</p>
+
+<p>
+<b>Software architecture</b> is the high level structure of a software system, the discipline of creating such structures, and the documentation of these structures. It is the set of structures needed to reason about the software system, and comprises the software elements, the relations between them, and the properties of both elements and relations. The architecture of a software system is a metaphor, analogous to the architecture of a building. <a href="https://en.wikipedia.org/wiki/Software_architecture">Wikipedia</a>
+</p>
+
+<!--p class="h3">
+<a href="libre.architecture.odg">libre.architecture.odg</a>
+<br/>
+<a href="libre.architecture.pdf">libre.architecture.pdf</a>
+</p-->
+
+
+
+
+<p class="h2"><a href="/doc/en">Documentation</a></p>
+
+</main>
+<footer><div>7523-05-07 - 7523-05-19</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

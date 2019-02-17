@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Сопровождающий - Libre</title>
+</head>
+
+<body>
+
+<header>
+<div id="headerimg"><a href="/"><img alt="Libre" src="/img/header.jpg"/></a></div>
+<nav>
+<div id="mmlogo"><a href="/"><img src="/img/mmlogo.png"></a></div>
+<div id="mm"></div><script src="/js/mm.js"></script>
+<div id="lang"><a href="en">en</a><b>ru</b></div>
+</nav>
+</header>
+
+<main>
+
+<h1>Сопровождающий</h1>
+
+<p>
+<b>Сопровождающие</b> являются люди, которые имеют ограниченные возможности для загрузки пакеты в архив Debian. Они могут поддерживать пакеты без спонсора.
+</p>
+
+<p>
+Настоятельно рекомендуется, чтобы Libre Сопровождающий до обращения в <a href="/doc/join/en">Libre New Members</a> стать официальным <a href="/doc/info/developer/en">Libre Developer</a>.
+</p>
+
+
+<h2>Обзор</h2>
+
+<p>
+Сопровождающие Libre есть свои ключи в связке на Libre Сопровождающие (в пакете Debian-брелок). Это брелок используется ДАК на архив Debian в рамках проверки, является ли загружены пакет будет принята. Пакеты, подписанные с помощью ключа в Debian-сопровождающего ключей будут приняты, если ключ загрузить прямо на упаковке. Для нового интерфейса для управления разрешениями DM, обратитесь к почтовым изменениям в полномочиях Загрузить Debian сопровождающим. Debian Сопровождающий должен прочитать это <b>Учебник Сопровождающего</b>, чтобы узнать больше о ежегодном Пин, ключевых изменений и загрузки пакетов.
+</p>
+
+
+<h2>Поручающимся за Сопровождающего</h2>
+
+<p>
+<a href="/doc/info/developer/en">Debian Developer</a> должны поручаться за кандидата Debian Maintainer, только если они знакомы с кандидатом существующей работы в Libre и считают, что это из подходий специалист и технически и социально.
+</p>
+
+<p>
+...
+</p>
+
+<p>
+Prototype:
+<a href="https://wiki.debian.org/DebianMaintainer">wiki.debian.org/DebianMaintainer</a>
+</p>
+
+
+</main>
+
+<footer>
+<div>Libre 7522-7523</div>
+<div>18.03.7523 - 19.03.7523 (2015)</div>
+</footer>
+
+</body>
+</html>

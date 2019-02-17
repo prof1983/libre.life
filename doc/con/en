@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Con - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Con</h1>
+
+<figure>
+<a href="00b.jpg"><img src="00.jpg"></a>
+<!-- Сборник церковных правил (из Кормчей, Номоканона при Большом Требнике, Зонары, Никона Черногорца и др.)
+Б. г. 242 л. Шифр 556-121 = МДА проч.-182. Рукоп. в 8-ку. Виф. 182. В новейшее время небрежный полуустав. В кожаном дощатом пер. № 99.
+http://old.stsl.ru/manuscripts/556/121 -->
+</figure>
+
+<!--
+con-canon-canonical
+constitution - Конституция (stituti - институт)
+convention - Конвенция (vent - выход)
+-->
+
+<p>
+<b>Canon</b> - the same (conservative) traditional, is not subject to the revision of a set of laws, rules and regulations in the various spheres of activity and life. <a href="https://ru.wikipedia.org/wiki/%CA%E0%ED%EE%ED" target="_blank">Wikipedia</a>
+</p>
+
+<p>
+A comprehensive <b>world view</b> (or <b>worldview</b>) is the fundamental cognitive orientation of an individual or society encompassing the entirety of the individual or society's knowledge and point of view. A world view can include natural philosophy; fundamental, existential, and normative postulates; or themes, values, emotions, and ethics. <a href="https://en.wikipedia.org/wiki/World_view" target="_blank">Wikipedia</a>
+</p>
+
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+
+<p class="h3">
+<a href="/doc/constitution/en">Constitution</a>
+<br/>
+<a href="/doc/convention/en">Convention</a>
+<br/>
+<a href="/doc/codex/en">Codex</a>
+<br/>
+<a href="/doc/charta/en">Charters</a>
+<br/>
+<a href="/doc/manifest/en">Manifesto</a>
+<br/>
+<a href="/doc/ideo/en">Ideology</a>
+<br/>
+<a href="/doc/symbol/en">Symbol</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/doc/en">Documentation</a></nav>
+
+</main>
+<footer><div>7523-03-27 - 7525-03-30</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

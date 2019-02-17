@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Collaboration - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Collaboration</h1>
+<!-- Collective -->
+
+<p class="h">
+About terms collaboration, coworking, hackerspace, fab lab
+</p>
+
+<figure>
+<a href="/co/labor/img/00b.jpg"><img src="/co/labor/img/00.jpg"/></a>
+</figure>
+
+<p class="h">
+<b>Together we are stronger</b>
+</p>
+
+<p class="h3">
+<a href="operate/en">Cooperation</a>
+</p>
+
+<p>
+<b>Collaboration</b> is working with others to do a task and to achieve shared goals. It is a recursive process where two or more people or organizations work together to realize shared goals, (this is more than the intersection of common goals seen in co-operative ventures, but a deep, collective determination to reach an identical objective) — for example, an endeavor that is creative in nature—by sharing knowledge, learning and building consensus. Most collaboration requires leadership, although the form of leadership can be social within a decentralized and egalitarian group. In particular, teams that work collaboratively can obtain greater resources, recognition and reward when facing competition for finite resources. Collaboration is also present in opposing goals exhibiting the notion of adversarial collaboration, though this is not a common case for using the word. <a href="http://en.wikipedia.org/wiki/Collaboration">Wikipedia</a>
+</p>
+
+<figure>
+<a href="/co/labor/img/01.jpg"><img src="/co/labor/img/01-640.jpg"/></a>
+<br/>
+<a href="/co/labor/img/03.jpg"><img src="/co/labor/img/03-640.jpg"/></a>
+<br/>
+<a href="/co/labor/img/04.png"><img src="/co/labor/img/04-640.png"/></a>
+<br/>
+</figure>
+
+<p>
+<b>Coworking</b> is a style of work that involves a shared working environment, often an office, and independent activity. Unlike in a typical office environment, those coworking are usually not employed by the same organization. Typically it is attractive to work-at-home professionals, independent contractors, or people who travel frequently who end up working in relative isolation. Coworking is also the social gathering of a group of people who are still working independently, but who share values, and who are interested in the synergy that can happen from working with people who value working in the same place alongside each other. <a href="https://en.wikipedia.org/wiki/Coworking">Wikipedia</a>
+</p>
+
+<p>
+A <b>hackerspace</b> (also referred to as a hacklab, makerspace or hackspace) is a community-operated workspace where people with common interests, often in computers, machining, technology, science, digital art or electronic art, can meet, socialize and collaborate.[1] Hackerspaces have also been compared to other community-operated spaces with similar aims and mechanisms such as Fab Lab, Men's Sheds, and with commercial "for profit" companies such as TechShop. <a href="https://en.wikipedia.org/wiki/Hackerspace">Wikipedia</a>
+</p>
+
+<p>
+A <b>fab lab</b> (fabrication laboratory) is a small-scale workshop offering (personal) digital fabrication. A fab lab is generally equipped with an array of flexible computer controlled tools that cover several different length scales and various materials, with the aim to make "almost anything". This includes technology-enabled products generally perceived as limited to mass production. While fab labs have yet to compete with mass production and its associated economies of scale in fabricating widely distributed products, they have already shown the potential to empower individuals to create smart devices for themselves. These devices can be tailored to local or personal needs in ways that are not practical or economical using mass production. <a href="https://en.wikipedia.org/wiki/Fab_lab">Wikipedia</a>
+</p>
+
+
+<figure>
+<a href="/co/lect/img/01b.jpg"><img src="/co/lect/img/01.jpg"/></a>
+</figure>
+
+<p>
+A <b>community</b> is a social unit of any size that shares common values. Although embodied or face-to-face communities are usually small, larger or more extended communities such as a national community, international community and virtual community are also studied. <a href="http://en.wikipedia.org/wiki/Community">Wikipedia</a> 
+</p>
+
+<figure>
+<a href="/co/lect/img/02b.jpg"><img src="/co/lect/img/02.jpg"/></a>
+</figure>
+
+
+
+<figure>
+<img src="/co/lect/img/06.jpg"/>
+</figure>
+
+<br/>
+
+<p class="h2">
+<a href="/co/en">Jointly</a>
+</p>
+
+
+<br/>
+<br/>
+
+<p class="h2"><a href="/doc/en">Documentation</a></p>
+
+</main>
+<footer><div>7523-03-25 - 7524-05-22</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

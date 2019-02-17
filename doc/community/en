@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Community - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Community</h1>
+
+<p>
+Debian has a large and diverse community of users and developers. Below are listed items of interest to those already active in the Debian community and to those who are eager to join in.
+</p>
+
+
+<h2>Useful pages</h2>
+
+<p>
+<a href="/doc/resources/en">Libre Resources</a> - forums, websites, howtos.
+<br/>
+<a href="/doc/faq/en">FAQs</a>
+<br/>
+<a href="/doc/irc/en">Useful irc channels</a>
+<br/>
+<a href="/doc/jabber/en">Jabber chat rooms</a>
+<br/>
+<a href="/doc/mailing-lists/en">Mailing lists</a>
+<br/>
+<a href="/doc/local-groups/en">Local Groups</a> - Libre communities in your city
+<br/>
+<a href="/doc/frends-of-libre/en">Friends of Libre</a>
+<br/>
+<a href="/doc/hosting/en">Libre hosting</a>
+<br/>
+<a href="/doc/teams/en">Teams</a>
+</p>
+
+
+<h2>Events</h2>
+
+<h3>Debian events</h3>
+
+<p>
+<a href="https://wiki.debian.org/BSP">Bug Squashing Parties</a>
+<br/>
+<a href="https://wiki.debian.org/DebianDay">Debian's birthday</a> is August 16.
+<br/>
+<a href="https://wiki.debian.org/DebianEvents">DebianEvents</a>
+<br/>
+<a href="https://wiki.debian.org/DebConf">DebConf</a> - The annual Debian Conference.
+<br/>
+<a href="https://wiki.debian.org/Sprints">Sprints</a> - Work meetings
+<br/>
+<a href="https://wiki.debian.org/DebTalk">DebTalk</a>
+<br/>
+<a href="https://wiki.debian.org/MeetDebian">Expos, conferences</a>
+</p>
+
+<h3>Linux in general</h3>
+
+<p>
+LinuxWorld Conference and Expo
+<br/>
+<a href="https://wiki.debian.org/LinuxTag">LinuxTag</a>
+</p>
+
+<h3>CoinFest</h3>
+
+<p>
+<a href="http://coinfest.org">coinfest.org</a>
+<br/>
+<a href="http://coinfest.ru">coinfest.ru</a>
+</p>
+
+<p>
+Prototype:
+<a href="https://wiki.debian.org/Community">wiki.debian.org/Community</a>
+</p>
+
+
+<p class="h2"><a href="/doc/en">Documentation</a></p>
+
+</main>
+<footer><div>7523-03-21 - 7523-05-24</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

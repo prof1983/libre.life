@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Convention - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Convention</h1>
+
+<figure>
+<img src="00.jpg">
+<!-- первая Женевская конвенция -->
+</figure>
+
+<p>
+<a href="echr/en">European Convention on Human Rights</a>
+<br/>
+<a href="ihr/en">Human Rights and the Internet</a>
+<br/>
+<a href="udhr/en">Universal Declaration of Human Rights</a>
+</p>
+
+
+<p class="h3">
+<a href="/doc/constitution/en">Constitution</a>
+<br/>
+<a href="/doc/codex/en">Codex</a>
+<br/>
+<a href="/doc/charta/en">Charta</a>
+<br/>
+<a href="/doc/manifest/en">Manifest</a>
+<br/>
+<a href="/doc/ideo/en">Ideology</a>
+<br/>
+<a href="/doc/symbol/en">Symbol</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/doc/en">Documentation</a></nav>
+
+</main>
+<footer><div>7523-03-27 - 7525-03-30</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Безопасность - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Безопасность</h1>
+
+<p>
+Ниже представлен список основных угроз и методов их предотвращения.
+</p>
+
+<h2>Системная</h2>
+
+
+<h2>Мировая</h2>
+
+
+<h2>Глобальная</h2>
+
+<p class="h">
+Человечество может быть уничтожено внешним космическим объектом.
+<br/>
+Только освоение космоса позволит сохранить цивилизацию.
+</p>
+
+<p class="h3">
+<a href="danger/ru">Глобальная опасность</a>
+<br/>
+<a href="intercenter/ru">Глобальная система безопасности</a>
+</p>
+
+
+<p class="h2"><a href="/doc/ru">Документация</a></p>
+
+</main>
+<footer><div>7523-03-29 - 7523-05-24</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

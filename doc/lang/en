@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Language - Libre</title>
+</head>
+
+<body>
+
+<header>
+<div id="headerimg"><a href="/"><img alt="Libre" src="/img/header.jpg"/></a></div>
+<nav>
+<div id="mmlogo"><a href="/"><img src="/img/mmlogo.png"></a></div>
+<div id="mm"></div><script src="/js/mm.js"></script>
+<div id="lang"><b>en</b><a href="ru">ru</a></div>
+</nav>
+</header>
+
+<main>
+
+<p class="h2"><a href="/doc/en">Documentation</a></p>
+
+
+<h1>Language</h1>
+
+<p>
+Obviously, not everyone in the world uses the same language.
+</p>
+
+<p>
+Official languages: Any language which can be translated online
+</p>
+
+<p>
+Prototype:
+<a href="https://www.debian.org/intro/cn.en.html">debian.org/intro/cn.en.html</a>
+</p>
+
+
+<p class="h2"><a href="/doc/en">Documentation</a></p>
+
+</main>
+
+<footer>
+<div>Libre 7522-7523</div>
+<div>20.03.7523 - 20.03.7523 (2015)</div>
+</footer>
+
+</body>
+</html>

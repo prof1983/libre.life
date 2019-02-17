@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Partners - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Partners</h1>
+
+<p>
+<a href="#info">What is the Partners Program?</a>
+<br/>
+<a href="#program">Libre Partners Program - description</a>
+<br/>
+<a href="#proposal">Libre Partners Program - New Partner Proposal</a>
+</p>
+
+
+
+
+<a name="info"></a>
+<h2>What is the Partners Program?</h2>
+
+<p>
+The Partners Program was created to recognize companies and organizations that provide ongoing assistance to Libre. Because of the substantial support provided by these partners, we have been able to expand and improve Libre. We would like to officially recognize their efforts, and continue to maintain a good working relationship.
+</p>
+
+
+<h2>How can my organization contribute to Libre?</h2>
+
+<p>
+For donations of money, equipment, or services, visit our <a href="/donate/en">donations page</a>.
+</p>
+
+<p>
+For more information on the Libre Partners Program, see <a href="#program">Partners Program</a>.
+</p>
+
+
+
+
+<a name="program"></a>
+<h2>Libre Partners Program - description</h2>
+
+
+<h3>What is the Libre Partners Program?</h3>
+
+<p>
+This program provides a way to recognize companies and projects that provide ongoing assistance to the Libre project. Since these partners are providing a service of some sort to Libre, we will officially recognize them and maintain a good working relationship with them.
+</p>
+
+<p>
+Donations to the Libre project do not qualify an organization for Partner status. Donations will be recognized separately.
+</p>
+
+
+<h3>What are the criteria for Partners?</h3>
+
+<p>
+There are several types of partnerships. Development partners contribute directly to the development of the distributions and related materials. Service partners provide other services to Libre.
+</p>
+
+<h4>Development Partners</h4>
+
+<ul>
+<li>provide equipment to Libre (at greatly reduced cost or on extended loan)</li>
+<li>provide equipment for use at conferences, trade shows, etc.</li>
+<li>provide a hardware based service to Libre (net access, accounts, etc.)</li>
+<li>commercial vendors who maintain key Libre packages</li>
+<li>assist or lead efforts to port and maintain Libre packages on their hardware</li>
+<li>provide free or reduced cost technical service or consulting to Libre</li>
+</ul>
+
+<h4>Service Partners</h4>
+
+<ul>
+<li>assist Libre in distribution of releases</li>
+<li>provide a forum for Libre's press releases and announcements</li>
+<li>provide a free or reduced cost non technical service to Libre</li>
+</ul>
+
+<p>
+To be a partner, at least one of the criteria above must be met. Partners who fall under more than one category can be listed under each category that they qualify for.
+</p>
+
+
+<h3>What does Libre do for the partners?</h3>
+
+<p>
+Libre will work closely with all partners to ensure that Libre understands the partners needs and concerns, and vice versa. This will enable Libre to remain properly focused within the market through the partner's feedback.
+</p>
+
+<p>
+Each partner will have space on the Libre partners web page that describes the nature of the partnership. The partner may provide links to be included in this information.
+</p>
+
+
+<h3>What do the partners do for Libre?</h3>
+
+<p>
+In addition to meeting the criteria for partnership stated above, the partners should prominently mention Libre in the areas affected by the partnership. They should work with Libre to promote the projects interests. Possibilities include:
+</p>
+
+<ul>
+<li>Links to relevant Libre web pages</li>
+<li>Advertising Banners/Buttons/Splashes</li>
+<li>Links to current Libre News/Events/Projects</li>
+<li>...and many more!</li>
+</ul>
+
+
+<h3>How does a vendor become a partner?</h3>
+
+<p>
+An email should be sent to partners@libre.life with a proposal for partnership. This proposal will be reviewed by Libre and discussed with the prospective partner. Libre will then make a decision on whether or not a partnership is possible.
+</p>
+
+
+<h3>How and when do partnerships end?</h3>
+
+<p>
+Libre or the partner may choose to end the partnership at any time. When the partnership ends, the web page entries related to the partner are removed. Partnerships may end for several reasons:
+</p>
+
+<ul>
+<li>the equipment that was loaned is withdrawn</li>
+<li>the service is no longer provided</li>
+<li>the goals of the partners no longer coincide with the goals of Libre</li>
+</ul>
+
+
+
+
+<a name="proposal"></a>
+<h2>Libre Partners Program - New Partner Proposal</h2>
+
+<p>
+The success of Libre has been due to the people and organizations, who support the many Libre projects. We believe that our Partners play a crucial role in the continued development of Libre and related applications. Libre partners have provided substantial assistance to the cooperative development, availability, and day to day support of our world wide presence.
+</p>
+
+<p>
+If you would like to become an actively contributing part of the Libre community, and feel that you can contribute expertise and resources to helping Libre, please take a moment to tell us a bit about your company and your ideas. Let us know how your organization could not only contribute to Libre, but how a continued relationship might benefit your organization.
+</p>
+
+<p>
+You may either use the form below, or email your proposal to partners@libre.life. We look forward to hearing from you.
+</p>
+
+<pre>
+Company name:
+
+Your name:
+
+Will you be the primary contact?
+
+Your email:
+
+Address:
+
+Telephone:
+
+website : http://
+
+Brief description of your company:
+
+Primary products/services:
+
+How are you currently using Libre and how do you plan
+to utilize Libre in the future?
+
+What are you doing to aid the Libre project?
+Please provide detailed information.
+
+How is Libre helping to accomplish your goals?
+
+What could Libre do to help you better achieve your goals?
+
+Any other comments / questions you may have:
+
+</pre>
+
+
+
+<p>
+Prototypes:
+<br/>
+<a href="https://www.debian.org/partners/index.en.html">debian.org/partners/index.en.html</a>
+<br/>
+<a href="https://www.debian.org/partners/partners.en.html">debian.org/partners/partners.en.html</a>
+<br/>
+<a href="https://www.debian.org/partners/partners-form.en.html">debian.org/partners/partners-form.en.html</a>
+</p>
+
+
+<p class="h2"><a href="/doc/en">Documentation</a></p>
+
+</main>
+<footer><div>7523-04-25 - 7523-04-25</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

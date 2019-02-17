@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8" />
+<title>LibreMoney API</title>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h2>LibreMoney</h2>
+<h3>2. Основная часть</h3>
+<h4>2.8. API (RestAPI)</h4>
+
+<p>
+<a href="intro"><b>1. Описание</b></a>
+<br/>
+<a href="general"><b>2. Общие сведения</b></a>
+<br/>
+<a href="account/ru"><b>3. Операции со счетом</b></a> (Account operations)
+</p>
+
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="account/en#Get_Account"><span class="tocnumber">3.1</span> <span class="toctext"><b>Get Account</b></span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="account/en#Get_Account_ID"><span class="tocnumber">3.2</span> <span class="toctext"><b>Get Account ID</b></span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="account/en#Get_Account_Block_IDs"><span class="tocnumber">3.3</span> <span class="toctext"><b>Get Account Block IDs</b></span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="account/en#Get_Account_Public_Key"><span class="tocnumber">3.4</span> <span class="toctext"><b>Get Account Public Key</b></span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="account/en#Get_Account_Transaction_IDs"><span class="tocnumber">3.5</span> <span class="toctext"><b>Get Account Transaction IDs</b></span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="account/en#Get_Balance"><span class="tocnumber">3.6</span> <span class="toctext"><b>Get Balance</b></span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="account/en#Get_Guaranteed_Balance"><span class="tocnumber">3.7</span> <span class="toctext"><b>Get Guaranteed Balance</b></span></a></li>
+<li class="toclevel-2 tocsection-32"><a href="account/en#Lease_Balance"><span class="tocnumber">3.8</span> <span class="toctext"><b>Lease Balance</b></span></a></li>
+<li class="toclevel-2 tocsection-36"><a href="account/en#Start_.2F_Stop_.2F_Get_Forging"><span class="tocnumber">3.9</span> <span class="toctext"><b>Start / Stop / Get Forging</b></span></a></li>
+<li class="toclevel-2 tocsection-40"><a href="account/en#Set_Account_Information"><span class="tocnumber">3.10</span> <span class="toctext"><b>Set Account Information</b></span></a></li>
+</ul>
+</li>
+
+<p>
+<a href="alias"><b>4. Действия с Альясами</b></a>
+<br/>
+<a href="message"><b>5. Системные функции для работы с произвольными сообщениями</b></a>
+<br/>
+<a href="block"><b>6. Операции для работы с блоками</b></a>
+<br/>
+<a href="asset"><b>7. Операции на Бирже Активов</b></a>
+<br/>
+<a href="pool"><b>8. Операции с опросами</b></a>
+<br/>
+<a href="server"><b>9. Операции для работы с серверной частью</b></a>
+<br/>
+<a href="hallmark"><b>10. Операции с клеймами (hallmarks)</b></a>
+<br/>
+<a href="token"><b>11. Операции с токенами</b></a>
+<br/>
+<a href="transaction"><b>12. Операции с транзакциями</b></a>
+<br/>
+<a href="error-code"><b>13. Коды ошибок</b></a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/doc/ru">Документация</a></nav>
+
+</main>
+<footer><div>7522-10-24 - 7525-04-16</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

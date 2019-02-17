@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Протокол - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Протокол</h1>
+
+<h2>OpenBazaar</h2>
+
+<p>
+OpenBazaar is a marketplace platform compromised of the following components:
+<br/>
+1. The Kademlia-style Peer-to-Peer (P2P) Network - The network architecture governing peer-to-peer connections
+<br/>
+2. The Trade Protocol - The fundamental rules governing the type trade between peers
+<br/>
+3. The Application - How a users access the network and executes the trades protocol
+</p>
+
+
+<p>
+Common to all schemas are four modules:
+<br/>
+1. Metadata module - The metadata module is the header of the RC and informs users and the app what type of trade will take place and the period of time the contract is valid.
+<br/>
+2. ID module - The ID module contains the necessary identifying data for a peer on the network.
+<br/>
+3. Trade module - The trade module contains the necessary semantic data to define the good or service to be traded.
+<br/>
+4. Ledger module - The ledger module of the Ricardian contract traces the various stages of the trade between the parties involved.
+</p>
+
+<figure>
+<img src="http://s25.postimg.org/yj1lmbwi7/Trade_Flow_Ecommerce_Physical_Goods_Fixed.jpg">
+</figure>
+
+<p>
+Protocol:
+<br/>
+1. Subject - Merchant/Buyer/Notary
+<br/>
+2. Object - Goods item (title, description, condition, price, shipping, images (image_hashes, image_urls), keywords)
+<br/>
+3. Order - (id, item, signatures)
+</p>
+
+<p>
+Process:
+<br/>
+1. Merchant creates Contract
+<br/>
+2. Buyer generate multisignature escrow address (Notary)
+<br/>
+3. Buyer place order
+<br/>
+4. Merchant indicates that the order is processed and the item is shipped
+<br/>
+5. Buyer indicates that the item was reseived
+</p>
+
+<p>
+Dispute Resolution
+<br/>
+1. Notaries
+<br/>
+2. Negotiation
+<br/>
+3. Arbitration
+</p>
+
+<figure>
+<img src="http://s28.postimg.org/6bwve4a25/Slide1.jpg">
+<br/>
+<img src="http://s3.postimg.org/hvs6c2boj/Slide2.jpg">
+</figure>
+
+<p>
+<a href="https://docs.openbazaar.org/03.-OpenBazaar-Protocol/" target="_blank">docs.openbazaar.org/03.-OpenBazaar-Protocol</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/doc/ru">Документация</a></nav>
+
+</main>
+<footer><div>7525-12-12 - 7525-12-12</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

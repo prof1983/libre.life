@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Constitution - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Constitution</h1>
+
+<p>
+A <b>constitution</b> is a set of fundamental principles or established precedents according to which a state or other organization is governed. These rules together make up, i.e. constitute, what the entity is. When these principles are written down into a single document or set of legal documents, those documents may be said to embody a written constitution; if they are written down in a single comprehensive document, it is said to embody a codified constitution. <a href="https://en.wikipedia.org/wiki/Constitution">Wikipedia</a>
+</p>
+
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+
+
+<p>
+<b>See also:</b>
+<br/>
+<a href="alligater/en">Small Constitution virtual state</a>
+<br/>
+<a href="/cracy/hola/constitution">The Constitution of the Holakratia</a> (<a href="/co/labor/konstitucija_holakratii.pdf">pdf</a>)
+<br/>
+<a href="/nation/bitnation/constitution/en">Bitnation Constitution</a>
+<br/>
+<a href="/doc/organization/en">Organization</a>
+<br/>
+<a href="/doc/secretar/en">Secretary</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/doc/constitution/ru">Constitution</a></nav>
+
+</main>
+<footer><div>7525-03-19 - 7525-03-19</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

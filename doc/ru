@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Документация - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Документация</h1>
+
+<p class="h">
+<b>Свобода</b> — возможность проявления субъектом своей воли на основе осознания законов развития природы и общества.
+<a href="https://ru.wikipedia.org/wiki/%D1%E2%EE%E1%EE%E4%E0" target="_blank">ru.wikipedia.org/wiki/Свобода</a>
+</p>
+
+
+
+
+<h2><a href="intro/ru">Введение</a></h2>
+
+<p>
+<a href="about/ru">Про Libre</a>
+<br/>
+<a href="manifest/ru">Манифест</a>
+<br/>
+<a href="social/ru">Социальный контракт</a>
+<br/>
+<a href="faq/ru">Ответы на часто задаваемые вопросы (FAQ)</a>
+</p>
+
+
+
+
+<h2><a href="community/ru">Сообщество</a></h2>
+
+<!-- холакратия, хабы/ячейки -->
+
+<p>
+<a href="codex/ru">Кодекс поведения</a>
+<br/>
+<a href="diversity/ru">Многообразие</a>
+<br/>
+<a href="lang/ru">Язык</a>
+<br/>
+<a href="anti-harassment/ru">Против агрессии</a>
+</p>
+
+
+
+
+<h2><a href="organization/ru">Организация</a></h2>
+
+<!-- сетецентрический принцип -->
+
+<p>
+<a href="declaration/ru#plan">Декларация целей</a>
+<br/>
+<a href="leader/ru">Лидер</a>
+<br/>
+<a href="secretar/ru">Секретарь</a>
+<br/>
+<a href="comite/ru">Комитет</a> (технический комитет)
+<br/>
+<a href="admin/ru">Системный администратор</a>
+<br/>
+<a href="developer/ru">Разработчик</a>
+<br/>
+<a href="maintainer/ru">Сопровождающий</a>
+<br/>
+<a href="delegat/ru">Делегат</a>
+<br/>
+<a href="consultant/ru">Консультант</a>
+<!-- architect -->
+<!-- master - Мастер -->
+<br/>
+<a href="vote/ru">Голосование</a>
+<br/>
+<a href="sec/ru">Безопасность</a>
+</p>
+
+
+
+
+<h2><a href="nation/ru">Нация 2.0</a></h2>
+
+<p>
+<a href="ideo/ru">Идеология</a>
+<br/>
+<a href="nation/about/ru">Географически не привязанная модель управления сообществами (Googlements)</a>
+<br/>
+<a href="constitution/ru">Конституция</a>
+<br/>
+<a href="norm/ru">Нормы и правила</a>
+<br/>
+<a href="declaration/ru">Декларации</a>
+<br/>
+<a href="convention/ru">Конвенции</a>
+<br/>
+<a href="charta/ru">Хартии</a>
+<!-- statut - Устав -->
+<br/>
+<a href="law/ru">Закон</a>
+<br/>
+<a href="con/ru">Кон</a> (Канонические правила)
+</p>
+
+
+
+
+<h2><a href="union/ru">Союз</a></h2>
+
+<p>
+<a href="union/intercenter/ru">Всемирный Союз</a>
+<br/>
+<a href="strateg/ru">Глобальная стратегическая инициатива</a>
+<br/>
+<a href="sec/intercenter/ru">Глобальная система безопасности</a>
+</p>
+
+
+
+
+<a href="money/ru"><h2>Деньги</h2></a>
+
+<p>
+<a href="/7522/0829/1/ru">Что такое деньги</a>
+<br/>
+<a href="money/about/ru">Про LibreMoney</a>
+<br/>
+<a href="book/ru">LibreMoney Book</a>
+<br/>
+<a href="onto/ru">Онтология (Тезаурус для FinNet)</a>
+</p>
+
+
+
+
+<h2>Реализация</h2>
+
+<p>
+<a href="arch/ru">Архитектура системы</a>
+<br/>
+<a href="protocol/ru">Протокол</a>
+<br/>
+<a href="api/ru">API</a>
+</p>
+
+
+
+
+<h2>Разное</h2>
+
+<p>
+<a href="libre-software/ru">Критерии определения Свободного ПО</a>
+<br/>
+<a href="license/ru">Лицензия</a>
+<br/>
+<a href="trademark/ru">Торговые марки</a>
+<br/>
+<!-- Репутация -->
+<!--a href="resources/ru">Ресурсы</a-->
+<!--a href="local-groups/ru">Территориальные сообщества</a-->
+<a href="mirror/ru">Узлы</a>
+<br/>
+<a href="frends/ru">Друзья Libre</a><!-- frends-of-libre -->
+<br/>
+<a href="partners/ru">Партнеры</a>
+</p>
+
+<p>
+<a href="future/ru">Будущее</a>
+<br/>
+<a href="co/ru">Коллаборация</a>
+<br/>
+<a href="standard/ru">Стандарты</a>
+<br/>
+<a href="symbol/ru">Символы и логотипы</a>
+<br/>
+<a href="onto/ru">Онтология (Тезаурус для FinNet)</a>
+<br/>
+<a href="https://en.wikipedia.org/wiki/Libre" target="_blank">en.wikipedia.org/wiki/Libre</a>
+</p>
+
+<p>
+<a href="join/ru">Присоединиться</a>
+</p>
+
+<p>
+Чтобы стать официальным членом Libre, нужно пройти процедуру получения членства в Libre. Эти страницы представляют собой место, где будущие члены могут найти все подробности о подаче заявки на включение в число разработчиков Libre, о различных шагах этого процесса и о том, как отслеживать процесс рассмотрения их заявки.
+</p>
+
+
+
+
+<h2>Биржа проектов</h2>
+
+<p>
+<a href="/7522/1006/1/ru">Децентрализованная биржа — уже полгода в строю</a>
+</p>
+
+
+
+
+<p>
+<b>LibreKnowledge</b>
+<br>
+<a href="https://en.wikipedia.org/wiki/Libre_knowledge" target="_blank">en.wikipedia.org/wiki/Libre_knowledge</a>
+</p>
+
+
+<p>
+<b>LibreSoftware</b>
+<br>
+<a href="https://en.wikipedia.org/wiki/Libre_software" target="_blank">en.wikipedia.org/wiki/Libre_software</a>
+<br/>
+&#8212; <a href="https://ru.wikipedia.org/wiki/LibreOffice" target="_blank">LibreOffice</a>
+<br/>
+&#8212; <a href="https://en.wikipedia.org/wiki/LibreSSL" target="_blank">LibreSSL</a>
+</p>
+
+
+<p>
+<b>Libre.fm</b>
+<br/>
+<a href="https://en.wikipedia.org/wiki/Libre.fm" target="_blank">en.wikipedia.org/wiki/Libre.fm</a>
+</p>
+
+<!--
+LibreMoney.org
+
+libremoney.org
+
+http://libremoney.org/BizModel1.html
+
+Ярослав Логинов (Prof1983)
+
++79252658808
+
+prof1983@yandex.ru
+
+http://vk.com/prof1983
+http://fb.com/prof1983
+
+Новый сайт Libre.Life на котором я реализую комплексный подход к созданию системы, включающей как реализацию новой экономической системы на основе ресурсно-репутационной модели, так и инструмент для инвестирования в IT стартапы. Дополнительные материалы:
+http://libre.life
+http://libremoney.org/doc
+http://libremoney.org/libremoney-white-paper.pdf
+http://libremoney.org/libremoney-white-paper-full.pdf
+http://libremoney.org/BizModel1.html
+http://libremoney.org/LibreMoney-FinModel.ods
+http://libremoney.org/LibreMoney-FinModel.xlsx
+http://libremoney.org/LibreMoney-Presentation1.odp
+http://libremoney.org/LibreMoney-Presentation2.pdf
+http://libremoney.org/LibreMoney-presentanion2-en.pdf
+http://libremoney.org/LibreMoney-iidf.odt
+http://libremoney.org/LibreMoney-404.odt
+http://libremoney.org/Libre.pdf
+-->
+
+
+
+
+<nav class="main-footer-nav"><a href="/ru">Главная</a></nav>
+
+</main>
+<footer><div>7523-02-01 - 7525-12-12</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

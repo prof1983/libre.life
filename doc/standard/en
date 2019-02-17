@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Standards - Libre</title>
+</head>
+
+<body>
+
+<header>
+<div id="headerimg"><a href="/"><img alt="Libre" src="/img/header.jpg"/></a></div>
+<nav>
+<div id="mmlogo"><a href="/"><img src="/img/mmlogo.png"></a></div>
+<div id="mm"></div><script src="/js/mm.js"></script>
+<div id="lang"><b>en</b><a href="ru">ru</a></div>
+</nav>
+</header>
+
+<main>
+
+
+<h1>Standards</h1>
+
+<p>
+A <b>technical standard</b> is an established norm or requirement in regard to technical systems. It is usually a formal document that establishes uniform engineering or technical criteria, methods, processes and practices. In contrast, a custom, convention, company product, corporate standard, etc. that becomes generally accepted and dominant is often called a de facto standard. <a href="https://en.wikipedia.org/wiki/Technical_standard">Wikipedia</a>
+</p>
+
+<p>
+<a href="https://en.wikipedia.org/wiki/List_of_IOC_country_codes">List of IOC country codes</a>
+<br/>
+<a href="https://en.wikipedia.org/wiki/Country_code">Country code</a>
+<br/>
+<a href="https://en.wikipedia.org/wiki/ISO_3166-1">ISO 3166-1</a> - defines codes for the names of countries, dependent territories, and special areas of geographical interest
+<br/>
+<a href="https://en.wikipedia.org/wiki/ISO_3166-2">ISO 3166-2</a> - defines codes for identifying the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1
+<br/>
+<a href="https://en.wikipedia.org/wiki/ISO_3166-3">ISO 3166-3</a> - defines codes for country names which have been deleted from ISO 3166-1
+</p>
+
+<p>
+RUS - Russia
+<br/>
+SUHH - Soviet Union
+</p>
+
+
+
+
+<p class="h2"><a href="/doc/en">Documentation</a></p>
+
+</main>
+
+<footer>
+<div>Libre 7522-7523</div>
+<div>25.03.7523 - 25.03.7523 (2015)</div>
+</footer>
+
+</body>
+</html>

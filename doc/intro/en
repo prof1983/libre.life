@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Introduction - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Introduction</h1>
+
+<p>
+<a href="/doc/about/en">About</a>
+<br/>
+<a href="/doc/ideo/en">Ideology</a>
+<br/>
+<a href="/doc/manifest/en">Manifest</a>
+<br/>
+<a href="/doc/constitution/en">Constitution</a>
+<br/>
+<a href="/doc/con/en">Con</a> (Canonical rules)
+<br/>
+<a href="/doc/law/en">Law</a>
+<!--
+<br/>
+What Does Free Mean
+Reasons to Choose Debian
+-->
+<br/>
+<a href="/doc/organization/en">Organizational Structure</a>
+<!--
+<br/>
+Information on how to use the Debian search engine
+-->
+<br/>
+<a href="/doc/lang/en">Information on pages available in multiple languages</a>
+</p>
+
+
+<p>
+Prototype:
+<a href="https://www.debian.org/intro/index.en.html">debian.org/intro/index.en.html</a>
+</p>
+
+
+<p class="h2"><a href="/doc/en">Documentation</a></p>
+
+</main>
+<footer><div>7523-03-20 - 7523-05-24</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

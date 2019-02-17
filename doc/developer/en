@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Developer - Libre</title>
+</head>
+
+<body>
+
+<header>
+<div id="headerimg"><a href="/"><img alt="Libre" src="/img/header.jpg"/></a></div>
+<nav>
+<div id="mmlogo"><a href="/"><img src="/img/mmlogo.png"></a></div>
+<div id="mm"></div><script src="/js/mm.js"></script>
+<div id="lang"><b>en</b><a href="ru">ru</a></div>
+</nav>
+</header>
+
+<main>
+
+
+<h1>Developer</h1>
+
+
+<h2>Introduction</h2>
+
+<p>
+Developer is our name for a Debian project member. Many Debian Developers work on packaging software for Debian, but others contribute to the project's work in many different ways, such as by working as translators. All types of contribution are very welcome.
+</p>
+
+<p>
+Each applicant can choose whether they want to go through the packaging-related parts of the Debian New Member process and gain rights to upload packages to the Debian archive.
+</p>
+
+
+<h2>Becoming a Debian Developer</h2>
+
+<p>
+People who want to become a Debian Developer can apply through the Debian New Member process. More details of this process are given below.
+</p>
+
+<p>
+Each individual application process is conducted by an existing Debian Developer who acts as Application Manager. (At present, Debian Developers can apply to become Application Managers after six months as project members.)
+</p>
+
+<p>
+...
+</p>
+
+
+<p>
+Prototype:
+<a href="https://wiki.debian.org/DebianDeveloper">wiki.debian.org/DebianDeveloper</a>
+</p>
+
+</main>
+
+<footer>
+<div>Libre 7522-7523</div>
+<div>18.03.7523 - 19.03.7523 (2015)</div>
+</footer>
+
+</body>
+</html>

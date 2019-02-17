@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Союз - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<p class="h2"><a href="/doc/ru">Документация</a></p>
+
+<h1>Союз</h1>
+
+<p>
+<a href="intercenter/ru">Всемирный Союз</a>
+</p>
+
+
+<h2><a href="inocont/ru">ИноКонт</a></h2>
+
+<p>
+<a href="inocont/target/ru">Целеполагание</a>
+<br/>
+<a href="inocont/info/ru">Информация</a>
+<br/>
+<a href="inocont/method/ru">Методологема ИноКонт</a>
+<br/>
+<a href="inocont/colony/ru">Автономное поселение</a>
+</p>
+
+<p>
+<a href="http://ru.vlab.wikia.com/wiki/%D0%98%D0%BD%D0%BE%D0%B9_%D0%9A%D0%BE%D0%BD%D1%82%D0%B8%D0%BD%28%D0%B3%29%D0%B5%D0%BD%D1%82">Иной Контин(г)ент</a>
+</a>
+
+
+
+
+<p class="h2"><a href="/doc/ru">Документация</a></p>
+
+</main>
+<footer><div>30.03.7523 - 30.03.7523 (2015)</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

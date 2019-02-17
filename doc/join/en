@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Join - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Join</h1>
+
+<h2>Libre New Members Corner</h2>
+
+<p>
+The Libre New Member process is the process of becoming an official Libre Developer. These webpages are the place where prospective Libre Developers can find all the details on applying to become a Libre Developer, the different steps of the process, and how to track the process of their ongoing application.
+</p>
+
+<p>
+The first important point to make is that you do not need to be an official Libre Developer in order to help improving Libre. In fact, you should already have a track record of earlier contributions to Libre before you apply for the New Member process. It is highly recommended that you become familiar with the role of <a href="/doc/info/maintainer/ru">Libre Maintainer</a> and apply for this role before applying to become a Libre Developer.
+</p>
+
+<p>
+...
+</p>
+
+<p>
+Prototype:
+<a href="https://www.debian.org/devel/join/newmaint">debian.org/devel/join/newmaint</a>
+</p>
+
+
+
+
+
+
+
+
+<h2>Applicant's Checklist</h2>
+
+<p>
+The information on this page, while public, will primarily be of interest to future Debian Developers.
+</p>
+
+<p>
+0. Contributing
+<br/>
+1. Application and Advocation
+<br/>
+2. Checks (ID check, Philosophy and Procedures checks, Tasks and Skills checks, Recommendation)
+<br/>
+3. Front Desk check
+<br/>
+4. Debian Account Manager check and Account creation
+</p>
+
+<p>
+...
+</p>
+
+<p>
+Prototype:
+<a href="https://www.debian.org/devel/join/nm-checklist.en.html">debian.org/devel/join/nm-checklist.en.html</a>
+</p>
+
+
+<p class="h2"><a href="/doc/en">Documentation</a></p>
+
+</main>
+<footer><div>7523-03-18 - 7523-04-25</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

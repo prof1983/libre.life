@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Anti-Harrassment - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Anti-Harrassment</h1>
+
+<p>
+Libre against harassment
+</p>
+
+<p>
+On policies to prevent/deal with harassment:
+<br/>
+<a href="http://wiki.debconf.org/wiki/StandardsOfRespect">Debian Events Standards of Respect</a>
+<br/>
+<a href="http://geekfeminism.wikia.com/wiki/Conference_anti-harassment_policy">Geekfeminism policy</a>
+<br/>
+<a href="http://geekfeminism.wikia.com/wiki/Anti-harassment_policy_resources">Resources for organizers</a>
+<br/>
+<a href="http://blog.urth.org/2011/01/creating-the-perfect-anti-harassment-policy.html">Motivations for such policies</a>
+<br/>
+<a href="http://www.cahp.girl-wonder.org/">The Con Anti-Harassment Project</a>
+<br/>
+<a href="http://www.cahp.girl-wonder.org/con-resources/">The Con Anti-Harassment Project Policy Tips</a>
+<br/>
+<a href="http://backupproject.org/faq.html">The "Open Source Women Back Each Other Up Project"</a>
+</p>
+
+<p>
+Adopt a Language of Respect and Equality:
+<br/>
+(Most of these readings are targeted at sexism, but just pretend you are reading about ethnic minorities, disabled people, whatever group under-represented in Debian, and voilà! It still works!)
+</p>
+
+
+<p>
+Prototype:
+<a href="https://wiki.debian.org/AntiHarassment">wiki.debian.org/AntiHarassment</a>
+</p>
+
+
+<p class="h2"><a href="/doc/en">Documentation</a></p>
+
+</main>
+<footer><div>7523-03-21 - 7523-05-07</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

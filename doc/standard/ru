@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Стандарты - Libre</title>
+</head>
+
+<body>
+
+<header>
+<div id="headerimg"><a href="/"><img alt="Libre" src="/img/header.jpg"/></a></div>
+<nav>
+<div id="mmlogo"><a href="/"><img src="/img/mmlogo.png"></a></div>
+<div id="mm"></div><script src="/js/mm.js"></script>
+<div id="lang"><a href="en">en</a><b>ru</b></div>
+</nav>
+</header>
+
+<main>
+
+<h1>Стандарты</h1>
+
+<p>
+<b>Стандарт</b> (от англ. standard — норма, образец) в широком смысле слова — образец, эталон, модель, принимаемые за исходные для сопоставления с ними др. подобных объектов. <a href="https://ru.wikipedia.org/wiki/%D1%F2%E0%ED%E4%E0%F0%F2">Википедия</a>
+</p>
+
+<p>
+<a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BA%D0%BE%D0%B4%D0%BE%D0%B2_%D0%9C%D0%9E%D0%9A">Список кодов МОК</a>
+<br/>
+<a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B4_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%8B">Код страны</a>
+<br/>
+<a href="https://ru.wikipedia.org/wiki/ISO_3166-1">ISO 3166-1</a> - коды названий стран и подчинённых территорий
+<br/>
+<a href="https://ru.wikipedia.org/wiki/ISO_3166-2">ISO 3166-2</a> - геокоды для основных единиц первого или первого и второго уровня административно-территориального деления территории всех стран
+<br/>
+<a href="https://ru.wikipedia.org/wiki/ISO_3166-3">ISO 3166-3</a> - коды названий уже несуществующих государств
+</p>
+
+<p>
+RUS - Россия
+</p>
+
+<p>
+<b>Устаревшие коды ISO 3166-1 alpha-2</b>
+<br/>
+SUHH - Советский Союз
+</p>
+
+
+
+
+<p class="h2"><a href="/doc/ru">Документация</a></p>
+
+</main>
+
+<footer>
+<div>Libre 7522-7523</div>
+<div>25.03.7523 - 25.03.7523 (2015)</div>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Manifesto of intercenter network - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Manifesto of intercenter network</h1>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+<p class="h2"><a href="/doc/manifest/en">Manifesto</a></p>
+
+</main>
+<footer><div>7523-03-20 - 7523-05-06</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

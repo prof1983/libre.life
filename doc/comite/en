@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Technical Committee - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Technical Committee</h1>
+
+<p>
+The Technical Committee is established by the Libre <a href="/doc/organization/en#6">Organizational Structure, section 6</a>. It is the body which makes the final decision on technical disputes in the Debian project.
+</p>
+
+
+<h2>How to refer a question to the committee</h2>
+
+<p>
+1. Before referring a decision to the Technical Committee, you should try to resolve it yourself. Engage in a constructive discussion and try to understand the other person's point of view. If, after discussion, you've identified a technical question which you can't agree on, you can put it to the committee:
+</p>
+
+<p>
+2. Write up a summary of the disagreement, preferably agreeing it with your opponent, and send it to the bug tracking system as a new bug, against the pseudo-package tech-ctte. In your summary mention any relevant existing bug numbers and mailing list archive urls.
+</p>
+
+<p>
+3. Send an email to all relevant parties inviting them to subscribe to the bug. If there are existing bug(s) open about the issue, set the new tech-ctte bug to block them (but if you don't know how to do this, don't worry - we will do it for you.)
+</p>
+
+<p>
+4. The committee will discuss your question in the tech-ctte bug. We will generally not CC discussion to individual participants, unless we invite them into the conversation to ask them a specific question. Everyone who is interested in the issue should subscribe to the bug using the BTS.
+</p>
+
+<p>
+5. The committee will aim to make a decision as soon as possible. In practice this process is likely to take many weeks, or perhaps longer. If the question is particularly urgent please say so.
+</p>
+
+<p>
+6. Sometimes, one side or other is convinced, during the committee's deliberations, by the merit of the other side's arguments. This is a good thing! If it happens, the committee need not make a formal decision, and the bug report can be closed, or reassigned, as appropriate.
+</p>
+
+
+<h2>Some caveats about contacting the committee</h2>
+
+<ul>
+<li>A sound and vigorous debate is important to ensure that all the aspects of an issue are fully explored. When discussing technical questions with other developers you should be ready to be challenged. You should also be prepared to be convinced! There is no shame in seeing the merit of good arguments.</li>
+<li>Please conduct your technical discussions with other maintainers in a calm and civilised way; do not use insults, or question their competence. Instead, address yourself to your opponents' arguments.</li>
+<li>The committee is only empowered to make technical decisions. If you feel that someone has been misbehaving, the committee probably can't help you much. You may wish to talk to the Project Leader, leader@libre.life.</li>
+<li>The bug traffic will also appear on the committee mailing list, comite@libre.life. Anyone else who wishes to do so may subscribe to the committe mailing list and see our deliberations. But please do not send messages relating to specific issues directly to the list.</li>
+<li>To post to the committee mailing list you must either be subscribed to the list from your posting address, or PGP-sign your message. This is an anti-spam measure. We apologise for the inconvenience, but this setup makes it possible for committee members to pay proper attention to the committee list mails.</li>
+</ul>
+
+
+<h2>Membership</h2>
+
+<p>
+The current membership of the committee is documented on the Libre <a href="/doc/organization/en">Organizational Structure</a> page.
+</p>
+
+
+<p>
+Prototype:
+<a href="https://www.debian.org/devel/tech-ctte.en.html">debian.org/devel/tech-ctte.en.html</a>
+</p>
+
+
+<p class="h2"><a href="/doc/en">Documentation</a></p>
+
+</main>
+<footer><div>7523-03-19 - 7523-04-25</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

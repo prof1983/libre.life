@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Secretary - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Secretary</h1>
+
+<p>
+As the Libre project grew, it became apparent that there needed to be a set of semi-formal rules to help in conflict resolution, and as a result the constitution was written. The Libre <a href="/doc/organization/en">organization</a> describes the organisational structure for formal decision making in the Project. The constitution delineates who makes decisions, and what powers are attached to each such decision making individual or body. The office of the Project Secretary is one of the six entities enumerated in the Libre constitution as a decision making entity.
+</p>
+
+<p>
+Any Libre developer is eligible to be considered for the post of the Libre Project Secretary. Any person may hold several posts, except that the Project Secretary may not also be the Libre Project <a href="/doc/leader/en">Leader</a>, or the Chairman of the <a href="/doc/comite/en">Technical Committee</a>.
+</p>
+
+
+<h2>Appointment</h2>
+
+<p>
+Unlike other delegates, who are appointed by the Project Leader, the next Project Secretary is appointed by the Project Leader and the current Project Secretary. In case the current secretary and the project leader disagree, they must ask the Developers by way of general resolution to appoint a Secretary.
+</p>
+
+<p>
+The Project Secretary's term of office is 1 year, at which point they or another Secretary must be (re)appointed.
+</p>
+
+
+<h2>Tasks performed by the Project Secretary</h2>
+
+<h3>Conducting votes</h3>
+
+<p>
+The most visible task performed by the secretary is conducting votes for the project -- notably the Project Leader elections, but also any other votes that are run (General Resolutions, for example). Running a vote also entails determining the number and identity of the people eligible to vote, for the purpose of calculating quorum.
+</p>
+
+<h3>Standing in for other Officers</h3>
+
+<p>
+The Project Secretary can stand in for the Leader, together with the Chairman of the Technical Committee. In this situation, they may jointly make decisions if they consider it imperative to do so -- but only when absolutely necessary and only when consistent with the consensus of the Developers.
+</p>
+
+<p>
+If there is no Project Secretary or the current Secretary is unavailable and has not delegated authority for a decision then the decision may be made or delegated by the Chairman of the Technical Committee, as Acting Secretary.
+</p>
+
+<h3>Interpreting the Constitution</h3>
+
+<p>
+The secretary is also responsible for adjudicating any disputes about interpretation of the constitution.
+</p>
+
+
+<h2>Contact information</h2>
+
+<p>
+Contact the Libre Project Secretary by sending e-mail in English to secretary@libre.life.
+</p>
+
+
+
+<p>
+Prototype:
+<a href="https://www.debian.org/devel/secretary.en.html">debian.org/devel/secretary.en.html</a>
+</p>
+
+
+<p class="h2"><a href="/doc/en">Documentation</a></p>
+
+</main>
+<footer><div>7523-03-19 - 7523-04-25</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

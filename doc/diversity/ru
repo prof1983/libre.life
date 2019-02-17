@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Многообразие - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Многообразие</h1>
+
+<!--
+diversity - разнообразие; многообразие; многовариантность; разнородность
+Этимология
+Происходит от лат. diversitas «разногласие; разница», далее из diversus «разный; различный», далее из divertere «расходиться; различаться», далее из dis- (приставка, означающая разделение, разъединение) + vertere «поворачивать», из праиндоевр. *wer- «вертеть». Англ. diversity — с середины XIV века, заимств. через франц. diversité.
+
+
+discrimine (lat) - дискриминация - discrimination (en)
+
+Дискриминация (лат. discriminatio «различение») — различие (обычно неоправданное) в правах и обязанностях человека по определённому признаку.
+Ограничение прав может быть подкреплено законодательством (правовая, де юре), принятой в стране религией или может основываться исключительно на сложившихся моральных нормах (неофициальная, де факто). В качестве признака может выступать любое значимое отличие человека, например, раса, национальность, гражданство, родство, пол, религиозные убеждения, сексуальная ориентация, возраст, инвалидность, род занятий и тд.
+<a href="https://ru.wikipedia.org/wiki/%C4%E8%F1%EA%F0%E8%EC%E8%ED%E0%F6%E8%FF">Википедия</a>
+
+
+Discrimination is action that denies social participation or human rights to categories of people based on prejudice. This includes treatment of an individual or group based on their actual or perceived membership in a certain group or social category, "in a way that is worse than the way people are usually treated". It involves the group's initial reaction or interaction, influencing the individual's actual behavior towards the group or the group leader, restricting members of one group from opportunities or privileges that are available to another group, leading to the exclusion of the individual or entities based on logical or irrational decision making. <a href="https://en.wikipedia.org/wiki/Discrimination">Wikipedia</a>
+-->
+
+<p class="h">
+Акт о многообразии
+</p>
+
+<p>
+Проект Libre приветствует и поощряет участие каждого.
+</p>
+
+<p>
+Не важно, как вы определяете сами себя, и как другие воспринимают вас: мы вас приветствуем. Мы приветствует участие каждого при условии, что взаимодействие с нашим сообществом строится конструктивно.
+</p>
+
+<p>
+Несмотря на то, что большая часть работы в нашем Проекте имеет по природе технический характер, мы ценим и поощряем участие людей, имеющих опыт в других областях, и радушно принимаем их в наше сообщество.
+</p>
+
+
+<p class="h3">
+<a href="/doc/anti-harassment/ru">Против агрессии</a>
+</p>
+
+
+<p>
+Прототип:
+<a href="https://www.debian.org/intro/diversity.ru.html">debian.org/intro/diversity.ru.html</a>
+</p>
+
+
+<p class="h2"><a href="/doc/ru">Документация</a></p>
+
+</main>
+<footer><div>7523-03-21 - 7523-05-24</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

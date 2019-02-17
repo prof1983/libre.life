@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>System Administrators - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>System Administrators</h1>
+
+<p>
+The System Administration team is responsible for Libre's infrastructure. This wiki is focussed on system administration documention, primarily in the form of HOWTOs, for users and administrators.
+</p>
+
+<p>
+To contact us, mail admin@libre.life.
+</p>
+
+
+
+
+<p>
+Prototype:
+<a href="https://dsa.debian.org/">dsa.debian.org</a>
+</p>
+
+
+
+
+<p class="h2"><a href="/doc/en">Documentation</a></p>
+
+</main>
+<footer><div>7523-03-19 - 7523-05-07</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>European Convention on Human Rights - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>European Convention on Human Rights</h1>
+
+<p>
+<a href="https://en.wikipedia.org/wiki/European_Convention_on_Human_Rights" target="_blank">Wikipedia</a>
+<br/>
+<a href="https://en.wikisource.org/wiki/European_Convention_for_the_Protection_of_Human_Rights_and_Fundamental_Freedoms" target="_blank">Wikisource</a>
+</p>
+
+<br/>
+
+
+
+
+<p>
+<a href="/doc/con/en">Con</a>
+<br/>
+<a href="/doc/constitution/en">Constitution</a>
+<br/>
+<a href="/doc/codex/en">Codex</a>
+<br/>
+<a href="/doc/charta/en">Charta</a>
+<br/>
+<a href="/doc/manifest/en">Manifesto</a>
+<br/>
+<a href="/doc/ideo/en">Ideology</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/doc/convention/en">Convention</a></nav>
+
+</main>
+<footer><div>7523-03-27 - 7524-06-24</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

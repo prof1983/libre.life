@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Vote - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Vote</h1>
+
+<p>
+Debian Voting Information
+</p>
+
+<p>
+The Debian Project has a vote tracking system which gives status of ongoing General Resolutions and the results of previous votes.
+</p>
+
+<p>
+The status of ongoing General Resolutions include the proposal and list of seconds, all important dates and the necessary rules for passage. Of course, the status will also include one of the following:
+</p>
+
+<ul>
+<li>Proposal - Waiting for seconds.</li>
+<li>Discussion - In minimum two week discussion period.</li>
+<li>Voting - Voting process taking place.</li>
+<li>Closed - Voting is over.</li>
+</ul>
+
+<p>
+The results of previous votes (closed resolutions) include the outcome as well as a list of all people who voted and what their vote was. It also has available the text of each vote sent, unless it was a secret ballot.
+</p>
+
+<p>
+Debian uses the <a href="http://en.wikipedia.org/wiki/Condorcet_method">Condorcet method</a> for project leader elections (the wikipedia article linked to is pretty informative). Simplistically, plain Condorcet's method can be stated like so
+</p>
+
+<p>
+<b>Consider all possible two-way races between candidates. The Condorcet winner, if there is one, is the one candidate who can beat each other candidate in a two-way race with that candidate.</b>
+</p>
+
+<p>
+The problem is that in complex elections, there may well be a circular relationship in which A beats B, B beats C, and C beats A. Most of the variations on Condorcet use various means of resolving the tie. See <a href="http://en.wikipedia.org/wiki/Cloneproof_Schwartz_Sequential_Dropping">Cloneproof Schwartz Sequential Dropping</a> for details. Debian's variation is spelled out in the <a href="/doc/constitution/en">the constitution</a>, specifically, § A.6.
+</p>
+
+<p>
+For more information how to read the beat matrix, which is published as the outcome of votes, you may look at this <a href="http://en.wikipedia.org/wiki/Schwartz_method">example</a>.
+</p>
+
+
+<p>
+Prototype:
+<a href="https://www.debian.org/vote/index.en.html">debian.org/vote/index.en.html</a>
+</p>
+
+
+<p class="h3">
+<a href="proposal/en">Vote Proposal</a>
+<br/>
+<a href="follow/en">Follow a Proposal</a>
+</p>
+
+
+
+
+<p class="h2"><a href="/doc/en">Documentation</a></p>
+
+</main>
+<footer><div>7523-03-24 - 7523-05-24</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

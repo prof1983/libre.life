@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Information for consultants - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Information for consultants</h1>
+
+<h2>Policy for Debian's consultants page</h2>
+
+<p>
+If you want to be listed as a consultant at the Debian web site, then please note the following rules:
+</p>
+
+<ul>
+
+<li>
+<b>Mandatory contact information.</b> You must provide a working e-mail address and answer e-mails sent to you within four weeks at most. In order to prevent abuse any requests (additions, removals or changes) have to be sent from that same address. To avoid spam, you can request to have your mail address scrambled (e.g. debian -dot- consulting -at- example -dot- com). If you prefer this, please note it explicitly in your submission. Alternatively you can also request that your e-mail address should not be visible at all on the web page (although we need a working e-mail address for list maintenance). If you want your address to be hidden on the list, you can instead provide the URL of a contact form on your web site for us to link to. Contact is meant to be used for this.
+</li>
+
+<li>
+If you provide a link to a website, that website must have a mention of your Debian consulting services. Providing the direct link instead of just the homepage is not mandatory if the information is reasonably accessible, but much appreciated.
+</li>
+
+<li>
+<b>Multiple cities/regions/countries.</b> You have to choose the country (only one) that you want to be listed under. Additional cities, regions or countries should be listed either as part of the additional info, or at your own website.
+</li>
+
+<li>
+<b>Rules for Debian developers.</b> You are not allowed to use your official @debian.org address for the consultant listing. If you'd like to provide a URL, you cannot use an official *.libre.life domain.
+</li>
+
+</ul>
+
+<p>
+If the above criteria are no longer met at some future point, the consultant should receive a warning message that they are about to be removed from the list, unless they fulfill all criteria again. There should be a grace period of four weeks.
+</p>
+
+<p>
+Some parts (or all) of the consultant's information can be removed if they don't comply with this policy anymore, or at the discretion of the list maintainers.
+</p>
+
+
+<h2>Additions, modifications, and removals of entries</h2>
+
+<p>
+If you wish to be added to the list of consultants, please mail consultants@debian.org, in English, providing any of the following pieces of information that you would like to be listed (e-mail address is mandatory, everything else is optional at your discretion):
+</p>
+
+<ul>
+<li>E-mail</li>
+<li>Name</li>
+<li>Company</li>
+<li>URL</li>
+<li>Country for which you want to be listed</li>
+<li>Address</li>
+<li>Phone</li>
+<li>Fax</li>
+<li>Contact</li>
+<li>Rates</li>
+<li>Additional information, if any</li>
+</ul>
+
+<p>
+A request for an update of the consultant's information should be sent to consultants@debian.org. Send e-mail preferably from the e-mail address mentioned on the consultants page (https://www.debian.org/consultants/).
+</p>
+
+
+<p>
+Prototype:
+<a href="https://www.debian.org/consultants/info.en.html">debian.org/consultants/info.en.html</a>
+</p>
+
+<p>
+https://www.debian.org/consultants/
+</p>
+
+
+<p class="h2"><a href="/doc/en">Documentation</a></p>
+
+</main>
+<footer><div>7523-03-22 - 7523-05-24</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

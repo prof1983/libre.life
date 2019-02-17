@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Diversity - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Diversity</h1>
+
+<p class="h">
+<b>Diversity Statement, Act of diversity</b>
+</p>
+
+<p>
+The Libre Project welcomes and encourages participation by everyone.
+</p>
+
+<p>
+No matter how you identify yourself or how others perceive you: we welcome you. We welcome contributions from everyone as long as they interact constructively with our community.
+</p>
+
+<p>
+While much of the work for our project is technical in nature, we value and encourage contributions from those with expertise in other areas, and welcome them into our community.
+</p>
+
+
+<p class="h3">
+<a href="/doc/anti-harassment/en">Anti-Harassment</a>
+</p>
+
+
+<p>
+Prototype:
+<a href="https://www.debian.org/intro/diversity.en.html">debian.org/intro/diversity.en.html</a>
+</p>
+
+
+<p class="h2"><a href="/doc/en">Documentation</a></p>
+
+</main>
+<footer><div>7523-03-21 - 7523-05-24</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

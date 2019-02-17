@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Human Rights and the Internet - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Human Rights and the Internet</h1>
+
+<p class="h2">
+<a href="ru">RU</a>
+</p>
+
+
+<nav class="main-footer-nav"><a href="/doc/declaration/en">Declaration</a></nav>
+
+</main>
+<footer><div>7523-03-30 - 7524-06-24</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

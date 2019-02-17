@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Закон - Libre</title>
+</head>
+
+<body>
+
+<header>
+<div id="headerimg"><a href="/"><img alt="Libre" src="/img/header.jpg"/></a></div>
+<nav>
+<div id="mmlogo"><a href="/"><img src="/img/mmlogo.png"></a></div>
+<div id="mm"></div><script src="/js/mm.js"></script>
+<div id="lang"><a href="en">en</a><b>ru</b></div>
+</nav>
+</header>
+
+<main>
+
+<h1>Закон</h1>
+
+<p>
+<a href="/7523/03/18/01/ru">Указ Президента РФ о долгосрочной государственной экономической политике</a>
+</p>
+
+
+<p>
+<a href="organization">Об общественных объединениях</a>
+<br/>
+<a href="co/ru">О потребительской кооперации</a>
+</p>
+
+<p>
+<a href="http://www.slideshare.net/temychk/ss-44540975">http://www.slideshare.net/temychk/ss-44540975</a>
+<br/>
+<a href="01.doc">01.doc</a>
+<br/>
+Published on Feb 11, 2015
+</p>
+
+<p>
+Подробнее: <a href="http://habrahabr.ru/post/250337/">http://habrahabr.ru/post/250337/</a> (<a href="01">copy</a>)
+<br/>
+Текст законопроекта, подготовленный Минфином, который вносит изменения в КоАП РФ, а также в федеральные законы "о ЦБ РФ" (86-ФЗ) и "Об информации, информационных технологиях и о защите информации" (149-ФЗ), расширяющие толкование понятия денежных суррогатов и наагающие новые санкции за их выпуск/эмиссию, распространение, а также за информацию об этом.
+</p>
+
+
+<p class="h2"><a href="/doc/ru">Документация</a></p>
+
+</main>
+
+<footer>
+<div>Libre 7522-7523</div>
+<div>14.02.7523 - 25.03.7523 (2015)</div>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Documentation - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Documentation</h1>
+
+<p class="h">
+<b>Libre, Freedom</b> - the subject of the possibility of manifestation of his will on the basis of awareness of the laws of nature and society.
+</p>
+
+
+<h2><a href="intro/en">Introduction</a></h2>
+
+<p>
+<a href="about/en">About</a>
+<br/>
+<a href="social/en">Social Contract</a>
+<br/>
+<a href="libre-software/en">Free Software Guidelines</a>
+<br/>
+<a href="license/en">License</a>
+<br/>
+<a href="trademark/en">Trademark</a>
+</p>
+
+
+<h2><a href="community/en">Community</a></h2>
+
+<p>
+<!--a href="resources/en">Resources</a-->
+<!--a href="local-groups/en">Territorial community</a-->
+<a href="mirror/en">Nodes</a>
+<br/>
+<a href="frends/en">Friends of Libre</a><!-- frends-of-libre -->
+<br/>
+<a href="partners/en">Partners</a>
+<br/>
+<a href="faq/en">FAQ</a>
+</p>
+
+
+<h2><a href="organization/en">Organization</a></h2>
+
+<p>
+<a href="codex/en">Code of Conduct</a>
+<br/>
+<a href="diversity/en">Diversity</a>
+<br/>
+<a href="lang/en">Language</a>
+<br/>
+<a href="anti-harassment/en">Anti-Harrassment</a>
+<br/>
+<a href="leader/en">Leader</a>
+<br/>
+<a href="secretar/en">Secretary</a>
+<br/>
+<a href="comite/en">Committe</a> (technical committee)
+<br/>
+<a href="admin/en">System Administrator</a>
+<br/>
+<a href="developer/en">Developer</a>
+<br/>
+<a href="maintainer/en">Maintainer</a>
+<br/>
+<a href="consultant/en">Сonsultant</a>
+<br/>
+<a href="delegat/en">Delegate</a>
+<!-- architect -->
+<br/>
+<a href="vote/en">Vote</a>
+<br/>
+<a href="sec/en">Security</a>
+</p>
+
+
+<!-- Reputation -->
+
+
+<h2><a href="nation/en">Nation 2.0</a></h2>
+
+<p>
+<a href="ideo/en">Ideology</a>
+<br/>
+<a href="nation/about/en">Non-Geographically Contingent Governance Service Aggregators (Googlements)</a>
+<br/>
+<a href="manifest/en">Manifest</a>
+<br/>
+<a href="declaration/en">Declaration</a>
+<br/>
+<a href="constitution/en">Constitution</a>
+<br/>
+<a href="convention/en">Conventions</a>
+<br/>
+<a href="charta/en">Charters</a>
+<br/>
+<a href="law/en">Law</a>
+<br/>
+<a href="kon/en">Con</a> (Canonical rules)
+</p>
+
+
+<h2><a href="union/en">Union</a></h2>
+
+<p>
+<a href="union/intercenter/en">World Union</a>
+<br/>
+<a href="strateg/en">Global Strategic Initiative</a>
+<br/>
+<a href="sec/intercenter/en">Global security system</a>
+</p>
+
+
+<h2><a href="money/en">Money</a></h2>
+
+<p>
+<a href="/7522/0829/1/en">What is money</a>
+<br/>
+<a href="money/about/en">About LibreMoney</a>
+<br/>
+<a href="book/en">LibreMoney Book</a>
+<br/>
+<a href="onto/en">Ontology (for FinNet)</a>
+</p>
+
+
+<p class="h2">
+<a href="join/en">Join</a>
+</p>
+
+<p>
+The Libre New Member process is the process of becoming an official Libre Developer. These webpages are the place where prospective Libre Developers can find all the details on applying to become a Libre Developer, the different steps of the process, and how to track the process of their ongoing application.
+</p>
+
+
+
+
+<h2>Exchange projects</h2>
+
+<p>
+<a href="/7522/1006/1/en">Decentralized market - already half a year in service</a>
+</p>
+
+
+
+
+<h2>Аrchitecture</h2>
+
+<p>
+<a href="arch/en">System Аrchitecture</a>
+<br/>
+<a href="protocol/en">Protocol</a>
+<br/>
+<a href="api/en">API</a>
+</p>
+
+
+
+
+<h2>Other</h2>
+
+<p>
+<a href="future/en">Future</a>
+<br/>
+<a href="co/en">Collaboration</a>
+<br/>
+<a href="standard/en">Standards</a>
+<br/>
+<a href="symbol/en">Symbol and logo</a>
+<br/>
+<a href="onto/en">Ontology (for FinNet)</a>
+<br/>
+<a href="https://en.wikipedia.org/wiki/Libre" target="_blank">en.wikipedia.org/wiki/Libre</a>
+</p>
+
+
+
+
+<p><a href="https://en.wikipedia.org/wiki/Libre" target="_blank">en.wikipedia.org/wiki/Libre</a></p>
+
+
+<p>
+<b>LibreKnowledge</b>
+<br>
+<a href="https://en.wikipedia.org/wiki/Libre_knowledge" target="_blank">en.wikipedia.org/wiki/Libre_knowledge</a>
+</p>
+
+
+<p>
+<b>LibreSoftware</b>
+<br/>
+<a href="https://en.wikipedia.org/wiki/Libre_software" target="_blank">en.wikipedia.org/wiki/Libre_software</a>
+<br/>
+&#8212; <a href="https://ru.wikipedia.org/wiki/LibreOffice" target="_blank">LibreOffice</a>
+<br/>
+&#8212; <a href="https://en.wikipedia.org/wiki/LibreSSL" target="_blank">LibreSSL</a>
+</p>
+
+
+<p>
+<b>Libre.fm</b>
+<br/>
+<a href="https://en.wikipedia.org/wiki/Libre.fm" target="_blank">en.wikipedia.org/wiki/Libre.fm</a>
+</p>
+
+
+<!--p class="h2">LibreSociety</p>
+
+
+<p class="h2">LibreMoney</p>
+
+
+<p class="h2">LibreUnion</p-->
+
+<!--
+LibreMoney.org
+
+libremoney.org
+
+http://libremoney.org/BizModel1.html
+
+Ярослав Логинов (Prof1983)
+
++79252658808
+
+prof1983@yandex.ru
+
+http://vk.com/prof1983
+http://fb.com/prof1983
+
+Новый сайт Libre.Life на котором я реализую комплексный подход к созданию системы, включающей как реализацию новой экономической системы на основе ресурсно-репутационной модели, так и инструмент для инвестирования в IT стартапы. Дополнительные материалы:
+http://libre.life
+http://libremoney.org/doc
+http://libremoney.org/libremoney-white-paper.pdf
+http://libremoney.org/libremoney-white-paper-full.pdf
+http://libremoney.org/BizModel1.html
+http://libremoney.org/LibreMoney-FinModel.ods
+http://libremoney.org/LibreMoney-FinModel.xlsx
+http://libremoney.org/LibreMoney-Presentation1.odp
+http://libremoney.org/LibreMoney-Presentation2.pdf
+http://libremoney.org/LibreMoney-presentanion2-en.pdf
+http://libremoney.org/LibreMoney-iidf.odt
+http://libremoney.org/LibreMoney-404.odt
+http://libremoney.org/Libre.pdf
+-->
+
+
+
+
+<nav class="main-footer-nav"><a href="/en">Main</a></nav>
+
+</main>
+<footer><div>7523-02-01 - 7525-12-12</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

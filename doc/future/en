@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Future - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Future</h1>
+
+<p>
+The future is what will happen in the time after the present. Its arrival is considered inevitable due to the existence of time and the laws of physics. Due to the apparent nature of reality and the unavoidability of the future, everything that currently exists and will exist can be categorized as either permanent, meaning that it will exist for the whole of the future, or temporary, meaning that it won't and thus will come to an end. The future and the concept of eternity have been major subjects of philosophy, religion, and science, and defining them non-controversially has consistently eluded the greatest of minds. In the Occidental view, which uses a linear conception of time, the future is the portion of the projected time line that is anticipated to occur. In special relativity, the future is considered absolute future, or the future light cone. <a href="https://en.wikipedia.org/wiki/Future">Wikipedia</a>
+</p>
+
+<p>
+The <b>technological singularity</b> is the hypothesis that accelerating progress in technologies will cause a runaway effect wherein artificial intelligence will exceed human intellectual capacity and control, thus radically changing civilization in an event called the singularity. Because the capabilities of such an intelligence may be impossible for a human to comprehend, the technological singularity is an occurrence beyond which events may become unpredictable, unfavorable, or even unfathomable by human beings (whether or not it will be predictable and fathomable by, and maybe even favourable to, conscious beings that have transcended the human condition is, however, almost never discussed in the available singularity literature). <a href="https://en.wikipedia.org/wiki/Technological_singularity">Wikipedia</a>
+</p>
+
+<p>
+<b>Transhuman</b> or trans-human is an intermediary form between human and posthuman. In other words, a transhuman is a being that resembles a human in most respects but who has powers and abilities beyond those of standard humans. These abilities might include improved intelligence, awareness, strength, or durability. Transhumans sometimes appear in science-fiction as cyborgs or genetically-enhanced humans. <a href="https://en.wikipedia.org/wiki/Transhuman">Wikipedia</a>
+</p>
+
+<p>
+<b>Posthuman</b> or post-human is a concept originating in the fields of science fiction, futurology, contemporary art, and philosophy that literally means a person or entity that exists in a state beyond being human. The concept addresses questions of ethics and justice, language and trans-species communication, social systems, and the intellectual aspirations of interdisciplinarity. "Posthumanism" is not to be confused with "transhumanism" (the biotechnological enhancement of human beings) and narrow definitions of the posthuman as the hoped-for transcendence of materiality. <a href="https://en.wikipedia.org/wiki/Posthuman">Wikipedia</a>
+</p>
+
+<p>
+The <b>2045 Initiative</b> is a nonprofit organization that develops a network and community of researchers in the field of life extension. It was founded by Russian entrepreneur Dmitry Itskov, in February 2011 with the participation of Russian specialists in the field of neural interfaces, robotics, artificial organs and systems. <a href="https://en.wikipedia.org/wiki/2045_Initiative">Wikipedia</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/doc/en">Documentation</a></nav>
+
+</main>
+<footer><div>7523-03-27 - 7524-06-24</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

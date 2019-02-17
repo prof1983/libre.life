@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>About - Libre</title>
+</head>
+
+<body>
+
+<header>
+<div id="headerimg"><a href="/"><img alt="Libre" src="/img/header.jpg"/></a></div>
+<nav>
+<div id="mmlogo"><a href="/"><img src="/img/mmlogo.png"></a></div>
+<div id="mm"></div><script src="/js/mm.js"></script>
+<div id="lang"><b>en</b><a href="ru">ru</a></div>
+</nav>
+</header>
+
+<main>
+
+<h1>About</h1>
+
+<figure>
+<img src="/img/logo/800x800.png" width="400" height="400"/>
+</figure>
+
+<p>
+- Libre.Life - это точка входа, объединяющая проекты по <a href="/area/ru">нескольким направлениям</a>. А именно:
+<br/>
+- <a href="/club/ru">Инновации</a> - проект InInIn, помогающиий инновационным стартапам собрать комьюнити и привлечь финансирование на изготовление прототипа на начальном этапе (на этапе идеи)
+<br/>
+- <a href="/co/ru">Кооперация</a> - сервисы для Потребительских (паевых) обществ и совместной работы
+<br/>
+- <a href="/repute/ru">Репутация</a> - создание новой экономики на основе ресурсно-репутационной модели
+<br/>
+- <a href="/nation/ru">Государство 2.0</a> - сервисы предоставления услуг для людей в не зависимости от из месторасположения и гражданства. Такие как: решение Земельных Споров (Land Deeds), Семейных Контарктов (Family Contracts), Мир без границ и гражданства (Borderless World Citizenship), Корпоративная Регистрация (Corporate Incorporation) и Разрешение Споров (Dispute Resolution).
+<br/>
+- <a href="/future/ru">Будущее</a> - Разработки технологий продления жизни, освоения космоса, создание аватара, ИИ, проект 2045 и т.п.
+</p>
+
+
+<p>
+- <a href="/money/ru">Деньги</a> - мера оценки труда каждого человека
+<br/>
+- Starter - Краудфандинг/краудинвестинг/краудсорсинг/краудлендинг - привлечение финансирования на самых ранних этапах реализации проекта. Есть возможность привлекать финансироание на этапе идеи, на изготовление прототипа. Привлечение финансирования и обещания (контракты) фиксируются в blockchain, от результатов выполнения зависит репутация. Отличие от существующих систем: эмиссия новых денег происходит только по факту выполнения крауд-проекта!
+<br/>
+- Обменник - децентрализованный обменник, основанный на репутации (модель похожа на DCoin, XRP, etc)
+</p>
+
+
+<p>
+Организация взаимодействия людей внутри системы базируется на децентрализованной технологии blockchain. Цель проекта Libre.Life - создание децентрализованного ядра, объединяющего Инновации, Инвестиции, Кооперацию, построенную на Репутации (численный показатель, "карма" пользователя).
+</p>
+
+<p class="h">
+<b>Важно понимать, что указанные <a href="/area/ru">направления</a> разработки - это единый проект, одна Система.</b>
+</p>
+
+<figure>
+<b>Видео с Анатолием Вассерманом о единстве мира</b>
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/TAKQUN5VNOM" frameborder="0" allowfullscreen></iframe>
+<br/>
+Оригинал: <a href="http://youtu.be/HK3vLx4aybo">youtu.be/HK3vLx4aybo</a>
+</figure>
+
+
+<hr/>
+
+
+<p style="font-size: 250%; vertical-align: top;"><b>LibreMoney</b> - this is the first secured cryptocurrency with emission-based crowdfunding.</p>
+<p style="font-size: 150%; vertical-align: top;"><b>LibreMoney</b> - the first and only secured cryptocurrency not subject to neither inflation nor deflation.</p>
+
+
+<figure>
+<img src="http://storage9.static.itmages.ru/i/14/0719/h_1405751105_6189245_700c8b8bb7.jpg" /></td>
+</figure>
+
+<p style="font-size: 150%; vertical-align: top;">New Money (emission) in LibreMoney can only get the authors successful crowdfunding projects. The authors introduce new <b>value</b> in the world and receive for <b>money creation</b>, as a bonus for useful <b>work</b>. In fact, all the money in LibreMoney provided useful real work. Therefore, we say that <b>LibreMoney - is to secured currency</b>.</p>
+
+
+<h3>Target</h3>
+
+<ul>
+  <li>Create a complete financial system.</li>
+</ul>
+
+
+<h3>Principles</h3>
+
+<ul>
+  <li>Openness. Completely open system.</li>
+  <li>Decentralization. Septic system! No single server, there is no single mechanism for transferring data.</li>
+  <li>Stability. Maximum cryptographic protection. Encrypting the entire (transmitted data, the stored data) - this is necessary to avoid the possibility of compromise and destroy the system.</li>
+  <li>Anonymity. Exclude the possibility of tracking the real location of the user.</li>
+  <li>Scalability. The system should be able to scale up to larger sizes is not limited. Including should be able to work the system in interplanetary scale.</li>
+  <li>Reliability. Accurate execution of all tasks, regardless of the desires of third parties.</li>
+  <li>The uniqueness. The system is one. All actions are unambiguity. Not allowed parallel on different subnets of a system, is not allowed fragmentation of the system.</li>
+</ul>
+
+
+<h3>Сapabilities of the system</h3>
+
+<ul>
+  <li>Co-financing of projects (crowdfunding, crowdsourcing, crowdinvesting).</li>
+  <li>Investment.</li>
+  <li>VC funding.</li>
+  <li>Long-term accumulation.</li>
+  <li>Decentralized exchange of assets.</li>
+  <li>Trade.</li>
+  <li>Freelance.</li>
+  <li>and so on.</li>
+</ul>
+
+
+<h3>Features</h3>
+
+<ul>
+  <li>Until the system at least three computer system continues operation.</li>
+  <li>When the temporary isolation subnet system does not violate its functioning. Occurs only a limited number of users available for financial calculations and contracting.</li>
+  <li>The emergence and cash flows are subject only to open algorithms.</li>
+  <li>The amount of cash system reflects the totality of the real values ​​in the system.</li>
+  <li>Emission is produced only when creating a new real values.</li>
+</ul>
+
+
+<h3>Time</h3>
+
+<p>
+Beta version is planned to be implemented by October 24, 2014
+</p>
+
+
+<h3>Business Plan</h3>
+
+<p>
+<a href="http://libremoney.org/article/95/">Business Plan (Version 0.1)</a>
+</p>
+
+
+<h3>Presentation of the project</h3>
+
+<p>
+<iframe src="http://www.slideshare.net/slideshow/embed_code/36203786" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</p>
+
+<p>
+<a href="LibreMoney-Presentation1.odp">Download the presentation of the project LibreMoney</a> (3.8 MB)
+</p>
+
+
+<h3>Video presentation</h3>
+
+<p>
+<iframe width="420" height="315" src="//www.youtube.com/embed/Et-xCGOjnEU" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="//www.youtube.com/embed/1FgzMDO-G8k" frameborder="0" allowfullscreen></iframe>
+</p>
+
+
+<h3>Talisman project</h3>
+
+<p>
+<a target="_blank" href="http://itmages.ru/image/view/1737025/f51525fe"><img src="http://storage7.static.itmages.ru/i/14/0621/h_1403378307_4187656_f51525fee0.jpg" height="50%" width="50%"/></a>
+<a target="_blank" href="http://itmages.ru/image/view/1737034/c65d784b"><img src="http://storage6.static.itmages.ru/i/14/0621/s_1403378867_7516806_c65d784b24.jpg" /></a> <a target="_blank" href="http://itmages.ru/image/view/1737040/e1adb3ff"><img src="http://storage7.static.itmages.ru/i/14/0621/s_1403379116_1134986_e1adb3ffd5.jpg" /></a> <a target="_blank" href="http://itmages.ru/image/view/1737036/e8e7f00c"><img src="http://storage8.static.itmages.ru/i/14/0621/s_1403378902_7753725_e8e7f00c3e.jpg" /></a>
+</p>
+
+
+
+
+<p class="h2"><a href="/doc/en">Documentation</a></p>
+
+</main>
+
+<footer>
+<div>Libre 7522-7523</div>
+<div>01.02.7523 - 19.03.7523 (2015)</div>
+</footer>
+
+</body>
+</html>

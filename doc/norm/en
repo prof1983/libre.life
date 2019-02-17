@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Norm - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Norm</h1>
+
+<p>
+Regulation, specification
+</p>
+
+<!--figure>
+<img src="img/00.jpg"/>
+</figure-->
+
+<p>
+...
+</p>
+
+
+
+
+<h2>Additional</h2>
+
+<p>
+<br/>
+<a href="/doc/license/en">License</a>
+<br/>
+<a href="/doc/organization/en">Organization</a>
+
+<br/>
+<a href="http://en.wikipedia.org/wiki/President">en.wikipedia.org/wiki/President</a>
+<br/>
+<a href="http://en.wikipedia.org/wiki/Committee">en.wikipedia.org/wiki/Committee</a>
+<br/>
+<a href="http://en.wikipedia.org/wiki/Board_of_directors">en.wikipedia.org/wiki/Board_of_directors</a>
+<br/>
+<a href="http://www.debian.org/devel/">debian.org/devel/</a>
+<br/>
+<a href="http://www.debian.org/devel/constitution">debian.org/devel/constitution</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/doc/en">Documentation</a></nav>
+
+</main>
+<footer><div>7524-06-24 - 7524-06-24</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
