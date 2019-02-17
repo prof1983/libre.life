@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<link rel="stylesheet" href="/css/main.css"/>
+<title>Manifesto - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Manifesto</h1>
+
+<p class="h"><b>Alpha1</b> - 75230206</p>
+
+<figure>
+<img src="00.png"/>
+</figure>
+
+<p>
+0. The global objective of the project - the creation of resource-reputation-monetary economy, where the money is - it is an internal unit - a measure of the value of the products (goods and services).
+<br/>
+1. The purpose of the project - the creation of the core - the creation of an open and free database and toolkit (API, protocols, tools).
+<br/>
+2. The project is non-commercial and will remain so forever.
+<br/>
+3. All the developments made in the framework of the project distributed under a free license (public domain).
+<br/>
+4. The project is completely independent of any company or persons (groups).
+<br/>
+5. Everyone can participate in kernel development.
+<br/>
+6. Everyone can enjoy the benefits without restrictions (public domain).
+<br/>
+7. Management of the development process is based on the principles of meritocracy.
+<br/>
+8. To coordinate the development ballot selected technical committee and the main representative (leader). The maximum term - 1 year. After which new elections are held.
+<br/>
+9. Any change in the manifest are made only after a unanimous decision by all members of the Governing Council.
+</p>
+
+
+<h2>Basic concepts of functioning of the organization</h2>
+
+<ul>
+<li>Complete independence and self-government based on the principles of meritocracy (decisions are made by the most talented developers).</li>
+<li>Open to all developers who want to take part in the project and agree with the rules established in the community.</li>
+<!--li>Привлечение корпоративных разработчиков и финансирование индивидуальных энтузиастов за счет спонсорской помощи заинтересованных в сотрудничестве коммерческих компаний.</li>
+<li>Лицензионное соглашение не запрещает создание на основе разработок Ядра коммерческих продуктов.</li-->
+</ul>
+
+
+<h2>Technocracy</h2>
+
+<p>
+<b>Technocracy</b> is a form of government in which engineers, scientists, health professionals and other technical experts are in control of decision making in their respective fields.
+The term technocracy  derives from the Greek words tekhne meaning skill and kratos  meaning power, as in government, or rule.
+Thus the term technocracy denotes a system of government where those who have knowledge, expertise or skills compose the governing body.
+In a technocracy decision makers would be selected based upon how highly knowledgeable they are, rather than how much political capital they hold.
+<br/>
+<a href="http://en.wikipedia.org/wiki/Technocracy">en.wikipedia.org/wiki/Technocracy</a>
+</p>
+
+
+<h2>Meritocracy</h2>
+
+<p>
+<b>Meritocracy</b> is a system of government or other organization wherein appointments are made and responsibilities assigned to individuals based upon demonstrated intelligence and ability (merit).
+Meritocracy itself is not a form of government, but rather an ideology or methodology for the appointment of individuals to government.
+Individuals appointed to a meritocracy are judged based upon certain merits which could range from intelligence to morality to general aptitude to specific knowledge.
+A criticism of this methodology is that "merit" itself is a highly subjective, vague term potentially lacking clarity allowing for potential misuse.
+<br/>
+<a href="http://en.wikipedia.org/wiki/Meritocracy">en.wikipedia.org/wiki/Meritocracy</a>
+</p>
+
+
+<h2>Additional</h2>
+
+<p>
+<a href="/doc/license/en">License</a>
+<br/>
+<a href="/doc/organization/en">Organization</a>
+
+<br/>
+<a href="internet/en">Manifesto of the free information space</a>
+
+<br/>
+<a href="http://en.wikipedia.org/wiki/Manifesto">en.wikipedia.org/wiki/Manifesto</a>
+<br/>
+<a href="http://en.wikipedia.org/wiki/President">en.wikipedia.org/wiki/President</a>
+<br/>
+<a href="http://en.wikipedia.org/wiki/Committee">en.wikipedia.org/wiki/Committee</a>
+<br/>
+<a href="http://en.wikipedia.org/wiki/Board_of_directors">en.wikipedia.org/wiki/Board_of_directors</a>
+<br/>
+<a href="http://www.debian.org/devel/">debian.org/devel/</a>
+<br/>
+<a href="http://www.debian.org/devel/constitution">debian.org/devel/constitution</a>
+</p>
+
+<p>
+<a href="http://www.zhurnal.ru/staff/gorny/translat/deklare.html">zhurnal.ru/staff/gorny/translat/deklare.html</a> - The Declaration of Independence of Cyberspace (ru)
+<br/>
+<a href="http://www.opennet.ru/opennews/art.shtml?num=28883">opennet.ru/opennews/art.shtml?num=28883</a> - Attempts to block the work of WikiLeaks moved to a new level (ru)
+</p>
+
+<p>
+<a href="http://aikernel.org/develop/manifesto">aikernel.org/develop/manifesto</a>
+<br/>
+<a href="/7523/0205/1/en">Money, energy, human labor</a>
+</p>
+
+
+<p class="h2"><a href="/doc/manifest/en">Manifesto</a></p>
+
+</main>
+<footer><div>7523-02-06 - 7523-04-18</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
