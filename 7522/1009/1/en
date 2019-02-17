@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>For those who developed LibreMoney - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>For those who developed LibreMoney</h1>
+
+<figure>
+<img src="00.png"/>
+</figure>
+
+<ul>
+<li>For venture investors: easy search start-ups in the early stages with a proven demand;
+<li>For private investors the opportunity to invest in interesting projects for a small stake in the project (~ 0.1%);
+<li>For startups (entrepreneur): Crowd-attracting investment at an early stage (stage ideas and prototypes);
+<li>For investors in crypto-currency;
+<li>For the OpenSource community — the opportunity to earn money (Donate + emission as a prize for good work);
+<li>For all — a full monetary and financial system of the XXI century. Including the possibility of a decentralized, intelligent self-fulfilling contracts, electronic notary and other opportunities offered by technology blockchain.
+</ul>
+
+<p>
+Business model: P2P
+<br/>
+Monetizitsiya: initial issue 1 million Lm.
+</p>
+
+<p>
+Source:
+<a href="http://libremoney.org/article/738" target="_blank">libremoney.org/article/738</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/money/libre/en">Libre.Money</a></nav>
+
+</main>
+<footer><div>7524-10-09 - 7524-10-09</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

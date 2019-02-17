@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>For those who developed LibreMoney - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>For those who developed LibreMoney</h1>
+
+<figure>
+<img src="00.png"/>
+</figure>
+
+<p>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/money/libre/ru">Libre.Money</a></nav>
+
+</main>
+<footer><div>7524-10-09 - 7524-10-09</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
