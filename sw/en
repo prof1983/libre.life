@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Social Semantic Web - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Social Semantic Web</h1>
+
+<p class="h2">
+<a href="">Read more...</a> (RU)
+</p>
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/en">Main</a></p>
+
+</main>
+<footer><div>7523-07-24 - 7523-07-24</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
