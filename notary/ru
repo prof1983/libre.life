@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Нотариус - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Нотариус</h1>
+
+<figure>
+<a href="img/00b.jpg"><img src="img/00.jpg"></a>
+</figure>
+
+<p>
+<b>Нотариус</b> (лат. notarius — писарь, секретарь) — лицо, специально уполномоченное на совершение нотариальных действий, среди которых свидетельствование верности копий документов и выписок из них, свидетельствование подлинности подписи на документах, свидетельствование верности перевода документов с одного языка на другой, а также некоторые другие действия, нормы которых отличаются друг от друга в различных странах.
+</p>
+
+
+
+
+<h2>Block Notary</h2>
+
+<p>
+<a href="http://www.blocknotary.com/" target="_blank">blocknotary.com</a>
+<br/>
+<a href="http://forklog.com/blokchejn-na-sluzhbe-kyc-blocknotary-razrabotali-konstruktor-video-intervyu/" target="_blank">Блокчейн на службе KYC — BlockNotary разработали конструктор видео-интервью</a>
+</p>
+
+
+
+
+<h2>Публикации</h2>
+
+<div class="article">
+<a href="/7522/0818/1/ru"><img src="/7522/0818/1/logo-320x200.jpg"></a>
+<p><a href="/7522/0818/1/ru">Технология блокчейн на службе электронного документооборота</a></p>
+<p>
+В понедельник Нью-Йоркская компания Basno, специализирующаяся на разработке и производстве решений цифровой аутентификации, анонсировала свой новый сервис, под названием BlockSign. Сервис представляет собой общедоступный регистр, содержащий документы подписанные электронным способом. Каждая подпись сохраняется в блокчейне сети Биткойн и потому является уникальной и не модифицируемой.
+<a href="/7522/0818/1/ru">Подробнее...</a>
+</p>
+</div>
+
+
+
+
+<nav class="main-footer-nav"><a href="/ru">Главная</a></nav>
+
+</main>
+<footer><div>7524-11-10 - 7524-11-10</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
