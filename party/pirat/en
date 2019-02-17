@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Pirate Party - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Pirate Party</h1>
+
+<figure>
+<a href="img/00.png"><img src="img/logo/300x300.png"/></a>
+</figure>
+
+
+<p class="h3">
+<a href="program/en">Program of "Pirate Party of Russia"</a>
+<br/>
+<a href="declaration/en">Declaration goals</a>
+<br/>
+<a href="manifest/1">Manifest 1.0</a>
+<br/>
+<a href="manifest/3">Manifest 3.0</a>
+<br/>
+<a href="manifest_eu/en">PPEU Manifesto</a>
+</p>
+
+
+<p class="h2"><a href="ru">RU</a></p>
+
+
+<p class="h3">
+<a href="/verify/en">Document verification</a>
+<br/>
+<a href="/vote/en">Vote</a>
+</p>
+
+
+<!--
+0504/1
+https://forum.pirate-party.ru/8-s'ezd-partii-(obsujdeniya)/predlojeniya-v-programmu-decentralizovannie-instrumenti-i-tehnologii/
+https://forum.pirate-party.ru/8-s'ezd-partii-(obsujdeniya)/sbor-predlojeniy-dlya-vklyucheniya-v-programmu-partii-(8-s'ezd)/msg6832/#msg6832
+-->
+
+
+<p class="h2"><a href="/party/en">Party</a></p>
+
+</main>
+<footer><div>7523-02-01 - 7523-05-04</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Declaration goals - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Declaration goals</h1>
+
+<figure>
+<a href="/party/pirat/img/00.png"><img src="/party/pirat/img/logo/300x300.png"/></a>
+</figure>
+
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+<p class="h2"><a href="/party/pirat/en">Pirat Party</a></p>
+
+</main>
+<footer><div>7523-05-04 - 7523-05-04</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

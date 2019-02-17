@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Progress Party Rules - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Progress Party Rules</h1>
+
+<figure>
+<a href="/party/progress/img/00.png"><img src="/party/progress/img/logo/300x300.png"/></a>
+</figure>
+
+
+<p class="h2"><a href="ru">RU</a></p>
+
+
+<p class="h2"><a href="/party/pregress/en">Progress Party</a></p>
+
+</main>
+<footer><div>7523-04-19 - 7523-04-20</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
