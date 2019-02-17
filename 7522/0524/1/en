@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Lighthouse: decentralized crowdfunding based Bitcoin protocol - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Lighthouse: decentralized crowdfunding based Bitcoin protocol</h1>
+
+<figure>
+<a href="00b.jpg"><img src="00.jpg"/></a>
+</figure>
+
+<p>
+Bitcoin natively supports such an interesting opportunity as contracts. Contract - a set of conditions for the completion of each transaction described by a built-in scripting language. Among other things, the contracts allow you to organize and raise funds that are made available to the recipient only when a certain amount, ie crowdfunding.
+</p>
+
+
+<p class=h2>
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+<br/>
+<br/>
+
+<p class="h2"><a href="/co/fund/en">Crowdfunding</a></p>
+
+</main>
+<footer><div>7524-05-25 - 7524-05-25</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
