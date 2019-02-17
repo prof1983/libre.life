@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Maverick - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Maverick</h1>
+
+<figure>
+<img src="img/00.jpg"/>
+</figure>
+
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/economy/management/ru">Управление</a></p>
+
+</main>
+<footer><div>7524-02-23 - 7524-02-23</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
