@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Open letter about the club - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Open letter about the club</h1>
+
+<figure>
+<a href="img/00.jpg"><img src="img/00-1024.jpg"/></a>
+</figure>
+
+<p>
+We innovators club, where everyone has the opportunity to free form to tell us about your project at the stage of ideas. This is the initial step towards the creation of a startup. At this stage, the guys get feedback, is the formation of the team and assesses our community (like / dislike, fly / not fly).
+</p>
+
+
+<p class="h2">
+<a href="ru">RU</a>
+</p>
+
+
+<p class="h2"><a href="/club/en">Club</a></p>
+
+</main>
+<footer><div>7523-04-12 - 7523-04-20</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
