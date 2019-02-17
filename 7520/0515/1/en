@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Shaimuratov treasury - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Shaimuratov treasury</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+Employees of agricultural enterprises received salaries in commodity coupons
+</p>
+
+<br/>
+
+<p class="h2">
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/economy/aspirin/en">Aspirin</a></nav>
+
+</main>
+<footer><div>7525-05-15 - 7525-05-16</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
