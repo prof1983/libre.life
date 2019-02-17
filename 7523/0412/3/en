@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<link rel="stylesheet" href="/css/main.css"/>
+<title>A-CluB 09.04.15 - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>A-CluB 09.04.15</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+<p class="h2"><a href="/club/en">Club</a></p>
+
+</main>
+<footer><div>7523-04-24 - 7523-04-24</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
