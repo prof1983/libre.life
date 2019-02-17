@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>The medal "For the victory in the Cold War" - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>The medal "For the victory in the Cold War"</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<!--
+The medal "For the victory in the Cold War" (USA) — unofficial US commemorative award. The medal may acquire, without the right to carry, troops armed US forces and civil servants of the federal government with an official certificate of service in the period of the Cold War (1946-1991 gg.).
+-->
+
+<p>
+<a href="https://en.wikipedia.org/wiki/Cold_War_Victory_Medal" target="_blank">The medal "For the victory in the Cold War"</a> (USA) — unofficial US commemorative award. The medal may acquire, without the right to carry, troops armed US forces and civil servants of the federal government with an official certificate of service in the period of the Cold War (1946-1991 gg.).
+</p>
+
+
+<p class="h2">
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/policy/en">Policy</a></nav>
+
+</main>
+<footer><div>7524-11-17 - 7524-11-17</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
