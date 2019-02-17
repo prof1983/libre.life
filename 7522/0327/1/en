@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Theory of Money. From seashells to Bitcoin - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Theory of Money. From seashells to Bitcoin</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+This course is about the phenomenon, to which each of us faces on a daily basis, which is often and excitedly talk people around the world, as it has become an integral part of our lives (especially in the city!) - About the money ...
+</p>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/cbHjr7IKBno?list=PL-_cKNuVAYAWRU6FrRMQaaYDnNXdys3PY" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+<figure>
+<a href="01b.jpg"><img src="01.jpg"/></a>
+<a href="02b.jpg"><img src="02.jpg"/></a>
+<br/>
+<a href="03b.jpg"><img src="03.jpg"/></a>
+<a href="04b.jpg"><img src="04.jpg"/></a>
+</figure>
+
+<p class=h2>
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/money/en">Money</a></nav>
+
+</main>
+<footer><div>7524-12-21 - 7524-12-21</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

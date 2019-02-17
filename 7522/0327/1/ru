@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Теории денег. От ракушки до биткоин - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Теории денег. От ракушки до биткоин</h1>
+
+<figure>
+<a href="00b.jpg"><img src="00.jpg"/></a>
+</figure>
+
+<p>
+Это курс о явлении, с которым каждый из нас сталкивается ежедневно, о котором часто и с волнением рассуждают люди во всем мире, так как оно стало неотъемлемой частью нашей жизни (особенно в городе!) — о деньгах…
+</p>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/cbHjr7IKBno?list=PL-_cKNuVAYAWRU6FrRMQaaYDnNXdys3PY" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+<figure>
+<a href="01b.jpg"><img src="01.jpg"/></a>
+<a href="02b.jpg"><img src="02.jpg"/></a>
+<br/>
+<a href="03b.jpg"><img src="03.jpg"/></a>
+<a href="04b.jpg"><img src="04.jpg"/></a>
+</figure>
+
+
+<p>
+Источник:
+<a href="https://www.lektorium.tv/ZkH" target="_blank">lektorium.tv/ZkH</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/money/ru">Деньги</a></nav>
+
+</main>
+<footer><div>7524-12-21 - 7524-12-21</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
