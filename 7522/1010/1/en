@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>The Imminent Decentralized Computing Revolution - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>The Imminent Decentralized Computing Revolution</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p class="h">
+“Power tends to corrupt, and absolute power corrupts absolutely.” 
+<br/>
+- Lord Acton, 1887
+</p>
+
+<p>
+A mega-trend is brewing that could make bureaucratic hierarchies, middlemen and gatekeepers everywhere obsolete including social networks, banks, stock exchanges, electronic voting systems and even governments. It’s called decentralized computing, and it could fundamentally transform the way we connect to and exchange value on the Internet.
+</p>
+
+<p>
+Most services today are centralized — sharing photos via social networks, uploading files to the cloud, sending and receiving money. In fact it’s how the world has been organized for hundreds of years. But history has proven that the centralized model is flawed and inefficient. Power concentrated in the hands of a few has always been at risk of corruption, greed and chaos.
+</p>
+
+<p>
+Decentralization transfers that power from individuals and corporations to technology and immutable math, leading to reduced overheads, improved security, more resiliency and higher efficiency.
+</p>
+
+<p>
+There are three technologies that will form the foundation of the decentralized computing stack — <b>mesh networks</b> (decentralized networking), <b>block chain</b> (decentralized transactions) and <b>autonomous agents</b> (decentralized decision making).
+</p>
+
+
+<h2>Mesh networks</h2>
+
+<p>
+The traditional network architecture of the Internet is vulnerable. There is risk of accidental damage or deliberate disruption (e.g. 70 million J.P. Morgan Chase accounts got hacked last week). We’re at the mercy and whims of telecom providers (e.g. the net neutrality debate). And there is a risk of corporations wielding too much power and governments tracking and spying on users (e.g. the NSA).
+</p>
+
+<figure>
+<a href="/net/mesh/en"><img src="/net/mesh/img/00.jpg"/></a>
+</figure>
+
+<p>
+Over the last few days, hundreds of thousands of pro-democracy protesters have been thronging the streets of Hong Kong. Many of them have been turning to a new kind of app to message each other through a network that doesn’t require Wi-Fi nodes or cell towers. The app, FireChat by OpenGarden, got over 100,000 signups in 24 hours and is underpinned by something called mesh networks.
+</p>
+
+<p>
+<a href="/net/mesh/en">Mesh networks</a> are peer-to-peer networks created by daisy-chaining your phone (which becomes a router) to nearby phones using Bluetooth and Wi-Fi. Everyone joining the mesh network creates an extension of the Internet. The more devices or nodes, the stronger it becomes. They cannot be controlled by any central organization. There is no single IP to block. And governments can’t shut them down. They are decentralized, self-healing and remarkably resilient.
+</p>
+
+<p>
+Mesh networks started taking off with the proliferation of smartphones (no additional hardware is required) and the introduction of Multipeer Connectivity (iOS 7.0 and onwards) and Wi-Fi Peer-to-Peer (Android 4.0 onwards). They’ve since been used in protests in Taiwan, Iran and Iraq, the annual Burning Man Festival in Black Rock Desert and even in Red Hook, a remote neighborhood in Brooklyn that had no mobile phone or Internet access when Hurricane Sandy struck.
+</p>
+
+
+<h2>Block chain</h2>
+
+<figure>
+<a href="01.jpg"><img src="01.jpg"/></a>
+</figure>
+
+<p>
+You’ve probably heard of Bitcoin, the global, decentralized crypto-currency, which incidentally has also become the largest supercomputing network in the world. But Bitcoin is really an app built on top of a revolutionary bit of technology called the block chain, the first practical solution to an age-old problem in computing, the Byzantine Generals Problem (establishing trust between unrelated parties over an untrusted network like the Internet).
+</p>
+
+<p>
+The block chain is essentially a giant distributed cryptographic ledger shared amongst all nodes participating in the network, and keeps a record of every single successful transaction. This allows for trustless transactional activity. It facilitates ownership, storage, transfer and processing of information without the need for a middleman or identity information clearinghouse.
+</p>
+
+<p>
+What this really means is that transactions, identity verification, trust, reputation and payments become quantifiable and programmable.
+</p>
+
+<p>
+And it opens up a whole range of possibilities:
+</p>
+
+<ul>
+
+<li>
+<a href="/nation/vote/en"><b>Decentralized voting</b></a> (e.g. <a href="/nation/vote/en#agora">Agora</a>), where voters pay using a crypto-currency into an account representing their choice, with the winning candidate being one with highest balance.
+</li>
+
+<li>
+<a href="/net/dns/en"><b>Decentralized Domain Name Registration (DNS)</b></a> (e.g. <a href="/net/dns/en#namecoin">Namecoin</a>) would be based on a crypto-currency model, and operate independently of ICANN (so technically immune from Internet censorship). Namecoin uses the .bit top-level domain.
+</li>
+
+<li>
+<a href="/net/storage/en"><b>Decentralized storage</b></a> (e.g. <a href="/net/storage/en#maidsafe">Maidsafe</a> and <a href="/net/storage/en#storjio">Storj</a>), where trustless nodes would work together (using crypto-currencies as means of payment) to exchange storage space and bandwidth.
+</li>
+
+<li>
+<b>Smart self-validating contracts</b> for real-time revenue sharing (e.g. <a href="/contract/en#sae">Secure Asset Exchange</a>); helping artists secure and verify their digital artwork by logging it in the block chain (e.g. <a href="/verify/en#monegraph">Monegraph</a>); and even decentralized Twitter-like P2P asynchronous messaging platforms (e.g. BitMessage and Twister).
+</li>
+
+<li>
+<b>Document certification</b> (e.g. <a href="/verify/en#proofofexistence">Proof of Existence</a>) is a clever use of the block chain as a publicly visible and authenticated timestamp.
+</li>
+
+</ul>
+
+<p>
+In fact, asset registries/keys that could theoretically be implemented in a block chain model are endless — land titles, private equities, mortgages, vehicle registries, passports, birth certificates, voter ids, gun permits, wills, escrows, degrees, car keys, house keys, patents, trademarks, coupons, genome data and even nuclear launch codes!
+</p>
+
+<p>
+Companies like <a href="/dac/en#ethereum">Ethereum</a> and <a href="/dac/en#bitshares">BitShares</a> are now building their own, new block chains, platform and programming language to help developers build next-gen decentralized <s>apps</s> <b>companies</b>.
+</p>
+
+<figure>
+<a href="02.jpg"><img src="02.jpg"/></a>
+</figure>
+
+<p>
+And just last week, a couple at Disney World had the <a href="http://cointelegraph.com/news/112592/first-blockchain-marriage-will-take-place-at-disney-world-bitcoin-conference" target="_blank">first block chain marriage</a>, recorded forever within the block chain!
+</p>
+
+
+<h2>Autonomous agents</h2>
+
+<figure>
+<a href="/agent/ru"><img src="/agent/img/ab.gif"/></a>
+</figure>
+
+<p>
+<a href="/agent/en">Autonomous agents</a> - these are entities that make their own choices regarding how to act in their environment without influence of a central authority.
+</p>
+
+<p>
+With decentralization, autonomous agents will play an increasingly important role in how things get done. They will be the brains and logic residing inside everything from driverless cars to delivery drones, from your bank accounts to your thermostats. They will operate individually or in a swarm. They will buy and sell services using crypto-currencies, pay their own costs to maintain and upgrade themselves and even replicate as they become profitable. They will be self-sustaining economic units — almost like mini-corporations, but without the bureaucracy.
+</p>
+
+<figure>
+<a href="03.jpg"><img src="03.jpg"/></a>
+</figure>
+
+<p>
+Of course, as the decentralized computing revolution spreads, there will be legal, technical and social challenges. Anonymity, a key component of the system, could encourage illegal activities. With rise of autonomous agents, questions regarding liability and accountability <a href="http://www.theatlantic.com/business/archive/2014/04/who-is-at-fault-when-a-driverless-car-gets-in-an-accident/361250/">will be raised</a>. And we have to be careful we don’t exchange the tyranny of gatekeepers for the tyranny of code.
+</p>
+
+<p>
+But the transition to a global system that is decentralized, distributed, anonymous, efficient, secure, permission-less, trustless, resilient, frictionless, almost free, with no single point of control and no single point of failure… seems inevitable.
+</p>
+
+<p>
+As the Internet of Things slowly takes shape, an estimated <a href="http://www.cisco.com/web/solutions/trends/iot/portfolio.html">50 billion devices</a> are expected to come online by 2020. They will be powered by autonomous agents, transact on top of the block chain and connect to each other via mesh networks. As more of the decision-making moves from the application layer down to the agent layer, the global system will start becoming more intelligent.
+</p>
+
+<p>
+And that is when things should get really interesting.
+</p>
+
+<figure>
+<a href="04.jpg"><img src="04.jpg"/></a>
+</figure>
+
+<p>
+Mr. Sharma (aka “The Guy with the Red Tie”) is the founder of <a href="http://www.garysguide.com/" target="_blank">GarysGuide</a>.
+</p>
+
+<p>
+Source:
+<a href="http://blogs.wsj.com/accelerators/2014/10/10/weekend-read-the-imminent-decentralized-computing-revolution/" target="_blank">http://blogs.wsj.com/accelerators/2014/10/10/weekend-read-the-imminent-decentralized-computing-revolution/</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/economy/en">Economy</a></nav>
+
+</main>
+<footer><div>7523-04-01 - 7524-10-18</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
