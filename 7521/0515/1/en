@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>KriyaMoney. Part 1: Introduction - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>KriyaMoney. Part 1: Introduction</h1>
+
+<figure>
+<img src="00.png"/>
+</figure>
+
+<p>
+Judging by the different materials on the Internet, the 2008 crisis in the United States and the crisis of 2010 in Russia - this is only the beginning of the global economic crisis. Looking for something to do with it. Namely, you need to find a convenient and reliable way to pay for various "goods", need a convenient tool for investment, you need a convenient way to accumulate.
+</p>
+
+<p class="h">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+<br/>
+<br/>
+
+<p class="h2"><a href="/money/en">Money</a></p>
+
+</main>
+<footer><div>7524-05-15 - 7524-05-15</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
