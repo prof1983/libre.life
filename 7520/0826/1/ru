@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Свободные деньги в Башкирии — Рустам Давлетбаев - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Свободные деньги в Башкирии — Рустам Давлетбаев</h1>
+
+<figure>
+<img src="00.jpg" />
+</figure>
+
+<p>
+Экономист-эксперт, руководитель проекта использования свободных денег Сильвио Гезеля в Башкирии. Начавший первый эксперимент по внедрению гезелевских денег на территории России.
+</p>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/VoNgb-7V5EY" frameborder="0" allowfullscreen></iframe>
+<!-- https://youtu.be/HdbJMaj_DvI -->
+</figure>
+
+<!-- http://aspirinrb.net/archives/831/ -->
+
+
+
+
+<nav class="main-footer-nav"><a href="/economy/aspirin/ru">Агентство стимулирования предпринимательских инициатив "Ресурсы и Новации"</a></nav>
+
+</main>
+<footer><div>7525-02-09 - 7525-02-09</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
