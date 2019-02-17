@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Экономика - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Экономика</h1>
+
+
+<h2>Видео</h2>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/gWzefyfOp9U" frameborder="0" allowfullscreen></iframe>
+<br/>
+Катасонов Валентин Юрьевич
+</figure>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/6cMz7e13nlo" frameborder="0" allowfullscreen></iframe>
+<br/>
+Экономическая модель М А Чартаева Новое экономическое мышление
+</figure>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/GJh6-ubrUjI" frameborder="0" allowfullscreen></iframe>
+<br/>
+Рустам Давлетбаев Гезелевские деньги (1)
+</figure>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/5Va3O18vx24" frameborder="0" allowfullscreen></iframe>
+<br/>
+Рустам Давлетбаев Гезелевские деньги (2)
+</figure>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/oQKLgV19XUY" frameborder="0" allowfullscreen></iframe>
+<br/>
+Бизнес-форум "Клуб Директоров" - МФЦ Вологда Мира - 2015-03-12
+</figure>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/yMa5st7hUMs?list=PLEtNzW89wEgz54OCBdjV5R0SGtA_HSXs3" frameborder="0" allowfullscreen></iframe>
+<br/>
+Белый КОН. Природные корни Народо-Властия (Евгений Гигаури)
+</figure>
+
+
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/economy/ru">Экономика</a></p>
+
+</main>
+<footer><div>7524-05-22 - 7524-05-22</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

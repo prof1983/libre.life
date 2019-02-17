@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Macroeconomy - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Macroeconomy</h1>
+
+<p class="h">
+The national economy as a whole
+</p>
+
+<p class="h">
+<a href="img/00b.jpg"><img src="img/00.jpg"/></a>
+</p>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+
+
+<br/>
+<br/>
+
+<p class="h2"><a href="/economy/en">Economy</a></h2>
+
+</main>
+<footer><div>7524-06-01 - 7524-06-02</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

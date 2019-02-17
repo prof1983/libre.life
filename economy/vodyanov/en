@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Vodianov economic system - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Vodianov economic system</h1>
+
+<p class="h">
+<a href="img/logo/600x600.jpg"><img src="img/logo/300x300.jpg"/></a>
+</p>
+
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+<br/>
+
+
+<h2>Publications</h2>
+
+<div class="article">
+<a href="/7520/0730/1/en"><img src="/7520/0730/1/logo-320x200.jpg" /></a>
+<p><a href="/7520/0730/1/en">Motivation system c elements of market relations</a></p>
+<p>
+Metaphysics idea is to introduce market relations in production processes. According to legend, the idea was first proposed in 1982 by the Soviet specialist in organizational technologies Valery Vodianova and used in the construction of the Kalinin NPP. For the same legend were obtained outstanding results and team builders turned into something integral "we", showing outstanding performance.
+<a href="/7520/0730/1/en">Read more...</a>
+</p>
+</div>
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/economy/en">Economy</a></h2>
+
+</main>
+<footer><div>7523-07-30 - 7523-09-21</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

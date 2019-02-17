@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Microeconomics - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Microeconomics</h1>
+
+<p class="h">
+Separate production or enterprise
+</p>
+
+<p class="h">
+<img src="img/00.jpg"/>
+</p>
+
+<p>
+<a href="https://en.wikipedia.org/wiki/Microeconomics" target="_blank"><b>Microeconomics</b></a> (from Greek prefix mikro- meaning "small") is a branch of economics that studies the behavior of individuals and firms in making decisions regarding the allocation of limited resources.
+</p>
+
+<figure>
+<img src="img/01.jpg"/>
+</figure>
+
+<figure>
+<img src="img/02.jpg"/>
+</figure>
+
+
+
+
+<br/>
+<br/>
+
+<p class="h2"><a href="/economy/en">Economy</a></h2>
+
+</main>
+<footer><div>7524-06-01 - 7524-06-02</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

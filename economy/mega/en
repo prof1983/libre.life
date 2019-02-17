@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Megaeconomy - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Megaeconomy</h1>
+
+<p class="h">
+World economy
+</p>
+
+<p class="h">
+<a href="img/00b.jpg"><img src="img/00.jpg"/></a>
+</p>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+<figure>
+<a href="img/01b.jpg"><img src="img/01.jpg"/></a>
+</figure>
+
+<figure>
+<img src="img/02.jpg"/>
+</figure>
+
+
+
+
+<br/>
+<br/>
+
+<p class="h2"><a href="/economy/en">Economy</a></h2>
+
+</main>
+<footer><div>7524-06-01 - 7524-06-02</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

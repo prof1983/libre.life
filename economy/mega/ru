@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Мегаэкономика - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Мегаэкономика</h1>
+
+<p class="h">
+Мировое хозяйство
+</p>
+
+<figure>
+<a href="img/00b.jpg"><img src="img/00.jpg"/></a>
+</figure>
+
+<p>
+<b>Мегаэкономика</b> (или метаэкономика) - мировое хозяйство; экономика сверхбольших объектов: нескольких стран, а то и всего мира.
+<a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%8F_%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0" target="_blank">Мировая экономика</a> (интерэкономика) - характеризует закономерность возникновения и развития мирового хозяйства.
+</p>
+
+<figure>
+<a href="img/01b.jpg"><img src="img/01.jpg"/></a>
+</figure>
+
+<figure>
+<img src="img/02.jpg"/>
+</figure>
+
+
+
+
+<br/>
+<br/>
+
+<p class="h2"><a href="/economy/ru">Экономика</a></h2>
+
+</main>
+<footer><div>7524-06-01 - 7524-06-02</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
