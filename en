@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<style>
+.image img {
+transition: all 1s ease-out;
+}
+.image img:hover{
+transform: scale(1.05);
+}
+.uk-button {
+	margin: 0;
+	border: none;
+	overflow: visible;
+	display: inline-block;
+	/*box-sizing: border-box;*/
+	vertical-align: middle;
+	text-decoration: none;
+	text-align: center;
+	/*background-origin: border-box;*/
+	font-family: 'Roboto', Helvetica, Arial, sans-serif;
+
+	min-height: 2em;
+	line-height: 2em;
+	font-size: 1.5em;
+	padding: 0 3em;
+	border-radius: 2em;
+	background-color: #3492f5;
+	background-image: linear-gradient(to bottom, #38bcf9, #3276f2);
+}
+.uk-button:link { color: white; }
+.uk-button:visited { color: white; }
+.uk-button:active { color: white; }
+.uk-button:hover { color: #eee; }
+.uk-image {
+	padding: 0 2em;
+	width: 15em;
+}
+</style>
+<title>Main - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Libre.Life</h1>
+
+
+
+
+<figure class="image">
+<a href="/start/en"><img src="/img/logo/400x400.png" style="max-width: 300px;"/></a>
+</figure>
+
+<p class="h">
+<b>Per cognitione universum ad homo divinus</b>
+</p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+
+<hr/>
+
+
+
+
+<br/>
+
+<p class="h2">
+<a class="uk-button" href="/section/en">Sections</a>
+</p>
+
+<p class="h2">
+<a class="uk-button" href="/projects/en">Projects</a>
+</p>
+
+<br/>
+<br/>
+
+
+
+
+<hr/>
+
+
+
+
+<br/>
+<br/>
+
+<h2>What is Libre.Life</h2>
+
+<a href="/start/en"><img class="uk-image" src="/img/logo/400x400.png" style="float:left;"/></a>
+
+<p class="h" style="max-width: 600px;">
+<b>Libre.Life - a free life</b>
+</p>
+
+<p>
+<b>Libre.Life</b> - is a free decentralized club innovators and inventors, creators of the club, the club entrepreneurs, investors and experts;
+<br/>
+<b>Libre.Life</b> - a new economy based on resource-reputation model and decentralized technologies;
+<br/>
+<b>Libre.Life</b> - is the creation of free decentralized settlements (communes) on cooperative principles;
+<br/>
+<b>Libre.Life</b> - this funding projects by Crowdfunding, crowdsourcing, crawdinvesting;
+<br/>
+<b>Libre.Life</b> - is the creation of a decentralized internet and State (Nation) 2.0;
+<br/>
+<b>Libre.Life</b> - a community of people of the future. We - the people of the future.
+</p>
+
+<br/>
+
+<p class="h">
+<a class="uk-button" href="/start/en">Take care of future now</a>
+</p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+
+<hr/>
+
+
+
+
+
+<br/>
+<br/>
+
+<h2>Libre.Life site</h2>
+
+<a href="/start/en"><img class="uk-image" src="/per/img/logo/400x400.jpg" style="float:right;"/></a>
+
+<p class="h">
+<b>Libre.Life site - is the entry point</b>
+</p>
+
+<p>
+Libre.Life site was created as a directory ordered and structured information in the directions and projects that are necessary to achievement our objectives. The tactical objective of the project - the creation of a distributed network of communication in society, which can not be destroyed, moderate, or some other means to restrict freedom of information exchange. For this kernel is developed Libre.
+</p>
+
+<br/>
+<br/>
+
+<p class="h">
+<a class="uk-button" href="/start/en">Learn more</a>
+</p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+
+<hr/>
+
+
+
+
+<br/>
+<br/>
+
+<h2>IT transaction system</h2>
+
+<a href="/p/18/en"><img class="uk-image" src="/p/18/img/logo/400x400.png" style="float:left;"/></a>
+
+<p>
+In fact - this is the clearing center of the cooperative economy of Russia, which are members of co-operatives and consumer society. The project aims to make a major push in this direction in our country. IT-platform technologies designed to blockchain and the new economic policy of negative interest rates, is widely used today by European central banks.
+</p>
+
+<br/>
+<br/>
+
+<p class="h">
+<a class="uk-button" href="/p/18/en">Read more</a>
+</p>
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+
+<hr/>
+
+
+
+
+<br/>
+<br/>
+
+<h2>Club</h2>
+
+<a href="/club/en"><img class="uk-image" src="/club/img/logo/400x400.jpg" style="float:right;"/></a>
+
+<p>
+Free decentralized club of innovators and inventors, the club of creators, the club of entrepreneurs, investors and experts.
+</p>
+
+<p>
+Meeting for the presentation, discussion of ideas, pans, projects
+</p>
+
+<br/>
+<br/>
+
+<p class="h">
+<a class="uk-button" href="/club/en">Go</a>
+</p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+<hr/>
+
+
+
+
+<br/>
+<br/>
+
+<h2>Libre Core</h2>
+
+<a href="/p/0/en"><img class="uk-image" src="/p/0/img/logo/400x400.jpg" style="float:left;"/></a>
+
+<p>
+<b>The purpose of the project Libre Core</b> - the creation of a decentralized database as a tool for Innovators, Entrepreneurs, Investors, Experts and Co-operators.
+</p>
+
+<p>
+<b>Libre Core</b> - is a universal API (RestFul Api), the implementation of the free web-engine and the necessary tools.
+Libre Core is based on a decentralized technology blockchain.
+</p>
+
+<br/>
+<br/>
+
+<p class="h">
+<a class="uk-button" href="/p/0/en">Let's go!</a>
+</p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+
+<hr/>
+
+
+
+
+<br/>
+<br/>
+
+<h2>Libre.Money</h2>
+
+<a href="/money/en"><img class="uk-image" src="/money/img/logo/400x400.png" style="float:right;"/></a>
+
+<p>
+<b>Libre.Money</b> — this is the first secured cryptocurrency with emission-based crowdfunding.
+</p>
+
+<p>
+<b>Libre.Money</b> — the first and only secured cryptocurrency not subject to neither inflation nor deflation.
+</p>
+
+<br/>
+<br/>
+
+<p class="h">
+<a class="uk-button" href="/money/en">See</a>
+</p>
+
+<br/>
+<br/>
+
+
+
+
+<br/><br/><hr/><br/><br/>
+
+
+
+
+<p class="h3">
+<a href="http://dom.libre.life/en">Home</a>
+<br>
+<a href="http://dom.libre.life/space/en">Space</a>
+<br>
+<a href="/sec/en">Security</a>
+<br>
+<a href="http://elephant.libre.life/en">Elephant</a>
+<br/>
+<a href="/sec/en">Security</a>
+</p>
+
+
+<p class="h3">
+<a href="/doc/about/en">About</a>
+<br/>
+<a href="/doc/manifest/en">Manifest</a>
+<br/>
+<a href="/doc/declaration/en">Declaration</a>
+<br>
+<a href="/doc/constitution/en">Constitution</a>
+<br/>
+<a href="/doc/en">Documentation</a>
+<br/>
+<a href="/ideo/en">Ideology</a>
+<br/>
+<a href="/doc/license/en">License</a>
+<br/>
+<a href="/doc/book/en">White Book</a>
+<br/>
+<a href="/video/en">Video</a>
+</p>
+
+
+
+
+<br/><br/>
+
+
+
+
+<p class="h2">
+<a class="uk-button" href="/section/en">Sections</a>
+</p>
+
+<p class="h2">
+<a class="uk-button" href="/projects/en">Projects</a>
+</p>
+
+
+
+
+<br/><br/>
+
+
+
+
+<!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup" style="text-align: center;">
+<form action="//life.us13.list-manage.com/subscribe/post?u=e4755e0c170036dad7fea4b2d&amp;id=a2bf834576" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll" style="text-align: center;">
+	<label for="mce-EMAIL">Подпишитесь на новости Libre</label>
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_e4755e0c170036dad7fea4b2d_a2bf834576" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Подписаться" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+<!--End mc_embed_signup-->
+
+
+
+
+<br/><br/>
+
+
+
+
+<figure class="image">
+<a href="/start/ru" title="Per cognitione universum ad homo divinus - Через познание Вселенной к Человеку Божественному"><img src="/img/logo/400x400.png" style="max-width: 300px;"/></a>
+</figure>
+
+
+
+
+</main>
+<footer><div>7523-02-01 - 7524-08-07</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
