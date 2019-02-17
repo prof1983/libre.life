@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Freigeld - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Freigeld</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+As part of the theory of Freiwirtschaft, Freigeld ('free money', German pronun­cia­tion: [ˈfʁaɪɡɛlt]) is a monetary (or exchange) unit proposed by Silvio Gesell.
+</p>
+
+
+<p class=h2>
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/money/en">Money</a></nav>
+
+</main>
+<footer><div>7525-04-23 - 7525-04-23</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
