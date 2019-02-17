@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="refresh" content="0,url=/net/ru"/>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>DNS - Libre</title>
+</head>
+
+<body>
+
+<header>
+<div id="headerimg"><a href="/"></a></div>
+<nav>
+<div id="mmlogo"><a href="/"><img src="/img/mmlogo.png"></a></div>
+<div id="mm">
+<a href="/mm/0"></a>
+<a href="/mm/1"></a>
+<a href="/mm/2"></a>
+<a href="/mm/3"></a>
+<a href="/mm/4"></a>
+<a href="/mm/5"></a>
+<a href="/mm/6"></a>
+<a href="/mm/7"></a>
+<a href="/mm/8"></a>
+<a href="/mm/9"></a>
+</div>
+<div id="lang">
+<a href="en">en</a>
+<b>ru</b>
+</div>
+</nav>
+</header>
+
+<main>
+
+<center>
+
+<h1>DNS</h1>
+
+<p>
+<a href="http://hereisdomain.com">hereisdomain.com</a>
+<br/>
+<a href="https://www.icann.org/registrar-reports/accredited-list.html">https://www.icann.org/registrar-reports/accredited-list.html</a>
+</p>
+
+<p>
+libre.life - namecheap.com - BTC
+<br/>
+libremoney - ahnames.com
+<br/>
+aicore.org - 09.04.2015 - general-domain.com
+<br/>
+aikernel - general-domain
+<br/>
+prof1983.info - general-domain
+<br/>
+coinfest - Андрей Кузнецов
+<br/>
+librestarter - ahnames.com - del
+<br/>
+kriyamoney - ahnames.com - del
+<br/>
+ainix.org - 16.03.2015 - godaddy - del
+</p>
+
+
+<h2>Хостинг</h2>
+
+<p>
+ihor.ru (http://marosnet.net/)
+jino.ru
+</p>
+
+
+</main>
+
+<footer>
+<div>Libre 7522-7523</div>
+<div>12.03.7523 - 17.03.7523 (2015)</div>
+</footer>
+
+</body>
+</html>

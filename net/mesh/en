@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Mesh - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Mesh</h1>
+
+<figure>
+<a href="img/00.jpg"><img src="img/logo/300x300.png"/></a>
+</figure>
+
+<p class="h">
+<b>Decentralized network</b>
+</p>
+
+<p>
+<a href="https://vk.com/cjdns">vk.com/cjdns</a>
+<br/>
+<a href="https://www.facebook.com/projectmeshnet">fb.com/projectmeshnet</a>
+<br/>
+<a href="https://plus.google.com/+projectmeshnet/posts">plus.google.com/+projectmeshnet</a>
+<br/>
+<a href="http://habrahabr.ru/company/cjdns/">habrahabr.ru/company/cjdns</a>
+</p>
+
+
+<h2>Cjdns</h2>
+
+<p>
+Cjdns is a networking protocol, a system of digital rules for message exchange between computers. The philosophy behind cjdns is that networks should be easy to set up, protocols should scale up smoothly and security should be ubiquitous.
+</p>
+
+<p>
+Cjdns implements an encrypted IPv6 network using public key cryptography for network address allocation and a distributed hash table for routing. The New Scientist reports that "Instead of letting other computers connect to you through a shared IP address which anyone can use, cjdns only lets computers talk to one [another] after they have verified each other cryptographically. That means there is no way anyone can be intercepting your traffic."
+</p>
+
+
+<p>
+<a href="https://en.wikipedia.org/wiki/Cjdns">en.wikipedia.org/wiki/Cjdns</a>
+<br/>
+<a href="https://github.com/cjdelisle/cjdns/blob/master/doc/Whitepaper.md">Cjdns white paper</a>
+</p>
+
+
+<h2>Hyperboria</h2>
+
+<p>
+Hyperboria is a global decentralized network of "nodes" running cjdns software. The goal of Hyperboria is to provide an alternative to the internet with the principles of security, scalability and decentralization at the core. Anyone can participate in the network by locating a peer that is already connected.
+</p>
+
+<p>
+<a href="http://hyperboria.net/">hyperboria.net</a> - the Cjdns network
+</p>
+
+
+<h2>The global meshnet project</h2>
+
+<p>
+Our objective is to create a versatile, decentralized network built on secure protocols for routing traffic over private mesh or public internetworks independent of a central supporting infrastructure.
+</p>
+
+<h3>Everyone deserves access</h3>
+
+<p>
+Recent events around the world have demonstrated the importance of the free flow of information in regards to human rights and the free exercise thereof. Unfortunately, existing infrastructure is susceptible to a number of critical flaws that render it vulnerable to disruption. This project hopes to supplement the current infrastructure to create a secure, independent network that can operate under any condition including natural disaster or general failure of existing infrastructure.
+</p>
+
+<p>
+<a href="https://projectmeshnet.org/">projectmeshnet.org</a>
+</p>
+
+
+<p class="h2"><a href="/net/en">Network</a></p>
+
+</main>
+<footer><div>7523-03-17 - 7523-04-15</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

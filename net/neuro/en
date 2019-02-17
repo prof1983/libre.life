@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>NeuroNet - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>NeuroNet</h1>
+
+<figure>
+<a href="img/02-2560x1600.jpg"><img src="img/logo/300x300.jpg"/></a>
+</figure>
+
+
+<h3>Russian NeuroNet group</h3>
+
+<p>
+<a href="https://www.facebook.com/groups/nevronet" target="_blank">fb.com/groups/nevronet</a>
+</p>
+
+<p>
+<a href="/people/8/en">Timur Shchukin</a>
+<br/>
+<a href="https://www.facebook.com/Timurid" target="_blank">fb.com/Timurid</a>
+</p>
+
+
+<p>
+<b><a href="neuronet-75230430.pdf">Neuronet - Analytical Report</a> (RU)</b>
+<br/>
+"Approaches to the formation and launch of new industries in the context of the National Technology Initiative, the example of the scope of" Technologies and Systems digital reality and perspective "human-computer" interface (part neuro-electronics)"
+</p>
+
+
+<h3>News</h3>
+
+<div class="article">
+<a href="/7523/0307/4/en"><img src="/7523/0307/4/logo-320x200.jpg"></a>
+<p><a href="/7523/0307/4/en">The workshop report Neyronet in RVC</a></p>
+<p>
+16 October 2014 in RVC hosted a seminar on "Neuronet". Among the participants there were foreign experts invited by the Russian group and neyroneta forum "Open Innovation" at the round table the day before. In addition to them in the seminar was attended by some members of the Russian group neyroneta and other acceding specialists.
+<a href="/7523/0307/4/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0307/5/en"><img src="/7523/0307/5/logo-320x200.jpg"></a>
+<a href="/7523/0307/5/en">NeuroWeb will be the next generation of the Internet</a>
+<p>
+NeuroWeb will be the next generation of the Internet. This convinced many members of the international workshop held last night in the Russian Venture Company (RVC).
+<a href="/7523/0307/5/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/1018/1/en"><img src="/7522/1018/1/logo-320x200.jpg"></a>
+<p><a href="/7522/1018/1/en">Round table. Neuronet.</a></p>
+<p>
+Dear friends! As Buknet once changed the Internet, and to replace it rapidly comes Neuronet. Moreover, if the distribution of the book took hundreds of years, and html protocol - dozens, the world noosphere mind becomes accessible to our reason in the next few years!
+<a href="/7522/1018/1/en">More...</a>
+</p>
+</div>
+
+
+
+
+<nav class="main-footer-nav"><a href="/net/en">Network</a></nav>
+
+</main>
+<footer><div>7523-03-17 - 7524-10-18</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

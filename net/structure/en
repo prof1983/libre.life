@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Network structures - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Network structures</h1>
+
+<figure>
+<img src="img/00.jpg"/>
+</figure>
+
+
+<p class="h2">
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/net/en">Network</a></nav>
+
+</main>
+<footer><div>7526-04-08 - 7526-04-08</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

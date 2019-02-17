@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Domain Name System - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Domain Name System</h1>
+
+<figure>
+<a href="img/00.png"><img src="img/logo/300x300.png"/></a>
+</figure>
+
+<p>
+<b>Decentralized DNS (Domain Name System)</b>
+</p>
+
+<p>
+The <b>Domain Name System (DNS)</b> is a hierarchical distributed naming system for computers, services, or any resource connected to the Internet or a private network. It associates various information with domain names assigned to each of the participating entities. Most prominently, it translates domain names, which can be easily memorized by humans, to the numerical IP addresses needed for the purpose of computer services and devices worldwide. The Domain Name System is an essential component of the functionality of most Internet services because it is the Internet's primary directory service. <a href="https://en.wikipedia.org/wiki/Domain_Name_System">Wikipedia</a>
+</p>
+
+<figure>
+<a href="img/01.svg"><img src="img/01.svg" width="600"/></a>
+</figure>
+
+
+<a name="opennic"></a>
+<h2>OpenNIC</h2>
+
+<p>
+<a href="http://en.wikipedia.org/wiki/OpenNIC">en.wikipedia.org/wiki/OpenNIC</a>
+</p>
+
+
+<a name="emercoin"></a>
+<h2>Emercoin</h2>
+
+<p>
+<a href="http://emercoin.com/">emercoin.com</a>
+<br/>
+<a href="https://cryptoine.com/voting">cryptoine.com/voting</a>
+<br/>
+<a href="http://emercoin.com/DNS_and_Name-Value_Storage">emercoin.com/DNS_and_Name-Value_Storage</a>
+</p>
+
+
+<a name="namecoin"></a>
+<h2>Namecoin</h2>
+
+<p>
+<a href="http://namecoin.info/">namecoin.info</a>
+<br/>
+<a href="https://en.wikipedia.org/wiki/Namecoin">en.wikipedia.org/wiki/Namecoin</a>
+</p>
+
+
+<p class="h2"><a href="/net/en">Network</a></h2>
+
+</main>
+<footer><div>7523-03-17 - 7523-04-15</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

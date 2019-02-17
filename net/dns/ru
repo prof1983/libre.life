@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Система доменных имён - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Система доменных имён</h1>
+
+<figure>
+<a href="img/00.png"><img src="img/logo/300x300.png"/></a>
+</figure>
+
+<p>
+<b>Децентрализованный DNS (Domain Name System)</b>
+</p>
+
+<p>
+<b>DNS</b> (англ. Domain Name System — система доменных имён) — компьютерная распределённая система для получения информации о доменах. Чаще всего используется для получения IP-адреса по имени хоста (компьютера или устройства), получения информации о маршрутизации почты, обслуживающих узлах для протоколов в домене (SRV-запись). <a href="https://ru.wikipedia.org/wiki/DNS">Википедия</a>
+</p>
+
+<figure>
+<a href="img/01.svg"><img src="img/01.svg" width="600"/></a>
+</figure>
+
+<a name="opennic"></a>
+<h2>OpenNIC</h2>
+
+<p>
+<a href="http://en.wikipedia.org/wiki/OpenNIC">en.wikipedia.org/wiki/OpenNIC</a>
+</p>
+
+
+<a name="emercoin"></a>
+<h2>Emercoin</h2>
+
+<p>
+<a href="http://emercoin.com/">emercoin.com</a>
+<br/>
+<a href="https://cryptoine.com/voting">cryptoine.com/voting</a>
+<br/>
+<a href="http://emercoin.com/DNS_and_Name-Value_Storage">emercoin.com/DNS_and_Name-Value_Storage</a>
+</p>
+
+
+<a name="namecoin"></a>
+<h2>Namecoin</h2>
+
+<p>
+<a href="http://namecoin.info/">namecoin.info</a>
+<br/>
+<a href="https://ru.wikipedia.org/wiki/Namecoin">ru.wikipedia.org/wiki/Namecoin</a>
+</p>
+
+
+
+<p class="h2"><a href="/net/ru">Сеть</a></h2>
+
+</main>
+<footer><div>7523-03-17 - 7523-04-15</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

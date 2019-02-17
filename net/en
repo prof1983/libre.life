@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Network - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Network</h1>
+
+<p class="h">
+This section lists the technologies and developments postroitki decentralized networks. As well as a description of future Neuronet - the development of the Russian neuronet group.
+</p>
+
+
+<div class="blocks blocks-front">
+
+<a href="storage/en">
+<div>
+<figure>
+<img src="storage/img/logo/300x300.jpg"/>
+</figure>
+<h3>Storage</h3>
+<p>Decentralized Storage</p>
+</div>
+</a>
+
+<a href="dns/en">
+<div>
+<figure>
+<img src="dns/img/logo/300x300.png"/>
+</figure>
+<h3>DNS</h3>
+<p>Decentralized DNS</p>
+</div>
+</a>
+
+<a href="mesh/en">
+<div>
+<figure>
+<img src="mesh/img/logo/300x300.png"/>
+</figure>
+<h3>Mesh</h3>
+<p>Decentralized network</p>
+</div>
+</a>
+
+<a href="neuro/en">
+<div>
+<figure>
+<img src="neuro/img/logo/300x300.jpg"/>
+</figure>
+<h3>NeuroNet</h3>
+<p></p>
+</div>
+</a>
+
+<a href="structure/en">
+<div>
+<h3>Network structures</h3>
+</div>
+</a>
+
+</div>
+
+<br/>
+<br/>
+
+
+
+
+<figure>
+<a href="img/00.jpg"><img src="img/logo/300x300.jpg"/></a>
+</figure>
+
+<figure>
+<b>MaidSafe Technology Overview - Short</b>
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/RdGH40oUVDY" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+
+<h2>Programs</h2>
+
+<p>
+A <b>darknet</b> is a private network where connections are made only between trusted peers — sometimes called "friends" (F2F) — using non-standard protocols and ports. The collection of all darknets forms a subsection of the Deep Web. Darknets are distinct from other distributed peer-to-peer networks as sharing is anonymous (that is, IP addresses are not publicly shared). <a href="https://en.wikipedia.org/wiki/Darknet_(overlay_network)">Wikipedia</a>
+</p>
+
+<p>
+<b>RetroShare</b> is free software for encrypted filesharing, serverless email, instant messaging, chatrooms, and BBS, based on a friend-to-friend network built on GPG (GNU Privacy Guard). It is not strictly a darknet since optionally, peers may communicate certificates and IP addresses from and to their friends. <a href="https://en.wikipedia.org/wiki/RetroShare">Wikipedia</a>
+</p>
+
+<p>
+<b>Freenet</b> is a peer-to-peer platform for censorship-resistant communication. It uses a decentralized distributed data store to keep and deliver information, and has a suite of free software for publishing and communicating on the Web without fear of censorship. Both Freenet and some of its associated tools were originally designed by Ian Clarke, who defined Freenet's goal as providing freedom of speech on the Internet with strong anonymity protection. <a href="https://en.wikipedia.org/wiki/Freenet">Wikipedia</a>
+</p>
+
+
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+
+<h2>Publications</h2>
+
+<div class="article">
+<a href="/7524/0717/1/en"><img src="/7524/0717/1/logo-320x200.jpg"/></a>
+<p><a href="/7524/0717/1/en">How does the Lightning Network work? Part 1. Building a bi-directional payment channel</a></p>
+<p>
+Perhaps the Lightning Network is the most anticipated technological novelty for Bitcoin. It is assumed that this payment system, the idea of which was put forward a year ago, will make it possible to carry out a huge number of transactions almost free of charge outside the bitcoyne blockade, and for this one will not have to sacrifice security.
+<a href="/7524/0717/1/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7524/0309/1/en"><img src="/7524/0309/1/logo-320x200.jpg"/></a>
+<p><a href="/7524/0309/1/en">Play: decentralized torrent site that can not be disabled</a></p>
+<p>
+An interesting torrent site has just debuted which has the honor of being almost shutdown-proof.
+<a href="/7524/0309/1/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/0105/1/en"><img src="/7522/0105/1/logo-320x200.jpg"/></a>
+<p><a href="/7522/0105/1/en">Cписок децентрализованных сервисов</a></p>
+<p>
+DNS-services, Blogs, forums and social networks, EMS and IM-services, Multipurpose decentralized anonymous and general purpose network file storage and file sharing, other projects
+<a href="/7522/0105/1/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7521/0526/1/en"><img src="/7521/0526/1/logo-320x200.jpg"/></a>
+<p><a href="/7521/0526/1/en">The future of anonymity: What is it?</a></p>
+<p>
+We live in very interesting times, most recently the Internet was free of holders of regulation enforcement. And even torrents.ru objectionable distribution is not removed. But now everything has changed, Skype is now being listened FSB, the first application to any service agencies will receive all information available to them.
+<a href="/7521/0526/1/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0413/1/en"><img src="/7523/0413/1/logo-320x200.jpg"/></a>
+<p><a href="/7523/0413/1/en">BitTorrent Secure Web Browser Project Maelstrom Edges Closer To Release</a></p>
+<p>
+Anyone looking forward to using BitTorrent’s secure web browser codenamed Project Malestrom as a final release will be pleased to learn that is has taken another step closer.
+<a href="/7523/0413/1/en">More...</a>
+</p>
+</div>
+
+
+
+
+<nav class="main-footer-nav"><a href="/en">Main</a></nav>
+
+</main>
+<footer><div>7523-03-17 - 7528-07-17</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
