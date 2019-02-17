@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>How to implement a micro-crowdinvesting in Russia - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>How to implement a micro-crowdinvesting in Russia</h1>
+
+<figure>
+<a href="00b.jpg"><img src="00.jpg"/></a>
+</figure>
+
+<p>
+The unit of account in the company - <b>piece of pie</b>. To become a member of the company will need to purchase a certain number piece of pie (shares).
+</p>
+
+<p class="h">
+<a href="ru">RU</a>
+</p>
+
+
+<p class="h2"><a href="/ecomony/en">Economy</a></p>
+
+</main>
+<footer><div>7523-04-01 - 7523-04-20</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
