@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>The Loft style - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>The Loft style</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+
+<figure>
+<img src="01.jpg" /> <!-- 01etaj -->
+<br/>
+<a href="02b.jpg"><img src="02.jpg" /></a>
+<br/>
+<img src="03.jpg" /> <!-- 03zona -->
+<br/>
+<img src="04.jpg" /> <!-- 04etaj -->
+<br/>
+<img src="05.jpg" /> <!-- 05katushki -->
+<br/>
+<a href="06b.jpg"><img src="06.jpg" /></a>
+<br/>
+<img src="07.jpg" />
+<br/>
+<img src="08.jpg" />
+<br/>
+<img src="09.jpg" />
+<br/>
+<img src="10.jpg" />
+<br/>
+<img src="11.jpg" /> <!-- 11whitecorridor -->
+<br/>
+<a href="12b.jpg"><img src="12.jpg" /></a> <!-- 12greenroom-main -->
+<br/>
+<img src="13.jpg" /> <!-- 13designrooms-main -->
+<br/>
+<img src="14.jpg" /> <!-- 14terrace -->
+<br/>
+<img src="15.jpg" /> <!-- 15fotowallsvetosila-main -->
+<br/>
+<img src="16.jpg" /> <!-- 16roof-main -->
+<br/>
+<img src="17.jpg" /> <!-- 17greyhall-main -->
+<br/>
+<img src="18.jpg" />
+</figure>
+
+
+<p class="h3">
+<a href="http://www.loftprojectetagi.ru/">loftprojectetagi.ru</a>
+</p>
+
+<br/>
+<br/>
+
+
+
+
+<p class="h2"><a href="/city/en">City</a></p>
+
+</main>
+<footer><div>7523-06-04 - 7523-06-04</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
