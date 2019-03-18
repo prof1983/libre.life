@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Heterodox economics - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Heterodox economics</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+Heterodox economics refers to methodologies or schools of economic thought that are considered outside of "mainstream economics", often represented by expositors as contrasting with or going beyond neoclassical economics.
+</p>
+
+<p>
+<a href="https://en.wikipedia.org/wiki/Heterodox_economics">en.wikipedia.org/wiki/Heterodox_economics</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/economy/en">Economy</a></nav>
+
+</main>
+<footer><div>7523-06-10 - 7524-12-17</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
