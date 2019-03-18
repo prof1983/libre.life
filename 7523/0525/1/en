@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Description Cooperation System - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Description Cooperation System</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+
+<p class=h2>
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+<p class="h2"><a href="/co/operate/en">Cooperation</a></p>
+
+</main>
+<footer><div>7523-05-25 - 7523-05-25</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
