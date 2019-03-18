@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Altruistic currency vs LibreMoney - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Altruistic currency vs LibreMoney</h1>
+
+<figure>
+<img src="00.png"/>
+</figure>
+
+<p>
+Very interesting project <a href="http://libremoney.org">LibreMoney</a>. Its essence is that the money issue is carried out directly for the financing of innovative projects.
+</p>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+
+
+<p class="h2"><a href="/money/en">Money</a></p>
+
+</main>
+<footer><div>7523-05-10 - 7523-05-10</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
