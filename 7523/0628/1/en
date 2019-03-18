@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Russian Teen Club - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Russian Teen Club</h1>
+
+<p>
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+<p class="h2"><a href="/club/teen/en">Teen Club</a></p>
+
+</main>
+<footer><div>2015-06-28 - 2015-07-07</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
