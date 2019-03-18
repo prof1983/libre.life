@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Строительство купола 12,94 м (Ярославская обл.) - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Строительство купола 12,94 м (Ярославская обл.)</h1>
+
+<figure>
+<img src="00.jpg" />
+</figure>
+
+<!--p>
+Дорогие друзья! Рады делиться хорошими новостями!
+
+В данное время ведётся строительство купола диаметром 12,94, неподалёку от славного города Ярославль. К настоящему моменту уже установлены промежуточные фермы и завершен монтаж межэтажных колец, поставлены оконные блоки и зенитный фонарь. Монтаж каркаса можно считать завершенным. 
+За то время,что наши мастера воздвигали это грандиозное двухэтажное сооружение (напоминаем, что диаметр дома 12,94 метра), они как следует закалились капризами русской зимы и особенностями зимней стройки! На очереди строительство жилого комплекса в МО, г. Кубинка.
+</p-->
+
+<figure>
+<img src="01.jpg" />
+<img src="02.jpg" />
+<img src="03.jpg" />
+<img src="04.jpg" />
+<img src="05.jpg" />
+<img src="06.jpg" />
+<img src="07.jpg" />
+<img src="08.jpg" />
+<img src="09.jpg" />
+<img src="10.jpg" />
+<img src="11.jpg" />
+<img src="12.jpg" />
+</figure>
+
+<p>
+Источник:
+<a href="http://www.xn--80afddxhjpn4a4g.xn--p1ai/" target="_blank">круглыедома.рф</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="http://dom.libre.life/ru">Дом</a></nav>
+
+</main>
+<footer><div>7523-06-15 - 7524-07-09</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
