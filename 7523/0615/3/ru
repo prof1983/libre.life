@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Строительство круглого дома (Солоновка, Алтай) - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Строительство круглого дома (Солоновка, Алтай)</h1>
+
+<figure>
+<img src="00.jpg" />
+</figure>
+
+<!--p>
+Строительство дома, Солоновка, Алтай. Хозяева его Андрей и Тамара. Данный дом эта прекрасная пара собирают сами, то есть у нас они купили только домокомплект, а все работы по возведению купола, фундамент, обшивка и прочее они выполняют сами. Всё очень просто! Мы подскажем и поможем!
+</p-->
+
+<figure>
+<img src="01.jpg" />
+<img src="02.jpg" />
+<img src="03.jpg" />
+<img src="04.jpg" />
+</figure>
+
+<p>
+Источник:
+<a href="http://www.xn--80afddxhjpn4a4g.xn--p1ai/" target="_blank">круглыедома.рф</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="http://dom.libre.life/ru">Дом</a></nav>
+
+</main>
+<footer><div>7523-06-15 - 7524-07-09</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
