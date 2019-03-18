@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>School of the Future opened in Finland - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>School of the Future opened in Finland</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+Child psychologists have long said that one has only to change the approach to training, the children immediately love the school. After all, every child under school age admiringly says that insanely wants to sit at the desk and run to class with a backpack.
+</p>
+
+<p class="h2">
+<a href="ru">More...</a> (RU)
+</p>
+
+<p>
+Source:
+<a href="http://www.adme.ru/zhizn-dobro/shkola-buduschego-otkrylas-v-finlyandii-952960" target="_blank">adme.ru/zhizn-dobro/shkola-buduschego-otkrylas-v-finlyandii-952960</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="http://dom.libre.life/en">Home</a></nav>
+
+</main>
+<footer><div>7524-07-09 - 7524-07-09</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
