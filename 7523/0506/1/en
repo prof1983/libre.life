@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>A-Club 30.04.15 - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>A-Club 30.04.15</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+Dear friends!
+</p>
+
+<p>
+At a meeting after the holiday, "A-Club" on May 14, we will discuss the script and format of the on-site of our new educational partner - Russian New University "RosNOU".
+</p>
+
+<p class=h2>
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+<p class="h2"><a href="/clib/en">Club</a></p>
+
+</main>
+<footer><div>7523-05-21 - 7523-05-21</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
