@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Information fast food - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Information fast food</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+The correct approach is to exclude compromising sources of information from your menu, as you lose confidence in them, and do not return to them any more.
+</p>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/society/ru">Society</a></nav>
+
+</main>
+<footer><div>7525-05-25 - 7525-05-25</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
