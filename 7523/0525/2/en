@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Reputation in the System - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Reputation in the System</h1>
+
+<figure>
+<a href="00b.jpg"><img src="00.jpg"/></a>
+</figure>
+
+
+<p class=h2>
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+<p class="h2"><a href="/co/operate/en">Cooperation</a></p>
+
+</main>
+<footer><div>7523-05-26 - 7523-05-26</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
