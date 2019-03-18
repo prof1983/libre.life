@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Мария является владелицей бара... - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Мария является владелицей бара...</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+<a href="ru">Read more...</a> (RU)
+</p>
+
+<p>
+John Gili
+</p>
+
+<p>
+Source:
+<a href="https://www.facebook.com/photo.php?fbid=1605661269650147&set=a.1399497383599871.1073741844.100006188680625&type=1&fref=nf">https://www.facebook.com/photo.php?fbid=1605661269650147&set=a.1399497383599871.1073741844.100006188680625&type=1&fref=nf</a>
+</p>
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/economy/en">Economy</a></p>
+
+</main>
+<footer><div>7523-06-26 - 7523-06-26</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
