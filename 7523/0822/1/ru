@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Результаты опроса о проекте Дом Новаторов - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Результаты опроса о проекте Дом Новаторов</h1>
+
+<figure>
+<a href="00b.jpg"><img src="00.jpg" /></a>
+</figure>
+
+<p>
+Ниже представлены результаты голосования, проходившего с 2015-08-11 по сегодняшний день (2015-08-22).
+</p>
+
+<figure>
+<a href="01b.png"><img src="01.png" /></a>
+<a href="04b.png"><img src="04.png" /></a>
+<a href="05b.png"><img src="05.png" /></a>
+<a href="02b.png"><img src="02.png" /></a>
+<!-- <img src="2015-08-12.png" /> -->
+</figure>
+
+<br/>
+<br/>
+
+
+
+<p class="h2"><a href="/dom/ru">Дом</a></p>
+
+</main>
+<footer><div>7523-08-22 - 7523-08-22</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
