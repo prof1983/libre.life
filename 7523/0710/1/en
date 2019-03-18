@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Real estate - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Real estate</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+We are witnessing the collapse of real estate market. Which, apparently, will last two years. And maybe more.
+</p>
+
+<p>
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/city/en">City</a></p>
+
+</main>
+<footer><div>7523-07-18 - 7523-07-18</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
