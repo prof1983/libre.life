@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Nxt Technology Tree - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Nxt Technology Tree</h1>
+
+<figure>
+<a href="00b.jpg"><img src="00.jpg"/></a>
+</figure>
+
+
+<p class="h3">
+<a href="http://www.nxttechnologytree.com/">nxttechnologytree.com</a>
+</p>
+
+
+
+
+<h2>Account Control</h2>
+
+<p>
+The Account Control feature is in active development and will implement a number of methods for applying limits and controls on Nxt accounts.
+</p>
+
+<p>
+Account Control will include setting a lock on an account to prohibit any outgoing transactions and defining a set of rules for unlocking the account.
+</p>
+
+<p>
+Status: Features in Development
+</p>
+
+
+
+
+<h2>Asset Exchange</h2>
+
+<p>
+Asset Exchange is the Decentralized Marketplace of Nxt.
+</p>
+
+<p>
+It is where any any asset, digital or physical, can be traded peer to peer without the need for a centralised third party. The Asset Exchange concept is often generally referred to as Coloured Coins in the cryptocurrency world. The Voting System feature is dependent on the Nxt Asset Exchange.
+</p>
+
+<p>
+Asset
+</p>
+
+<p>
+An Asset is a token that is traded on the Asset Exchange. They can represent almost anything. Examples of current assets areː assets backed by physical silver, assets that represent a share of profits in a multipool, assets that represent a basket of other assets, assets that represent support in crowd funding of mobile Nxt client, assets that aim to support charitable causes such as being carbon neutral and many more. You can explore the Assets from within the Nxt Client, on nxtforum.org assets board or blockchain explorers. Also see Asset Exchange and Blockchain Explorer.
+</p>
+
+<p>
+Status: Current Features
+</p>
+
+
+
+
+<h2>Alias System</h2>
+
+<p>
+The Alias System translates alphanumeric text into almost anything: Nxt account addresses, email addresses, URLs, phone numbers, SKU codes, and more. This not only gives Nxt the ability to function as a Decentralized DNS system, but adds additional possibilities for mapping short names to other entities. Aliases can be bought and sold within the Nxt Wallet. Transactions can be sent to an alias assigned to an account.
+</p>
+
+<p>
+Status: Current Features
+</p>
+
+
+
+
+<h2>Arbitrary Messages</h2>
+
+<p>
+Nxt Arbitrary Messages were implemented at a block height of 40,000 blocks. This feature allows Nxt users to send small amounts of data through the decentralized network. The term "message" is loose: this feature can be used to send simple text messages, but can also be used to send up to 1000 bytes of any data. As a result, it can be used to build file-sharing services, decentralized applications, and higher-level Nxt services.
+</p>
+
+<p>
+Status: Current Features
+</p>
+
+
+
+
+<h2>Market Place</h2>
+
+<p>
+The Nxt Marketplace is a protocol for decentralized, peer-to-peer stores for any kind of digital goods. Digital items may be listed and purchased now inside the Nxt Wallet.
+</p>
+
+<p>
+Status: Current Features
+</p>
+
+
+
+
+<h2>Smart Contracts</h2>
+
+<p>
+Smart Contracts is a feature under active development for Nxt Technology. Smart Contracts will facilitate, verify, or enforce the negotiation or performance of a contract. With Smart Contracts many kinds of contractual clauses may be made partially or fully self-executing, self-enforcing, or both. Smart contracts provide security superior to traditional contract law and reduce other transaction costs associated with contracting.
+</p>
+
+<p>
+Status: Features in Development
+</p>
+
+
+
+
+<h2>Voting System</h2>
+
+<p>
+The secure, encrypted, consensus-based nature of the Nxt network allows the implementation of a voting system that guarantees anonymity and security, without relying on a central authority to tally votes. Nxt Voting System is dependent on the Asset Exchange.
+</p>
+
+<p>
+Status: Features in Development
+</p>
+
+
+
+
+<hr/>
+
+
+
+
+<h2>Transparent Forging</h2>
+
+<p>
+Transparent Forging is partially implemented and further stages are under active development. Nxt will implement a novel "transparent forging" system that will temporarily penalize accounts that do not participate in the proof-of-stake block verification process. This will encourage holders of non-trivial amounts of Nxt to actively participate in the network, instead of merely holding a balance in order to collect transmission fees. Transparent Forging will make the development of Economic Clustering possible and will lay the ground work for Anti Deflation.
+</p>
+
+<p>
+Status: Features in Development
+</p>
+
+
+
+
+<h2>Economic Clustering</h2>
+
+<p>
+Economic Clustering is planned for development as part of Nxt Technology and requires Transparent Forging
+</p>
+
+<p>
+Status: Upcoming Features
+</p>
+
+
+
+
+<h2>Anti Deflation</h2>
+
+<p>
+Anti Deflation is a feature planned for Nxt Technology and dependent on Economic Clustering
+</p>
+
+<p>
+Status: Upcoming Features
+</p>
+
+
+
+
+<h2>Instant Transactions</h2>
+
+<p>
+Instant Transactions is a feature planned for Nxt Technology and under active development. It will be a mechanism for sending transactions through the network with "guaranteed" confirmations, making transactions valid almost instantaneously.
+</p>
+
+<p>
+Status: Features in Development
+</p>
+
+
+
+
+<hr/>
+
+
+
+
+<h2>Monetary System</h2>
+
+<p>
+Monetary System now active in Nxt Clients.
+</p>
+
+<p>
+Monetary System allows you to create new currencies backed by NXT. New coins are created by "locking" NXTs. This could be thought as similar to “burning” Nxt but this is inaccurate as the process can be reversed. If you destroy 7% of the supply the created coins then you get 7% of the locked NXTs back. You are unable to lock more NXTs into the coin once it is created so the supply can’t be inflated. Transaction fees for coins created in the Monetary System can only be paid in NXT.
+</p>
+
+<p>
+Monetary System became available as part of Nxt Technology and will make possible the Coin Shuffling and Credit System features.
+</p>
+
+<p>
+Status: Current Features
+</p>
+
+
+
+
+<h2>Coin Shuffling</h2>
+
+<p>
+Coin Shuffling is a feature currently under development as part of Nxt Technology. Coin Shuffling is dependent on Monetary Systems.
+</p>
+
+<p>
+Status: Features in Development
+</p>
+
+
+
+
+<h2>Credit System</h2>
+
+<p>
+Credit System is part of the future development of Nxt Technology and is dependent on Monetary Systems and Rights Management.
+</p>
+
+<p>
+Status: Upcoming Features
+</p>
+
+
+
+
+<h2>Rights Management</h2>
+
+<p>
+Rights Management is part of the future development of Nxt Technology and is required for Credit System
+</p>
+
+<p>
+Status: Upcoming Features
+</p>
+
+
+
+
+<hr/>
+
+
+
+
+<h2>Phasing</h2>
+
+<p>
+Phasing is a feature planned for the future of Nxt Technology.
+</p>
+
+<p>
+Status: 
+Upcoming Features
+</p>
+
+
+
+
+<h2>Mapping</h2>
+
+<p>
+Mapping is a feature planned for development of Nxt Technology
+</p>
+
+<p>
+Status: Upcoming Features
+</p>
+
+
+
+
+<hr/>
+
+
+
+
+<h2>Fact Digitization</h2>
+
+<p>
+Fact Digitization will be developed as part of Nxt Technology after Voting System and Knowledge Base
+</p>
+
+<p>
+Status: Upcoming Features
+</p>
+
+
+
+
+<h2>Knowledge Base</h2>
+
+<p>
+Knowledge Base is a planned feature for Nxt Technology and will make possible both Fact Digitization and Rule Sets.
+</p>
+
+<p>
+Status: Upcoming Features
+</p>
+
+
+
+
+<h2>Rule Sets</h2>
+
+<p>
+Rule Sets is part of the future development of Nxt Technology.
+</p>
+
+<p>
+Status: Upcoming Features
+</p>
+
+
+
+
+<h2>Judgement System</h2>
+
+<p>
+Judgement System is planned for future development of Nxt Technology and requires the Rule Sets feature.
+</p>
+
+<p>
+Status: Current Features
+</p>
+
+
+
+
+<h2>Parallel Chains</h2>
+
+<p>
+Parallel Block Chains are a planned future feature of Nxt Technology.
+</p>
+
+<p>
+Status: Upcoming Features
+</p>
+
+
+
+
+<hr/>
+
+
+
+
+<h2>Social Graph</h2>
+
+<p>
+Social Graph is a planned feature for Nxt Technology. The development of Social Graph will make Reputation System possible.
+</p>
+
+<p>
+Status: Upcoming Features
+</p>
+
+
+
+
+<h2>Reputation System</h2>
+
+<p>
+Reputation System is a feature planned for future development of Nxt Technology. Reputation System is dependent on The development of Social Graph and will lay the ground work for Global Collaboration.
+</p>
+
+<p>
+Status: Upcoming Features
+</p>
+
+
+
+<hr/>
+
+
+
+<h2>Service Providers</h2>
+
+<p>
+Service Providers are developers who make use of Nxt to provide Services ‘on top’ of the Nxt Platform.
+</p>
+
+<p>
+Services
+</p>
+
+<p>
+A Service is a feature built on top of Nxt but does not form part of the Nxt core, in the same way that email is built on top of the internet. Gmail is not integral to the internet, it is built on top of it. Services are built by third party developers known as Service Providers who are often not directly linked to the development of Nxt. By virtue of a Service being built on top of Nxt, they often make use of the Nxt core features. Examples of Services are InstantDex and NXTCash. Other examples are limited by people’s time and inclination and could include shops, financial exchanges, email, twitter and facebook. Service Providers will make possible the development of Distributed Computing, Distributed Storage, Global Collaboration and other future Nxt Technology features
+</p>
+
+<p>
+Status: Upcoming Features
+</p>
+
+
+
+
+<h2>Global Collaboration</h2>
+
+<p>
+Global Collaboration is a future feature planned for Nxt Technology and is dependent on the development of Social Graph
+</p>
+
+</p>
+Status: Upcoming Features
+</p>
+
+
+
+
+<h2>Distributed Storage</h2>
+
+<p>
+Nxt Distributed Storage will be a decentralized network for file storage, similar to torrents. Distributed Storage is a future development of Nxt Technology and will be available after the Service Providers feature.
+</p>
+
+<p>
+Status: Upcoming Features
+</p>
+
+
+
+
+<h2>Distributed Computing</h2>
+
+<p>
+A platform for using Nxt as a basis for distributed computing tasks (akin to the SETI@Home program, BOINC, and other initiatives). Distributed Computing is a future development of Nxt Technology and will be available after the Service Providers feature.
+</p>
+
+<p>
+Status: Upcoming Features
+</p>
+
+
+
+
+<h2>Blockchain Shrinking</h2>
+
+<p>
+Blockchain Shrinking, a mechanism for reducing the size of the blockchain is part of the future development of Nxt Technology and will be available after Distributed Storage
+</p>
+
+<p>
+Status: Upcoming Features
+</p>
+
+
+
+
+<hr/>
+
+
+
+
+<h2>Intelligent Agent Interfacing</h2>
+
+<p>
+Intelligent Agent Interfacing is a feature planned for Nxt Technology that will provide a standard for interfacing with bots. it will define protocols for sending transactions, reading state of the objects created during transaction processing and for other things necessary for usage of Nxt by robots.
+</p>
+
+<p>
+Status: Upcoming Features
+</p>
+
+
+
+
+<p class="h3">
+<a href="http://www.nxttechnologytree.com/nxt-technology-features-list">Nxt Technology List</a>
+<br/>
+<a href="https://nxtforum.org/">NXT Forum</a>
+</p>
+
+
+
+
+<p class="h2"><a href="/money/en">Money</a></p>
+
+</main>
+<footer><div>7523-05-27 - 7523-05-27</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
