@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Строительство 9-ти метрового круглого дома (Егорьевка, Алтайски край) - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Строительство 9-ти метрового круглого дома (Егорьевка, Алтайски край)</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<figure>
+<img src="01.jpg" />
+<img src="02.jpg" />
+<img src="03.jpg" />
+<img src="04.jpg" />
+<img src="05.jpg" />
+<img src="06.jpg" />
+<img src="07.jpg" />
+</figure>
+
+
+<p>
+Source:
+<a href="http://www.xn--80afddxhjpn4a4g.xn--p1ai/" target="_blank">круглыедома.рф</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="http://dom.libre.life/en">Home</a></nav>
+
+</main>
+<footer><div>7523-06-15 - 7524-07-09</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
