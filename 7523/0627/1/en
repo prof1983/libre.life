@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>The results of the Board of Stupino - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>The results of the Board of Stupino</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+Dear friends!
+</p>
+
+<p>
+Summing up the results of the Council for Innovation in Stupino can say with confidence that we have passed your first exam with flying colors!
+</p>
+
+<p>
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/club/en">Club</a></p>
+
+</main>
+<footer><div>7523-10-03 - 7523-10-03</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
