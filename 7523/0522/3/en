@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Scheme - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Scheme</h1>
+
+<figure>
+<a href="00b.png"><img src="00.png"/></a>
+</figure>
+
+<p>
+About Village-21, about the other settlements, about the software MirGrad and other mutual (consumer) society.
+</p>
+
+<p class=h2>
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/core/en">Core</a></nav>
+
+</main>
+<footer><div>7523-05-22 - 7524-06-25</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
