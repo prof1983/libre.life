@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Club system - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Club system</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+From the correspondence in ininin group (continued). I should add that we have all of this is presented as a club system. Where there are several levels of participation.
+</p>
+
+<p class=h2>
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/core/en">Core</a></nav>
+
+</main>
+<footer><div>7523-05-22 - 7524-06-25</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
