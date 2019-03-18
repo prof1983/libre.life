@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>The text of the court decision on kolion - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>The text of the court decision on kolion</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+I post the text of the decision of the court. Maybe someone will be curious to see what can not be.
+The original eight pages. Seven for the health, the last - for the peace!
+</p>
+
+<p class="h2">
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/organization/kolionovo/en">Kolionovo</a></nav>
+<nav class="main-footer-nav"><a href="/economy/en">Economy</a></nav>
+
+</main>
+<footer><div>7523-07-07 - 7524-11-03</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
