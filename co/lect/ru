@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Коллектив - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Коллектив</h1>
+
+<p class="h">Вместе мы сильнее</p>
+
+<figure>
+<a href="img/00b.jpg"><img src="img/00.jpg"/></a>
+</figure>
+
+<p>
+<b>Коллектив</b> (от лат. collectivus — собирательный) — группа, совокупность людей, работающих в одной организации, на одном предприятии, объединенных совместной деятельностью в рамках какой-либо организации, цели. <a href="https://ru.wikipedia.org/wiki/%CA%EE%EB%EB%E5%EA%F2%E8%E2">Википедия</a>
+</p>
+
+
+
+
+<h2>Сервисы для совместной работы</h2>
+
+<p>
+<a href="https://assembly.com/"><b>assembly.com</b></a>
+<br/>
+<a href="http://teamfinding.com/">teamfinding.com</a>
+</p>
+
+
+<br/>
+<br/>
+
+<p class="h2"><a href="/co/ru">Совместно</a></p>
+
+</main>
+<footer><div>7523-02-09 - 7524-05-22</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
