@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Crowdfunding - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Crowdfunding</h1>
+
+<p class="h">
+Joint financing
+</p>
+
+<figure>
+<a href="img/00b.jpg"><img src="img/00.jpg"/></a>
+</figure>
+
+<figure>
+<img src="img/02.jpg"/>
+</figure>
+
+<br/>
+</br>
+
+
+
+
+<h2>Publications</h2>
+
+<div class="article">
+<a href="/7522/0707/3/en"><img src="/7522/0707/3/logo-320x200.jpg"></a>
+<p><a href="/7522/0525/1/en">Kills crowdfunding venture funds</a></p>
+<p>
+The end of the venture capital industry: left 15 years. Due to appear today kraudfandingovym mechanisms lot of venture capital funds from the market will take off. Then come all the private equity industry.
+<a href="/7522/0707/3/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/0525/1/en"><img src="/7522/0525/1/logo-320x200.jpg"></a>
+<p><a href="/7522/0525/1/en">The new platform for crowdfunding make life easier for builders and investors</a></p>
+<p>
+The new project created by a former employee of Google Mike Hearn deserves special attention. Startup prestavlyayuschie kraudfandingovuyu a platform that will allow easy and secure project developers to raise funds for their wallets.
+<a href="/7522/0525/1/en">More...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7522/0524/1/en"><img src="/7522/0524/1/logo-320x200.jpg"></a>
+<p><a href="/7522/0524/1/en">Lighthouse: decentralized crowdfunding based Bitcoin protocol</a></p>
+<p>
+Bitcoin natively supports such an interesting opportunity as contracts. Contract - a set of conditions for the completion of each transaction described by a built-in scripting language. Among other things, the contracts allow you to organize and raise funds that are made available to the recipient only when a certain amount, ie crowdfunding.
+<a href="/7522/0524/1/en">More...</a>
+</p>
+</div>
+
+
+
+
+<nav class="main-footer-nav"><a href="/co/en">Community</a></nav>
+
+</main>
+<footer><div>7524-05-22 - 7524-07-08</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
