@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Autonomous Agents - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Autonomous Agents</h1>
+
+<figure>
+<a href="img/ab.gif"><img src="img/ab.gif"></a>
+</figure>
+
+<p>
+<b>Autonomous agents</b> - these are entities that make their own choices regarding how to act in their environment without influence of a central authority.
+</p>
+
+<p>
+With decentralization, autonomous agents will play an increasingly important role in how things get done. They will be the brains and logic residing inside everything from driverless cars to delivery drones, from your bank accounts to your thermostats. They will operate individually or in a swarm. They will buy and sell services using crypto-currencies, pay their own costs to maintain and upgrade themselves and even replicate as they become profitable. They will be self-sustaining economic units — almost like mini-corporations, but without the bureaucracy.
+</p>
+
+
+<figure>
+<a href="img/ae.gif"><img src="img/ae.gif"></a>
+</figure>
+
+
+<p class="h2"><a href="/future/en">Future</a></p>
+
+</main>
+
+<footer>
+<div>Libre 7522-7523</div>
+<div>24.03.7523 - 24.03.7523 (2015)</div>
+</footer>
+
+</body>
+</html>
