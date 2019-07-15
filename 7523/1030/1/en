@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Nick Szabo on banks, clever contracts and security Bitcoin - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Nick Szabo on banks, clever contracts and security Bitcoin</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+The legendary cryptographer Nick Szabo argues that the best way to create a seamless, automated, global financial structure: persuade banks to accept blokcheyny not require authorization, such as the one on which there is Bitcoin.
+</p>
+
+<br/>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/contract/en">Smart contracts</a></nav>
+
+</main>
+<footer><div>7524-06-28 - 7524-06-28</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
