@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Progress - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Progress</h1>
+
+<figure>
+<img src="img/00.jpg"/>
+</figure>
+
+<p class="h2">
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+<h2>Publications</h2>
+
+<div class="article">
+<a href="/7523/0621/1"><img src="/7523/0621/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0621/1">Хакатон</a></p>
+<p>
+Хакатон HACK FOR PEOPLE HARDWARE
+<a href="/7523/0621/1">Подробнее...</a>
+</p>
+</div>
+
+
+
+
+<nav class="main-footer-nav"><a href="/en">Main</a></nav>
+
+</main>
+<footer><div>7524-06-21 - 7524-06-21</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

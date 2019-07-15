@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Прогресс - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Прогресс</h1>
+
+<p class="h">
+Разработка, Развитие, Рост, Эволюция
+</p>
+
+<figure>
+<img src="img/00.jpg"/>
+</figure>
+
+<p>
+развитие - development - development - desarrollo - desenvolvimento
+<br/>
+прогресс - progress - progressus - progreso - progresso
+<br/>
+эволюция - evolution - PRAEGRESSUS - evolución - evolução
+</p>
+
+<p>
+<a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B5%D1%81%D1%81" target="_blank"><b>Прогресс</b></a> (лат. progressus — движение вперёд, успех) — направление развития от низшего к высшему, поступательное движение вперед, к лучшему.
+</p>
+
+<p>
+<a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0_%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%B0" target="_blank"><b>Разработка</b></a> — процесс создания и вывода нового изделия или услуги на рынок.
+</p>
+
+<p>
+<a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%82" target="_blank"><b>Рост</b></a> — процесс увеличения какого-либо качества со временем. Качества могут быть как физическими (например, рост в высоту), так и абстрактными (например, взросление человека, расширение системы).
+</p>
+
+<p>
+<a href="https://ru.wikipedia.org/wiki/%D0%AD%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D1%8F" target="_blank"><b>Эволюция</b></a> (от лат. evolutio — «развёртывание») — естественный процесс развития живой природы.
+</p>
+
+<figure>
+<a href="img/01b.jpg"><img src="img/01.jpg"/></a>
+</figure>
+
+<figure>
+<a href="img/02b.jpg"><img src="img/02.jpg"/></a>
+</figure>
+
+<figure>
+<a href="img/03b.jpg"><img src="img/03.jpg"/></a>
+</figure>
+
+
+
+
+<h2>Публикации</h2>
+
+<div class="article">
+<a href="/7523/0621/1"><img src="/7523/0621/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0621/1">Хакатон</a></p>
+<p>
+Хакатон HACK FOR PEOPLE HARDWARE
+<a href="/7523/0621/1">Подробнее...</a>
+</p>
+</div>
+
+
+
+
+<nav class="main-footer-nav"><a href="/ru">Главная</a></nav>
+
+</main>
+<footer><div>7524-06-21 - 7524-06-21</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
