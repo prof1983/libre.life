@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Видео - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Теории денег. От ракушки до биткоин</h1>
+
+<figure>
+<iframe width="640" height="360" src="//www.youtube.com/embed/videoseries?list=PL-_cKNuVAYAWRU6FrRMQaaYDnNXdys3PY" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+<figure>
+Особенно рекомендую посмотреть следующие видеозаписи (Денежная теория Маркса). Теория прибавочной стоимости и прибавочной ценности лежит в основе проекта LibreMoney.
+<br/>
+<a href="http://youtu.be/uXyISpTU8iI">youtu.be/uXyISpTU8iI</a>
+<br/>
+<a href="http://youtu.be/o_2gvIkZ9c4">youtu.be/o_2gvIkZ9c4</a>
+<br/>
+<a href="http://youtu.be/iyX9LxFXgOQ">youtu.be/iyX9LxFXgOQ</a>
+<br/>
+<iframe width="640" height="360" src="//www.youtube.com/embed/uXyISpTU8iI?list=PL-_cKNuVAYAWRU6FrRMQaaYDnNXdys3PY" frameborder="0" allowfullscreen></iframe>
+<br/>
+<iframe width="640" height="360" src="//www.youtube.com/embed/o_2gvIkZ9c4?list=PL-_cKNuVAYAWRU6FrRMQaaYDnNXdys3PY" frameborder="0" allowfullscreen></iframe>
+<br/>
+<iframe width="640" height="360" src="//www.youtube.com/embed/iyX9LxFXgOQ?list=PL-_cKNuVAYAWRU6FrRMQaaYDnNXdys3PY" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+
+
+
+<br/><br/><p class="h2"><a href="/video/ru">Видео</a></p>
+
+</main>
+<footer><div>7523-02-01 - 7524-06-18</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

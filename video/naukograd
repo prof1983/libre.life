@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Форум Наукоградов - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Форум Наукоградов</h1>
+
+<p>
+Министерство инвестиций и инноваций Московской области проводит «Второй Подмосковный Форум Наукоградов», который состоялся 11 ноября 2015 года в Доме Правительства Московской области. К сожалению я смог прибыть только к завершению мероприятия, но успел поприсутствовать на обсуждении финансирования наукогдадов и предложил рассмотреть вариант создания локальных валют научных сообществ. Локальные валюты применять с целью привлечения внимания, учеличения интереса молодых ребят к научной отрасли. А так же можно в сообществах измерять экспертность каждого ученого по тем публикациям, которые доступны: больше хороших, интересных, проработанных рабт - больше рейтинг ученого. Оценку производят его коллеги, достаточно компетентные люди, кто может адекватно оценить.
+<br/>
+<a href="http://форум-наукоград.рф/" target="_blank">форум-наукоград.рф</a>
+<br/>
+<a href="https://vk.com/forumnaukograd" target="_blank">vk.com/forumnaukograd</a>
+<br/>
+<a href="https://www.facebook.com/forumnaukograd" target="_blank">facebook.com/forumnaukograd</a>
+</p>
+
+<figure>
+<iframe width="640" height="360" src="//www.youtube.com/embed/Or1sU3FcYPQ" frameborder="0" allowfullscreen></iframe>
+<br/>
+<iframe width="640" height="360" src="//www.youtube.com/embed/Y2z9HwmemIk" frameborder="0" allowfullscreen></iframe>
+<br/>
+<iframe width="640" height="360" src="//www.youtube.com/embed/xVkQjDNyQgo" frameborder="0" allowfullscreen></iframe>
+<br/>
+<iframe width="640" height="360" src="//www.youtube.com/embed/Wkji7M4FjA4" frameborder="0" allowfullscreen></iframe>
+<br/>
+<iframe width="640" height="360" src="//www.youtube.com/embed/x3fhmNCZYPw" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+
+
+
+<br/><br/><p class="h2"><a href="/video/ru">Видео</a></p>
+
+</main>
+<footer><div>7523-11-14 - 7524-06-18</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

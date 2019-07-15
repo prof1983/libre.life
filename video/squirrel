@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Видео - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Видео из парка 20140824</h1>
+
+<figure>
+<a href="http://itmages.ru/image/view/1873873/1b1ce384"><img src="http://storage9.static.itmages.ru/i/14/0825/s_1408968697_9771478_1b1ce384b1.png" alt="" /></a>
+</figure>
+
+<figure>
+видеоролик 1 мин
+<br/>
+<iframe width="640" height="360" src="//www.youtube.com/embed/YfkzgVshDbc" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+<figure>
+видеоролик 3 мин
+<br/>
+<iframe width="640" height="360" src="//www.youtube.com/embed/AOgyd0EHqT0" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+<figure>
+Оригинал
+<br/>
+<a href="http://youtu.be/sO0EFm9Dyr4">youtu.be/sO0EFm9Dyr4</a>
+<br/>
+<a href="http://youtu.be/18es3yBLhvs">youtu.be/18es3yBLhvs</a>
+</figure>
+
+
+
+
+<br/><br/><p class="h2"><a href="/video/ru">Видео</a></p>
+
+</main>
+<footer><div>7523-02-01 - 7524-06-18</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Video - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Video</h1>
+
+<figure>
+<iframe width="640" height="360" src="//www.youtube.com/embed/uOfPDqxI5ps" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+
+<a href="motiv"><p class="h3">Motivational video :)</p></a>
+
+
+<a href="present"><p class="h3">Video presentations</p></a>
+
+
+<a href="squirrel"><p class="h3">Video with project mascot</p></a>
+
+
+<a href="theory"><p class="h3">Theory of money. From seashells to Bitcoin</p></a>
+
+
+<a href="core"><p class="h3">The core of a new economic system based on resource and reputation model</p></a>
+
+
+<a href="spbconf2014"><p class="h3">Bitcoin Conference SPB 2014</p></a>
+
+<p class="h3">
+<a href="http://coinfest.ru/video/" target="_blank">Video from CoinFest-2015-Moscow</a>
+</p>
+
+<p class="h3">
+<a href="/7523/0421/1/en">Formations - Transition - Nirvarhiya</a>
+</p>
+
+<p class="h">
+<a href="hackathon-fintech-blokcheyn">Хакатон FinTech</a>
+<br/>
+<a href="naukograd">Форум Наукоградов</a>
+</p>
+
+<br/>
+
+<p class="h">
+Шоу Инноваторов Апрель 2015
+<br/>
+<a href="https://youtu.be/CstGfMMBIEk?t=4m45s">youtu.be/CstGfMMBIEk?t=4m45s</a>
+</p>
+
+<p class="h">
+Экономическая модель М А Чартаева Новое экономическое мышление
+<br/>
+<a href="https://youtu.be/6cMz7e13nlo">youtu.be/6cMz7e13nlo</a>
+</p>
+
+
+<figure>
+Канал на Youtube
+<br/>
+<a href="http://www.youtube.com/libremoneyru" target="_blank">youtube.com/libremoneyru</a>
+</figure>
+
+
+
+
+<br/><br/><p class="h2"><a href="/en">Main</a></p>
+
+</main>
+<footer><div>7523-02-01 - 7524-06-18</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

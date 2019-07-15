@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Видео - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Bitcoin Conference SPB 2014</h1>
+
+<figure>
+<iframe width="640" height="360" src="//www.youtube.com/embed/bESzws351bw" frameborder="0" allowfullscreen></iframe>
+<br/>
+Bitcoin Conference SPB 2014. Ярослав Логинов
+</figure>
+
+
+
+
+<br/><br/><p class="h2"><a href="/video/ru">Видео</a></p>
+
+</main>
+<footer><div>7523-02-01 - 7524-06-18</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
