@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<link rel="stylesheet" href="/css/main.css"/>
+<title>Коинвестинг - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Соинвестинг</h1>
+
+<figure>
+<a href="img/00.jpg"><img src="img/00-640.jpg"/></a>
+</figure>
+
+
+<h2>CoInvest</h2>
+
+<figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NOw7SopSc2Q" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+
+
+
+<h2>Краудфандинговые площадки</h2>
+
+<ul>
+
+<li>
+<a href="http://itinvest.su/" target="_blank">itinvest.su</a> - Коллективное инвестирование в проекты на всех стадиях развития. <a href="http://probusiness.by/experience/1212-kak-zarabotat-na-kollektivnykh-investiciyakh-ideya-zapuska-itinvest-su.html" target="_blank">Как заработать на коллективных инвестициях</a>
+</li>
+
+<li>
+<a href="simex/ru">SIMEX</a> - <a href="https://simex.bz/">simex.bz</a> - краудинвестинговая площадка для осуществления прямых инвестиций в производство и проекты реального сектора экономики.
+</li>
+
+<li>
+<a href="http://ininin.ru/1882294/" target="_blank">ininin.ru</a> - Информационная Инфраструктура Инноваций - по сути, предлагается совместное финансирование стартапов (краудинвестинг/краудсорсинг).
+</li>
+
+<li>
+<a href="http://weshare.ru/" target="_blank">weshare.ru</a> - Краудинвестинговая площадка. ShareCapital позволяет объединить в едином торговом информационном пространстве предпринимателей и инвесторов различного уровня от частных до институциональных.
+</li>
+
+<li>
+<a href="http://smpl.vc/" target="_blank">smpl.vc</a> - синдицированные инвестиции (краудинвестинг)
+</li>
+
+<li>
+<a href="http://iptoor.com/" target="_blank">iptoor.com</a> - площадка для краудсорсинга/совместной работы над проектом (colaboration) и краудинвестинга/инвестирования.
+</li>
+
+<li>
+<a href="https://bitcointalk.org/index.php?topic=780047" target="_blank">Паевой Инвестиционный Фонд</a> - децентрализованный фонд для инвестирования.
+</li>
+
+<li>
+<a href="http://shareinstock.com/" target="_blank">shareinstock.com</a> - Биржа долей
+</li>
+
+<li>
+<a href="https://mypio.ru/" target="_blank">mypio.ru</a>
+</li>
+
+<li>
+vcstart.com - (ЗАКРЫТА) VCStart - это платформа коллективных инвестиций, на которой авторы IT-стартапов и десятки тысяч частных инвесторов со всего мира могут найти друг друга!
+</li>
+
+</ul>
+
+
+<figure>
+<a href="img/01.jpg"><img src="img/01-640.jpg"/></a>
+<br/>
+<a href="img/02.jpg"><img src="img/02-640.jpg"/></a>
+</figure>
+
+
+<p class="h3">
+<a href="beta">Beta</a>
+</p>
+
+
+<p class="h2"><a href="/co/ru">Коллектив</a></p>
+
+</main>
+<footer><div>7523-02-16 - 7523-12-04</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

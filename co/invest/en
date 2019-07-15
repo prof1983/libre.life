@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>CoInvest - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>CoInvest</h1>
+
+<figure>
+<a href="img/00.jpg"><img src="img/00-640.jpg"/></a>
+</figure>
+
+
+<!--h2>Crowdfunding</h2-->
+
+<ul>
+
+<li>
+<a href="simex/en">SIMEX</a> - <a href="https://simex.bz/">simex.bz</a> - crowd-investing platform for direct investment in production projects and the real economy.
+</li>
+
+<li>
+<a href="http://ininin.ru/1882294/">ininin.ru</a> - Information Infrastructure Innovation - in fact, the proposed co-financing startups (crowdinvesting / crowdsourcing).
+</li>
+
+<li>
+<a href="http://weshare.ru/">weshare.ru</a> - Crowdinvesting place. ShareCapital brings together in a single trade information space entrepreneurs and investors of different levels from private to institutional.
+</li>
+
+<li>
+<a href="http://smpl.vc/">smpl.vc</a> - syndicated investments (crowdinvesting)
+</li>
+
+<li>
+<a href="http://iptoor.com/">iptoor.com</a> - platform for crowdsourcing / collaborate on a project (colaboration) and crowdinvesting / investment.
+</li>
+
+<li>
+<a href="https://bitcointalk.org/index.php?topic=780047">Unit Investment Fund</a> - decentralized fund to invest.
+</li>
+
+<li>
+<a href="http://shareinstock.com/">shareinstock.com</a> - exchange of shares
+</li>
+
+<li>
+<a href="https://mypio.ru/">mypio.ru></a>
+</li>
+
+<li>
+<a href="http://crowdfunder.ru">crowdfunder.ru</a> <a href="https://www.facebook.com/CrowdFunder.ru">fb.com/CrowdFunder.ru</a>
+</li>
+
+<li>
+<a href="https://vcstart.com/">vcstart.com</a> - VCStart - is a platform for collective investment, for which the authors IT-startups and tens of thousands of private investors from around the world can find each other!
+</li>
+
+</ul>
+
+
+<figure>
+<a href="img/01.jpg"><img src="img/01-640.jpg"/></a>
+<br/>
+<a href="img/02.jpg"><img src="img/02-640.jpg"/></a>
+</figure>
+
+
+<p class="h3">
+<a href="beta">Beta</a>
+</p>
+
+
+<p class="h2"><a href="/co/en">Collective</a></p>
+
+</main>
+<footer><div>7523-02-16 - 7523-07-05</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
