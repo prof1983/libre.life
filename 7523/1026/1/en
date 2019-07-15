@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>What should be the app for smart contracts? - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>What should be the app for smart contracts?</h1>
+
+<figure>
+<img src="00.png"/>
+</figure>
+
+<p>
+In the previous article in this series we mentioned about what you do not have enough clever contracts in order to become part of our everyday life. Of course, no intelligent contracts can not exist outside of the environment - the environment in which they can create, validate, and in which they will be carried out.
+</p>
+
+<br/>
+
+<p class="h2">
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/dao/en">Decentralized Autonomous Organization (DAO)</a></nav>
+
+</main>
+<footer><div>7524-02-08 - 7524-10-26</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
