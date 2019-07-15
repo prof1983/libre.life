@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Open Letter - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Open Letter</h1>
+
+<figure>
+<a href="00b.jpg"><img src="00.jpg"/></a>
+</figure>
+
+<p>
+Publishes an open letter to the participants and speakers forum open innovation on education, the creation of local circles movement, business development, increasing interest in innovation and about the improvement of the economic environment.
+</p>
+
+<br/>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/economy/en">Economy</a></nav>
+
+</main>
+<footer><div>7523-10-31 - 7524-06-28</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
