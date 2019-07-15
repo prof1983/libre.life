@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Human</title>
+</head>
+<body>
+
+<h1>Human</h1>
+
+<script>
+var money = 123456;
+var money_danil = 0;
+var money_danil_fund = 0;
+var pt_danil = 1;
+var pt_denis = 1;
+var pt_zamir = 1;
+var pt_svyatoslav = 1;
+var pt_yaroslav = 1;
+
+function refreshMoney() {
+	var e = document.getElementById('money').innerHTML = money;
+}
+
+function getDelta(pt) {
+	if (pt < 100) {
+		return 1;
+	} else {
+		return Math.floor(pt * 0.01);
+	}
+}
+
+function refreshHuman(pt, mfund, msum, eprice, ebuy, esell, efund, esum) {
+	eprice.innerHTML = pt;
+	var delta = getDelta(pt_danil);
+	ebuy.innerHTML = pt + delta;
+	esell.innerHTML = Math.floor(pt_danil / 2);
+	efund.innerHTML = mfund;
+	esum.innerHTML = msum;
+}
+
+function refreshHumans() {
+	refreshHuman(pt_danil, money_danil_fund, money_danil, document.getElementById('human_danil'), document.getElementById('human_danil_buy'), document.getElementById('human_danil_sell'), document.getElementById('human_danil_fund'), document.getElementById('human_danil_sum'));
+}
+
+function danil_minus() {
+	// Продать персональный токен Данила
+	if (pt_danil <= 1) return;
+	var d = Math.floor(pt_danil / 2);
+	pt_danil -= getDelta(pt_danil);
+	money_danil_fund -= d;
+	money += d;
+	refreshHumans();
+	refreshMoney();
+}
+
+function danil_plus() {
+	// Купить персональный токен Данила
+	var delta = getDelta(pt_danil);
+	if (money < (pt_danil+delta)) return;
+	pt_danil += delta;
+	var d = Math.floor(pt_danil / 2);
+	money -= pt_danil;
+	money_danil += pt_danil - d;
+	money_danil_fund += d;
+	refreshHumans();
+	refreshMoney();
+}
+</script>
+
+<p>
+Money: <b id="money">1000</b>
+</p>
+
+<p>
+Данил <b id="human_danil">1</b> <a href="#" title="Купить" onclick="danil_plus();">+ (<i id="human_danil_buy">2</i>)</a> / <a href="#" title="Продать" onclick="danil_minus();">- (<i id="human_danil_sell">0</i>)</a> <i id="human_danil_fund" title="danil_fund">0</i> <i id="human_danil_sum" title="danil_sum">0</i>
+<br/>
+Денис <b id="human_denis">100</b>
+<br/>
+Замир <b id="human_zamir">100</b>
+<br/>
+Святослав <b id="human_svyatoslav">100</b>
+<br/>
+Ярослав <b id="human_yaroslav">100</b>
+</p>
+
+
+<br/>
+
+
+<p>
+7525-05-12
+</p>
+
+<script>
+refreshHumans();
+refreshMoney();
+</script>
+
+</body>
+</html>
