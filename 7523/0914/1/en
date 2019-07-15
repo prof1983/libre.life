@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Cryptsy - how to construct a platform for the development of distributed applications on JS - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Cryptsy - how to construct a platform for the development of distributed applications on JS</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+Crypto-platform of the second generation does not cease to attract the attention of users and despite the hype has died down somewhat since the release of NXT, in the community and then there are new projects and a platform for developing distributed applications.
+</p>
+
+<br/>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/dao/en">Decentralized Autonomous Organization (DAO)</a></p>
+
+</main>
+<footer><div>7523-12-06 - 7523-12-14</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
