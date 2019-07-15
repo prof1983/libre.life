@@ -1,0 +1,245 @@
+Correlation Center
+https://vk.com/correlationcenter
+https://vk.com/konard
+https://github.com/AKMAxelerator/CorrelationCenterConcept
+https://ide.c9.io/akmaxelerator/fobos
+https://fobos-akmaxelerator.c9.io/
+https://better.boon.gl/projects/68/dashboard
+
+
+https://github.com/bettermeans/bettermeans
+https://www.transifex.com/elfpavlik/bettermeans/
+http://alternativeto.net/software/bettermeans/
+http://opensourceecology.org/wiki/Bettermeans
+https://www.facebook.com/bettermeans
+
+
+Alternative
+http://alternativeto.net/software/trello/
+
+
+
+
+
+https://docs.google.com/document/d/1I_BdSTRFxVDN_GaNv6S-nCiN06WH5TUqMkwURRxqT3o
+https://docs.google.com/spreadsheets/d/1D1_Fxum3T5Pi5EHqg1xGTNVQIpRTkYGS4UtFQ6myMpI
+
+Виталий Токаренко и Ярослав Логинов - Совместная практика - http://youtu.be/ze4OPQEztgA
+
+
+Константин Дьяченко
+Друзья, кто готов принять участие в разработке ресурсо-экономической платформы для управления хозяйством на любом уровне от огорода до планеты?
+Если интересно - обязательно напишите в личку, запишу вас для просмотра (на трансляцию) или для участия (через скайп, cloud9, github).
+
+https://youtu.be/5w2ypWbMBNg - Встреча по проекту Correlation Center 19 августа 2015 - Часть 1 (знакомство)
+https://youtu.be/oHyXqn-dSvY - Встреча по проекту Correlation Center 19 августа 2015 - Часть 2 (знакомство)
+https://youtu.be/05AKD_PauXQ - Встреча по проекту Correlation Center 19 августа 2015 - Часть 3 (знакомство и переход к практике)
+https://youtu.be/rien66JuLsA - Сетевое планирование и управление (СССР)
+
+Выкладываю свою версию записи - https://youtu.be/w0no55YmZLo — Общение активистов проекта Венера - Correlation Center 2015-08-13
+
+https://youtu.be/0Mdsg56-u3M - Знакомство с Correlation Center Concept
+https://youtu.be/uPRc2UPM1ow - Встреча по проекту Correlation Center 14 августа 2015
+
+https://youtu.be/Aoreec6al-4 - 2015-08-25 - Что такое Correlation Center? Знакомство с BetterMeans
+https://youtu.be/myGeQ7yvPhs - 2015-08-25 - Вёрстка страницы пользователя. Знакомство с Bootstrap. Часть 1
+https://youtu.be/YrfbiqFxWDw - 2015-08-25 - Вёрстка страницы пользователя. Знакомство с Bootstrap. Часть 2
+
+https://vk.com/video?gid=100024189 - Видеозаписи Correlation Center
+https://www.youtube.com/user/BetterMeans/videos
+https://better.boon.gl/welcome
+https://github.com/mockdeep/better - Репозиторий беттера актуальный
+https://www.transifex.com/boondotgl/better/ - Файл перевода
+http://www.twitch.tv/drakonard/popout - Видеотрансляция
+
+
+
+Обзор сервисов управления проектами: Basecamp, Trello, Slack, Asana, Worksection
+http://ain.ua/2015/03/04/567778
+
+К доске! Trello – универсальный менеджер проектов
+http://blog.aweb.ua/k-doske-trello-universalnyj-menedzher-proektov/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Инструкция по установке
+https://github.com/mockdeep/better/blob/master/README.md
+
+# Инструкция для установки на Ubuntu-14
+# В моём случае необходимо было выполнит ещё эти команты
+sudo locale-gen ru_RU.UTF-8
+sudo dpkg-reconfigure locales
+
+sudo apt-get update
+sudo apt-get upgrade
+#sudo apt-get install bundler
+
+# Устанавливаем rvm
+gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3
+\curl -sSL https://get.rvm.io | sudo bash -s stable
+# В моём случае (на сервере): source /usr/local/rvm/scripts/rvm
+source ~/.rvm/scripts/rvm
+rvm requirements
+
+# Устанавливаем ruby:
+rvm install 1.8.7-head
+
+# Задаём версию ruby:
+rvm use 1.8.7
+
+# Задаём версию rubygems:
+rvm rubygems 1.8.25 --force
+
+# Устанавливаем postgres:
+sudo apt-get install postgresql postgresql-client postgresql-contrib
+
+# Если файлы в /ect/posgresql/ отсутствуют (не создан кластер), но необходимо выполнить:
+#pg_createcluster 9.3 main --start
+
+# Редактируем файл pg_hba.conf
+nano /etc/postgresql/9.3/main/pg_hba.conf
+
+# На русском языке: https://wiki.debian.org/ru/PostgreSql/pg_hba.conf
+# NOTE: only do this in development mode, as it puts your database in an
+# insecure state.
+# update the end of /etc/postgresql/9.1/main/pg_hba.conf to look like this:
+# # TYPE  DATABASE    USER        CIDR-ADDRESS          METHOD
+# # "local" is for Unix domain socket connections only
+# local   all         all                               trust
+# # IPv4 local connections:
+# host    all         all         127.0.0.1/32          trust
+# # IPv6 local connections:
+# host    all         all         ::1/128               trust
+
+# then run:
+sudo /etc/init.d/postgresql restart
+
+# По рекомендации отсюда http://habrahabr.ru/post/211078/ выполнил
+# (но похоже это лишнее)
+#su postgres
+#psql -U postgres
+#ALTER USER postgres with encrypted password '<наш новый пароль>';
+#\q
+
+# Установить права на файлы bettermeans для всех пользователей (./log/development.log)
+# chmod 0666
+
+# set up a postgres user:
+sudo su
+su postgres
+createuser -s -r <your username>
+# and hit CTRL+D twice to exit back to your regular user account
+
+# Imagemagick is also a dependency. You'll need an older version to be
+# compatible with rmagick, which can be a bit of a pain on MacOS. See here for
+# more details: http://stackoverflow.com/a/13967303/372479
+# It's easier on Debian Linux:
+sudo apt-get install imagemagick libmagickwand-dev
+
+# and QT
+sudo apt-get install libqt4-dev libqtwebkit-dev
+
+Getting started
+
+First fork the repo using the link above, then:
+
+# clone your copy:
+git clone git@github.com:<your username>/better.git
+cd better/
+
+# Add this copy as upstream:
+git remote add upstream https://github.com/mockdeep/better.git
+
+# В моём случае (это делать не надо?)
+#sudo apt-get install libxml2-dev libxslt-dev libpq-dev
+gem install bundler
+gem install nokogiri -v '1.3.3'
+gem install pg -v '0.14.1'
+
+# now install gems:
+bundle install
+
+# set up database config:
+mv config/database.yml.example config/database.yml
+mv config/email.yml.example to config/email.yml
+
+# in development mode, for the simplest setup you should be able to remove the
+# username and password options from `config/database.yml` for the development
+# and test group
+
+# You'll need to set up aws access keys in your environment. For testing only,
+# you can set the keys to "trash" just to run the specs
+#export BETTER_S3_ACCESS_KEY_ID=trash
+#export BETTER_S3_SECRET_ACCESS_KEY=trash
+export BETTER_S3_ACCESS_KEY_ID=_myapp_session
+export BETTER_S3_SECRET_ACCESS_KEY=f915002dfa5843e78e973e3f64d50d54
+
+# Редакрируем файл ./config/environment.rb
+#  config.action_controller.session = {
+#    :key => "_myapp_session",
+#    :secret => "<secret>"
+#  }
+
+# Дополнительно (не надо)
+#rvm install ruby-rdoc
+
+# set up database:
+rake db:create:all && rake db:schema:load
+
+# seed data into the database:
+rake db:seed
+
+# set up the test database:
+rake db:test:prepare
+
+# and run the tests:
+rake spec
+
+# if all passes, then you should be good to go. Please open an issue if you
+# have any problems. You can boot up your server on localhost with:
+script/server
+
+
+
+# Создадим файл ./run с правами на запуск, следующего содержимого:
+----
+#! /bin/bash
+cd /my/better
+source /usr/local/rvm/scripts/rvm
+rvm use 1.8.7
+script/server
+----
+
+# Создадим файл /etc/init/better.conf следующего содержимого
+----
+start on startup
+task
+exec /my/better/run
+----
+
+
+
+
+
+
+
+
+
+
+psql -U postgres -h localhost -d bettermeans_development
+DROP DATABASE IF EXISTS "bettermeans_development";
+DROP DATABASE IF EXISTS "bettermeans_test";
+CREATE DATABASE "bettermeans_development" ENCODING = 'utf8';
+CREATE DATABASE "bettermeans_test" ENCODING = 'utf8';

@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Геймфикация - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Геймфикация</h1>
+
+<figure>
+<img src="img/00.jpg" />
+</figure>
+
+<!-- Генератор сделок -->
+
+<p>
+<b>Игрофикация</b> (<b>геймификация</b> от англ. gamification, геймизация) — применение подходов, характерных для компьютерных игр в программных инструментах для неигровых процессов с целью привлечения пользователей и потребителей, повышения их вовлечённости в решение прикладных задач, использование продуктов, услуг. <a href="https://ru.wikipedia.org/wiki/%D0%98%D0%B3%D1%80%D0%BE%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F">Википедия</a>
+</p>
+
+<figure>
+Про геймификацию от создателей сервиса "Пряники" - Часть 1
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/8n2zoF4cKO0" frameborder="0" allowfullscreen></iframe>
+<br/>
+<br/>
+Про геймификацию от создателей сервиса "Пряники" - Часть 2
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/hK80ojcKlOY" frameborder="0" allowfullscreen></iframe>
+<br/>
+<br/>
+Про геймификацию от создателей сервиса "Пряники" - Часть 3
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Fd2JGwGcgMk" frameborder="0" allowfullscreen></iframe>
+<br/>
+<br/>
+Про геймификацию от создателей сервиса "Пряники" - Часть 4
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/aoCtxvgbR-o" frameborder="0" allowfullscreen></iframe>
+<br/>
+<br/>
+Про геймификацию от создателей сервиса "Пряники" - Часть 5
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/gE4GOd1fDi4" frameborder="0" allowfullscreen></iframe>
+<br/>
+<br/>
+Про геймификацию от создателей сервиса "Пряники" - Часть 6
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/7xpu7551SFg" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+<p>
+Видеозапись с мероприятия "Серьезная геймификация: фокус на результативность. Умный завтрак"
+<br/>
+<a href="https://pryaniky.timepad.ru/event/227894">pryaniky.timepad.ru/event/227894</a>
+</p>
+
+<br/>
+<br/>
+
+
+
+
+<h2>Пряники</h2>
+
+<p class="h">
+<a href="https://vk.com/pryaniky" target="_blank">vk.com/pryaniky</a>
+<br/>
+<a href="https://www.facebook.com/pryaniky" target="_blank">fb.com/pryaniky</a>
+<br/>
+<a href="https://www.youtube.com/user/Pryanikycom" target="_blank">youtube.com/user/Pryanikycom</a>
+<br/>
+<a href="http://www.pryaniky.com/" target="_blank">pryaniky.com</a>
+</p>
+
+<br/>
+<br/>
+
+
+<p class="h2">
+<a href="http://libre.money" target="_blank"><b>Libre.Money</b></a> - Экономическая игра
+</p>
+
+<p>
+Цель игры: показать преимущество экономической модели с демереджем (отрицательный процент, плата за храненение средств расчета).
+</p>
+
+<p class="h2">
+<a href="http://better.libre.life" target="_blank"><b>better.libre.life</b></a> - Система для колоборации с горизонтльным механизмом принятия решений
+</p>
+
+<p>
+<a href="https://www.facebook.com/bettermeans" target="_blank">fb.com/bettermeans</a>
+<br/>
+<a href="BetterMeans.txt" target="_blank">BetterMeans.txt</a> - ссылки, описание, документация
+</p>
+
+
+<br/>
+
+
+<p class="h3">
+<a href="/co/labor/ru">Колоборация</a>
+</p>
+
+
+<br/>
+<br/>
+
+
+
+
+<h2>Публикации</h2>
+
+<div class="article">
+<a href="/7523/0808/1/ru"><img src="/7523/0808/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0808/1/ru">Экономическая игра</a></p>
+<p>
+Друзья! Появилась создания экономической игры с демереджем (отрицательный процент, плата за хранение средств расчета). Цель игры - обучение предпринимателей эффекту когда деньги "тают", показать что деньги не являются ценностью сами по себе. А главное - показать эффект многократного роста оборота и социальный эффект.
+<a href="/7523/0808/1/ru">Подробнее...</a>
+</p>
+</div>
+
+
+
+
+<br/>
+<br/>
+
+<figure>
+<img src="img/01.jpg" />
+<br/>
+<img src="img/02.jpg" />
+<br/>
+<a href="img/03b.jpg"><img src="img/03.jpg" /></a>
+</figure>
+
+
+<br/>
+<br/>
+
+
+
+<p class="h2"><a href="/ru">Главная</a></p>
+
+</main>
+<footer><div>7523-08-31 - 7524-06-01</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

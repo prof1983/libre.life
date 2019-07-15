@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Gamification - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Gamification</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p class="h2">
+<a href="ru">Read more...</a>
+</p>
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/en">Main</a></p>
+
+</main>
+<footer><div>7523-08-29 - 7523-08-29</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
