@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Soviet Union - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Soviet Union</h1>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/cT-GzHD8qBI" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/NLdCl3dQyrU" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+
+
+<h2>Publicaions</h2>
+
+<div class="article">
+<a href="/7513/1128/1/en"><img src="/7513/1128/1/logo-320x200.jpg"></a>
+<p><a href="/7513/1128/1/en">Socialism "with the capitalist face"</a></p>
+<p>
+It is time, finally, to all of us take a sober look at what is happening and try to understand its deeper meaning, in order to draw the necessary lessons and to draw correct conclusions. This will require at least briefly acquainted with what is really going on in capitalist society, especially in terms of successfully undertaken in the United States attempts to build "capitalism with a socialist face".
+<a href="/7513/1128/1/en">Read more...</a>
+</p>
+</div>
+
+
+<br/>
+<br/>
+
+<p class="h2"><a href="/en">Main</a></p>
+
+</main>
+<footer><div>7523-07-21 - 7524-04-11</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
