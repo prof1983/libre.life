@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Сообщество - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Сообщество</h1>
+
+<p class="h">
+<b>
+Совместнныя интересы: жизнь, труд, общение, использование ресурсов
+<br/>
+принятие решений, краудсорсинг, краудфандинг, краудинвестинг
+</b>
+</p>
+
+<div class="blocks blocks-front">
+
+<a href="/club/ru">
+<div>
+<figure>
+<img src="/club/img/logo/300.jpg"/>
+</figure>
+<h3>Клуб</h3>
+<p>Сообщество свободных людей</p>
+</div>
+</a>
+
+<!-- Коммуникации - communication -->
+<a href="munication/ru">
+<div>
+<figure>
+<img src="munication/img/logo/300.jpg"/>
+</figure>
+<h3>Коммуникации</h3>
+<p>Системы передачи информации</p>
+</div>
+</a>
+
+<!--a href="/fund/ru">
+<div>
+<figure>
+<img src="/fund/img/logo/300.jpg"/>
+</figure>
+<h3>Фонд</h3>
+<p>Совместный вклад ресурсов для реализации различных проектов</p>
+</div>
+</a-->
+
+<a href="operate/ru">
+<div>
+<figure>
+<img src="operate/img/logo/300.jpg"/>
+</figure>
+<h3>Кооперация</h3>
+<p>Потребительские общества</p>
+</div>
+</a>
+
+<a href="labor/ru">
+<div>
+<figure>
+<img src="labor/img/logo/300.jpg"/>
+</figure>
+<h3>Коллаборация</h3>
+<p>Совместный труд</p>
+</div>
+</a>
+
+<!-- Комитет - Committee, comissão, comité -->
+<!--a href="mite/ru">
+<div>
+<figure>
+<img src="mite/img/logo/300.jpg"/>
+</figure>
+<h3>Комитет</h3>
+<p>Совет, коллегиальный орган</p>
+</div>
+</a-->
+
+<a href="live/ru">
+<div>
+<figure>
+<img src="live/img/logo/300.jpg"/>
+</figure>
+<h3>Коливнинг</h3>
+<p>Совместный дом, совместная жизнь, коммуны</p>
+</div>
+</a>
+<a href="mune/ru">
+<div>
+<figure>
+<img src="mune/img/logo/300.jpg"/>
+</figure>
+<h3>Коммуны</h3>
+<p>Совместная жизнь людей</p>
+</div>
+</a>
+
+<!--
+сообща, вместе - together
+Соединение - connection, compound
+Совместно - in common
+contribution - контрибуция, вклад, взнос, содействие, пожертвования, инвестирование, депозит
+содействие - (действие - operation)
+-->
+
+</div>
+
+<br/>
+<br/>
+
+
+
+
+<figure>
+<a href="img/00b.jpg"><img src="img/00.jpg"/></a>
+</figure>
+
+<p class="h3">
+<a href="/doc/co/ru">Про термины коллаборация, коворкинг, хакерспейс, Fab lab</a>
+</p>
+
+<figure>
+<a href="img/01b.jpg"><img src="img/01.jpg"/></a>
+</figure>
+
+
+<br/>
+
+
+
+
+<h2>Публикации</h2>
+
+<div class="article">
+<a href="/7520/0615/1/ru"><img src="/7520/0615/1/logo-320x200.jpg"/></a>
+<p><a href="/7520/0615/1/ru">Рэйчел Ботсман: Валютой новой экономики станет доверие</a></p>
+<p>
+В последнее время наблюдается всплеск популярности совместного потребления — обмена автомобилями, квартирами, навыками, основанного на веб-технологиях. Рэйчел Ботсман посветила себя изучению валюты, на основе которой функционируют такие системы как Airbnb и TaskRabbit, — это доверие, влияние и так называемый «репутационный капитал».
+<a href="/7520/0615/1/ru">Подробнее...</a>
+</p>
+</div>
+
+
+
+
+<br/><hr/>
+
+
+<p>
+Друзья, прошу вас ответить на один вопрос! Представьте, что у вас на счету лежит 100 рублей, вы не можете на эти деньги что-либо купить или оплатить, кроме как оказать спонсорскую помощь. Какое направление для вас является предпочтительным?
+<a href="vk.com/r_davletbaev">Рустам Давлетбаев</a>
+</p>
+
+<!--
+<ul>
+<li>Нано-инвестирование в проекты. Например, профинансировать разработку уникальной технологии, которая имеет шансы стать успешной, а вы вероятно, получите в будущем доход как инвестор.</li>
+<li>Общественные (социальные) проекты. Например, благоустройство детской площадки во дворе вашего дома.</li>
+<li>Благотворительные проекты. Например, оказать помощь в лечении больного тяжелым заболеванием.</li>
+<li>Творческие проекты. Например, помочь любимому артисту записать альбом и получить его электронную версию.</li>
+<li>Финансирование продуктов будущего. Например, помочь изобретателю профинансировать выпуск продукта, которого еще нет на рынке, и получить преференцию по его приобретению в будущем.</li>
+<li>Ничего не буду финансировать.</li>
+</ul>
+<figure>
+<img src="img/vote.png"/>
+</figure>
+-->
+
+<center>
+<script type="text/javascript" src="//vk.com/js/api/openapi.js?116"></script>
+<div id="vk_poll"></div>
+<script type="text/javascript">
+VK.Widgets.Poll("vk_poll", {width: 800}, "180277120_54e9c11c34d03c711c");
+</script>
+<a href="https://vk.com/r_davletbaev?w=wall31432699_1125">vk.com/r_davletbaev?w=wall31432699_1125</a>
+</center>
+
+<figure>
+<a href="img/02b.jpg"><img src="img/02.jpg"/></a>
+</figure>
+
+
+
+
+<br/><br/><p class="h2"><a href="/ru">Главная</a></p>
+
+</main>
+<footer><div>7523-02-09 - 7524-06-15</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Coworkings - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Coworkings</h1>
+
+<figure>
+<a href="img/00.jpg"><img src="img/00.jpg"/></a>
+</figure>
+
+
+<p class="h">
+<a href="ru">RU</a>
+</p>
+
+
+<figure>
+<a href="img/01.jpg"><img src="img/01-640.jpg"/></a>
+<br/>
+<a href="img/02.jpg"><img src="img/02-640.jpg"/></a>
+<br/>
+<a href="img/03.jpg"><img src="img/03-640.jpg"/></a>
+<br/>
+<a href="img/04.jpg"><img src="img/04-640.jpg"/></a>
+<br/>
+</figure>
+
+
+</main>
+
+<footer>
+<div>Libre 7522-7523</div>
+<div>15.02.7523 - 25.03.7523 (2015)</div>
+</footer>
+
+</body>
+</html>

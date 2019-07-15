@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Community - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Community</h1>
+<!-- Jointly -->
+
+<p class="h">
+<b>
+Together life, work, communication, use of resources (sharing),
+<br/>
+decision-making, including crowdsourcing, crowdfunding, equity crowdfunding
+</b>
+</p>
+
+<div class="blocks blocks-front">
+
+<a href="/club/en">
+<div>
+<figure>
+<img src="/club/img/logo/300.jpg"/>
+</figure>
+<h3>Club</h3>
+<p>A community of free people</p>
+</div>
+</a>
+
+<a href="munication/ru">
+<div>
+<figure>
+<img src="munication/img/logo/300.jpg"/>
+</figure>
+<h3>Communication</h3>
+<p>Information Transmission Systems</p>
+</div>
+</a>
+
+<!--a href="/fund/en">
+<div>
+<figure>
+<img src="/fund/img/logo/300.jpg"/>
+</figure>
+<h3>Fund</h3>
+<p>The joint collection of resources for the implementation of various projects</p>
+</div>
+</a-->
+
+<a href="operate/en">
+<div>
+<figure>
+<img src="operate/img/logo/300.jpg"/>
+</figure>
+<h3>Cooperate</h3>
+<p>Consumer community</p>
+</div>
+</a>
+
+<a href="labor/en">
+<div>
+<figure>
+<img src="labor/img/logo/300.jpg"/>
+</figure>
+<h3>Collaboration</h3>
+<p>Joint work</p>
+</div>
+</a>
+
+<a href="live/en">
+<div>
+<figure>
+<img src="live/img/logo/300.jpg"/>
+</figure>
+<h3>Coliving</h3>
+<p>Is a form of homesharing</p>
+</div>
+</a>
+<a href="mune/en">
+<div>
+<figure>
+<img src="mune/img/logo/300.jpg"/>
+</figure>
+<h3>Commune</h3>
+<p>People living together</p>
+</div>
+</a>
+
+</div>
+
+<br/>
+<br/>
+
+
+
+
+<figure>
+<a href="img/00b.jpg"><img src="img/00.jpg"/></a>
+</figure>
+
+<p class="h3">
+<a href="/doc/co/en">About terms collaboration, coworking, hackerspace, fab lab</a>
+</p>
+
+<figure>
+<a href="img/01b.jpg"><img src="img/01.jpg"/></a>
+</figure>
+
+<br/>
+
+
+
+
+<h2>Publishing</h2>
+
+<div class="article">
+<a href="/7520/0615/1/en"><img src="/7520/0615/1/logo-320x200.jpg"/></a>
+<p><a href="/7520/0615/1/en">Rachel Botsman: The currency of the new economy is trust</a></p>
+<p>
+There's been an explosion of collaborative consumption — web-powered sharing of cars, apartments, skills. Rachel Botsman explores the currency that makes systems like Airbnb and Taskrabbit work: trust, influence, and what she calls "reputation capital."
+<a href="/7520/0615/1/en">Read more...</a>
+</p>
+</div>
+
+
+
+
+<br/><hr/>
+
+
+<p>
+Friends, I ask you to answer one question! Imagine that you have on your account is $2, you can not the money to buy something or pay, but to provide sponsorship. What direction is preferable for you?
+<a href="vk.com/r_davletbaev">Rustam Davletbaev</a>
+</p>
+
+<!--
+<ul>
+<li>Нано-инвестирование в проекты. Например, профинансировать разработку уникальной технологии, которая имеет шансы стать успешной, а вы вероятно, получите в будущем доход как инвестор.</li>
+<li>Общественные (социальные) проекты. Например, благоустройство детской площадки во дворе вашего дома.</li>
+<li>Благотворительные проекты. Например, оказать помощь в лечении больного тяжелым заболеванием.</li>
+<li>Творческие проекты. Например, помочь любимому артисту записать альбом и получить его электронную версию.</li>
+<li>Финансирование продуктов будущего. Например, помочь изобретателю профинансировать выпуск продукта, которого еще нет на рынке, и получить преференцию по его приобретению в будущем.</li>
+<li>Ничего не буду финансировать.</li>
+</ul>
+<figure>
+<img src="img/vote.png"/>
+</figure>
+-->
+
+<center>
+<script type="text/javascript" src="//vk.com/js/api/openapi.js?116"></script>
+<div id="vk_poll"></div>
+<script type="text/javascript">
+VK.Widgets.Poll("vk_poll", {width: 800}, "180277120_54e9c11c34d03c711c");
+</script>
+<a href="https://vk.com/r_davletbaev?w=wall31432699_1125">vk.com/r_davletbaev?w=wall31432699_1125</a>
+</center>
+
+<figure>
+<a href="img/02b.jpg"><img src="img/02.jpg"/></a>
+</figure>
+
+
+
+
+<br/><br/><p class="h2"><a href="/en">Main</a></p>
+
+</main>
+<footer><div>7523-02-09 - 7524-06-15</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
