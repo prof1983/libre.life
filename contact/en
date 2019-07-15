@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<link rel="stylesheet" href="/css/main.css"/>
+<title>Contacts - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Contacts</h1>
+
+<!--figure>
+<img src="img/00.jpg"/>
+</figure-->
+
+<h3>Groups</h3>
+
+<p>
+<a href="https://www.facebook.com/pages/LibreLife/767844063305347">fb.com/pages/LibreLife/767844063305347</a>
+<br/>
+<a href="https://www.facebook.com/libremoney">fb.com/libremoney</a>
+<br/>
+<a href="https://vk.com/libre.life">vk.com/libre.life</a>
+<br/>
+<a href="https://vk.com/libremoney">vk.com/libremoney</a>
+<br/>
+<a href="https://vk.com/im?sel=2000000008">vk.com/im?sel=2000000008</a>
+<br/>
+<a href="https://vk.com/im?sel=2000000018">vk.com/im?sel=2000000018</a>
+</p>
+
+
+<br/>
+<br/>
+
+
+<hr/>
+
+
+<br/>
+<br/>
+
+
+<p class="h">
+For all inquiries please contact:
+<br/>
+<a href="/people/1/en">Yaroslav Loginov</a>
+</p>
+
+</p>
+&lt;prof1983@yandex.ru&gt;
+<br/>
+<a href="http://vk.com/prof1983"><img src="/img/sn/fb.png"></a>
+<a href="http://fb.com/prof1983"><img src="/img/sn/vk.png"></a>
+<a href="http://lnkd.in/fsTFb9"><img src="/img/sn/in.png"></a>
+<a href="https://twitter.com/prof1983"><img src="/img/sn/tw.png"></a>
+<a href="https://plus.google.com/104932809573151422561"><img src="/img/sn/gp.png"></a>
+<a href="http://prof1983.moikrug.ru/"><img src="/img/sn/mk.png"></a>
+</p>
+
+<br/>
+<br/>
+
+<p>
+Libre is a community of people who value respect and dialog. If you are a victim of any behaviour that harms you or feel you have been harassed, whether it is during a conference or sprint organised by the project, or through general project interactions, please contact us.
+</p>
+
+<!-- https://www.debian.org/contact -->
+
+
+<p class="h2"><a href="/en">Main</a></p>
+
+</main>
+<footer><div>7523-05-24 - 7523-05-24</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
