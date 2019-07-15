@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Coliving - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Coliving</h1>
+
+<figure>
+<img src="img/00.jpg"/>
+</figure>
+
+<p>
+<a href="https://en.wikipedia.org/wiki/Coliving" target="_blank"><b>Coliving</b></a> is a form of homesharing in which individuals live together with other likeminded people, particularly for workers on temporary assignment away from home.
+</p>
+
+<p>
+<a href="https://en.wikipedia.org/wiki/Co-operative_living_arrangements" target="_blank">Co-operative living arrangements</a>
+</p>
+
+<br/>
+
+
+
+
+<h2>Publication</h2>
+
+<div class="article">
+<a href="/7524/0218/3/en"><img src="/7524/0218/3/logo-320x200.jpg"></a>
+<p><a href="/7524/0218/3/en">Odessans have opened in the US communal apartment and earned half a million dollars</a></p>
+<p>
+Odessans Cyril and Sergey Sopot opened in one of the most expensive cities in the world, San Francisco, coliving - communal apartment for startups. In addition to the beds in Soliving Club beginning businessmen, techies and geeks just get connection information, early adopters and other rotating in the community of their own kind.
+<a href="/7524/0218/3/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/1110/1/en"><img src="/7523/1110/1/logo-320x200.jpg"></a>
+<p><a href="/7523/1110/1/en">Hostels of a new era</a></p>
+<p>
+Because of the huge housing prices in US cities, employees of IT sector have to look for less expensive options. New trend - coliving. At first glance, they are no different from the hostels, but it is not. Browser vc.ru says, what are they and how kolivingi millenialov relieve loneliness.
+<a href="/7523/1110/1/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/1020/2/en"><img src="/7523/1020/2/logo-320x200.jpg"></a>
+<p><a href="/7523/1020/2/en">Common - «dormitory» with monthly payment, cleaning and entrance interview</a></p>
+<p>
+Today in the "Ideas for Business" - service Common, with which the user can become part of the community and neighbors to live in a comfortable room in a "dorm."
+<a href="/7523/1020/2/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0903/1/en"><img src="/7523/0903/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0903/1/en">WeWork within: History of "coworking networks" business which is estimated at $ 10 billion</a></p>
+<p>
+Publication Forbes has published the story of the creation and development of start-WeWork, which rents workspace for startups and entrepreneurs. VC leads adapted translation notes.
+<a href="/7523/0903/1/en">Read more...</a>
+</p>
+</div>
+
+
+
+
+<br/>
+<br/>
+
+<p class="h2"><a href="/co/en">Collective</a></p>
+
+</main>
+<footer><div>7524-02-22 - 7524-02-23</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
