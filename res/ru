@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Ресурсная база - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Ресурсная база</h1>
+
+<figure>
+<a href="img/00b.jpg"><img src="img/00.jpg"></a>
+</figure>
+
+<!--
+res.libre.life
+libre.life/res
+res.libre.money -> 185.5.248.255 (ihor)
+libre.money/res
+-->
+
+<p class="h">
+<a href="https://vk.com/dashkevich_danil" target="_blank">Данил Дашкевич</a>
+<br/>
+<a href="https://drive.google.com/folderview?id=0BzHi0O1yUJ8_WUtHV3BSM3Aybkk" target="_blank">Дизайн проекта</a>
+<br/>
+<a href="https://docs.google.com/document/d/1-wE3iPajjolHp1FEH8x6BHhBH9qOdR6TbfS8KZ_A5TA" target="_blank">Паспорт проекта FreePe</a>
+<br/>
+<a href="https://docs.google.com/spreadsheets/d/1tdKT_7B8UZHsOF17ezTFORqTMNiA_BBLe2HGgahd1to" target="_blank">Ресурсная база кооператоров</a>
+<br/>
+<a href="https://docs.google.com/document/d/1zAC3xNP7LeIiVOXrMXFmhDGYw-njzGO8NtWDHV2FK40" target="_blank">Проект кооперативного альянса</a>
+</p>
+
+<figure>
+<a href="img/danil/01-Moya_stranitsa.png"><img src="img/danil/01.jpg"></a>
+<br/>
+<a href="img/danil/02-Soobschenia.png"><img src="img/danil/02.jpg"></a>
+<br/>
+<a href="img/danil/03-Soobschestva.png"><img src="img/danil/03.jpg"></a>
+<br/>
+<a href="img/danil/04-Sobytia.png"><img src="img/danil/04.jpg"></a>
+<br/>
+<a href="img/danil/05-Navyki.png"><img src="img/danil/05.jpg"></a>
+<br/>
+<a href="img/danil/08-Proekty.png"><img src="img/danil/08.jpg"></a>
+<br/>
+<a href="img/danil/13-Disk.png"><img src="img/danil/13.jpg"></a>
+<br/>
+<a href="img/danil/14-Svyazi.png"><img src="img/danil/14.jpg"></a>
+</figure>
+
+<br/>
+
+<p class="h">
+<a href="gleb">Предложение о сборе информации об успешных производствах от Глеба Тюрина</a>
+</p>
+
+
+<br/>
+
+<h2>Формы для заполнения</h2>
+
+<p class="h">
+<a href="http://goo.gl/forms/Fu5gaxIXK0" target="_blank">Ресурсная база</a>
+<!-- https://docs.google.com/forms/d/1_128np6cpE5F2JlVec1M1cl2OGibNz_wPqP_D7fQjJ0 -->
+<br/>
+<a href="http://goo.gl/forms/MLYhHLOJ3Y" target="_blank">Ресурсная база (расширенная)</a>
+<!-- https://docs.google.com/forms/d/1QvsTPssmCKcOgWgt4YGQIMRa6atZ_YnHhiq4KQs3Xhc -->
+</p>
+
+
+<!--
+https://docs.google.com/forms/d/1wBAf_lFuv0JqjpaosH__Hizf56t1lyXsEV-WMS-kLGQ/viewform
+https://docs.google.com/forms/d/1wBAf_lFuv0JqjpaosH__Hizf56t1lyXsEV-WMS-kLGQ/edit
+-->
+
+<!--
+Результаты
+https://docs.google.com/spreadsheets/d/1MzGonxVqwsm88RtPwSNZhcHY34rls34UwIwTh9bxPD0 - Ресурсная база
+https://docs.google.com/spreadsheets/d/1hch2Xf6Yd35osSvGuwerTYrwX9YFEk4tbS_0o5s0Ymo - Ресурсная база (расширенная)
+-->
+
+
+
+
+<nav class="main-footer-nav"><a href="/projects/ru">Проекты</a></nav>
+
+</main>
+<footer><div>7523-09-24 - 7524-07-05</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
