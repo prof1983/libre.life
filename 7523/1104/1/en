@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Economic system - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Economic system</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+The following text is written at-one-breath, as a response to a letter Zamir with all the thoughts accumulated in recent time. Do not think critically. However, forgive, please read to the end. And, if possible, write a couple of lines to the PM what do you all think. It's important for me.
+</p>
+
+<br/>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/economy/en">Economy</a></p>
+
+</main>
+<footer><div>7523-11-04 - 7523-11-04</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
