@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Transportation future - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Transportation future</h1>
+
+<figure>
+<a href="00b.jpg"><img src="00.jpg"/></a>
+</figure>
+
+<p>
+SkyWay - «Heavenly Road" - a fantastic transport project, the embodiment of which will be able to see anyone. Author design - Belarusian engineering and its practical implementation started in Belarus.
+</p>
+
+<br/>
+
+<p class="h2">
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/future/en">Future</a></nav>
+
+</main>
+<footer><div>7523-09-29 - 7524-12-18</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
