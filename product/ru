@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Продукция - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Продукция</h1>
+
+<p class="h">
+Производство продукции, производительные отношения и силы
+</p>
+
+<div class="blocks blocks-front">
+
+<a href="/management/ru">
+<div>
+<figure>
+<img src="/management/img/logo/300.jpg"/>
+</figure>
+<h3>Управление</h3>
+<p>Системы управления</p>
+<!-- с-ма Водянова, с-ма Чартаева, проект аспирин -->
+</div>
+</a>
+<!--ol>
+<li><a href="/cracy/ru">Структуры управления</a>
+</ol-->
+
+<a href="/fin/ru">
+<div>
+<figure>
+<img src="/fin/img/logo/300.jpg"/>
+</figure>
+<h3>Финансы</h3>
+<p></p>
+</div>
+</a>
+
+<a href="/economy/micro/ru">
+<div>
+<figure>
+<img src="/economy/micro/img/logo/300.jpg"/>
+</figure>
+<h3>Микроэкономика</h3>
+<p>экономика производства или предприятия</p>
+</div>
+</a>
+
+</div>
+
+<br/>
+<br/>
+
+
+
+
+<figure>
+<a href="img/00b.jpg"><img src="img/00.jpg"/></a>
+</figure>
+
+<br/>
+
+
+
+
+<h2>Продукт (описание)</h2>
+
+<p>
+<a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82" target="_blank"><b>Продукт</b></a> — произведение труда, законченный результат некоторой деятельности.
+</p>
+
+<p>
+<b>Промышленный продукт</b> — товар или услуга, которую можно предложить для рынка, и которая будет удовлетворять потребности потребителей.
+</p>
+
+<p>
+<a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82_(%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81)" target="_blank"><b>Продукт (в маркетинге)</b></a> — это товар или услуга, которую можно предложить для рынка, и которая будет удовлетворять потребности потребителей. Продукты делятся на материальные и нематериальные.
+</p>
+
+
+
+
+<h2>Производство (описание)</h2>
+
+<p>
+<a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE" target="_blank"><b>Производство (в экономическом смысле)</b></a> — процесс создания какого-либо продукта.
+</p>
+
+
+<p>
+См. также: <a href="/doc/project/ru">Проект</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/ru">Главная</a></nav>
+
+</main>
+<footer><div>7524-06-01 - 7524-06-21</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
