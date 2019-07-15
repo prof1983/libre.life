@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Партнеры - Libre</title>
+<style>
+div.logop {
+	/*opacity: 1;*/
+	width: 100px;
+	height: 100px;
+}
+</style>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Партнеры</h1>
+
+<div class="logop">
+<a href="http://ccfr.info" target="_blank">
+<img style="top: -12px; position: relative;" typeof="foaf:Image" src="ccfr_full_logo_en.png" width="160" height="32" alt="ccfr.info"/>
+</a>
+</div>
+
+<div class="logop">
+<a href="http://coinfest.org" target="_blank">
+<img style="top: -15px; position: relative;" typeof="foaf:Image" src="coinfest_logo.jpg" width="154" height="56" alt="coinfest.org"/>
+</a>
+</div>
+
+<div class="logop">
+<a href="http://www.bitcoincoop.org" target="_blank">
+<img style="top: -12px; position: relative;" typeof="foaf:Image" src="bitcoincoop_org_logo.png" width="150" height="50" alt="bitcoincoop.org"/>
+</a>
+</div>
+
+<div class="logop">
+<a href="http://bitnation.co" target="_blank">
+<img typeof="foaf:Image" src="Bitnation_logo.png" width="200" height="81" alt="bitnation.co"/>
+</a>
+</div>
+
+<div class="logop">
+<a href="https://ethereum.org" target="_blank">
+<img style="top: 2px; position: relative;" typeof="foaf:Image" src="etherium.png" width="38" height="58" alt="ethereum.org"/>
+</a>
+</div>
+
+<div class="logop">
+<a href="http://bits.media/" target="_blank">
+<img style="top: 4px; position: relative;" typeof="foaf:Image" src="Bitcoin_Security_Logo.png" width="174" height="63" alt="bits.media"/>
+</a>
+</div>
+
+
+<br/>
+
+
+<div class="logop">
+<a href="http://kl10tch.ru/" target="_blank">
+<img style="top: 2px; position: relative;" typeof="foaf:Image" src="CL10TCH_Logo.png" width="127" height="62" alt="kl10tch.ru"/>
+</a>
+</div>
+
+<div class="logop">
+<a href="http://bitbasket.info/" target="_blank">
+<img style="top: -15px; position: relative;" typeof="foaf:Image" src="bitbasket.png" width="170" height="32" alt="bitbasket.info"/>
+</a>
+</div>
+
+<div class="logop">
+<a href="https://bitcoinfoundation.org" target="_blank">
+<img typeof="foaf:Image" src="bitcoinfoundation.png" width="48" height="48" alt="bitcoinfoundation.org"/>
+</a>
+</div>
+
+<div class="logop">
+<a href="http://bitcoinrussia.org/" target="_blank">
+<img style="top: -7px; position: relative;" typeof="foaf:Image" src="BitcoinRussia_org_Logo.png" width="179" height="37" alt="bitcoinrussia.org"/>
+</a>
+</div>
+
+<div class="logop">
+<a href="http://eventbrite.com" target="_blank">
+<img style="top: -3px; position: relative;" typeof="foaf:Image" src="eventbrite.png" width="155" height="48" alt="eventbrite.com"/>
+</a>
+</div>
+
+<div class="logop">
+<a href="https://walletnotes.org/" target="_blank">
+<img style="top: -5px; position: relative;" typeof="foaf:Image" src="Walletnotes_Logo.png" width="204" height="43" alt="walletnotes.org"/>
+</a>
+</div>
+
+
+<br>
+
+
+<div class="logop">
+<a href="http://atplaw.ru/" target="_blank">
+<img style="top: -4px; position: relative;" typeof="foaf:Image" src="atplaw.png" width="203" height="38" alt="atplaw.ru"/>
+</a>
+</div>
+
+<div class="logop">
+<a href="https://twitter.com/yungrushin" target="_blank">
+<img style="top: 5px; position: relative;" typeof="foaf:Image" src="YungRushin_logo.jpg" width="170" height="57" alt="twitter.com/yungrushin"/>
+</a>
+</div>
+
+<div class="logop">
+<a href="http://dadacoins.com/" target="_blank">
+<img style="top: -8px; position: relative;" typeof="foaf:Image" src="dadacoins.png" width="162" height="48" alt="dadacoins.com"/>
+</a>
+</div>
+
+<div class="logop">
+<a href="http://goc.io/" target="_blank">
+<img style="top: -5px; position: relative;" typeof="foaf:Image" src="gocio.png" width="204" height="48" alt="goc.io"/>
+</a>
+</div>
+
+
+<br>
+
+
+<div class="logop">
+<a href="http://cryptojoin.com/" target="_blank">
+<img style="top: -5px; position: relative;" typeof="foaf:Image" src="cryptojoin.png" width="193" height="48" alt="cryptojoin.com"/>
+</a>
+</div>
+
+<div class="logop">
+<a href="http://npaed.ru/RU/" target="_blank">
+<img style="top: -5px; position: relative;" typeof="foaf:Image" src="npaed.png" width="235" height="48" alt="npaed.ru"/>
+</a>
+</div>
+
+<div class="logop">
+<a href="http://robokassa.ru/ru/index.aspx" target="_blank">
+<img style="top: -16px; position: relative;" typeof="foaf:Image" src="robokassa.png" width="200" height="23" alt="robokassa.ru"/>
+</a>
+</div>
+
+<div class="logop">
+<a href="http://it-sobytie.ru" target="_blank">
+<img style="top: -5px; position: relative;" typeof="foaf:Image" src="it_sobitie.png" width="196" height="48" alt="it-sobytie.ru"/>
+</a>
+</div>
+<br>
+
+<div class="logop">
+<a href="https://z-payment.com/" target="_blank">
+<img style="top: 4px; position: relative;" typeof="foaf:Image" src="zpayment.png" width="79" height="68" alt="z-payment.com"/>
+</a>
+</div>
+
+<div class="logop">
+<a href="http://oceanventures.ru/" target="_blank">
+<img style="top: -3px; position: relative;" typeof="foaf:Image" src="ocean.png" width="121" height="48" alt="oceanventures.ru"/>
+</a>
+</div>
+
+<div class="logop">
+<a href="http://merchantcoin.net/" target="_blank">
+<img style="top: 22px; position: relative; " typeof="foaf:Image" src="merchantcoin.png" width="54" height="97" alt="merchantcoin.net"/>
+</a>
+</div>
+
+<div class="logop">
+<a href="http://web-payment.ru/" target="_blank">
+<img style="top: -11px; position: relative; width: 180px; height: inherit;" typeof="foaf:Image" src="webpayment.png" width="243" height="38" alt="web-payment.ru"/>
+</a>
+</div>
+
+<div class="logop">
+<a href="http://pirate-party.ru/" target="_blank">
+<img style="top: 4px; position: relative;" typeof="foaf:Image" src="pp.png" width="184" height="58" alt="pirate-party.ru"/>
+</a>
+</div>
+
+<div class="logop">
+<a href="http://freerunet.ru/" target="_blank">
+<img style="top: 5px; position: relative;" typeof="foaf:Image" src="api.png" width="246" height="58" alt="freerunet.ru"/>
+</a>
+</div>
+
+
+<br>
+
+
+<div class="logop">
+<a href="http://rublacklist.net/" target="_blank">
+<img style="top: 5px; position: relative;" typeof="foaf:Image" src="blacklist.png" width="57" height="57" alt="rublacklist.net"/>
+</a>
+</div>
+
+<div class="logop">
+<a href="https://twitter.com/TaxiTokens" target="_blank">
+<img style="top: 15px; position: relative;" typeof="foaf:Image" src="Taxi_Tokens_logo.png" width="76" height="76" alt="twitter.com/TaxiTokens"/>
+</a>
+</div>
+
+<div class="logop">
+<a href="http://www.coyotewallstreet.com/" target="_blank">
+<img style="top: 15px; position: relative;" typeof="foaf:Image" src="CoyoteOfWallSt_logo.jpg" width="99" height="99" alt="coyotewallstreet.com"/>
+</a>
+</div>
+
+<div class="logop">
+<a href="http://frihetsfaxen.se/" target="_blank">
+<img style="top: 15px; position: relative;" typeof="foaf:Image" src="Frihetsfaxen_logo.jpg" width="88" height="88" alt="frihetsfaxen.se"/>
+</a>
+</div>
+
+<div class="logop">
+<a href="http://www.acoinproject.org" target="_blank">
+<img style="top: 5px; position: relative;" typeof="foaf:Image" src="Acoin_logo.png" width="59" height="59" alt="acoinproject.org"/>
+</a>
+</div>
+
+<div class="logop">
+<a href="http://libremoney.org/" target="_blank">
+<img style="top: 5px; position: relative;" typeof="foaf:Image" src="LibreMoney_logo.png" width="60" height="60" alt="libremoney.org"/>
+</a>
+</div>
+
+<div class="logop">
+<a href="http://electropartisan.com/" target="_blank">
+<img style="top: 5px; position: relative;" typeof="foaf:Image" src="Electropartisan_Logo.png" width="100" height="63" alt="electropartisan.com"/>
+</a>
+</div>
+
+<div class="logop">
+<a href="http://neuronspace.ru/" target="_blank">
+<img style="top: 5px; position: relative;" typeof="foaf:Image" src="Neuronspace_Logo.png" width="91" height="69" alt="neuronspace.ru"/>
+</a>
+</div>
+
+
+<h2>Образовательный партнер</h2>
+
+
+<br>
+
+<div class="logop">
+<a href="http://netology.ru/?utm_medium=btl&utm_campaign=1091&utm_source=CoinFestRussia2002" target="_blank">
+<img style="top: 0px; position: relative;" typeof="foaf:Image" src="Netology.png" width="342" height="292" alt=""/>
+</a>
+</div>
+
+
+<br>
+
+
+<h2>СМИ</h2>
+
+
+<div class="logop">
+<a href="http://cointelegraph.com" target="_blank"><img typeof="foaf:Image" src="cointelegraph.png" width="81" height="48"/></a>
+</div>
+
+<div class="logop">
+<a href="http://bitcoininfo.ru" target="_blank"><img style="top: 8px; position: relative;" typeof="foaf:Image" src="bitcoininfo_logo.jpg" width="160" height="65"/></a>
+</div>
+
+<div class="logop">
+<a href="http://cryptobizmagazine.com/" target="_blank"><img style="top: -8px; position: relative;" typeof="foaf:Image" src="cryptobizmag.png" width="83" height="48"/></a>
+</div>
+
+<div class="logop">
+<a href="http://coinside.ru" target="_blank"><img typeof="foaf:Image" src="coinside.png" width="160" height="51"/></a>
+</div>
+
+<div class="logop">
+<a href="http://neva.today" target="_blank"><img typeof="foaf:Image" src="neva_today.png" width="162" height="48"/></a>
+</div>
+
+<div class="logop">
+<a href="http://bitcoinwoman.ru/" target="_blank"><img style="top: -1px; position: relative;" typeof="foaf:Image" src="bitcoinwoman.png" width="275" height="48"/></a>
+</div>
+
+<div class="logop">
+<a href="http://bitcoinmagazine.com/" target="_blank"><img style="top: -1px; position: relative;" typeof="foaf:Image" src="bitcoin_magazine.png" width="185" height="48"/></a>
+</div>
+
+<div class="logop">
+<a href="http://finparty.ru/" target="_blank"><img style="top: -18px; position: relative;" typeof="foaf:Image" src="finparty.png" width="170" height="31"/></a>
+</div>
+
+<div class="logop">
+<a href="http://btc-expert.com/" target="_blank"><img style="top: -8px; position: relative;" typeof="foaf:Image" src="btcexpert.png" width="135" height="48"/></a>
+</div>
+
+<div class="logop">
+<a href="http://beznal.pro/" target="_blank"><img style="top: -8px; position: relative;" typeof="foaf:Image" src="beznal.png" width="103" height="48"/></a>
+</div>
+
+<div class="logop">
+<a href="http://moneynews.ru/" target="_blank"><img style="top: -10px; position: relative;" typeof="foaf:Image" src="money_news.png" width="151" height="48"/></a>
+</div>
+
+<div class="logop">
+<a href="http://newhyip.com/" target="_blank"><img style="top: -10px; position: relative;" typeof="foaf:Image" src="newhyip.png" width="172" height="48"/></a>
+</div>
+
+<div class="logop">
+<a href="http://elmoney.net/" target="_blank"><img style="top: -10px; position: relative;" typeof="foaf:Image" src="elmoney.png" width="202" height="47"/></a>
+</div>
+
+<div class="logop">
+<a href="http://fedsfm.ru/" target="_blank"><img style="top: -12px; position: relative;" typeof="foaf:Image" src="fedsfm.png" width="184" height="48"/></a>
+</div>
+
+<div class="logop">
+<a href="http://semsocial.ru/" target="_blank"><img style="top: -12px; position: relative;" typeof="foaf:Image" src="semisocial.png" width="155" height="48"/></a>
+</div>
+
+<div class="logop">
+<a href="http://bitcoingarden.tk/" target="_blank"><img style="top: -12px; position: relative;" typeof="foaf:Image" src="bitcoingardenlogo.png" width="176" height="59"/></a>
+</div>
+
+<div class="logop">
+<a href="http://btcrussia.ru" target="_blank"><img typeof="foaf:Image" src="btcrussia_logo.png" width="151" height="48"/></a>
+</div>
+
+<div class="logop">
+<a href="http://vk.com/bitcoin" target="_blank"><img typeof="foaf:Image" src="vkcom_bitcoin.png" width="48" height="48"/></a>
+</div>
+
+<div class="logop">
+<a href="http://rueconomics.ru/" target="_blank"><img typeof="foaf:Image" src="Rueconomics_Logo.jpg" width="250" height="74" alt=""/></a>
+</div>
+
+<div>
+<a href="http://www.coinssource.com/" target="_blank"><img style="top: 15px; position: relative;" typeof="foaf:Image" src="CoinsSource_Logo.png" width="200" height="100" alt=""/></a>
+</div>
+
+<div class="logop">
+<a href="http://www.cryptoarticles.com/" target="_blank"><img typeof="foaf:Image" src="Cryptoarticles_Logo.png" width="256" height="75" alt=""/></a>
+</div>
+
+<div class="logop">
+<a href="http://www.k4y0t.ru/" target="_blank"><img style="top: -13px; position: relative;" typeof="foaf:Image" src="k4yot.png" width="144" height="48" alt=""/></a>
+</div>
+
+<div class="logop">
+<a href="http://telebidder.com/ru/" target="_blank"><img style="top: -5px; position: relative;" typeof="foaf:Image" src="Telebidder_Logo.png" width="150" height="64" alt=""/></a>
+</div>
+
+
+<h2>Золотой Спонсор</h2>
+
+
+<div style="opacity: 1;">
+<a href="#" target="_blank"><img style="top: 0px; position: relative;" typeof="foaf:Image" src="Gold.png" width="342" height="292" alt=""/></a>
+</div>
+
+
+<br><br><br>
+
+
+<h2>Lanyards & Gifts Спонсор</h2>
+
+
+<div style="opacity: 1;">
+<a href="http://prypto.com/" target="_blank">
+<img style="top: 0px; position: relative;" typeof="foaf:Image" src="Prypto_Lanyards_Items.jpg" width="342" height="292" alt=""/>
+</a>
+</div>
+
+
+<h2>Генеральный медиа-спонсор</h2>
+
+
+<div style="opacity: 1;">
+<a href="http://bitnovosti.com" target="_blank">
+<img style="top: 0px; position: relative;" typeof="foaf:Image" src="GeneralMediaSponsor.png" width="342" height="292" alt=""/>
+</a>
+</div>
+
+
+<h2>Спонсоры</h2>
+
+
+<div style="opacity: 1;">
+<a href="http://prypto.com/" target="_blank">
+<img style="top: 0px; position: relative;" typeof="foaf:Image" src="prypto.png" width="230" height="192" alt=""/>
+</a>
+</div>
+
+<div style="opacity: 1;">
+<a href="http://cryptobizmagazine.com/" target="_blank">
+<img style="top: 0px; position: relative;" typeof="foaf:Image" src="cryptobizmagazine.png" width="230" height="192" alt=""/>
+</a>
+</div>
+
+<div style="opacity: 1;">
+<a href="http://bitcoinrussia.org" target="_blank">
+<img style="top: 0px; position: relative;" typeof="foaf:Image" src="BitcoinRussia.png" width="230" height="192" alt=""/>
+</a>
+</div>
+
+
+<br>
+
+
+<div style="opacity: 1;">
+<a href="http://bits.media/" target="_blank">
+<img style="top: 0px; position: relative;" typeof="foaf:Image" src="Bits_Media.png" width="230" height="192" alt=""/>
+</a>
+</div>
+
+<div style="opacity: 1;">
+<a href="http://neuronspace.ru/" target="_blank">
+<img style="top: 0px; position: relative;" typeof="foaf:Image" src="Neuronspace.png" width="230" height="192" alt=""/>
+</a>
+</div>
+
+<div style="opacity: 1;">
+<a href="#" target="_blank">
+<img style="top: 0px; position: relative;" typeof="foaf:Image" src="Partners.png" width="230" height="192" alt=""/>
+</a>
+</div>
+
+
+<p>
+https://www.debian.org/partners/partners
+</p>
+
+</main>
+
+<footer>
+<div>Libre 7522-7523</div>
+<div>01.02.7523 - 22.03.7523 (2015)</div>
+</footer>
+
+</body>
+</html>
