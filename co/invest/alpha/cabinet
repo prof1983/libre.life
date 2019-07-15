@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<style>
+div {
+	max-width: 100%;
+	width: 1257px;
+	background: #d8dfe6;
+	border: 1px solid black;
+}
+</style>
+<title>Cabinet - CoInvesting</title>
+</head>
+<body style="background: #7ab2ea">
+
+<center>
+
+<div>
+<img src="cabinet0.png" style="max-width:100%"/>
+<br/>
+<img src="cabinet1.png" style="max-width:100%"/>
+<br/>
+<img src="cabinet2.png" style="max-width:100%"/>
+<br/>
+<img src="cabinet9.png" style="max-width:100%"/>
+</div>
+
+<br/>
+<br/>
+<br/>
+
+<div>
+<img src="cabinet0.png" style="max-width:100%"/>
+<br/>
+<img src="cabinet3.png" style="max-width:100%"/>
+<br/>
+<img src="cabinet4.png" style="max-width:100%"/>
+<br/>
+<img src="cabinet9.png" style="max-width:100%"/>
+</div>
+
+<br/>
+<br/>
+<br/>
+
+<h2><a href="terminal">Терминал</a></h2>
+
+</center>
+
+</body>
+</html>
