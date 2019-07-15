@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Everything is done just playfully - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Everything is done just playfully</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+"Your startup should solve the problem" - everyone knows this mantra and most important rule. And what if not everyone should? We talked with the creator of the innovation campus "StupInno" Zamir Akimov about economic issues and the economy of desires, the concept of mother, meritocratic future and alternative thinking.
+</p>
+
+<br/>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/person/2/en">Zamir Akimov</a></p>
+
+</main>
+<footer><div>7523-10-06 - 7523-10-06</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
