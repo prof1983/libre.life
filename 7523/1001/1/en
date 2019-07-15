@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Materials for the project VodaHome 2015-08-01 - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Materials for the project VodaHome 2015-08-01</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<br/>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/p/17/en">VodaHome project</a></p>
+
+</main>
+<footer><div>7523-10-04 - 7523-10-04</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
