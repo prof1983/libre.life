@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>CoinFest - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>CoinFest</h1>
+
+<p class="h2">
+<a jref="ru">RU</a>
+</p>
+
+
+</main>
+<footer><div>7523-01-30 - 7523-04-03 (2015)</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

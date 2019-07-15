@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Ярослав Логинов - Видео CoinFest-2015-Moscow - CoinFest</title>
+</head>
+
+<body>
+
+<header>
+</header>
+
+<main>
+
+<h1>Ярослав Логинов</h1>
+
+<p class="h">
+<a href="index.html">Видео CoinFest-2015-Moscow</a>
+</p>
+
+
+<figure>
+<b>CoinFest-2015-Moscow: Ярослав Логинов (1) Libre.Life</b>
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/lUcHuovPdns" frameborder="0" allowfullscreen></iframe>
+<br/>
+http://youtu.be/lUcHuovPdns
+</figure>
+
+<figure>
+<b>CoinFest-2015-Moscow: Ярослав Логинов (2) - Деньги</b>
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/dZvbBS0gg2c" frameborder="0" allowfullscreen></iframe>
+<br/>
+http://youtu.be/dZvbBS0gg2c
+</figure>
+
+<figure>
+<b>CoinFest-2015-Moscow: Ярослав Логинов (3) - Репутация</b>
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/yrh4kUidk68" frameborder="0" allowfullscreen></iframe>
+<br/>
+http://youtu.be/yrh4kUidk68
+</figure>
+
+<figure>
+<b>CoinFest-2015-Moscow: Ярослав Логинов (4)</b>
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/-2zAkq0l5wY" frameborder="0" allowfullscreen></iframe>
+<br/>
+http://youtu.be/-2zAkq0l5wY
+</figure>
+
+
+</main>
+
+<footer>
+<div>CoinFest 2015</div>
+<div>23.02.2015 - 23.02.2015</div>
+</footer>
+
+</body>
+</html>

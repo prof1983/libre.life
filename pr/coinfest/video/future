@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Будущее - Видео CoinFest-2015-Moscow - CoinFest</title>
+</head>
+
+<body>
+
+<header>
+</header>
+
+<main>
+
+<h1>Будущее</h1>
+
+<p class="h">
+<a href="index.html">Видео CoinFest-2015-Moscow</a>
+</p>
+
+
+<figure>
+<b>Люди будущего. Следующие миллионеры и миллиардеры</b>
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/3PMr-kROuQw" frameborder="0" allowfullscreen></iframe>
+<br/>
+http://youtu.be/3PMr-kROuQw
+</figure>
+
+<figure>
+<b>Что нас ждет в будущем</b>
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/-v9Uc_yDRq8" frameborder="0" allowfullscreen></iframe>
+<br/>
+http://youtu.be/-v9Uc_yDRq8
+</figure>
+
+
+</main>
+
+<footer>
+<div>CoinFest 2015</div>
+<div>23.02.2015 - 23.02.2015</div>
+</footer>
+
+</body>
+</html>

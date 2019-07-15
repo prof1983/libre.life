@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<link rel="stylesheet" href="/css/main.css">
+<title>Докладчики - CoinFest</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Докладчики CoinFest-2015-Moscow</h1>
+
+
+<h3>Максим Божко, bozhko.maksim@gmail.com</h3>
+
+<p>
+Девелопер, Биткойн-энтузиаст
+</p>
+
+<p>
+<b>Мастер-класс по использованию различных типов кошельков и обменных сервисов</b>
+</p>
+
+<p>
+<a href="/video/bozhko"><b>Видео</b></a>
+</p>
+
+
+<h3>Ярослав Логинов, prof1983@yandex.ru</h3>
+
+<p>
+Пиратская партия России
+</p>
+
+<p>
+<b>Либертарианство, сложившаяся финансовая система, система нотариусов и юристов,
+новая экономическая система на основе ресурсно-репутационной модели, Государство 2.0.</b>
+</p>
+
+<p>
+<a href="http://libre.life">Libre.Life</a>, <a href="http://libremoney.org">LibreMoney.org</a>
+<br/>
+<a href="/pr">Презентация</a>
+<br/>
+<a href="http://storage.libre.life/CoinFest-2015-Moscow-Presentation.odp">Скачать</a>
+<br/>
+<a href="http://www.slideshare.net/prof1983/coinfest2015moscow">slideshare.net/prof1983/coinfest2015moscow</a>
+</p>
+
+<p>
+<a href="/video/loginov"><b>Видео</b></a>
+</p>
+
+
+<h3>Erik Vollstädt, erikvollstaedt@googlemail.com</h3>
+
+<p>
+Bitnation
+</p>
+
+<p>
+<a href="http://bitnation.co">bitnation.co</a>
+<br/>
+Презентация: <a href="http://libre.life/other/bitnation">libre.life/other/bitnation</a>
+<br/>
+<a href="http://storage.libre.life/bitnation_leaflet_for_events_ru.pdf">Скачать PDF</a>
+</p>
+
+<p>
+<a href="/video/bitnation"><b>Видео</b></a>
+</p>
+
+
+<h3>Антон Бегер, anton-beger@rambler.ru</h3>
+
+<p>
+<b>Cпособы использования биткоина в целях налоговой оптимизации</b>
+</p>
+
+<p>
+<a href="/pr/anton-beger-presentation.zip">Скачать презентацию</a>
+</p>
+
+
+<h3>Кирилл Гребнев, greatnonentity@gmail.com</h3>
+
+<p>
+<b>"Электронная совесть" - репутационная система (на базе blockchain).</b>
+</p>
+
+<p>
+<a href="http://sarafan.net">Sarafan.net</a>
+</p>
+
+<p>
+<a href="/video/grebnev"><b>Видео</b></a>
+</p>
+
+
+<!--p>
+Анна Байтенова, abaitenova@rmcenter.ru
+<br/>
+Советник по правовым вопросам Национального партнерства участников микрофинансового рынка
+<br/>
+Тема выступления уточняется
+</p>
+
+<p>
+Evo Ked <evok3d22@gmail.com>
+<br/>
+Редактор http://www.coinssource.com
+</p>
+
+<p>
+Nathan Wosnack <nathan@blockchainfactory.com>
+<br/>
+Вот, что Натан написал о себе: 
+
+My corporate description:
+
+"Nathan Wosnack is an entrepreneur and pioneer in cryptocurrencies; having first used Bitcoin in Q4 2009. Nathan is involved as an advocate, trader, and spokesperson within Vancouver, BC, Canada. He has been quoted by CoinTelegraph, Reuters, The Georgia Straight, The Wall Street Journal, and other news outlets. He is the Finance Adviser for Fort Galt and North American Advisory Board for Cryptor Trust Inc, and Futurist Advisory Board - Lifeboat Foundation.
+
+Nathan Wosnack recently joined as Founder and Chief Operating Officer (COO) of uBITquity, and CCO of Blockchain Factory."
+
+Warmly,
+Nathan Wosnack
+<br/>
+</p-->
+
+
+
+
+<nav class="main-footer-nav"><a href="/pr/ru">Презентации</a></nav>
+
+</main>
+<footer><div>7523-02-24 - 7524-06-23</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css">
+<meta charset="utf-8" />
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Main - CoinFest</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<figure>
+<img src="img/coinfest.jpg"/>
+</figure>
+
+<h1>CoinFest-2015-Moscow</h1>
+
+<p class="h2">
+<a href="about">Про CoinFest</a>
+<br>
+<a href="place">Площадка</a>
+<br/>
+<a href="pr">Презентация</a>
+<br/>
+<a href="lecture">Докладчики</a>
+<br/>
+<a href="video">Видео</a>
+<br/>
+<a href="http://habrahabr.ru/post/251351">Пост-релиз на Хабре</a>
+<br/>
+<a href="article">Статьи</a>
+<br/>
+<a href="people">Люди</a>
+<br/>
+<a href="partners">Партнеры</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/">Главная</a></nav>
+
+</main>
+<footer><div>7523-01-30 - 7525-02-21</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

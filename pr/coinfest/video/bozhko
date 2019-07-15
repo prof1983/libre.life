@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Максим Божко - Видео CoinFest-2015-Moscow - CoinFest</title>
+</head>
+
+<body>
+
+<header>
+</header>
+
+<main>
+
+<h1>Максим Божко</h1>
+
+<p class="h">
+<a href="index.html">Видео CoinFest-2015-Moscow</a>
+</p>
+
+
+<figure>
+<b>CoinFest-2015-Moscow: Максим Божко (1)</b>
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Z1dnsp-dk2k" frameborder="0" allowfullscreen></iframe>
+<br/>
+http://youtu.be/Z1dnsp-dk2k
+</figure>
+
+
+<figure>
+<b>CoinFest-2015-Moscow: Максим Божко (2)</b>
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/j623TjtZNcU" frameborder="0" allowfullscreen></iframe>
+<br/>
+http://youtu.be/j623TjtZNcU
+</figure>
+
+<figure>
+<b>CoinFest-2015-Moscow: Максим Божко (3)</b>
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/RasxDK0fodU" frameborder="0" allowfullscreen></iframe>
+<br/>
+http://youtu.be/RasxDK0fodU
+</figure>
+
+
+</main>
+
+<footer>
+<div>CoinFest 2015</div>
+<div>24.02.2015 - 24.02.2015</div>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Кирилл Гребнев - Видео CoinFest-2015-Moscow - CoinFest</title>
+</head>
+
+<body>
+
+<header>
+</header>
+
+<main>
+
+<h1>Кирилл Гребнев</h1>
+
+<p class="h">
+<a href="index.html">Видео CoinFest-2015-Moscow</a>
+</p>
+
+
+<figure>
+<b>CoinFest-2015-Moscow: Кирилл Гребнев (1)</b>
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/BXhWUuciXec" frameborder="0" allowfullscreen></iframe>
+<br/>
+http://youtu.be/BXhWUuciXec
+</figure>
+
+<figure>
+<b>CoinFest-2015-Moscow: Кирилл Гребнев (2)</b>
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/swHPixwM0sM" frameborder="0" allowfullscreen></iframe>
+<br/>
+http://youtu.be/swHPixwM0sM
+</figure>
+
+
+</main>
+
+<footer>
+<div>CoinFest 2015</div>
+<div>24.02.2015 - 24.02.2015</div>
+</footer>
+
+</body>
+</html>
