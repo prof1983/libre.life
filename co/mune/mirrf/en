@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>MIR - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>MIR</h1>
+
+<!-- MIR (Method of Intellectual Research) -->
+
+<figure>
+<img src="img/logo/600x600.jpg"/>
+</figure>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+</main>
+<footer><div>7523-04-11 - 7523-04-24</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
