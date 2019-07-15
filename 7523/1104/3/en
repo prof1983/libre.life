@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Structure of the World - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Structure of the World</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+A very large number of people unable to afford to buy even the simplest garden, especially in circumstances where they have not resolved the issue with the primary housing.
+So we decided to create a holiday resort year-round for people of modest means.
+</p>
+
+
+<br/>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/p/17/en">VodaHome</a></p>
+
+</main>
+<footer><div>7523-11-21 - 7523-11-21</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
