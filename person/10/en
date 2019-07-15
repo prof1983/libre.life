@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Sergey Bayazitov - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<p class="h2"><a href="/people/en">Peoples</a></p>
+
+<h1>Sergey Bayazitov</h1>
+
+<figure>
+<a href="img/00.jpg"><img src="img/logo/300x300.jpg"/></a>
+</figure>
+
+<p>
+Ambassador of Peace, President of International Integration System to address global, regional and inter-regional problems «<a href="http://www.intercenternetwork.org/">INTERCENTER NETWORK</a>», sotsiopolittehnolog, a specialist in the field of system and strategic consulting socio-political forecasting, development strategies and trans-regional infrastructures, <a href="http://intercenternetwork.org/novosti/3548">decision support systems</a>, strategic, cross-cultural communication GR, HR, PR - technology.
+</p>
+
+<p>
+<a href="https://www.facebook.com/sergey.bayazitov">fb.com/sergey.bayazitov</a>
+<br/>
+<a href="https://vk.com/id114756050">vk.com/id114756050</a>
+</p>
+
+<p>
+<a href="http://www.intercenternetwork.org/">intercenternetwork.org</a>
+</p>
+
+
+<p class="h2"><a href="/people/en">Peoples</a></p>
+
+</main>
+<footer><div>29.03.7523 - 29.03.7523 (2015)</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

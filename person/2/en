@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Zamir Akimov - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Zamir Akimov</h1>
+
+<figure>
+<a href="img/00.jpg"><img src="img/logo/300x300.jpg"/></a>
+</figure>
+
+<p>
+<a href="https://www.facebook.com/zamirakimov" target="_blank">fb.com/zamirakimov</a>
+<br/>
+<a href="https://vk.com/zamirakimov" target="_blank">vk.com/zamirakimov</a>
+</p>
+
+<p>
+<a href="/club/show/en">Show innovators "Abundance"</a>
+<br/>
+<a href="/p/10/en">StupInno</a>
+</p>
+
+
+
+
+<h2>Публикации</h2>
+
+<div class="article">
+<a href="/7523/1003/1/en"><img src="/7523/1003/1/logo-320x200.jpg"></a>
+<p><a href="/7523/1003/1/en">Everything is done just playfully</a></p>
+<p>
+"Your startup should solve the problem" - everyone knows this mantra and most important rule. And what if not everyone should? We talked with the creator of the innovation campus "StupInno" Zamir Akimov about economic issues and the economy of desires, the concept of mother, meritocratic future and alternative thinking.
+<a href="/7523/1003/1/en">Read more...</a>
+</p>
+</div>
+
+<br/>
+<br/>
+
+<p class="h2"><a href="/persons/en">Peoples</a></p>
+
+</main>
+<footer><div>7523-03-18 - 7523-10-07</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

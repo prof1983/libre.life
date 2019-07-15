@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Замир Акимов - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Замир Акимов</h1>
+
+<figure>
+<a href="img/00.jpg"><img src="img/logo/300x300.jpg"/></a>
+</figure>
+
+<p>
+<a href="https://www.facebook.com/zamirakimov" target="_blank">fb.com/zamirakimov</a>
+<br/>
+<a href="https://vk.com/zamirakimov" target="_blank">vk.com/zamirakimov</a>
+</p>
+
+<p>
+zamirakimov@gmail.com
+</p>
+
+<p>
+<a href="/club/show/ru">Шоу инноваторов "Изобилие"</a>
+<br/>
+<a href="/p/10/ru">СтупИнно</a>
+</p>
+
+
+
+
+<h2>Публикации</h2>
+
+<div class="article">
+<a href="/7523/1003/1/ru"><img src="/7523/1003/1/logo-320x200.jpg"></a>
+<p><a href="/7523/1003/1/ru">Всё сделаем просто играючи</a></p>
+<p>
+«Ваш стартап должен решать проблему» – все знают эту мантру и главное правило. А что если не каждый должен? Мы поговорили с создателем инновационного кампуса «СтупИнно» Замиром Акимовым про экономику проблем и экономику желаний, концепцию мамы, меритократическое будущее и альтернативное мышление.
+<a href="/7523/1003/1/ru">Подробнее...</a>
+</p>
+</div>
+
+<!--
+<a href="/7523/0607/1/ru">Единомыслие</a>
+-->
+
+
+<br/>
+<br/>
+
+<p class="h2"><a href="/persons/ru">Личности</a></p>
+
+
+</main>
+<footer><div>7523-03-18 - 7523-10-07</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Andrey Kuznetsov - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Andrey Kuznetsov</h1>
+
+<p class="h2">
+<a href="ru">RU</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/people/en">People</a></nav>
+
+</main>
+<footer><div>7523-03-19 - 7524-06-22</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

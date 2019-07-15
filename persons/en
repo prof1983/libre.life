@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Persons - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Persons</h1>
+
+
+<p>
+<a href="/person/gandhi/ru">Махатма Ганди</a>
+<br/>
+1. <a href="/person/1/ru">Ярослав Логинов</a>
+<br/>
+2. <a href="/person/2/ru">Замир Акимов</a>
+<br/>
+3. <a href="/person/3">Андрей Кузнецов</a>
+<br/>
+4. <a href="/person/4">Сергей Смирнов</a>
+<br/>
+5. <a href="/person/5">Кирилл Гребнев</a>
+<br/>
+6. <a href="/person/6">Денис Рысев</a>
+<br/>
+7. <a href="/person/7">Сергей Кибальников</a>
+<br/>
+8. <a href="/person/8/ru">Тимур Щукин</a>
+<br/>
+9. <a href="/person/9/ru">Валерий Хилтунен</a>
+<br/>
+10. <a href="/person/10/ru">Сергей Баязитов</a>
+<br/>
+11. <a href="/person/11/ru">Владимир Хачатрян</a>
+<br/>
+12. <a href="/person/12/ru">Erik Vollstädt</a>
+<br/>
+14. <a href="/person/14/ru">Евгений Гигаури</a>
+<br/>
+15. <a href="/person/15/ru">Денис Мирошников</a>
+<br/>
+16. <a href="/person/16/ru">Митин Гарегин</a>
+</p>
+
+
+<br/>
+<br/>
+
+<p class="h2"><a href="/en">Main</a></p>
+
+</main>
+<footer><div>7523-03-16 - 7523-10-03</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

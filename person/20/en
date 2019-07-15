@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Aleksandr Buzgalin - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Aleksandr Buzgalin</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/persons/en">Persons</a></nav>
+
+</main>
+<footer><div>7524-04-24 - 7525-05-19</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

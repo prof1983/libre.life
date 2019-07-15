@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Сергей Баязитов - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<p class="h2"><a href="/people/ru">Люди</a></p>
+
+
+<h1>Сергей Баязитов</h1>
+
+<figure>
+<a href="img/00.jpg"><img src="img/logo/300x300.jpg"/></a>
+</figure>
+
+<p>
+Посол Мира, Президент Системы международной интеграции по решению глобальных, региональных и межрегиональных проблем «<a href="http://www.intercenternetwork.org/">INTERCENTER NETWORK</a>» , социополиттехнолог, специалист в области системного и стратегического консалтинга, социально–политического прогнозирования, стратегий развития региональных и трансрегиональных инфраструктур, <a href="http://intercenternetwork.org/novosti/3548">систем поддержки принятия решений</a>, стратегических, межкультурных коммуникаций GR, HR, PR – технологий.
+</p>
+
+<p>
+<a href="https://www.facebook.com/sergey.bayazitov">fb.com/sergey.bayazitov</a>
+<br/>
+<a href="https://vk.com/id114756050">vk.com/id114756050</a>
+</p>
+
+<p>
+<a href="http://www.intercenternetwork.org/">intercenternetwork.org</a>
+</p>
+
+
+<p class="h2"><a href="/people/ru">Люди</a></p>
+
+
+</main>
+<footer><div>29.03.7523 - 29.03.7523 (2015)</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

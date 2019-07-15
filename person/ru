@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Персональное - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Персональное</h1>
+
+<p class="h">
+Личные финансы, потребности, здоровье, самореализация, творчество, культура, образование, наука, технологии, инновации, безопасность, семья
+</p>
+
+<figure>
+<a href="img/00b.png"><img src="img/00.png"></a>
+</figure>
+
+
+<nav class="main-footer-nav"><a href="/society/ru">Социум</a></nav>
+
+</main>
+<footer><div>7524-05-23 - 7526-07-16</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Сергей Кибальников - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<p class="h2"><a href="/people/ru">Люди</a></p>
+
+<h1>Сергей Кибальников</h1>
+
+<figure>
+<a href="img/logo/300x300.jpg"><img src="img/logo/300x300.jpg"/></a>
+</figure>
+
+<p class="h">
+Сергей Владимирович Кибальников
+</p>
+
+<p>
+<a href="https://www.facebook.com/kibalnikov">fb.com/kibalnikov</a>
+<br/>
+<a href="https://vk.com/kibalnikov2014">vk.com/kibalnikov2014</a>
+</p>
+
+
+<p class="h2"><a href="/people/ru">Люди</a></p>
+
+</main>
+<footer><div>16.03.7523 - 27.03.7523 (2015)</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

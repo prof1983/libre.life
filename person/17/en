@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Sergej Lonshakov - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Sergej Lonshakov</h1>
+
+<figure>
+<a href="img/00.jpg"><img src="img/logo/300.jpg"/></a>
+</figure>
+
+<p>
+<a href="https://vk.com/ensrationis">vk.com/ensrationis</a>
+<br/>
+<a href="https://www.facebook.com/EnsRationis2020">fb.com/EnsRationis2020</a>
+</p>
+
+
+<br/>
+<br/>
+
+<p class="h2"><a href="/persons/en">Persons</a></p>
+
+</main>
+<footer><div>7524-02-08 - 7524-02-08</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

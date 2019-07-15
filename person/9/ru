@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Валерий Хилтунен - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<p class="h2"><a href="/people/ru">Люди</a></p>
+
+
+<h1>Валерий Хилтунен</h1>
+
+<figure>
+<a href="img/00.jpg"><img src="img/00.jpg"/></a>
+</figure>
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/dAqhe1QDT6M" frameborder="0" allowfullscreen></iframe>
+
+<figure>
+<a href="img/10.jpg"><img src="img/10.jpg"/></a>
+</figure>
+
+<!--p>
+Видео со встречи 75230323
+<br/>
+http://youtu.be/jRi7gfFN54U
+<br/>
+http://youtu.be/ngHzbiZJ81o
+<br/>
+http://youtu.be/0dbMj1lFPaE
+<br/>
+http://youtu.be/_841IZZpWi4
+<br/>
+http://www.youtube.com/watch?v=HgOt7lkhexQ
+<br/>
+http://www.youtube.com/watch?v=OvwH46NhQHM
+<br/>
+http://www.youtube.com/watch?v=du3J6ti7ops
+<br/>
+http://www.youtube.com/watch?v=KjxapVXt8xc
+<br/>
+http://www.youtube.com/watch?v=a8H1EfYcujw
+</p-->
+
+
+<p class="h2"><a href="/people/ru">Люди</a></p>
+
+</main>
+<footer><div>23.03.7523 - 27.03.7523 (2015)</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

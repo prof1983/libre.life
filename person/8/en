@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Timur Shchukin - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<p class="h2"><a href="/people/en">People</a></p>
+
+<h1>Timur Shchukin</h1>
+
+<figure>
+<a href="img/00.jpg"><img src="img/logo/300x300.jpg"/></a>
+</figure>
+
+<p>
+<a href="https://www.facebook.com/Timurid">fb.com/Timurid</a>
+</p>
+
+<p>
+<a href="/net/neuro/en">NeuroNet</a>
+</p>
+
+
+<p class="h2">
+<a href="ru">RU</a>
+</p>
+
+
+<p class="h2"><a href="/people/en">Peoples</a></p>
+
+</main>
+<footer><div>17.03.7523 - 27.03.7523 (2015)</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
