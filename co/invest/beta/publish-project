@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+<html class="uk-notouch" slick-uniqueid="3" dir="ltr" data-config="{&quot;stickynav&quot;:1,&quot;centereddropdown&quot;:1,&quot;twitter&quot;:0,&quot;plusone&quot;:0,&quot;facebook&quot;:0,&quot;style&quot;:&quot;default&quot;}" lang="en-gb"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="keywords" content="краудфандинг, краудинвестинг, предприниматель, инвестор, венчурные инвестиции">
+<meta name="description" content="Краудфандер - это краудинвестинговый онлайн сервис, который помогает предпринимателям и инвесторам найти друг друга, договориться и совершить сделку.">
+<meta name="generator" content="Joomla! - Open Source Content Management">
+<title>Публиковать проект</title>
+<link href="img/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+<link rel="stylesheet" href="css/front.css" type="text/css">
+<link rel="stylesheet" href="css/modal.css" type="text/css">
+<link rel="stylesheet" href="css/frontediting.css" type="text/css">
+<script src="js/script.js" type="text/javascript"></script>
+<script src="js/mootools-core.js" type="text/javascript"></script>
+<script src="js/core.js" type="text/javascript"></script>
+<script src="js/mootools-more.js" type="text/javascript"></script>
+<script src="js/modal.js" type="text/javascript"></script>
+<script src="js/jquery.js" type="text/javascript"></script>
+<script src="js/jquery-noconflict.js" type="text/javascript"></script>
+<script src="js/jquery-migrate.js" type="text/javascript"></script>
+<script src="js/bootstrap.js" type="text/javascript"></script>
+<script src="js/frontediting.js" type="text/javascript"></script>
+<script src="js/uikit-6c19224e.js" type="text/javascript"></script>
+<script src="js/scripts-0267101a.js" type="text/javascript"></script>
+<script type="text/javascript">
+function isBrowserIE()
+{
+	return navigator.appName=="Microsoft Internet Explorer";
+}
+
+function jInsertEditorText( text, editor )
+{
+	tinyMCE.execCommand('mceInsertContent', false, text);
+}
+
+var global_ie_bookmark = false;
+
+function IeCursorFix()
+{
+	if (isBrowserIE())
+	{
+		tinyMCE.execCommand('mceInsertContent', false, '');
+		global_ie_bookmark = tinyMCE.activeEditor.selection.getBookmark(false);
+	}
+	return true;
+}
+function jSelectArticle(id, title, catid, object, link, lang)
+{
+	var hreflang = '';
+	if (lang !== '')
+	{
+		var hreflang = ' hreflang = "' + lang + '"';
+	}
+	var tag = '<a' + hreflang + ' href="' + link + '">' + title + '</a>';
+	jInsertEditorText(tag, 'short_desc');
+	jModalClose();
+}
+jQuery(function($) {
+	SqueezeBox.initialize({});
+	SqueezeBox.assign($('a.modal').get(), {
+		parse: 'rel'
+	});
+});
+function jModalClose() {
+	SqueezeBox.close();
+}
+function insertReadmore(editor)
+{
+	var content = tinyMCE.get('short_desc').getContent();
+	if (content.match(/<hr\s+id=("|')system-readmore("|')\s*\/*>/i))
+	{
+		alert('There is already a Read more ... link that has been inserted. Only one link is permitted. Use {pagebreak} to split the page up further.');
+		return false;
+	} else {
+		jInsertEditorText('<hr id="system-readmore" />', editor);
+	}
+}
+
+jQuery(function($) {
+	SqueezeBox.initialize({});
+	SqueezeBox.assign($('a.modal-button').get(), {
+		parse: 'rel'
+	});
+});
+function jModalClose() {
+	SqueezeBox.close();
+}
+function isBrowserIE()
+{
+	return navigator.appName=="Microsoft Internet Explorer";
+}
+
+function jInsertEditorText( text, editor )
+{
+	tinyMCE.execCommand('mceInsertContent', false, text);
+}
+
+var global_ie_bookmark = false;
+
+function IeCursorFix()
+{
+	if (isBrowserIE())
+	{
+		tinyMCE.execCommand('mceInsertContent', false, '');
+		global_ie_bookmark = tinyMCE.activeEditor.selection.getBookmark(false);
+	}
+	return true;
+}
+function jSelectArticle(id, title, catid, object, link, lang)
+{
+	var hreflang = '';
+	if (lang !== '')
+	{
+		var hreflang = ' hreflang = "' + lang + '"';
+	}
+	var tag = '<a' + hreflang + ' href="' + link + '">' + title + '</a>';
+	jInsertEditorText(tag, 'long_desc');
+	jModalClose();
+}
+function insertReadmore(editor)
+{
+	var content = tinyMCE.get('long_desc').getContent();
+	if (content.match(/<hr\s+id=("|')system-readmore("|')\s*\/*>/i))
+	{
+		alert('There is already a Read more ... link that has been inserted. Only one link is permitted. Use {pagebreak} to split the page up further.');
+		return false;
+	} else {
+		jInsertEditorText('<hr id="system-readmore" />', editor);
+	}
+}
+
+jQuery(document).ready(function(){
+	jQuery('.hasTooltip').tooltip({"html": true,"container": "body"});
+});
+jQuery(document).ready(function(){
+	jQuery('.hasPopover').popover({"html": true,"trigger": "hover focus","container": "body"});
+});
+</script>
+<script type="text/javascript" src="js/tinymce.js"></script>
+<script type="text/javascript">
+tinyMCE.init({
+	// General
+	directionality: "ltr",
+	language : "en",
+	mode : "specific_textareas",
+	autosave_restore_when_empty: false,
+	skin : "lightgray",
+	theme : "modern",
+	schema: "html5",
+	selector: "textarea.mce_editable",
+	// Cleanup/Output
+	inline_styles : true,
+	gecko_spellcheck : true,
+	entity_encoding : "raw",
+	valid_elements : "",
+	extended_valid_elements : ",@[data-lightbox],@[data-spotlight],@[data-lightbox],@[data-spotlight],@[data-lightbox],@[data-spotlight],@[data-lightbox],@[data-spotlight],@[data-lightbox],@[data-spotlight],@[data-lightbox],@[data-spotlight],@[data-lightbox],@[data-spotlight],@[data-lightbox],@[data-spotlight],@[data-lightbox],@[data-spotlight],@[data-lightbox],@[data-spotlight],@[data-lightbox],@[data-spotlight],@[data-lightbox],@[data-spotlight],@[data-lightbox],@[data-spotlight],@[data-lightbox],@[data-spotlight],@[data-lightbox],@[data-spotlight],@[data-lightbox],@[data-spotlight],@[data-lightbox],@[data-spotlight],@[data-lightbox],@[data-spotlight],@[data-lightbox],@[data-spotlight],@[data-lightbox],@[data-spotlight],@[data-lightbox],@[data-spotlight],@[data-lightbox],@[data-spotlight],@[data-lightbox],@[data-spotlight],@[data-lightbox],@[data-spotlight],@[data-lightbox],@[data-spotlight],@[data-lightbox],@[data-spotlight],@[data-lightbox],@[data-spotlight],@[data-lightbox],@[data-spotlight]",
+	force_br_newlines : false, force_p_newlines : true, forced_root_block : 'p',
+	toolbar_items_size: "small",
+	invalid_elements : "script,applet,iframe",
+	// Plugins
+	plugins : "table link image code hr charmap autolink lists importcss",
+	// Toolbar
+	toolbar1: "bold italic underline strikethrough | alignleft aligncenter alignright alignjustify | formatselect | bullist numlist",
+	toolbar2: "outdent indent | undo redo | link unlink anchor image code | hr table | subscript superscript | charmap",
+	removed_menuitems: "newdocument",
+	// URL
+	relative_urls : false,
+	remove_script_host : false,
+	document_base_url : "http://crowdfunder.ru/",
+	// Layout
+	content_css : "css/editor.css",
+	importcss_append: true,
+	// Advanced Options
+	resize: "both",
+	height : "550",
+	width : "",
+
+});
+</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="apple-touch-icon-precomposed" href="img/apple_touch_icon.png">
+<link rel="stylesheet" href="css/bootstrap.css">
+<link rel="stylesheet" href="css/theme.css">
+<link rel="stylesheet" href="css/custom.css">
+<script src="js/uikit.js"></script>
+<script src="js/autocomplete.js"></script>
+<script src="js/search.js"></script>
+<script src="js/sticky.js"></script>
+<script src="js/tooltip.js"></script>
+<script src="js/menuAim.js"></script>
+<script src="js/social.js"></script>
+<script src="js/theme.js"></script>
+<link href="css/skin.css" rel="stylesheet">
+</head>
+
+<body class="tm-sidebar-b-right tm-sidebars-1 tm-noblog   tm-navbar-fixed tm-navbar-bg">
+
+<div id="tm-header" class="tm-block-header ">
+
+
+<div class="tm-block-texture tm-block-noise">
+
+<div style="height: 100px;" class="uk-sticky-placeholder"><nav style="position: fixed; top: 0px; width: 1873px; left: 0px;" class="tm-navbar tm-navbar-attached tm-navbar-centered uk-sticky-init uk-active">
+<div class="uk-container uk-container-center tm-container-100">
+<div class="uk-flex uk-flex-middle uk-flex-space-between">
+
+<div class="tm-nav-logo uk-hidden-small">
+<a class="tm-logo uk-hidden-small" href="/">
+<p><img src="img/cf_logo.png" alt=""></p></a>
+</div>
+
+<div class="tm-nav uk-hidden-small">
+<div class="tm-nav-wrapper"><ul class="uk-navbar-nav uk-hidden-small jmoddiv" data-jmodediturl="index.php?option=com_config&amp;controller=config.display.modules&amp;id=1&amp;return=aHR0cDovL2Nyb3dkZnVuZGVyLnJ1L2luZGV4LnBocC9wdWJsaXNoLXByb2plY3Q%3D" data-jmodtip="&lt;strong&gt;Edit module&lt;/strong&gt;&lt;br /&gt;Main Menu&lt;br /&gt;Position: menu"><li><a href="home">Главная</a></li><li><a href="featured-projects">Проекты</a></li><li><a href="register">Регистрация</a></li><li class="uk-parent" aria-haspopup="true" aria-expanded="false"><a href="#">
+Компания</a>
+<div class="uk-dropdown uk-dropdown-navbar uk-dropdown-width-2" style="min-width: 480px; max-width: 480px; width:240px;"><div class="uk-grid uk-dropdown-grid uk-flex-center"><div class=""><ul class="uk-nav uk-nav-navbar"><li><a href="services">Услуги</a></li><li><a href="about">О нас</a></li></ul></div><div class=""><ul class="uk-nav uk-nav-navbar"><li><a href="blog-featured">Истории успеха</a></li><li><a href="blog">Блог</a></li></ul></div></div></div></li></ul></div>
+</div>
+
+
+<a href="#offcanvas" class="uk-navbar-toggle tm-navbar-toggle uk-visible-small" data-uk-offcanvas=""></a>
+
+<div class="uk-navbar-content uk-navbar-center uk-flex uk-flex-middle uk-visible-small">
+<a class="tm-logo-small" href="/">
+<p><img src="img/cf_logo_small.png" alt=""> </p></a>
+</div>
+
+</div>
+</div>
+</nav></div>
+
+
+<a class="tm-tobottom-scroller" data-uk-smooth-scroll="" href="#tm-anchor-bottom"></a>
+
+</div>
+</div>
+
+
+
+
+<div id="tm-main" class="tm-block-top-main tm-block-default">
+<div class="tm-block-texture tm-block-padding">
+<div class="uk-container uk-container-center ">
+
+<div class="tm-middle uk-grid" data-uk-grid-match="" data-uk-grid-margin="">
+
+<div style="min-height: 2681px;" class="tm-main uk-width-medium-3-4">
+
+
+<main class="tm-content">
+
+
+<div id="system-message-container">
+</div>
+<form method="post" id="userForm" class="formResponsive" enctype="multipart/form-data" action="publish-project"><h2>Регистрация Проекта</h2>
+<div id="rsform_error_3" style="display: none;"><p class="formRed">Please complete all required fields!</p></div>
+<!-- Do not remove this ID, it is used to identify the page so that the pagination script can work correctly -->
+<fieldset class="formHorizontal formContainer" id="rsform_3_page_0">
+<div class="rsform-block rsform-block-name">
+<div class="formControlLabel">Имя</div>
+<div class="formControls">
+<div class="formBody"><input size="40" name="form[name]" id="name" class="rsform-input-box" type="text"><span class="formValidation"><span id="component23" class="formNoError">Invalid Input</span></span></div>
+<p class="formDescription">Введите имя, например "Иван Иванов"</p>
+</div>
+</div>
+<div class="rsform-block rsform-block-phone">
+<div class="formControlLabel">Телефон</div>
+<div class="formControls">
+<div class="formBody"><input size="40" name="form[phone]" id="phone" class="rsform-input-box" type="text"><span class="formValidation"><span id="component26" class="formNoError">Invalid Input</span></span></div>
+<p class="formDescription">Введите телефон для связи, напр. +7(495)7770000</p>
+</div>
+</div>
+<div class="rsform-block rsform-block-email">
+<div class="formControlLabel">Email<strong class="formRequired">*</strong></div>
+<div class="formControls">
+<div class="formBody"><input size="40" name="form[email]" id="email" class="rsform-input-box" type="text"><span class="formValidation"><span id="component25" class="formNoError">Invalid Input</span></span></div>
+<p class="formDescription">На этот адрес будет выслано подтверждение регистрации</p>
+</div>
+</div>
+<div class="rsform-block rsform-block-project-location">
+<div class="formControlLabel">Город</div>
+<div class="formControls">
+<div class="formBody"><input value="Москва" size="20" name="form[project_location]" id="project_location" class="rsform-input-box" type="text"><span class="formValidation"><span id="component35" class="formNoError">Invalid Input</span></span></div>
+<p class="formDescription">Введите город, напр. Нижний Новгород</p>
+</div>
+</div>
+<div class="rsform-block rsform-block-project-link">
+<div class="formControlLabel">Сайт проекта</div>
+<div class="formControls">
+<div class="formBody"><input value="http://www." size="20" name="form[project_link]" id="project_link" class="rsform-input-box" type="text"><span class="formValidation"><span id="component34" class="formNoError">Invalid Input</span></span></div>
+<p class="formDescription">Введите сайт проекта в виде http://www.project.ru</p>
+</div>
+</div>
+<div class="rsform-block rsform-block-project-name">
+<div class="formControlLabel">Наименование проекта</div>
+<div class="formControls">
+<div class="formBody"><input size="20" name="form[project_name]" id="project_name" class="rsform-input-box" type="text"><span class="formValidation"><span id="component27" class="formNoError">Invalid Input</span></span></div>
+<p class="formDescription"></p>
+</div>
+</div>
+<div class="rsform-block rsform-block-short-desc">
+<div class="formControlLabel">Краткое описание</div>
+<div class="formControls">
+<div class="formBody">
+
+<div class="editor">
+<div style="visibility: hidden; border-width: 1px;" id="mceu_24" class="mce-tinymce mce-container mce-panel" hidefocus="1" tabindex="-1" role="application">
+<div id="mceu_24-body" class="mce-container-body mce-stack-layout">
+<div style="border-width: 0px 0px 1px;" id="mceu_25" class="mce-container mce-menubar mce-toolbar mce-first mce-stack-layout-item" role="menubar">
+<div id="mceu_25-body" class="mce-container-body mce-flow-layout">
+<div aria-haspopup="true" role="menuitem" id="mceu_26" class="mce-widget mce-btn mce-menubtn mce-first mce-flow-layout-item" tabindex="-1" aria-labelledby="mceu_26"><button id="mceu_26-open" role="presentation" type="button" tabindex="-1"><span>Edit</span> <i class="mce-caret"></i></button></div><div aria-haspopup="true" role="menuitem" id="mceu_27" class="mce-widget mce-btn mce-menubtn mce-flow-layout-item" tabindex="-1" aria-labelledby="mceu_27"><button id="mceu_27-open" role="presentation" type="button" tabindex="-1"><span>Insert</span> <i class="mce-caret"></i></button></div>
+<div aria-haspopup="true" role="menuitem" id="mceu_28" class="mce-widget mce-btn mce-menubtn mce-flow-layout-item" tabindex="-1" aria-labelledby="mceu_28"><button id="mceu_28-open" role="presentation" type="button" tabindex="-1"><span>View</span> <i class="mce-caret"></i></button></div><div aria-haspopup="true" role="menuitem" id="mceu_29" class="mce-widget mce-btn mce-menubtn mce-flow-layout-item" tabindex="-1" aria-labelledby="mceu_29"><button id="mceu_29-open" role="presentation" type="button" tabindex="-1"><span>Format</span> <i class="mce-caret"></i></button></div><div aria-haspopup="true" role="menuitem" id="mceu_30" class="mce-widget mce-btn mce-menubtn mce-flow-layout-item" tabindex="-1" aria-labelledby="mceu_30"><button id="mceu_30-open" role="presentation" type="button" tabindex="-1"><span>Table</span> <i class="mce-caret"></i></button></div><div aria-haspopup="true" role="menuitem" id="mceu_31" class="mce-widget mce-btn mce-menubtn mce-last mce-flow-layout-item" tabindex="-1" aria-labelledby="mceu_31"><button id="mceu_31-open" role="presentation" type="button" tabindex="-1"><span>Tools</span> <i class="mce-caret"></i></button></div></div></div><div id="mceu_32" class="mce-toolbar-grp mce-container mce-panel mce-stack-layout-item" hidefocus="1" tabindex="-1" role="group">
+
+
+<div id="mceu_32-body" class="mce-container-body mce-stack-layout"><div id="mceu_33" class="mce-container mce-toolbar mce-first mce-stack-layout-item" role="toolbar">
+<div id="mceu_33-body" class="mce-container-body mce-flow-layout"><div role="group" id="mceu_34" class="mce-container mce-first mce-flow-layout-item mce-btn-group"><div id="mceu_34-body"><div aria-label="Bold" role="button" id="mceu_0" class="mce-widget mce-btn mce-btn-small mce-first" tabindex="-1" aria-labelledby="mceu_0"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-bold"></i></button></div><div aria-label="Italic" role="button" id="mceu_1" class="mce-widget mce-btn mce-btn-small" tabindex="-1" aria-labelledby="mceu_1"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-italic"></i></button></div><div aria-label="Underline" role="button" id="mceu_2" class="mce-widget mce-btn mce-btn-small" tabindex="-1" aria-labelledby="mceu_2"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-underline"></i></button></div><div aria-label="Strikethrough" role="button" id="mceu_3" class="mce-widget mce-btn mce-btn-small mce-last" tabindex="-1" aria-labelledby="mceu_3"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-strikethrough"></i></button></div></div></div><div role="group" id="mceu_35" class="mce-container mce-flow-layout-item mce-btn-group"><div id="mceu_35-body"><div aria-label="Align left" role="button" id="mceu_4" class="mce-widget mce-btn mce-btn-small mce-first" tabindex="-1" aria-labelledby="mceu_4"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-alignleft"></i></button></div><div aria-label="Align center" role="button" id="mceu_5" class="mce-widget mce-btn mce-btn-small" tabindex="-1" aria-labelledby="mceu_5"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-aligncenter"></i></button></div><div aria-label="Align right" role="button" id="mceu_6" class="mce-widget mce-btn mce-btn-small" tabindex="-1" aria-labelledby="mceu_6"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-alignright"></i></button></div><div aria-label="Justify" role="button" id="mceu_7" class="mce-widget mce-btn mce-btn-small mce-last" tabindex="-1" aria-labelledby="mceu_7"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-alignjustify"></i></button></div></div></div><div role="group" id="mceu_36" class="mce-container mce-flow-layout-item mce-btn-group"><div id="mceu_36-body"><div aria-haspopup="true" role="button" id="mceu_8" class="mce-widget mce-btn mce-btn-small mce-menubtn mce-fixed-width mce-listbox mce-first mce-last" tabindex="-1" aria-labelledby="mceu_8"><button id="mceu_8-open" role="presentation" type="button" tabindex="-1"><span>Paragraph</span> <i class="mce-caret"></i></button></div></div></div><div role="group" id="mceu_37" class="mce-container mce-last mce-flow-layout-item mce-btn-group"><div id="mceu_37-body"><div aria-label="Bullet list" role="button" id="mceu_9" class="mce-widget mce-btn mce-btn-small mce-first" tabindex="-1" aria-labelledby="mceu_9"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-bullist"></i></button></div><div aria-label="Numbered list" role="button" id="mceu_10" class="mce-widget mce-btn mce-btn-small mce-last" tabindex="-1" aria-labelledby="mceu_10"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-numlist"></i></button></div></div></div></div></div><div id="mceu_38" class="mce-container mce-toolbar mce-last mce-stack-layout-item" role="toolbar">
+
+
+<div id="mceu_38-body" class="mce-container-body mce-flow-layout"><div role="group" id="mceu_39" class="mce-container mce-first mce-flow-layout-item mce-btn-group"><div id="mceu_39-body"><div aria-label="Decrease indent" role="button" id="mceu_11" class="mce-widget mce-btn mce-btn-small mce-first" tabindex="-1" aria-labelledby="mceu_11"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-outdent"></i></button></div><div aria-disabled="false" aria-label="Increase indent" role="button" id="mceu_12" class="mce-widget mce-btn mce-btn-small mce-last" tabindex="-1" aria-labelledby="mceu_12"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-indent"></i></button></div></div></div><div role="group" id="mceu_40" class="mce-container mce-flow-layout-item mce-btn-group"><div id="mceu_40-body"><div aria-disabled="true" aria-label="Undo" role="button" id="mceu_13" class="mce-widget mce-btn mce-btn-small mce-first mce-disabled" tabindex="-1" aria-labelledby="mceu_13"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-undo"></i></button></div><div aria-disabled="true" aria-label="Redo" role="button" id="mceu_14" class="mce-widget mce-btn mce-btn-small mce-last mce-disabled" tabindex="-1" aria-labelledby="mceu_14"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-redo"></i></button></div></div></div><div role="group" id="mceu_41" class="mce-container mce-flow-layout-item mce-btn-group"><div id="mceu_41-body"><div aria-label="Insert/edit link" role="button" id="mceu_15" class="mce-widget mce-btn mce-btn-small mce-first" tabindex="-1" aria-labelledby="mceu_15"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-link"></i></button></div><div aria-label="Remove link" role="button" id="mceu_16" class="mce-widget mce-btn mce-btn-small" tabindex="-1" aria-labelledby="mceu_16"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-unlink"></i></button></div><div aria-label="Insert/edit image" role="button" id="mceu_17" class="mce-widget mce-btn mce-btn-small" tabindex="-1" aria-labelledby="mceu_17"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-image"></i></button></div><div aria-label="Source code" role="button" id="mceu_18" class="mce-widget mce-btn mce-btn-small mce-last" tabindex="-1" aria-labelledby="mceu_18"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-code"></i></button></div></div></div><div role="group" id="mceu_42" class="mce-container mce-flow-layout-item mce-btn-group"><div id="mceu_42-body"><div aria-label="Horizontal line" role="button" id="mceu_19" class="mce-widget mce-btn mce-btn-small mce-first" tabindex="-1" aria-labelledby="mceu_19"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-hr"></i></button></div><div aria-haspopup="true" aria-label="Table" role="button" id="mceu_20" class="mce-widget mce-btn mce-btn-small mce-menubtn mce-last" tabindex="-1" aria-labelledby="mceu_20"><button id="mceu_20-open" role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-table"></i><span></span> <i class="mce-caret"></i></button></div></div></div><div role="group" id="mceu_43" class="mce-container mce-flow-layout-item mce-btn-group"><div id="mceu_43-body"><div aria-label="Subscript" role="button" id="mceu_21" class="mce-widget mce-btn mce-btn-small mce-first" tabindex="-1" aria-labelledby="mceu_21"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-subscript"></i></button></div><div aria-label="Superscript" role="button" id="mceu_22" class="mce-widget mce-btn mce-btn-small mce-last" tabindex="-1" aria-labelledby="mceu_22"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-superscript"></i></button></div></div></div><div role="group" id="mceu_44" class="mce-container mce-last mce-flow-layout-item mce-btn-group"><div id="mceu_44-body"><div aria-label="Special character" role="button" id="mceu_23" class="mce-widget mce-btn mce-btn-small mce-first mce-last" tabindex="-1" aria-labelledby="mceu_23"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-charmap"></i></button></div></div></div></div></div></div></div><div style="border-width: 1px 0px 0px;" id="mceu_45" class="mce-edit-area mce-container mce-panel mce-stack-layout-item" hidefocus="1" tabindex="-1" role="group"><iframe src='javascript:""' style="width: 100%; height: 550px; display: block;" title="Rich Text Area. Press ALT-F9 for menu. Press ALT-F10 for toolbar. Press ALT-0 for help" allowtransparency="true" id="short_desc_ifr" frameborder="0"></iframe></div><div style="border-width: 1px 0px 0px;" id="mceu_46" class="mce-statusbar mce-container mce-panel mce-last mce-stack-layout-item" hidefocus="1" tabindex="-1" role="group">
+
+
+<div id="mceu_46-body" class="mce-container-body mce-flow-layout"><div id="mceu_47" class="mce-path mce-first mce-flow-layout-item"><div role="button" class="mce-path-item mce-last" data-index="0" tabindex="-1" id="mceu_47-0" aria-level="0">p</div></div><div id="mceu_48" class="mce-last mce-flow-layout-item mce-resizehandle mce-resizehandle-both"><i class="mce-ico mce-i-resize"></i></div></div></div></div></div><textarea aria-hidden="true" name="form[short_desc]" id="short_desc" cols="50" rows="5" style="width: 500px; height: 50px; display: none;" class="mce_editable">	</textarea><div id="editor-xtd-buttons" class="btn-toolbar pull-left">
+<a class="btn modal-button" title="Article" href="index.php?option=com_content&amp;view=articles&amp;layout=modal&amp;tmpl=component&amp;8f0716c743984549330413a6d8317f19=1" onclick="IeCursorFix(); return false;" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+<i class="icon-file-add"></i> Article	</a>
+<a class="btn modal-button" title="Image" href="index.php?option=com_media&amp;view=images&amp;tmpl=component&amp;e_name=short_desc&amp;asset=com_rsform&amp;author=" onclick="IeCursorFix(); return false;" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+<i class="icon-picture"></i> Image	</a>
+<a class="btn modal-button" title="Page Break" href="index.php?option=com_content&amp;view=article&amp;layout=pagebreak&amp;tmpl=component&amp;e_name=short_desc" onclick="IeCursorFix(); return false;" rel="{handler: 'iframe', size: {x: 500, y: 300}}">
+<i class="icon-copy"></i> Page Break	</a>
+<a class="btn" title="Read More" href="http://crowdfunder.ru/#" onclick="insertReadmore('short_desc');return false;" rel="">
+<i class="icon-arrow-down"></i> Read More	</a>
+</div><div class="toggle-editor btn-toolbar pull-right clearfix">
+<div class="btn-group">
+<a class="btn" href="#" onclick="tinyMCE.execCommand('mceToggleEditor', false, 'short_desc');return false;" title="Toggle editor">
+<i class="icon-eye"></i> Toggle editor		</a>
+</div>
+</div></div><span class="formValidation"><span id="component29" class="formNoError">Invalid Input</span></span></div>
+<p class="formDescription"></p>
+</div>
+</div>
+
+
+
+
+
+
+
+
+<div class="rsform-block rsform-block-long-desc">
+<div class="formControlLabel">Полное описание</div>
+<div class="formControls">
+<div class="formBody">
+<div class="editor"><div style="visibility: hidden; border-width: 1px;" id="mceu_73" class="mce-tinymce mce-container mce-panel" hidefocus="1" tabindex="-1" role="application">
+
+<div id="mceu_73-body" class="mce-container-body mce-stack-layout"><div style="border-width: 0px 0px 1px;" id="mceu_74" class="mce-container mce-menubar mce-toolbar mce-first mce-stack-layout-item" role="menubar"><div id="mceu_74-body" class="mce-container-body mce-flow-layout"><div aria-haspopup="true" role="menuitem" id="mceu_75" class="mce-widget mce-btn mce-menubtn mce-first mce-flow-layout-item" tabindex="-1" aria-labelledby="mceu_75"><button id="mceu_75-open" role="presentation" type="button" tabindex="-1"><span>Edit</span> <i class="mce-caret"></i></button></div><div aria-haspopup="true" role="menuitem" id="mceu_76" class="mce-widget mce-btn mce-menubtn mce-flow-layout-item" tabindex="-1" aria-labelledby="mceu_76"><button id="mceu_76-open" role="presentation" type="button" tabindex="-1"><span>Insert</span> <i class="mce-caret"></i></button></div><div aria-haspopup="true" role="menuitem" id="mceu_77" class="mce-widget mce-btn mce-menubtn mce-flow-layout-item" tabindex="-1" aria-labelledby="mceu_77"><button id="mceu_77-open" role="presentation" type="button" tabindex="-1"><span>View</span> <i class="mce-caret"></i></button></div><div aria-haspopup="true" role="menuitem" id="mceu_78" class="mce-widget mce-btn mce-menubtn mce-flow-layout-item" tabindex="-1" aria-labelledby="mceu_78"><button id="mceu_78-open" role="presentation" type="button" tabindex="-1"><span>Format</span> <i class="mce-caret"></i></button></div><div aria-haspopup="true" role="menuitem" id="mceu_79" class="mce-widget mce-btn mce-menubtn mce-flow-layout-item" tabindex="-1" aria-labelledby="mceu_79"><button id="mceu_79-open" role="presentation" type="button" tabindex="-1"><span>Table</span> <i class="mce-caret"></i></button></div><div aria-haspopup="true" role="menuitem" id="mceu_80" class="mce-widget mce-btn mce-menubtn mce-last mce-flow-layout-item" tabindex="-1" aria-labelledby="mceu_80"><button id="mceu_80-open" role="presentation" type="button" tabindex="-1"><span>Tools</span> <i class="mce-caret"></i></button></div></div></div><div id="mceu_81" class="mce-toolbar-grp mce-container mce-panel mce-stack-layout-item" hidefocus="1" tabindex="-1" role="group">
+
+
+<div id="mceu_81-body" class="mce-container-body mce-stack-layout"><div id="mceu_82" class="mce-container mce-toolbar mce-first mce-stack-layout-item" role="toolbar">
+
+<div id="mceu_82-body" class="mce-container-body mce-flow-layout"><div role="group" id="mceu_83" class="mce-container mce-first mce-flow-layout-item mce-btn-group"><div id="mceu_83-body"><div aria-label="Bold" role="button" id="mceu_49" class="mce-widget mce-btn mce-btn-small mce-first" tabindex="-1" aria-labelledby="mceu_49"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-bold"></i></button></div><div aria-label="Italic" role="button" id="mceu_50" class="mce-widget mce-btn mce-btn-small" tabindex="-1" aria-labelledby="mceu_50"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-italic"></i></button></div><div aria-label="Underline" role="button" id="mceu_51" class="mce-widget mce-btn mce-btn-small" tabindex="-1" aria-labelledby="mceu_51"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-underline"></i></button></div><div aria-label="Strikethrough" role="button" id="mceu_52" class="mce-widget mce-btn mce-btn-small mce-last" tabindex="-1" aria-labelledby="mceu_52"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-strikethrough"></i></button></div></div></div><div role="group" id="mceu_84" class="mce-container mce-flow-layout-item mce-btn-group"><div id="mceu_84-body"><div aria-label="Align left" role="button" id="mceu_53" class="mce-widget mce-btn mce-btn-small mce-first" tabindex="-1" aria-labelledby="mceu_53"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-alignleft"></i></button></div><div aria-label="Align center" role="button" id="mceu_54" class="mce-widget mce-btn mce-btn-small" tabindex="-1" aria-labelledby="mceu_54"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-aligncenter"></i></button></div><div aria-label="Align right" role="button" id="mceu_55" class="mce-widget mce-btn mce-btn-small" tabindex="-1" aria-labelledby="mceu_55"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-alignright"></i></button></div><div aria-label="Justify" role="button" id="mceu_56" class="mce-widget mce-btn mce-btn-small mce-last" tabindex="-1" aria-labelledby="mceu_56"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-alignjustify"></i></button></div></div></div><div role="group" id="mceu_85" class="mce-container mce-flow-layout-item mce-btn-group"><div id="mceu_85-body"><div aria-haspopup="true" role="button" id="mceu_57" class="mce-widget mce-btn mce-btn-small mce-menubtn mce-fixed-width mce-listbox mce-first mce-last" tabindex="-1" aria-labelledby="mceu_57"><button id="mceu_57-open" role="presentation" type="button" tabindex="-1"><span>Paragraph</span> <i class="mce-caret"></i></button></div></div></div><div role="group" id="mceu_86" class="mce-container mce-last mce-flow-layout-item mce-btn-group"><div id="mceu_86-body"><div aria-label="Bullet list" role="button" id="mceu_58" class="mce-widget mce-btn mce-btn-small mce-first" tabindex="-1" aria-labelledby="mceu_58"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-bullist"></i></button></div><div aria-label="Numbered list" role="button" id="mceu_59" class="mce-widget mce-btn mce-btn-small mce-last" tabindex="-1" aria-labelledby="mceu_59"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-numlist"></i></button></div></div></div></div></div><div id="mceu_87" class="mce-container mce-toolbar mce-last mce-stack-layout-item" role="toolbar"><div id="mceu_87-body" class="mce-container-body mce-flow-layout"><div role="group" id="mceu_88" class="mce-container mce-first mce-flow-layout-item mce-btn-group"><div id="mceu_88-body"><div aria-label="Decrease indent" role="button" id="mceu_60" class="mce-widget mce-btn mce-btn-small mce-first" tabindex="-1" aria-labelledby="mceu_60"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-outdent"></i></button></div><div aria-disabled="false" aria-label="Increase indent" role="button" id="mceu_61" class="mce-widget mce-btn mce-btn-small mce-last" tabindex="-1" aria-labelledby="mceu_61"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-indent"></i></button></div></div></div><div role="group" id="mceu_89" class="mce-container mce-flow-layout-item mce-btn-group"><div id="mceu_89-body"><div aria-disabled="true" aria-label="Undo" role="button" id="mceu_62" class="mce-widget mce-btn mce-btn-small mce-first mce-disabled" tabindex="-1" aria-labelledby="mceu_62"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-undo"></i></button></div><div aria-disabled="true" aria-label="Redo" role="button" id="mceu_63" class="mce-widget mce-btn mce-btn-small mce-last mce-disabled" tabindex="-1" aria-labelledby="mceu_63"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-redo"></i></button></div></div></div><div role="group" id="mceu_90" class="mce-container mce-flow-layout-item mce-btn-group"><div id="mceu_90-body"><div aria-label="Insert/edit link" role="button" id="mceu_64" class="mce-widget mce-btn mce-btn-small mce-first" tabindex="-1" aria-labelledby="mceu_64"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-link"></i></button></div><div aria-label="Remove link" role="button" id="mceu_65" class="mce-widget mce-btn mce-btn-small" tabindex="-1" aria-labelledby="mceu_65"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-unlink"></i></button></div><div aria-label="Insert/edit image" role="button" id="mceu_66" class="mce-widget mce-btn mce-btn-small" tabindex="-1" aria-labelledby="mceu_66"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-image"></i></button></div><div aria-label="Source code" role="button" id="mceu_67" class="mce-widget mce-btn mce-btn-small mce-last" tabindex="-1" aria-labelledby="mceu_67"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-code"></i></button></div></div></div><div role="group" id="mceu_91" class="mce-container mce-flow-layout-item mce-btn-group"><div id="mceu_91-body"><div aria-label="Horizontal line" role="button" id="mceu_68" class="mce-widget mce-btn mce-btn-small mce-first" tabindex="-1" aria-labelledby="mceu_68"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-hr"></i></button></div><div aria-haspopup="true" aria-label="Table" role="button" id="mceu_69" class="mce-widget mce-btn mce-btn-small mce-menubtn mce-last" tabindex="-1" aria-labelledby="mceu_69"><button id="mceu_69-open" role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-table"></i><span></span> <i class="mce-caret"></i></button></div></div></div><div role="group" id="mceu_92" class="mce-container mce-flow-layout-item mce-btn-group"><div id="mceu_92-body"><div aria-label="Subscript" role="button" id="mceu_70" class="mce-widget mce-btn mce-btn-small mce-first" tabindex="-1" aria-labelledby="mceu_70"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-subscript"></i></button></div><div aria-label="Superscript" role="button" id="mceu_71" class="mce-widget mce-btn mce-btn-small mce-last" tabindex="-1" aria-labelledby="mceu_71"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-superscript"></i></button></div></div></div><div role="group" id="mceu_93" class="mce-container mce-last mce-flow-layout-item mce-btn-group"><div id="mceu_93-body"><div aria-label="Special character" role="button" id="mceu_72" class="mce-widget mce-btn mce-btn-small mce-first mce-last" tabindex="-1" aria-labelledby="mceu_72"><button role="presentation" type="button" tabindex="-1"><i class="mce-ico mce-i-charmap"></i></button></div></div></div></div></div></div></div><div style="border-width: 1px 0px 0px;" id="mceu_94" class="mce-edit-area mce-container mce-panel mce-stack-layout-item" hidefocus="1" tabindex="-1" role="group"><iframe src='javascript:""' style="width: 100%; height: 550px; display: block;" title="Rich Text Area. Press ALT-F9 for menu. Press ALT-F10 for toolbar. Press ALT-0 for help" allowtransparency="true" id="long_desc_ifr" frameborder="0"></iframe></div><div style="border-width: 1px 0px 0px;" id="mceu_95" class="mce-statusbar mce-container mce-panel mce-last mce-stack-layout-item" hidefocus="1" tabindex="-1" role="group"><div id="mceu_95-body" class="mce-container-body mce-flow-layout"><div id="mceu_96" class="mce-path mce-first mce-flow-layout-item"><div role="button" class="mce-path-item mce-last" data-index="0" tabindex="-1" id="mceu_96-0" aria-level="0">p</div></div><div id="mceu_97" class="mce-last mce-flow-layout-item mce-resizehandle mce-resizehandle-both"><i class="mce-ico mce-i-resize"></i></div></div></div></div></div><textarea aria-hidden="true" name="form[long_desc]" id="long_desc" cols="50" rows="5" style="width: 500px; height: 50px; display: none;" class="mce_editable">	</textarea><div id="editor-xtd-buttons" class="btn-toolbar pull-left">
+<a class="btn modal-button" title="Article" href="index.php?option=com_content&amp;view=articles&amp;layout=modal&amp;tmpl=component&amp;8f0716c743984549330413a6d8317f19=1" onclick="IeCursorFix(); return false;" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+<i class="icon-file-add"></i> Article	</a>
+<a class="btn modal-button" title="Image" href="index.php?option=com_media&amp;view=images&amp;tmpl=component&amp;e_name=long_desc&amp;asset=com_rsform&amp;author=" onclick="IeCursorFix(); return false;" rel="{handler: 'iframe', size: {x: 800, y: 500}}">
+<i class="icon-picture"></i> Image	</a>
+<a class="btn modal-button" title="Page Break" href="index.php?option=com_content&amp;view=article&amp;layout=pagebreak&amp;tmpl=component&amp;e_name=long_desc" onclick="IeCursorFix(); return false;" rel="{handler: 'iframe', size: {x: 500, y: 300}}">
+<i class="icon-copy"></i> Page Break	</a>
+<a class="btn" title="Read More" href="http://crowdfunder.ru/#" onclick="insertReadmore('long_desc');return false;" rel="">
+<i class="icon-arrow-down"></i> Read More	</a>
+</div><div class="toggle-editor btn-toolbar pull-right clearfix">
+<div class="btn-group">
+<a class="btn" href="#" onclick="tinyMCE.execCommand('mceToggleEditor', false, 'long_desc');return false;" title="Toggle editor">
+<i class="icon-eye"></i> Toggle editor		</a>
+</div>
+</div></div><span class="formValidation"><span id="component30" class="formNoError">Invalid Input</span></span></div>
+<p class="formDescription"></p>
+</div>
+</div>
+<div class="rsform-block rsform-block-img-1">
+<div class="formControlLabel">Изображение 1</div>
+<div class="formControls">
+<div class="formBody"><input name="MAX_FILE_SIZE" value="0000" type="hidden"><input name="form[img_1]" id="img_1" class="rsform-upload-box" type="file"><span class="formValidation"><span id="component32" class="formNoError">Invalid Input</span></span></div>
+<p class="formDescription"></p>
+</div>
+</div>
+<div class="rsform-block rsform-block-img-2">
+<div class="formControlLabel">Изображение 2</div>
+<div class="formControls">
+<div class="formBody"><input name="MAX_FILE_SIZE" value="0000" type="hidden"><input name="form[img_2]" id="img_2" class="rsform-upload-box" type="file"><span class="formValidation"><span id="component33" class="formNoError">Invalid Input</span></span></div>
+<p class="formDescription"></p>
+</div>
+</div>
+<div class="rsform-block rsform-block-pr-file">
+<div class="formControlLabel">Файл презентации</div>
+<div class="formControls">
+<div class="formBody"><input name="MAX_FILE_SIZE" value="12000000" type="hidden"><input name="form[pr_file]" id="pr_file" class="rsform-upload-box" type="file"><span class="formValidation"><span id="component31" class="formNoError">Invalid Input</span></span></div>
+<p class="formDescription"></p>
+</div>
+</div>
+<div class="rsform-block rsform-block-project-videolink">
+<div class="formControlLabel">Ссылка на видео</div>
+<div class="formControls">
+<div class="formBody"><input size="20" name="form[project_videolink]" id="project_videolink" class="rsform-input-box" type="text"><span class="formValidation"><span id="component69" class="formNoError">Invalid Input</span></span></div>
+<p class="formDescription">Скопируйте сюда ссылку на видео о проекте</p>
+</div>
+</div>
+<div class="rsform-block rsform-block-captcha">
+<div class="formControlLabel">Введите код<strong class="formRequired">*</strong></div>
+<div class="formControls">
+<div class="formBody"><img src="img/publish-project.png" id="captcha36" alt="Введите код "><br><input name="form[captcha]" id="captchaTxt36" style="text-align:center;width:75px;" class="rsform-captcha-box" type="text">&nbsp;&nbsp;<a href="javascript:void(0)" onclick="refreshCaptcha(36,'/index.php/publish-project?task=captcha&amp;componentId=36&amp;tmpl=component'); return false;">Обновить</a><span class="formValidation"><span id="component36" class="formNoError">Invalid Input</span></span></div>
+<p class="formDescription"></p>
+</div>
+</div>
+<div class="rsform-block rsform-block-project-id">
+<div class="formControlLabel"></div>
+<div class="formControls">
+<div class="formBody"><input name="form[project_ID]" value="BGVL7M5R" type="hidden"><span class="formValidation"></span></div>
+<p class="formDescription"></p>
+</div>
+</div>
+<div class="rsform-block rsform-block-submit-btn">
+<div class="formControlLabel"></div>
+<div class="formControls">
+<div class="formBody"><input value="Сохранить" name="form[submit_btn]" id="submit_btn" class="rsform-submit-button" type="submit"><span class="formValidation"></span></div>
+<p class="formDescription"></p>
+</div>
+</div>
+</fieldset>
+
+
+<input name="form[formId]" value="3" type="hidden"></form>
+<script type="text/javascript">var rsfp_ajax_root = '';</script>
+<script type="text/javascript">rsfp_addEvent(window, 'load', function(){var form = rsfp_getForm(3); form.onsubmit = ajaxValidation;});</script>
+<script type="text/javascript">
+ajaxExtraValidationScript[3] = function(task, formId, data) {
+	var formComponents = {};formComponents[23]='name';formComponents[26]='phone';formComponents[25]='email';formComponents[35]='project_location';formComponents[34]='project_link';formComponents[27]='project_name';formComponents[29]='short_desc';formComponents[30]='long_desc';formComponents[69]='project_videolink';formComponents[36]='captcha';if (task == 'afterSend') {
+		var ids = data.response[0].split(',');
+		for (var i=0; i<ids.length; i++) {
+			var id = parseInt(ids[i]);
+			if (!isNaN(id) && typeof formComponents[id] != 'undefined') {
+				var formComponent = rsfp_getFieldsByName(formId, formComponents[id]);
+				if (formComponent && formComponent.length > 0) {
+					for (var j=0; j<formComponent.length; j++) {
+						if (formComponent[j]) {
+							formComponent[j].className = formComponent[j].className.replace(' rsform-error', '');
+						}
+					}
+				}
+			}
+		}
+		var ids = data.response[1].split(',');
+		for (var i=0; i<ids.length; i++) {
+			var id = parseInt(ids[i]);
+			if (!isNaN(id) && typeof formComponents[id] != 'undefined') {
+				var formComponent = rsfp_getFieldsByName(formId, formComponents[id]);
+				if (formComponent && formComponent.length > 0) {
+				for (var j=0; j<formComponent.length; j++) {
+				if (formComponent[j]) {
+				formComponent[j].className = formComponent[j].className.replace(' rsform-error', '') + ' rsform-error';
+				}
+				}
+				}
+			}
+		}
+	}
+}
+</script>
+
+</main>
+
+
+</div>
+
+<aside style="min-height: 2681px;" class="tm-sidebar-b uk-width-medium-1-4"><div class="uk-panel uk-panel-box uk-panel-box-secondary jmoddiv" data-jmodediturl="index.php?option=com_config&amp;controller=config.display.modules&amp;id=183&amp;return=aHR0cDovL2Nyb3dkZnVuZGVyLnJ1L2luZGV4LnBocC9wdWJsaXNoLXByb2plY3Q%3D" data-jmodtip="&lt;strong&gt;Edit module&lt;/strong&gt;&lt;br /&gt;Регистрация&lt;br /&gt;Position: sidebar-b"><h3 class="uk-panel-title">Регистрация</h3><ul class="uk-nav uk-nav-parent-icon uk-nav-side" data-uk-nav="{}"><li><a href="publish-project-howto">Шаблон проекта</a></li><li class="uk-active"><a href="publish-project">Публиковать проект</a></li><li><a href="register-investor">Регистрация инвестора</a></li><li><a href="register-expert">Регистрация Эксперта</a></li><li><a href="register-resource">Регистрация Ресурса</a></li></ul></div></aside>
+
+</div>
+
+</div>
+</div>
+</div>
+
+
+
+
+
+
+<div id="tm-footer" class="tm-block-footer">
+<div class="tm-block-texture tm-block-padding">
+<div class="uk-container uk-container-center ">
+
+
+
+<footer class="tm-footer tm-link-muted">
+
+<a id="tm-anchor-bottom" class="tm-totop-scroller" data-uk-smooth-scroll="" href="#"></a>
+
+<div class="uk-panel jmoddiv" data-jmodediturl="index.php?option=com_config&amp;controller=config.display.modules&amp;id=32&amp;return=aHR0cDovL2Nyb3dkZnVuZGVyLnJ1L2luZGV4LnBocC9wdWJsaXNoLXByb2plY3Q%3D" data-jmodtip="&lt;strong&gt;Edit module&lt;/strong&gt;&lt;br /&gt;Footer&lt;br /&gt;Position: footer">
+<p>Built with Warp Framework and Widgetkit 2<br> Copyright © 2015 CrowdFunder.ru</p></div>
+</footer>
+
+</div>
+</div>
+</div>
+
+
+<div id="offcanvas" class="uk-offcanvas">
+<div class="uk-offcanvas-bar"><ul class="uk-nav uk-nav-offcanvas jmoddiv" data-jmodediturl="index.php?option=com_config&amp;controller=config.display.modules&amp;id=94&amp;return=aHR0cDovL2Nyb3dkZnVuZGVyLnJ1L2luZGV4LnBocC9wdWJsaXNoLXByb2plY3Q%3D" data-jmodtip="&lt;strong&gt;Edit module&lt;/strong&gt;&lt;br /&gt;Offcanvas Menu&lt;br /&gt;Position: offcanvas"><li><a href="home">Главная</a></li><li><a href="featured-projects">Проекты</a></li><li><a href="register">Регистрация</a></li><li class="uk-parent"><a href="#">
+Компания</a>
+<ul class="uk-nav-sub"><li><a href="services">Услуги</a></li><li><a href="about">О нас</a></li><li><a href="blog-featured">Истории успеха</a></li><li><a href="blog">Блог</a></li></ul></li></ul></div>
+</div>
+
+<div style="position: absolute; top: 0px; left: -4123px;"><a href="http://joomix.org/" title="http://joomix.org/" target="_blank">http://joomix.org/</a><br>
+<a href="http://cms-joomla-help.com/" title="http://cms-joomla-help.com/" target="_blank">http://cms-joomla-help.com/</a></div>
+
+
+<div tabindex="-1" style="z-index: 65555; opacity: 0;" aria-hidden="true" id="sbox-overlay"></div><div class="shadow" style="z-index: 65557;" aria-hidden="true" role="dialog" id="sbox-window"><div style="opacity: 0;" id="sbox-content"></div><a aria-controls="sbox-window" role="button" href="#" id="sbox-btn-close"></a></div>
+
+</body>
+</html>

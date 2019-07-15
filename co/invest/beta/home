@@ -1,0 +1,1305 @@
+<!DOCTYPE html>
+<html class="uk-notouch" dir="ltr" data-config="{&quot;stickynav&quot;:1,&quot;centereddropdown&quot;:1,&quot;twitter&quot;:0,&quot;plusone&quot;:0,&quot;facebook&quot;:0,&quot;style&quot;:&quot;default&quot;}" lang="en-gb">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="keywords" content="краудфандинг, краудинвестинг, предприниматель, инвестор, венчурные инвестиции">
+<meta name="description" content="Краудфандер - это краудинвестинговый онлайн сервис, который помогает предпринимателям и инвесторам найти друг друга, договориться и совершить сделку.">
+<meta name="generator" content="Joomla! - Open Source Content Management">
+<title>Главная</title>
+<link href="http://crowdfunder.ru/index.php" rel="canonical">
+<link href="http://crowdfunder.ru/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0">
+<link href="http://crowdfunder.ru/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0">
+<link href="http://crowdfunder.ru/index.php/component/search/?Itemid=101&amp;format=opensearch" rel="search" title="Search КраудФандер" type="application/opensearchdescription+xml">
+<link href="http://crowdfunder.ru/templates/yoo_helios/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+<link rel="stylesheet" href="css/frontediting.css" type="text/css">
+<script src="css/jquery.js" type="text/javascript"></script>
+<script src="css/jquery-noconflict.js" type="text/javascript"></script>
+<script src="css/jquery-migrate.js" type="text/javascript"></script>
+<script src="css/bootstrap.js" type="text/javascript"></script>
+<script src="css/frontediting.js" type="text/javascript"></script>
+<script src="js/uikit-6c19224e.js" type="text/javascript"></script>
+<script src="js/scripts-0267101a.js" type="text/javascript"></script>
+<script type="text/javascript">
+jQuery(document).ready(function(){
+	jQuery('.hasTooltip').tooltip({"html": true,"container": "body"});
+});
+jQuery(document).ready(function(){
+	jQuery('.hasPopover').popover({"html": true,"trigger": "hover focus","container": "body"});
+});
+</script>
+
+<link rel="apple-touch-icon-precomposed" href="img/apple_touch_icon.png">
+<link rel="stylesheet" href="css/bootstrap.css">
+<link rel="stylesheet" href="css/theme.css">
+<link rel="stylesheet" href="css/custom.css">
+<script src="js/uikit.js"></script>
+<script src="js/autocomplete.js"></script>
+<script src="js/search.js"></script>
+<script src="js/sticky.js"></script>
+<script src="js/tooltip.js"></script>
+<script src="js/menuAim.js"></script>
+<script src="js/social.js"></script>
+<script src="js/theme.js"></script>
+</head>
+
+<body class="tm-isblog tm-article-blog  tm-navbar-fixed">
+
+    <div id="tm-header" class="tm-block-header tm-block-primary-gradient-intensive tm-contrast  tm-fullscreen">
+
+        <div class="tm-stalker uk-hidden-small uk-hidden-medium">
+        <canvas height="1025" width="1873"></canvas>
+    </div>
+    
+        <div class="tm-block-texture tm-block-lowpoly">
+
+                        <div style="height: 100px;" class="uk-sticky-placeholder"><nav style="margin: 0px;" class="tm-navbar  tm-navbar-centered">
+                <div class="uk-container uk-container-center tm-container-80">
+                    <div class="uk-flex uk-flex-middle uk-flex-space-between">
+
+                                        <div class="tm-nav-logo uk-hidden-small">
+                        <a class="tm-logo uk-hidden-small" href="http://crowdfunder.ru/">
+	<p><img src="img/cf_logo.png" alt=""></p></a>
+                    </div>
+                    
+                                        <div class="tm-nav uk-hidden-small">
+                        <div class="tm-nav-wrapper"><ul class="uk-navbar-nav uk-hidden-small jmoddiv" data-jmodediturl="http://crowdfunder.ru/index.php?option=com_config&amp;controller=config.display.modules&amp;id=1&amp;return=aHR0cDovL2Nyb3dkZnVuZGVyLnJ1Lw%3D%3D" data-jmodtip="&lt;strong&gt;Edit module&lt;/strong&gt;&lt;br /&gt;Main Menu&lt;br /&gt;Position: menu"><li class="uk-active"><a href="http://crowdfunder.ru/index.php">Главная</a></li><li><a href="http://crowdfunder.ru/index.php/featured-projects">Проекты</a></li><li><a href="http://crowdfunder.ru/index.php/register">Регистрация</a></li><li class="uk-parent" aria-haspopup="true" aria-expanded="false"><a href="#">
+	Компания</a>
+<div class="uk-dropdown uk-dropdown-navbar uk-dropdown-width-2" style="min-width: 480px; max-width: 480px; width:240px;"><div class="uk-grid uk-dropdown-grid uk-flex-center"><div class=""><ul class="uk-nav uk-nav-navbar"><li><a href="http://crowdfunder.ru/index.php/company/services">Услуги</a></li><li><a href="http://crowdfunder.ru/index.php/company/about">О нас</a></li></ul></div><div class=""><ul class="uk-nav uk-nav-navbar"><li><a href="http://crowdfunder.ru/index.php/company/blog-featured">Истории успеха</a></li><li><a href="http://crowdfunder.ru/index.php/company/joomla">Блог</a></li></ul></div></div></div></li></ul></div>
+                    </div>
+                    
+                                        <div class="tm-search uk-text-right uk-hidden-small uk-hidden-medium">
+                        
+<form id="search-40" class="uk-search" action="/index.php" method="post" role="search" data-uk-search="{'source': '/index.php/component/search/?tmpl=raw&amp;type=json&amp;ordering=&amp;searchphrase=all', 'param': 'searchword', 'msgResultsHeader': 'Search Results', 'msgMoreResults': 'More Results', 'msgNoResults': 'No results found', flipDropdown: 1}">
+	<input class="uk-search-field" name="searchword" placeholder="search..." type="search">
+	<input name="task" value="search" type="hidden">
+	<input name="option" value="com_search" type="hidden">
+	<input name="Itemid" value="107" type="hidden">
+</form>                    </div>
+                    
+                                        <a href="#offcanvas" class="uk-navbar-toggle tm-navbar-toggle uk-visible-small" data-uk-offcanvas=""></a>
+                    
+                                        <div class="uk-navbar-content uk-navbar-center uk-flex uk-flex-middle uk-visible-small">
+                        <a class="tm-logo-small" href="http://crowdfunder.ru/">
+	<p><img src="img/cf_logo_small.png" alt=""> </p></a>
+                    </div>
+                    
+                    </div>
+                </div>
+</nav>
+</div>
+
+
+<div class="uk-container uk-container-center tm-container-80">
+<section class="uk-flex uk-flex-middle uk-flex-center tm-header uk-grid" data-uk-grid-match="{target:'&gt; div &gt; .uk-panel'}" data-uk-grid-margin="">
+<div class="uk-width-1-1"><div class="uk-panel jmoddiv" data-jmodediturl="http://crowdfunder.ru/index.php?option=com_config&amp;controller=config.display.modules&amp;id=124&amp;return=aHR0cDovL2Nyb3dkZnVuZGVyLnJ1Lw%3D%3D" data-jmodtip="&lt;strong&gt;Edit module&lt;/strong&gt;&lt;br /&gt;Home Intro Header&lt;br /&gt;Position: header">
+	<h1 class="uk-heading-large">Помогаем<br class="uk-hidden-small  uk-hidden-medium">проектам найти умные деньги.</h1>
+<p class="uk-text-large">Краудфандер помогает предпринимателям и инвесторам найти друг друга, договориться и совершить сделку.<br><span style="line-height: 1.3em;">Предприниматели публикуют&nbsp;проекты, указывают требуемый размер инвестиций и предлагаемую долю. <br>Инвесторы ищут проекты согласно своим предпочтениям и покупают доли в них.&nbsp;<br></span>Эксперты помогают предпринимателям доработать проекты и консультируют инвесторов.<br>Краудфандер сопровождает&nbsp;стороны на всех этапах и обеспечивает прозрачность сделки.</p></div></div>
+</section>
+</div>
+
+<a class="tm-tobottom-scroller" data-uk-smooth-scroll="" href="#tm-anchor-bottom"></a>
+</div>
+</div>
+
+
+
+
+
+
+
+
+<div id="tm-top-a" class="tm-block-top-a tm-block-gradient">
+<div class="tm-block-texture tm-block-wall">
+<div class="uk-container uk-container-center tm-container-80">
+<section class="tm-top-a uk-grid" data-uk-grid-match="{target:'&gt; div &gt; .uk-panel'}" data-uk-grid-margin="">
+<div class="uk-width-1-1"><div class="uk-panel jmoddiv" data-jmodediturl="http://crowdfunder.ru/index.php?option=com_config&amp;controller=config.display.modules&amp;id=125&amp;return=aHR0cDovL2Nyb3dkZnVuZGVyLnJ1Lw%3D%3D" data-jmodtip="&lt;strong&gt;Edit module&lt;/strong&gt;&lt;br /&gt;Home Grid Stack Top-A&lt;br /&gt;Position: top-a">
+<div class="tm-grid-stack-right" data-uk-scrollspy="{target:'&gt; div &gt; [data-uk-scrollspy-cls]', delay:300}">
+
+
+<div class="uk-grid uk-text-left uk-flex-middle" data-uk-grid-match="" data-uk-margin="{cls:'uk-margin-top'}">
+
+<div class="uk-width-medium-3-5 uk-text-center uk-float-right uk-flex-order-last-medium uk-scrollspy-init-inview uk-scrollspy-inview uk-animation-slide-right" data-uk-scrollspy-cls="uk-animation-slide-right"> <!-- uk-invisible -->
+<img src="img/entrepreneurs.jpg" alt="Предпринимателю" class=" uk-overlay-scale" height="1683" width="2376">
+</div>
+
+<div class="uk-width-medium-2-5 uk-scrollspy-inview uk-animation-slide-left" data-uk-scrollspy-cls="uk-animation-slide-left"> <!-- uk-invisible -->
+<div class="uk-panel uk-width-1-1">
+
+<h3 class="uk-h1"><a class="uk-link-reset" href="#">Предпринимателю</a></h3>
+
+<div class="uk-margin">
+<p class="tm-text-medium">У вас есть проект и нужны инвестиции на развитие? Мы приветствуем проекты из любого рынка, особенно из реального сектора экономики. Чтобы разместить проект зарегистрируйтесь и приготовьтесь дать подробную информацию. Желательно иметь бизнес-план, определить объем инвестиций, и долю в проекте, которую вы предлагаете инвестору. Если затрудняетесь, мы поможем!</p>
+</div>
+
+<p class="uk-margin"><a class="uk-button uk-button-large uk-button-primary" href="#">Поехали!</a></p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+<div id="tm-top-b" class="tm-block-top-b tm-block-gradient">
+<div class="tm-block-texture">
+<div class="uk-container uk-container-center tm-container-80">
+<section class="tm-top-b uk-grid" data-uk-grid-match="{target:'&gt; div &gt; .uk-panel'}" data-uk-grid-margin="">
+<div class="uk-width-1-1"><div class="uk-panel jmoddiv" data-jmodediturl="http://crowdfunder.ru/index.php?option=com_config&amp;controller=config.display.modules&amp;id=126&amp;return=aHR0cDovL2Nyb3dkZnVuZGVyLnJ1Lw%3D%3D" data-jmodtip="&lt;strong&gt;Edit module&lt;/strong&gt;&lt;br /&gt;Home Grid Stack Top-B&lt;br /&gt;Position: top-b">
+<div class="tm-grid-stack-left" data-uk-scrollspy="{target:'&gt; div &gt; [data-uk-scrollspy-cls]', delay:300}">
+
+
+<div class="uk-grid uk-text-left uk-flex-middle" data-uk-grid-match="" data-uk-margin="{cls:'uk-margin-top'}">
+
+<div class="uk-width-medium-3-5 uk-text-center uk-scrollspy-init-inview uk-scrollspy-inview uk-animation-slide-left" data-uk-scrollspy-cls="uk-animation-slide-left"> <!-- uk-invisible -->
+<img src="img/angel-investors-1024x576.jpg" alt="Инвестору" class=" uk-overlay-scale" height="576" width="1024">
+</div>
+
+<div class="uk-width-medium-2-5 uk-scrollspy-inview uk-animation-slide-right" data-uk-scrollspy-cls="uk-animation-slide-right"> <!-- uk-invisible -->
+<div class="uk-panel uk-width-1-1">
+
+<h3 class="uk-h1"><a class="uk-link-reset" href="#">Инвестору</a></h3>
+
+<div class="uk-margin">
+<p class="tm-text-medium">Вы - частный инвестор, компания или фонд, и готовы вложить в проект от 50,000₽ и более? Мы предложим на выбор широкий спектр проектов из разных рынков. Объединяйтесь с другими инвесторами для вложений в большие проекты и разделения рисков. Зарегистрируйтесь, укажите ваши предпочтения и получите доступ к подробной информации по проектам.</p>
+</div>
+
+<p class="uk-margin"><a class="uk-button uk-button-large uk-button-primary" href="#">Интересно...</a></p>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+        <div id="tm-top-c" class="tm-block-top-c tm-block-gradient">
+        <div class="tm-block-texture tm-block-wall">
+            <div class="uk-container uk-container-center tm-container-80">
+                <section class="tm-top-c uk-grid" data-uk-grid-match="{target:'&gt; div &gt; .uk-panel'}" data-uk-grid-margin="">
+<div class="uk-width-1-1"><div class="uk-panel jmoddiv" data-jmodediturl="http://crowdfunder.ru/index.php?option=com_config&amp;controller=config.display.modules&amp;id=127&amp;return=aHR0cDovL2Nyb3dkZnVuZGVyLnJ1Lw%3D%3D" data-jmodtip="&lt;strong&gt;Edit module&lt;/strong&gt;&lt;br /&gt;Home Grid Stack Top-C&lt;br /&gt;Position: top-c">
+<div class="tm-grid-stack-right" data-uk-scrollspy="{target:'&gt; div &gt; [data-uk-scrollspy-cls]', delay:300}">
+
+
+    
+    <div class="uk-grid uk-text-left uk-flex-middle" data-uk-grid-match="" data-uk-margin="{cls:'uk-margin-top'}">
+
+                <div class="uk-width-medium-3-5 uk-text-center uk-float-right uk-flex-order-last-medium" data-uk-scrollspy-cls="uk-animation-slide-right"> <!-- uk-invisible -->
+            <img src="img/team.png" alt="Эксперту" class=" uk-overlay-scale" height="619" width="950">        </div>
+        
+                <div class="uk-width-medium-2-5" data-uk-scrollspy-cls="uk-animation-slide-left uk-invisible"> <!-- uk-invisible -->
+            <div class="uk-panel uk-width-1-1">
+
+                
+                                <h3 class="uk-h1">
+
+                                            <a class="uk-link-reset" href="#">Эксперту</a>
+                    
+                    
+                </h3>
+                
+                                <div class="uk-margin"><p class="tm-text-medium">Вы
+ - эксперт, обладающий профессиональным опытом в одной или нескольких 
+областях? Предпринимателям и инвесторам очень нужна ваша помощь в 
+доработке и анализе проектов. Вы можете оказывать платные 
+консультационные услуги или получить предложения о работе в командах 
+проектов. Зарегистрируйтесь и получите доступ к подробной информации.</p></div>
+                
+                
+                                <p class="uk-margin"><a class="uk-button uk-button-large uk-button-primary" href="#">Подробнее...</a></p>
+                
+            </div>
+        </div>
+        
+    </div>
+
+    
+
+</div>
+</div></div>
+</section>
+            </div>
+        </div>
+    </div>
+    
+        <div id="tm-main" class="tm-block-top-main tm-block-default">
+        <div class="tm-block-texture">
+            <div class="uk-container uk-container-center tm-container-100">
+
+                <div class="tm-middle uk-grid" data-uk-grid-match="" data-uk-grid-margin="">
+
+                                        <div class="tm-main uk-width-medium-1-1">
+
+                        
+                                                <main class="tm-content">
+
+                            
+                            <div id="system-message-container">
+</div>
+
+
+<div class="uk-grid" data-uk-grid-match="" data-uk-grid-margin=""><div style="min-height: 400px;" class="uk-width-medium-1-2">
+	<article class="uk-article tm-article" data-permalink="http://crowdfunder.ru/index.php/2015-04-05-20-13-16/36-kitplane">
+
+	
+					<div class="tm-article-image uk-flex uk-flex-middle uk-flex-center tm-contrast" style="background:url();">
+
+				<div class="uk-text-center">
+
+										<h1 class="uk-article-title tm-article-title">
+													Самолет из набора											</h1>
+					
+										<p class="uk-article-meta tm-article-meta">
+					Written on <time datetime="2015-04-06">06 April 2015</time>. Posted in <a href="http://crowdfunder.ru/index.php/2015-04-05-20-13-16">Авиация</a>					</p>
+					
+					
+										<p class="tm-article-edit"><a href="http://crowdfunder.ru/index.php?task=article.edit&amp;a_id=36&amp;return=aHR0cDovL2Nyb3dkZnVuZGVyLnJ1Lw=="><span data-original-title="&lt;strong&gt;Edit Article&lt;/strong&gt;&lt;br /&gt;Published&lt;br /&gt;Monday, 06 April 2015&lt;br /&gt;Written by Super User" class="hasTooltip icon-edit tip" title=""></span>Edit</a></p>
+					
+				</div>
+
+			</div>
+
+		
+	
+	
+	
+	</article>
+
+</div><div style="min-height: 400px;" class="uk-width-medium-1-2">
+	<article class="uk-article tm-article" data-permalink="http://crowdfunder.ru/index.php/2015-04-05-20-13-16/32-uav-helicopter">
+
+	
+					<div class="tm-article-image uk-flex uk-flex-middle uk-flex-center tm-contrast" style="background:url();">
+
+				<div class="uk-text-center">
+
+										<h1 class="uk-article-title tm-article-title">
+													Беспилотный Аппарат Вертолетного Типа											</h1>
+					
+										<p class="uk-article-meta tm-article-meta">
+					Written on <time datetime="2015-04-05">05 April 2015</time>. Posted in <a href="http://crowdfunder.ru/index.php/2015-04-05-20-13-16">Авиация</a>					</p>
+					
+					
+										<p class="tm-article-edit"><a href="http://crowdfunder.ru/index.php?task=article.edit&amp;a_id=32&amp;return=aHR0cDovL2Nyb3dkZnVuZGVyLnJ1Lw=="><span data-original-title="&lt;strong&gt;Edit Article&lt;/strong&gt;&lt;br /&gt;Published&lt;br /&gt;Sunday, 05 April 2015&lt;br /&gt;Written by Super User" class="hasTooltip icon-edit tip" title=""></span>Edit</a></p>
+					
+				</div>
+
+			</div>
+
+		
+	
+	
+	
+	</article>
+
+</div></div>
+
+
+                        </main>
+                        
+                        
+                    </div>
+                    
+                                                            
+                </div>
+
+            </div>
+        </div>
+    </div>
+    
+        <div id="tm-bottom-a" class="tm-block-bottom-a tm-block-default">
+        <div class="tm-block-texture tm-block-large-padding">
+            <div class="uk-container uk-container-center ">
+                <section class="tm-bottom-a uk-grid" data-uk-grid-match="{target:'&gt; div &gt; .uk-panel'}" data-uk-grid-margin="">
+<div class="uk-width-1-1"><div class="uk-panel jmoddiv" data-jmodediturl="http://crowdfunder.ru/index.php?option=com_config&amp;controller=config.display.modules&amp;id=23&amp;return=aHR0cDovL2Nyb3dkZnVuZGVyLnJ1Lw%3D%3D" data-jmodtip="&lt;strong&gt;Edit module&lt;/strong&gt;&lt;br /&gt;Home Grid Icons Bottom-A&lt;br /&gt;Position: bottom-a">
+	<h1 class="uk-text-center uk-margin-small-bottom">User Friendly</h1>
+<p class="uk-text-center uk-text-large uk-text-muted uk-margin-small-top">We provide a number of helpful apps.</p>
+
+<div class="uk-margin-large">
+
+
+<div class="uk-grid-width-1-1 uk-grid-width-small-1-2 uk-grid-width-medium-1-2 uk-grid-width-large-1-2 uk-grid-width-xlarge-1-3 uk-grid uk-grid-match uk-grid-small uk-text-center tm-grid-icons-helios" data-uk-grid-match="{target:'&gt; div &gt; .uk-panel', row:true}" data-uk-grid-margin="" data-uk-scrollspy="{cls:'uk-animation-fade', target:'&gt; div &gt; .uk-panel', delay:300}">
+
+
+    <div>
+        <div style="min-height: 279px;" class="uk-panel uk-panel-hover uk-overlay-hover"> <!-- uk-invisible -->
+
+            
+            
+            
+                        <a class="uk-position-cover" href="http://crowdfunder.ru/index.php/features"></a>
+            
+            
+            
+                        <div class="uk-margin"><div class="tm-icon"><span class="tm-icon-helios-drop"></span></div>
+<h3 class="uk-panel-title">Water Monitor</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p></div>
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div>
+        <div style="min-height: 279px;" class="uk-panel uk-panel-hover uk-overlay-hover uk-overlay-hover"> <!-- uk-invisible -->
+
+            
+            
+            
+                        <a class="uk-position-cover" href="http://crowdfunder.ru/index.php/features"></a>
+            
+            
+            
+                        <div class="uk-margin"><div class="tm-icon"><span class="tm-icon-helios-wifi"></span></div>
+<h3 class="uk-panel-title">Wi-Fi Support</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p></div>
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div>
+        <div style="min-height: 279px;" class="uk-panel uk-panel-hover uk-overlay-hover uk-overlay-hover uk-overlay-hover"> <!-- uk-invisible -->
+
+            
+            
+            
+                        <a class="uk-position-cover" href="http://crowdfunder.ru/index.php/features"></a>
+            
+            
+            
+                        <div class="uk-margin"><div class="tm-icon"><span class="tm-icon-helios-bulb"></span></div>
+<h3 class="uk-panel-title">Eco Friendly</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p></div>
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div class="uk-grid-margin">
+        <div style="min-height: 279px;" class="uk-panel uk-panel-hover uk-overlay-hover uk-overlay-hover uk-overlay-hover uk-overlay-hover"> <!-- uk-invisible -->
+
+            
+            
+            
+                        <a class="uk-position-cover" href="http://crowdfunder.ru/index.php/features"></a>
+            
+            
+            
+                        <div class="uk-margin"><div class="tm-icon"><span class="tm-icon-helios-chart"></span></div>
+<h3 class="uk-panel-title">Energy Statistics</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p></div>
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div class="uk-grid-margin">
+        <div style="min-height: 279px;" class="uk-panel uk-panel-hover uk-overlay-hover uk-overlay-hover uk-overlay-hover uk-overlay-hover uk-overlay-hover"> <!-- uk-invisible -->
+
+            
+            
+            
+                        <a class="uk-position-cover" href="http://crowdfunder.ru/index.php/features"></a>
+            
+            
+            
+                        <div class="uk-margin"><div class="tm-icon"><span class="tm-icon-helios-settings"></span></div>
+<h3 class="uk-panel-title">Remote Control</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p></div>
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div class="uk-grid-margin">
+        <div style="min-height: 279px;" class="uk-panel uk-panel-hover uk-overlay-hover uk-overlay-hover uk-overlay-hover uk-overlay-hover uk-overlay-hover uk-overlay-hover"> <!-- uk-invisible -->
+
+            
+            
+            
+                        <a class="uk-position-cover" href="http://crowdfunder.ru/index.php/features"></a>
+            
+            
+            
+                        <div class="uk-margin"><div class="tm-icon"><span class="tm-icon-helios-calendar"></span></div>
+<h3 class="uk-panel-title">Running Tasks</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p></div>
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+</div>
+
+</div>
+</div></div>
+</section>
+            </div>
+        </div>
+    </div>
+    
+        <div id="tm-bottom-b" class="tm-block-bottom-b tm-block-light">
+        <div class="tm-block-texture tm-block-noise tm-block-large-padding">
+            <div class="uk-container uk-container-center ">
+                <section class="tm-bottom-b uk-grid" data-uk-grid-match="{target:'&gt; div &gt; .uk-panel'}" data-uk-grid-margin="">
+<div class="uk-width-1-1"><div class="uk-panel jmoddiv" data-jmodediturl="http://crowdfunder.ru/index.php?option=com_config&amp;controller=config.display.modules&amp;id=129&amp;return=aHR0cDovL2Nyb3dkZnVuZGVyLnJ1Lw%3D%3D" data-jmodtip="&lt;strong&gt;Edit module&lt;/strong&gt;&lt;br /&gt;Home Gallery Bottom-B&lt;br /&gt;Position: bottom-b">
+	<h1 class="uk-text-center uk-margin-small-bottom">Helios theme features</h1>
+<p class="uk-text-center uk-text-large uk-text-muted uk-margin-small-top">This theme comes with some cool technologies.</p>
+
+<div class="uk-margin-large">
+
+
+    
+    <ul id="wk-544" class="uk-subnav uk-subnav-pill uk-flex-center">
+
+        <li class="uk-active" data-uk-filter=""><a href="#">All</a></li>
+
+                <li data-uk-filter="Demo Pages"><a href="#">Demo Pages</a></li>
+                <li data-uk-filter="Technologies"><a href="#">Technologies</a></li>
+        
+    </ul>
+
+    
+
+<div style="position: relative; margin-left: -40px; height: 758.75px;" class="uk-grid-width-1-1 uk-grid-width-small-1-2 uk-grid-width-medium-1-3 uk-grid-width-large-1-4 uk-grid-width-xlarge-1-4 tm-gallery" data-uk-grid="{gutter: 40,controls: '#wk-544'}" data-uk-scrollspy="{cls:'uk-animation-scale-up', target:'&gt; div &gt; .uk-panel', delay:300}">
+
+    
+    <div style="position: absolute; box-sizing: border-box; padding-left: 40px; padding-bottom: 40px; top: 0px; left: 0px; opacity: 1;" data-grid-prepared="true" data-uk-filter="Demo Pages">
+    
+<div class="uk-panel"> <!-- uk-invisible -->
+
+    <figure class="uk-overlay uk-overlay-hover ">
+
+        <img src="img/home_gallery1.jpg" alt="About" class="uk-overlay-scale" height="1080" width="640">
+                <div class="uk-overlay-panel uk-overlay-background uk-overlay-fade"></div>
+        
+        <div class="uk-overlay-panel uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
+            <div>
+
+                                <h3 class="uk-h3 uk-margin-small">About</h3>
+                
+                                <div class="uk-margin-small"><span class="tm-text-uppercase">Demo Pages</span></div>
+                
+                                <div class="uk-grid uk-grid-small uk-flex-center uk-margin" data-uk-grid-margin="">
+
+                    
+                                        <div><a class="uk-button" href="http://crowdfunder.ru/images/yootheme/demo/home_gallery1.jpg" data-lightbox-type="image" data-uk-lightbox="{group:'.wk-2544'}" title="&lt;span class=&quot;tm-text-uppercase&quot;&gt;Demo Pages&lt;/span&gt;">Full view</a></div>
+                    
+                </div>
+                
+            </div>
+        </div>
+
+        
+    </figure>
+
+</div>    </div>
+
+        
+    <div style="position: absolute; box-sizing: border-box; padding-left: 40px; padding-bottom: 40px; top: 0px; left: 290px; opacity: 1;" data-grid-prepared="true" data-uk-filter="Technologies">
+    
+<div class="uk-panel"> <!-- uk-invisible -->
+
+    <figure class="uk-overlay uk-overlay-hover ">
+
+        <img src="img/home_gallery2.jpg" alt="Widgetkit" class="uk-overlay-scale" height="640" width="640">
+                <div class="uk-overlay-panel uk-overlay-background uk-overlay-fade"></div>
+        
+        <div class="uk-overlay-panel uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
+            <div>
+
+                                <h3 class="uk-h3 uk-margin-small">Widgetkit</h3>
+                
+                                <div class="uk-margin-small"><span class="tm-text-uppercase">Technology</span></div>
+                
+                                <div class="uk-grid uk-grid-small uk-flex-center uk-margin" data-uk-grid-margin="">
+
+                    
+                                        <div><a class="uk-button" href="http://crowdfunder.ru/images/yootheme/demo/home_gallery2.jpg" data-lightbox-type="image" data-uk-lightbox="{group:'.wk-2544'}" title="&lt;span class=&quot;tm-text-uppercase&quot;&gt;Technology&lt;/span&gt;">Full view</a></div>
+                    
+                </div>
+                
+            </div>
+        </div>
+
+        
+    </figure>
+
+</div>    </div>
+
+        
+    <div style="position: absolute; box-sizing: border-box; padding-left: 40px; padding-bottom: 40px; top: 0px; left: 580px; opacity: 1;" data-grid-prepared="true" data-uk-filter="Demo Pages">
+    
+<div class="uk-panel"> <!-- uk-invisible -->
+
+    <figure class="uk-overlay uk-overlay-hover ">
+
+        <img src="img/home_gallery3.jpg" alt="Features" class="uk-overlay-scale" height="860" width="640">
+                <div class="uk-overlay-panel uk-overlay-background uk-overlay-fade"></div>
+        
+        <div class="uk-overlay-panel uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
+            <div>
+
+                                <h3 class="uk-h3 uk-margin-small">Features</h3>
+                
+                                <div class="uk-margin-small"><span class="tm-text-uppercase">Demo Pages</span></div>
+                
+                                <div class="uk-grid uk-grid-small uk-flex-center uk-margin" data-uk-grid-margin="">
+
+                    
+                                        <div><a class="uk-button" href="http://crowdfunder.ru/images/yootheme/demo/home_gallery3.jpg" data-lightbox-type="image" data-uk-lightbox="{group:'.wk-2544'}" title="&lt;span class=&quot;tm-text-uppercase&quot;&gt;Demo Pages&lt;/span&gt;">Full view</a></div>
+                    
+                </div>
+                
+            </div>
+        </div>
+
+        
+    </figure>
+
+</div>    </div>
+
+        
+    <div style="position: absolute; box-sizing: border-box; padding-left: 40px; padding-bottom: 40px; top: 0px; left: 870px; opacity: 1;" data-grid-prepared="true" data-uk-filter="Technologies">
+    
+<div class="uk-panel"> <!-- uk-invisible -->
+
+    <figure class="uk-overlay uk-overlay-hover ">
+
+        <img src="img/home_gallery4.jpg" alt="Warp Framework" class="uk-overlay-scale" height="640" width="640">
+                <div class="uk-overlay-panel uk-overlay-background uk-overlay-fade"></div>
+        
+        <div class="uk-overlay-panel uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
+            <div>
+
+                                <h3 class="uk-h3 uk-margin-small">Warp Framework</h3>
+                
+                                <div class="uk-margin-small"><span class="tm-text-uppercase">Technology</span></div>
+                
+                                <div class="uk-grid uk-grid-small uk-flex-center uk-margin" data-uk-grid-margin="">
+
+                    
+                                        <div><a class="uk-button" href="http://crowdfunder.ru/images/yootheme/demo/home_gallery4.jpg" data-lightbox-type="image" data-uk-lightbox="{group:'.wk-2544'}" title="&lt;span class=&quot;tm-text-uppercase&quot;&gt;Technology&lt;/span&gt;">Full view</a></div>
+                    
+                </div>
+                
+            </div>
+        </div>
+
+        
+    </figure>
+
+</div>    </div>
+
+        
+    <div style="position: absolute; box-sizing: border-box; padding-left: 40px; padding-bottom: 40px; top: 461.867px; left: 0px; opacity: 1;" data-grid-prepared="true" data-uk-filter="Technologies">
+    
+<div class="uk-panel"> <!-- uk-invisible -->
+
+    <figure class="uk-overlay uk-overlay-hover ">
+
+        <img src="img/home_gallery5.jpg" alt="UIkit" class="uk-overlay-scale" height="640" width="640">
+                <div class="uk-overlay-panel uk-overlay-background uk-overlay-fade"></div>
+        
+        <div class="uk-overlay-panel uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
+            <div>
+
+                                <h3 class="uk-h3 uk-margin-small">UIkit</h3>
+                
+                                <div class="uk-margin-small"><span class="tm-text-uppercase">Technology</span></div>
+                
+                                <div class="uk-grid uk-grid-small uk-flex-center uk-margin" data-uk-grid-margin="">
+
+                    
+                                        <div><a class="uk-button" href="http://crowdfunder.ru/images/yootheme/demo/home_gallery5.jpg" data-lightbox-type="image" data-uk-lightbox="{group:'.wk-2544'}" title="&lt;span class=&quot;tm-text-uppercase&quot;&gt;Technology&lt;/span&gt;">Full view</a></div>
+                    
+                </div>
+                
+            </div>
+        </div>
+
+        
+    </figure>
+
+</div>    </div>
+
+        
+    <div style="position: absolute; box-sizing: border-box; padding-left: 40px; padding-bottom: 40px; top: 290px; left: 290px; opacity: 1;" data-grid-prepared="true" data-uk-filter="Demo Pages">
+    
+<div class="uk-panel"> <!-- uk-invisible -->
+
+    <figure class="uk-overlay uk-overlay-hover ">
+
+        <img src="img/home_gallery6.jpg" alt="Gallery" class="uk-overlay-scale" height="1200" width="640">
+                <div class="uk-overlay-panel uk-overlay-background uk-overlay-fade"></div>
+        
+        <div class="uk-overlay-panel uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
+            <div>
+
+                                <h3 class="uk-h3 uk-margin-small">Gallery</h3>
+                
+                                <div class="uk-margin-small"><span class="tm-text-uppercase">Demo Pages</span></div>
+                
+                                <div class="uk-grid uk-grid-small uk-flex-center uk-margin" data-uk-grid-margin="">
+
+                    
+                                        <div><a class="uk-button" href="http://crowdfunder.ru/images/yootheme/demo/home_gallery6.jpg" data-lightbox-type="image" data-uk-lightbox="{group:'.wk-2544'}" title="&lt;span class=&quot;tm-text-uppercase&quot;&gt;Demo Pages&lt;/span&gt;">Full view</a></div>
+                    
+                </div>
+                
+            </div>
+        </div>
+
+        
+    </figure>
+
+</div>    </div>
+
+        
+    <div style="position: absolute; box-sizing: border-box; padding-left: 40px; padding-bottom: 40px; top: 375.933px; left: 580px; opacity: 1;" data-grid-prepared="true" data-uk-filter="Technologies">
+    
+<div class="uk-panel"> <!-- uk-invisible -->
+
+    <figure class="uk-overlay uk-overlay-hover ">
+
+        <img src="img/home_gallery7.jpg" alt="Pagekit" class="uk-overlay-scale" height="640" width="640">
+                <div class="uk-overlay-panel uk-overlay-background uk-overlay-fade"></div>
+        
+        <div class="uk-overlay-panel uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
+            <div>
+
+                                <h3 class="uk-h3 uk-margin-small">Pagekit</h3>
+                
+                                <div class="uk-margin-small"><span class="tm-text-uppercase">Technology</span></div>
+                
+                                <div class="uk-grid uk-grid-small uk-flex-center uk-margin" data-uk-grid-margin="">
+
+                    
+                                        <div><a class="uk-button" href="http://crowdfunder.ru/images/yootheme/demo/home_gallery7.jpg" data-lightbox-type="image" data-uk-lightbox="{group:'.wk-2544'}" title="&lt;span class=&quot;tm-text-uppercase&quot;&gt;Technology&lt;/span&gt;">Full view</a></div>
+                    
+                </div>
+                
+            </div>
+        </div>
+
+        
+    </figure>
+
+</div>    </div>
+
+        
+    <div style="position: absolute; box-sizing: border-box; padding-left: 40px; padding-bottom: 40px; top: 290px; left: 870px; opacity: 1;" data-grid-prepared="true" data-uk-filter="Demo Pages">
+    
+<div class="uk-panel uk-invisible">
+
+    <figure class="uk-overlay uk-overlay-hover ">
+
+        <img src="img/home_gallery8.jpg" alt="Blog" class="uk-overlay-scale" height="1080" width="640">
+                <div class="uk-overlay-panel uk-overlay-background uk-overlay-fade"></div>
+        
+        <div class="uk-overlay-panel uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
+            <div>
+
+                                <h3 class="uk-h3 uk-margin-small">Blog</h3>
+                
+                                <div class="uk-margin-small"><span class="tm-text-uppercase">Demo Pages</span></div>
+                
+                                <div class="uk-grid uk-grid-small uk-flex-center uk-margin" data-uk-grid-margin="">
+
+                    
+                                        <div><a class="uk-button" href="http://crowdfunder.ru/images/yootheme/demo/home_gallery8.jpg" data-lightbox-type="image" data-uk-lightbox="{group:'.wk-2544'}" title="&lt;span class=&quot;tm-text-uppercase&quot;&gt;Demo Pages&lt;/span&gt;">Full view</a></div>
+                    
+                </div>
+                
+            </div>
+        </div>
+
+        
+    </figure>
+
+</div>    </div>
+
+    
+</div>
+
+</div></div></div>
+</section>
+            </div>
+        </div>
+    </div>
+    
+        <div id="tm-bottom-c" class="tm-block-bottom-c tm-block-dark">
+        <div class="tm-block-texture tm-block-large-padding">
+            <div class="uk-container uk-container-center ">
+                <section class="tm-bottom-c uk-grid" data-uk-grid-match="{target:'&gt; div &gt; .uk-panel'}" data-uk-grid-margin="">
+<div class="uk-width-1-1"><div class="uk-panel jmoddiv" data-jmodediturl="http://crowdfunder.ru/index.php?option=com_config&amp;controller=config.display.modules&amp;id=133&amp;return=aHR0cDovL2Nyb3dkZnVuZGVyLnJ1Lw%3D%3D" data-jmodtip="&lt;strong&gt;Edit module&lt;/strong&gt;&lt;br /&gt;Home Pricing Table Bottom-C&lt;br /&gt;Position: bottom-c">
+	<h1 class="uk-text-center uk-margin-small-bottom">Наши Услуги</h1>
+<p class="uk-text-center uk-text-large uk-text-muted uk-margin-small-top">Мы предлагаем пакеты услуг как для предпринимателей, так и для инвесторов.</p>
+<div class="uk-margin-large">
+
+<div class="uk-grid-width-1-1 uk-grid-width-small-1-1 uk-grid-width-medium-1-3 uk-grid-width-large-1-3 uk-grid-width-xlarge-1-3 uk-grid uk-grid-match uk-text-center tm-pricing-table tm-panel-line" data-uk-grid-match="{target:'&gt; div &gt; .uk-panel', row:true}" data-uk-grid-margin="" data-uk-scrollspy="{cls:'uk-animation-scale-up uk-invisible', target:'&gt; div &gt; .uk-panel', delay:300}">
+
+
+    <div>
+        <div style="min-height: 340px;" class="uk-panel uk-panel-box uk-invisible">
+
+            
+            
+            
+            
+            
+            
+                        <div class="uk-margin"><p class="uk-text-muted tm-text-uppercase">инвестиции</p>
+<h3 class="uk-h1">5-10%</h3>
+<ul class="uk-list uk-list-line">
+<li>листинг на площадке</li>
+<li>3 консультации экспертов</li>
+<li>привлечение инвесторов</li>
+<li>бонусы и скидки</li>
+</ul></div>
+            
+            
+                        <p class="uk-margin"><a class="uk-button" href="#">Подробнее...</a></p>
+            
+            
+        </div>
+    </div>
+
+
+    <div>
+        <div style="min-height: 340px;" class="uk-panel uk-panel-box uk-invisible">
+
+            
+            
+            
+            
+            
+            
+                        <div class="uk-margin"><p class="uk-text-muted tm-text-uppercase">консалтинг</p>
+<h3 class="uk-h1">10-15%</h3>
+<ul class="uk-list uk-list-line">
+<li>экспертиза проекта</li>
+<li>бизнес-консалтинг</li>
+<li>формирование команды</li>
+<li>участие в управлении</li>
+</ul></div>
+            
+            
+                        <p class="uk-margin"><a class="uk-button" href="#">Подробнее...</a></p>
+            
+            
+        </div>
+    </div>
+
+
+    <div>
+        <div style="min-height: 340px;" class="uk-panel uk-panel-box uk-invisible">
+
+            
+            
+            
+            
+            
+            
+                        <div class="uk-margin"><p class="uk-text-muted tm-text-uppercase">управление</p>
+<h3 class="uk-h1">10-30%</h3>
+<ul class="uk-list uk-list-line">
+<li>экспертиза и аудит</li>
+<li>инвест-консалтинг</li>
+<li>доверительное управление</li>
+<li>менеджмент портфеля</li>
+</ul></div>
+            
+            
+                        <p class="uk-margin"><a class="uk-button" href="#">Подробнее...</a></p>
+            
+            
+        </div>
+    </div>
+
+
+</div>
+</div></div></div>
+</section>
+            </div>
+        </div>
+    </div>
+    
+        <div id="tm-bottom-d" class="tm-block-bottom-d tm-block-primary-gradient tm-contrast">
+        <div class="tm-block-texture tm-block-noise tm-block-large-padding">
+            <div class="uk-container uk-container-center ">
+                <section class="tm-bottom-d uk-grid" data-uk-grid-match="{target:'&gt; div &gt; .uk-panel'}" data-uk-grid-margin="">
+<div class="uk-width-1-1"><div class="uk-panel jmoddiv" data-jmodediturl="http://crowdfunder.ru/index.php?option=com_config&amp;controller=config.display.modules&amp;id=131&amp;return=aHR0cDovL2Nyb3dkZnVuZGVyLnJ1Lw%3D%3D" data-jmodtip="&lt;strong&gt;Edit module&lt;/strong&gt;&lt;br /&gt;Home Get Started Bottom-D&lt;br /&gt;Position: bottom-d">
+
+<div class="uk-grid-width-1-1 uk-grid-width-small-1-1 uk-grid-width-medium-1-1 uk-grid-width-large-1-1 uk-grid-width-xlarge-1-1 uk-grid uk-grid-match uk-text-center " data-uk-grid-match="{target:'&gt; div &gt; .uk-panel', row:true}" data-uk-grid-margin="" data-uk-scrollspy="{cls:'uk-animation-scale-up uk-invisible', target:'&gt; div &gt; .uk-panel', delay:300}">
+
+
+    <div>
+        <div class="uk-panel uk-invisible">
+
+            
+            
+            
+            
+                        <h3 class="uk-h1 uk-margin-top-remove">
+
+                                    <a class="uk-link-reset" href="#">Начните Прямо Сейчас!</a>
+                
+                
+            </h3>
+            
+            
+                        <div class="uk-margin"><p class="um-text-large">Не стесняйтесь и запросите более подробную информацию прямо сейчас!</p></div>
+            
+            
+                        <p class="uk-margin"><a class="uk-button uk-button-large" href="#">Начать!</a></p>
+            
+            
+        </div>
+    </div>
+
+
+</div>
+</div></div>
+</section>
+            </div>
+        </div>
+    </div>
+    
+        <div id="tm-bottom-e" class="tm-block-bottom-e tm-block-light">
+        <div class="tm-block-texture tm-block-large-padding">
+            <div class="uk-container uk-container-center tm-container-80">
+                <section class="tm-bottom-e uk-grid" data-uk-grid-match="{target:'&gt; div &gt; .uk-panel'}" data-uk-grid-margin="">
+<div class="uk-width-1-1"><div class="uk-panel uk-text-center jmoddiv" data-jmodediturl="http://crowdfunder.ru/index.php?option=com_config&amp;controller=config.display.modules&amp;id=134&amp;return=aHR0cDovL2Nyb3dkZnVuZGVyLnJ1Lw%3D%3D" data-jmodtip="&lt;strong&gt;Edit module&lt;/strong&gt;&lt;br /&gt;Home Clients Bottom-E&lt;br /&gt;Position: bottom-e">
+	<p class="tm-text-uppercase">Нас поддерживают на федеральном и региональном уровне, нам доверяют предприниматели и инвесторы</p>
+<p>
+
+</p><div class="uk-grid-width-1-2 uk-grid-width-small-1-3 uk-grid-width-medium-1-3 uk-grid-width-large-1-6 uk-grid-width-xlarge-1-6 uk-grid uk-grid-match uk-text-center " data-uk-grid-match="{target:'&gt; div &gt; .uk-panel', row:true}" data-uk-grid-margin="" data-uk-scrollspy="{cls:'uk-animation-scale-down uk-invisible', target:'&gt; div &gt; .uk-panel', delay:300}">
+
+
+    <div>
+        <div style="min-height: 151px;" class="uk-panel uk-invisible">
+
+            
+            
+            
+                        <a class="uk-position-cover" href="http://yootheme.com/demo/joomla/salt"></a>
+            
+            
+            
+                        <div class="uk-margin"><svg version="1.1" id="logo_salt" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="200px" height="120px" viewBox="0 0 200 120" enable-background="new 0 0 200 120" xml:space="preserve">
+<g id="logo_salt_icon">
+	<g>
+		<path fill="#FFFFFF" d="M76.562,42.623c-0.862-0.867-1.846-1.546-2.95-2.035c-1.104-0.487-2.303-0.732-3.596-0.732
+			c-1.294,0-2.493,0.245-3.597,0.732c-1.104,0.489-2.089,1.168-2.949,2.035c-0.862,0.868-1.536,1.859-2.021,2.971
+			c-0.484,1.113-0.727,2.32-0.727,3.622c0,0.651,0.012,1.168,0.04,1.547c0.026,0.38,0.094,0.732,0.202,1.058
+			c0.107,0.326,0.296,0.68,0.566,1.059c0.269,0.38,0.646,0.896,1.131,1.546l11.233,14.977c0.107,0.163,0.174,0.299,0.202,0.407
+			c0.026,0.109,0.04,0.436,0.04,0.977c0,1.141-0.403,2.115-1.212,2.931c-0.808,0.814-1.778,1.221-2.909,1.221
+			c-1.132,0-2.102-0.406-2.91-1.221c-0.808-0.815-1.212-1.79-1.212-2.931v-2.768c0-0.867-0.432-1.302-1.293-1.302h-2.586
+			c-0.863,0-1.293,0.435-1.293,1.302v2.768c0,1.302,0.242,2.511,0.727,3.622c0.485,1.113,1.159,2.104,2.021,2.97
+			c0.86,0.87,1.845,1.547,2.949,2.036c1.104,0.488,2.303,0.731,3.597,0.731c1.293,0,2.491-0.243,3.596-0.731
+			c1.104-0.489,2.088-1.166,2.95-2.036c0.861-0.866,1.536-1.856,2.021-2.97c0.484-1.111,0.728-2.32,0.728-3.622
+			c0-0.651-0.015-1.165-0.04-1.547c-0.028-0.378-0.095-0.731-0.203-1.058c-0.108-0.325-0.296-0.678-0.565-1.058
+			s-0.646-0.895-1.131-1.547L66.138,50.6c-0.109-0.162-0.177-0.298-0.202-0.407c-0.028-0.108-0.041-0.434-0.041-0.977
+			c0-1.139,0.404-2.116,1.212-2.93c0.809-0.814,1.778-1.221,2.91-1.221c1.131,0,2.102,0.406,2.909,1.221
+			c0.809,0.813,1.212,1.791,1.212,2.93v2.768c0,0.868,0.432,1.303,1.294,1.303h2.586c0.861,0,1.293-0.435,1.293-1.303v-2.768
+			c0-1.302-0.243-2.509-0.728-3.622C78.099,44.482,77.424,43.491,76.562,42.623z M101.131,42.704
+			c-0.861-0.867-1.846-1.546-2.949-2.034c-1.105-0.488-2.304-0.732-3.597-0.732s-2.506,0.244-3.637,0.732s-2.129,1.167-2.99,2.034
+			c-0.862,0.869-1.536,1.859-2.021,2.972s-0.728,2.319-0.728,3.621v29.547c0,0.867,0.431,1.301,1.293,1.301h2.586
+			c0.861,0,1.294-0.434,1.294-1.301V62.646h8.323v16.197c0,0.867,0.431,1.301,1.293,1.301h2.588c0.861,0,1.292-0.434,1.292-1.301
+			V49.297c0-1.302-0.243-2.509-0.727-3.621C102.667,44.563,101.993,43.573,101.131,42.704z M98.706,57.438h-8.323v-8.141
+			c0-1.139,0.403-2.115,1.212-2.93c0.808-0.814,1.804-1.221,2.99-1.221c1.132,0,2.102,0.406,2.909,1.221
+			c0.809,0.814,1.212,1.791,1.212,2.93V57.438z M122.708,74.937h-6.948V41.158c0-0.379-0.135-0.691-0.406-0.936
+			c-0.269-0.245-0.564-0.367-0.888-0.367h-2.586c-0.862,0-1.293,0.436-1.293,1.303V77.54c0,0.707,0.242,1.317,0.727,1.831
+			c0.486,0.517,1.104,0.773,1.858,0.773h9.536c0.377,0,0.688-0.134,0.931-0.406c0.243-0.271,0.363-0.57,0.363-0.895v-2.604
+			C124.002,75.371,123.57,74.937,122.708,74.937z M137.983,39.855h-12.445c-0.863,0-1.294,0.436-1.294,1.303v2.604
+			c0,0.869,0.431,1.303,1.294,1.303h3.637v33.778c0,0.324,0.122,0.624,0.363,0.895c0.243,0.272,0.553,0.406,0.93,0.406h2.586
+			c0.377,0,0.688-0.134,0.93-0.406c0.243-0.271,0.364-0.57,0.364-0.895V45.065h3.636c0.861,0,1.294-0.434,1.294-1.303v-2.604
+			C139.277,40.291,138.845,39.855,137.983,39.855z"></path>
+	</g>
+</g>
+<path id="border" fill="#FFFFFF" d="M157.5,31.833v56.333H43.167V31.833H157.5 M160.5,28.833h-3H43.167h-3v3v56.333v3h3H157.5h3v-3
+	V31.833V28.833L160.5,28.833z"></path>
+</svg></div>
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div>
+        <div style="min-height: 151px;" class="uk-panel uk-invisible">
+
+            
+            
+            
+                        <a class="uk-position-cover" href="http://yootheme.com/demo/joomla/venice"></a>
+            
+            
+            
+                        <div class="uk-margin"><svg version="1.1" id="logo_venice" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="200px" height="120px" viewBox="0 0 200 120" enable-background="new 0 0 200 120" xml:space="preserve">
+<g id="logo_venice_icon">
+	<path fill="#FFFFFF" d="M39.401,74.518h-5.462L22.31,45.591h5.461l8.897,21.6l8.898-21.601h5.46L39.401,74.518z"></path>
+	<path fill="#FFFFFF" d="M55.166,45.591h20.317v4.593H55.166V45.591z M55.166,57.839h18.747v4.345H55.166V57.839z M75.978,69.922
+		v4.593H55.166v-4.593H75.978z"></path>
+	<path fill="#FFFFFF" d="M160.187,45.591h20.317v4.593h-20.317V45.591z M160.187,57.839h18.744v4.345h-18.744V57.839z M181,69.922
+		v4.593h-20.813v-4.593H181z"></path>
+	<path fill="#FFFFFF" d="M103.91,45.591h4.884v28.923h-5.297L87.111,53.412v21.103h-4.883V45.591h4.883l16.799,21.6V45.591
+		L103.91,45.591z"></path>
+	<path fill="#FFFFFF" d="M116.82,45.591h4.881v28.923h-4.881V45.591z"></path>
+	<path fill="#FFFFFF" d="M142.932,70.087c1.682,0,3.131-0.281,4.344-0.848c1.216-0.563,2.482-1.469,3.807-2.71l3.146,3.229
+		c-3.062,3.395-6.78,5.089-11.153,5.089c-4.372,0-8.001-1.406-10.881-4.22c-2.884-2.814-4.324-6.372-4.324-10.678
+		c0-4.302,1.469-7.888,4.407-10.757c2.935-2.868,6.646-4.303,11.129-4.303c4.482,0,8.225,1.655,11.234,4.964l-3.104,3.395
+		c-1.381-1.324-2.684-2.248-3.91-2.772c-1.226-0.524-2.671-0.786-4.324-0.786c-2.925,0-5.381,0.945-7.365,2.834
+		c-1.985,1.888-2.979,4.302-2.979,7.24s0.987,5.394,2.959,7.365C137.889,69.103,140.227,70.087,142.932,70.087z"></path>
+</g>
+</svg></div>
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div>
+        <div style="min-height: 151px;" class="uk-panel uk-invisible">
+
+            
+            
+            
+                        <a class="uk-position-cover" href="http://yootheme.com/demo/joomla/peak"></a>
+            
+            
+            
+                        <div class="uk-margin"><svg version="1.1" id="logo_peak" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="200px" height="120px" viewBox="0 0 200 120" enable-background="new 0 0 200 120" xml:space="preserve">
+<path fill="#FFFFFF" d="M22,34v50h53V34H22z M57,66l-5,3l-5-6l-16,7l18-20l17,20L57,66z"></path>
+<path fill="#FFFFFF" d="M178.46,70.57c0,0.38-0.149,0.72-0.431,1c-0.289,0.289-0.67,0.43-1.141,0.43c-0.479,0-0.869-0.21-1.17-0.62
+	L166.9,60.15l-3.9,3.93v6.38c0,0.44-0.141,0.8-0.45,1.101C162.24,71.85,161.875,72,161.445,72s-0.752-0.15-1.043-0.439
+	c-0.301-0.301-0.401-0.66-0.401-1.101V49.39c0-0.43,0.104-0.8,0.405-1.11c0.289-0.3,0.637-0.46,1.066-0.46s0.779,0.16,1.088,0.46
+	c0.312,0.31,0.439,0.68,0.439,1.11v10.86l11.689-11.88c0.301-0.37,0.676-0.55,1.115-0.55s0.803,0.13,1.082,0.39
+	c0.271,0.27,0.401,0.61,0.401,1.03c0,0.42-0.12,0.76-0.37,1.01l-7.889,7.85l9.05,11.41C178.33,69.83,178.46,70.18,178.46,70.57z"></path>
+<path fill="#FFFFFF" d="M155.576,69.779c0.113,0.273,0.171,0.563,0.171,0.871s-0.138,0.609-0.409,0.904
+	C155.064,71.852,154.632,72,154.04,72c-0.593,0-1.024-0.318-1.298-0.956l-2.221-5.327h-11.61l-2.22,5.327
+	c-0.272,0.638-0.705,0.956-1.297,0.956c-0.594,0-1.024-0.148-1.299-0.443c-0.272-0.296-0.41-0.599-0.41-0.904
+	c0-0.309,0.058-0.598,0.172-0.871l8.707-20.558c0.41-0.934,1.07-1.4,1.98-1.4h0.342c0.91,0,1.571,0.467,1.98,1.4L155.576,69.779z
+	 M149.327,62.882l-4.61-11.099l-4.609,11.099H149.327z"></path>
+<path fill="#FFFFFF" d="M130.6,69.385c0.28,0.29,0.42,0.623,0.42,1.022c0,0.409-0.14,0.837-0.42,1.106
+	c-0.289,0.271-0.64,0.485-1.05,0.485h-13.69c-0.43,0-0.961-0.235-1.25-0.535C114.311,71.175,114,70.73,114,70.29V49.56
+	c0-0.43,0.311-0.795,0.609-1.105c0.289-0.3,0.82-0.455,1.25-0.455h13.689c0.41,0,0.76,0.135,1.051,0.425
+	c0.279,0.29,0.42,0.627,0.42,1.038s-0.141,0.799-0.42,1.079c-0.291,0.27-0.641,0.458-1.051,0.458H117v7h11.33
+	c0.41,0,0.75,0.36,1.04,0.65c0.28,0.28,0.42,0.739,0.42,1.149c0,0.41-0.14,0.637-0.42,0.916c-0.29,0.27-0.63,0.284-1.04,0.284H117v8
+	h12.55C129.96,69,130.311,69.105,130.6,69.385z"></path>
+<path fill="#FFFFFF" d="M100.802,47.992c3.164,0,5.544,0.82,7.138,2.459c1.319,1.32,1.979,3.028,1.979,5.123
+	c0,2.095-0.66,3.802-1.979,5.121c-1.594,1.641-3.974,2.459-7.138,2.459h-6.216v7.309c0,0.434-0.153,0.798-0.461,1.094
+	C93.817,71.852,93.447,72,93.016,72c-0.434,0-0.798-0.148-1.093-0.443c-0.297-0.296-0.444-0.66-0.444-1.094v-20.9
+	c0-0.433,0.147-0.802,0.444-1.11c0.295-0.307,0.659-0.461,1.093-0.461H100.802z M100.494,60.219c2.345,0,4.041-0.501,5.088-1.503
+	c0.818-0.774,1.229-1.821,1.229-3.142c0-2.117-1.059-3.529-3.176-4.234c-0.818-0.273-1.867-0.41-3.142-0.41h-5.908v9.289H100.494z"></path>
+</svg></div>
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div>
+        <div style="min-height: 151px;" class="uk-panel uk-invisible">
+
+            
+            
+            
+                        <a class="uk-position-cover" href="http://yootheme.com/demo/joomla/lava"></a>
+            
+            
+            
+                        <div class="uk-margin"><svg version="1.1" id="logo_lava" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="200px" height="120px" viewBox="0 0 200 120" enable-background="new 0 0 200 120" xml:space="preserve">
+<path id="logo_lava_icon" fill="#FFFFFF" d="M94.554,75.311c-0.008,0.009,0.217-0.271,0.437-0.547c-0.01,0.011-0.026,0.03-0.034,0.039
+	C94.824,74.969,94.69,75.138,94.554,75.311z M94.012,74.902c-0.9,0.682-1.873,1.195-3.024,1.171
+	c-2.737-0.062-3.095-3.677-2.488-5.674c0.295-0.971,1.067-1.869,0.769-2.917c-0.271-0.959-0.958-1.93-1.788-2.479
+	c-1.439-0.953-3.436,0.184-4.8,0.798c-2.416,1.088-4.756,2.342-6.954,3.826c-0.979,0.663-1.959,1.326-2.938,1.992
+	c-0.196,0.136-1.539,1.067-1.141,0.198c0.903-1.978,2.867-3.828,4.41-5.299c1.797-1.71,3.798-3.027,5.971-4.187
+	c0.82-0.439,1.629-0.942,2.556-0.471c0.74,0.379,1.165,1.103,2.061,1.176c1.756,0.137,2.412-1.338,1.843-2.795
+	c-0.657-1.664-1.496-2.928-3.321-3.326c-1.438-0.315-2.774-0.121-4.097,0.474c-6.766,3.041-12.324,8.364-16.258,14.649
+	c-2.196,1.674-5.002,3.258-7.57,4.303c-0.824,0.335-2.392,0.63-2.747-0.519c-0.207-0.671-0.032-1.512,0.067-2.18
+	c1.094-7.359,3.834-14.541,7.049-21.198c1.463-3.033,3.047-6.016,4.345-9.126c0.252-0.604,0.591-1.277,0.658-1.939
+	c0.096-0.907-1.178-1.881-2.015-1.765c-1.475,0.209-2.494,2.274-3.182,3.382c-0.991,1.594-1.898,3.231-2.749,4.904
+	c-1.392,2.735-2.544,5.572-3.616,8.448c-1.369,3.676-2.657,7.389-3.796,11.144c-0.819,2.704-1.694,5.551-1.734,8.396
+	c-0.021,1.707,0.654,2.952,1.709,4.271c0.981,1.228,2.408,1.338,3.867,0.998c3.691-0.855,6.172-3.488,8.756-6.042
+	c0,1.4,0.835,3.872,2.571,3.684c1.836-0.205,3.622-0.967,5.252-1.805c1.868-0.961,3.632-2.132,5.326-3.373
+	c1.142-0.828,2.343-1.8,3.664-2.327c1.85-0.775,2.586,1.55,3.119,2.837c0.699,1.69,1.65,3.104,3.295,3.991
+	c1.586,0.854,2.93,0.992,4.487,0.084c1.174-0.679,2.127-1.824,2.985-2.9c0.005-0.007,0.11-0.141,0.402-0.508
+	c0.694-0.867,0.38-0.471,0.034-0.039c0.231-0.27,1.17-1.212,1.083-1.538C96.088,73.279,94.161,74.791,94.012,74.902z M113.64,58.643
+	C114.005,58.342,113.275,58.909,113.64,58.643L113.64,58.643z M123.742,61.804c0.947-0.242,1.896-0.482,2.84-0.743
+	c0.138-0.036,0.924-0.379,1.037-0.34c-0.344-0.119-1.071,0.15-1.403,0.215c-0.776,0.144-1.552,0.292-2.334,0.402
+	c-1.078,0.155-2.205,0.299-3.294,0.168c-1.622-0.195-2.564-1.076-3.684-2.174c-0.879-0.869-2.104-1.645-3.266-0.689
+	c-0.918,0.672-1.543,1.55-2.22,2.447c-1.251,1.669-2.476,3.357-3.714,5.037c-0.952,1.289-1.907,2.584-2.931,3.821
+	c-0.289,0.354-0.967,1.408-1.541,1.305c-0.699-0.134-1.191-3.357-1.396-3.973c-0.508-1.53-1.047-3.144-2.019-4.449
+	c-1.014-1.366-2.934-1.748-4.196-0.437c-1.057,1.103-0.648,2.551-0.061,3.787c0.928,1.949,1.864,3.845,2.539,5.906
+	c0.507,1.546,0.679,3.035,0.937,4.626c0.278,1.705,1.163,3.373,2.921,3.888c1.629,0.476,3.021-1.095,3.758-2.366
+	c1.677-2.894,3.599-5.702,5.59-8.385c1.905-2.563,3.999-5.69,7.16-6.706C120.187,62.594,121.994,62.254,123.742,61.804z
+	 M146.25,75.57c-1.052,0.567-2.587,0.821-3.546-0.064c-1.393-1.289-1.475-3.415-0.954-5.106c0.401-1.315,1.213-2.189,0.497-3.579
+	c-0.52-1.015-1.512-2.311-2.783-2.196c-1.22,0.104-2.433,0.686-3.534,1.182c-3.117,1.405-5.962,3.149-8.788,5.067
+	c-0.271,0.185-2.682,1.91-2.241,0.947c0.53-1.163,1.562-2.204,2.385-3.157c2.285-2.649,4.927-4.688,7.996-6.325
+	c0.691-0.369,1.398-0.851,2.217-0.608c0.795,0.233,1.23,1.021,2.035,1.246c1.28,0.354,2.655-0.559,2.429-1.943
+	c-0.517-3.165-3.324-4.837-6.345-4.126c0.09-0.026,0.102-0.033-0.156,0.035c-0.244,0.074-0.244,0.079-0.17,0.06
+	c-2.783,0.892-5.549,2.7-7.829,4.471c-2.728,2.117-5.03,4.704-7.138,7.43c-1.569,2.024-3.646,4.303-3.137,7.088
+	c0.188,1.019,0.942,2.877,2.211,2.836c1.438-0.043,2.938-0.62,4.234-1.2c3.163-1.412,5.812-3.572,8.701-5.437
+	c0.822-0.534,2.06-1.466,3.048-0.815c1.151,0.757,1.476,2.376,1.993,3.562c0.993,2.26,4.104,4.839,6.679,3.684
+	c1.176-0.525,2.073-1.396,2.926-2.344c0.381-0.425,2.521-2.43,2.348-3.042C149.391,73.459,146.612,75.375,146.25,75.57z"></path>
+</svg></div>
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div>
+        <div style="min-height: 151px;" class="uk-panel uk-invisible">
+
+            
+            
+            
+                        <a class="uk-position-cover" href="http://yootheme.com/demo/joomla/everest"></a>
+            
+            
+            
+                        <div class="uk-margin"><svg version="1.1" id="logo_everest" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="200px" height="120px" viewBox="0 0 200 120" enable-background="new 0 0 200 120" xml:space="preserve">
+<path id="logo_everest_icon" fill="#FFFFFF" d="M39.5,91.033h13.621V85.62h-7.157v-7.234h6.695v-5.133h-6.695V66.16h7.157v-5.321H39.5V91.033z
+	 M64.019,85.947L60.972,68.26h-6.004l4.94,22.773h8.173l4.94-22.773H67.02L64.019,85.947z M86.182,86.088
+	c0,0.247-0.085,0.465-0.255,0.652c-0.169,0.188-0.377,0.281-0.622,0.281h-2.541c-0.245,0-0.455-0.094-0.623-0.281
+	c-0.17-0.188-0.255-0.405-0.255-0.652v-4.761h10.48v-7.374c0-4.106-1.909-6.16-5.726-6.16h-5.216c-3.817,0-5.725,2.054-5.725,6.16
+	v11.386c0,4.108,1.907,6.161,5.725,6.161h5.218c3.815,0,5.725-2.053,5.725-6.161v-1.771h-6.187L86.182,86.088L86.182,86.088z
+	 M81.887,73.021c0-0.249,0.084-0.468,0.254-0.654c0.168-0.186,0.377-0.279,0.623-0.279h2.541c0.245,0,0.453,0.094,0.622,0.279
+	c0.17,0.187,0.255,0.405,0.255,0.654v4.198h-4.295V73.021L81.887,73.021z M101.416,70.452V68.26h-5.634v22.773h6.188V75.492
+	c0-1.088,0.521-1.632,1.568-1.632h3.047v-6.067h-1.198C103.632,67.793,102.307,68.682,101.416,70.452z M120.3,67.793h-5.217
+	c-3.816,0-5.725,2.054-5.725,6.16v11.386c0,4.108,1.908,6.161,5.725,6.161h5.217c3.816,0,5.725-2.053,5.725-6.161v-1.771h-6.188
+	v2.521c0,0.247-0.084,0.465-0.252,0.652c-0.17,0.188-0.379,0.281-0.623,0.281h-2.541c-0.246,0-0.455-0.094-0.623-0.281
+	c-0.17-0.188-0.254-0.405-0.254-0.652v-4.761h10.48v-7.374C126.024,69.847,124.116,67.793,120.3,67.793z M119.837,77.219h-4.293
+	v-4.198c0-0.249,0.084-0.468,0.254-0.653c0.17-0.187,0.377-0.279,0.623-0.279h2.541c0.244,0,0.453,0.095,0.623,0.279
+	c0.168,0.188,0.252,0.404,0.252,0.653V77.219z M140.062,76.754h-4.756c-0.246,0-0.455-0.094-0.625-0.281
+	c-0.168-0.186-0.254-0.403-0.254-0.651v-2.476c0-0.247,0.084-0.466,0.254-0.654c0.17-0.185,0.379-0.277,0.625-0.277h3.508
+	c0.246,0,0.456,0.094,0.623,0.277c0.17,0.189,0.256,0.407,0.256,0.654v1.447h5.725v-0.84c0-4.106-1.906-6.16-5.725-6.16h-4.85
+	c-3.816,0-5.725,2.054-5.725,6.16v2.1c0,4.108,1.908,6.161,5.725,6.161h4.757c0.246,0,0.453,0.094,0.622,0.278
+	c0.171,0.188,0.255,0.406,0.255,0.654v2.801c0,0.247-0.084,0.467-0.255,0.652c-0.169,0.188-0.376,0.279-0.622,0.279h-3.788
+	c-0.245,0-0.453-0.094-0.621-0.279c-0.17-0.187-0.254-0.405-0.254-0.652v-2.053h-5.727v1.444c0,4.108,1.908,6.16,5.727,6.16h5.125
+	c3.817,0,5.727-2.052,5.727-6.16v-2.425C145.787,78.806,143.879,76.754,140.062,76.754z M159.5,72.788V68.26h-3.879v-4.946h-6.188
+	v22.025c0,4.108,1.907,6.161,5.725,6.161h4.342v-4.059h-1.848c-0.678,0-1.187-0.156-1.523-0.466
+	c-0.338-0.312-0.508-0.901-0.508-1.774V72.788H159.5z M134.052,60.873l1.952-3.288l5.366,6.137h2.524v-2.683l-7.646-8.224
+	l-3.58,2.631l-13.583-15.045l-3.82,3.01l-10.33-11.396l-5.614,5.756L91.35,28.5L72.234,49.609l-4.555-3.5L57.653,58.325v5.396
+	l8.807-6.137l2.766,6.137h6.183l-3.986-3.343l1.708-1.711l-0.081-2.729l-4.393-6.823l8.378,6.494v3.058l3.091,5.054h32.86
+	l-7.462-6.137l-3.764,3.287v-5.837l-2.113-1.728l-5.694-1.314l3.334-3.535l-9.11-7.646l5.612-2.056l-1.626-3.7v-3.041l7.157,8.881
+	l10.33,6.658v7.071l10.006,9.097h9.436l3.01-2.849H134.052z M103.957,39.908v-4.111l6.427,6.247L103.957,39.908z M122.259,57.172
+	l-1.383-11.062l6.344,7.119L122.259,57.172z"></path>
+</svg></div>
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div>
+        <div style="min-height: 151px;" class="uk-panel uk-invisible">
+
+            
+            
+            
+                        <a class="uk-position-cover" href="http://yootheme.com/demo/joomla/aurora"></a>
+            
+            
+            
+                        <div class="uk-margin"><svg version="1.1" id="logo_aurora" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="200px" height="120px" viewBox="0 0 200 120" enable-background="new 0 0 200 120" xml:space="preserve">
+<g id="logo_aurora_icon">
+	<g>
+		<path fill="#FFFFFF" d="M34.502,70.673l7.329-5.276c0.237-0.171,0.52-0.261,0.807-0.261c0.096,0,0.193,0.011,0.289,0.031
+			c0.381,0.081,0.71,0.32,0.905,0.658l2.985,5.151l3.395-5.527c0.21-0.342,0.557-0.575,0.951-0.641
+			c0.396-0.065,0.798,0.044,1.106,0.299l5.886,4.884l-11.4-23.965L34.502,70.673z M46.438,30.5c-16.534,0-29.938,13.432-29.938,30
+			s13.403,30,29.938,30s29.938-13.432,29.938-30S62.972,30.5,46.438,30.5z M62.946,76.151c-0.513,0.399-1.231,0.39-1.731-0.025
+			l-9.483-7.868L47.959,74.4c-0.254,0.414-0.698,0.639-1.194,0.658c-0.485-0.006-0.933-0.268-1.177-0.688l-3.381-5.835
+			l-10.623,7.647c-0.242,0.175-0.524,0.261-0.807,0.261c-0.319,0-0.639-0.11-0.896-0.329c-0.483-0.413-0.624-1.103-0.342-1.673
+			l16.006-32.192c0.235-0.474,0.724-0.803,1.249-0.767c0.527,0.004,1.008,0.311,1.235,0.789l15.314,32.191
+			C63.623,75.05,63.458,75.751,62.946,76.151z M118.074,65.177c-1.067,1.025-2.095,1.824-3.084,2.396
+			c-0.99,0.573-1.875,0.859-2.655,0.859c-0.572,0-1.045-0.08-1.419-0.239c-0.374-0.16-0.668-0.436-0.882-0.827
+			c-0.215-0.391-0.363-0.908-0.445-1.553c-0.083-0.645-0.124-1.451-0.124-2.421V52.584h-2.127v11.585
+			c0,1.002,0.068,1.893,0.206,2.669c0.137,0.776,0.382,1.433,0.733,1.967s0.827,0.939,1.427,1.215
+			c0.599,0.275,1.366,0.413,2.301,0.413c0.517,0,1.03-0.083,1.542-0.248c0.511-0.165,1.022-0.391,1.533-0.678
+			c0.512-0.286,1.018-0.631,1.518-1.032c0.5-0.402,0.992-0.835,1.477-1.298v2.743h2.127V52.584h-2.127V65.177z M100.105,53.468
+			c-0.522-0.479-1.193-0.828-2.012-1.049c-0.819-0.221-1.812-0.331-2.977-0.331c-0.88,0-1.646,0.077-2.301,0.231
+			s-1.227,0.363-1.715,0.628c-0.49,0.265-0.902,0.573-1.237,0.926c-0.336,0.353-0.624,0.727-0.866,1.124l1.699,1.041
+			c0.164-0.275,0.362-0.54,0.594-0.793c0.23-0.254,0.52-0.477,0.865-0.67c0.347-0.192,0.759-0.347,1.237-0.463
+			c0.479-0.115,1.041-0.173,1.69-0.173c0.77,0,1.432,0.074,1.987,0.223c0.555,0.148,1.011,0.389,1.368,0.719
+			c0.357,0.331,0.619,0.752,0.784,1.265c0.165,0.512,0.247,1.132,0.247,1.859v0.876l-3.876,0.38
+			c-1.22,0.121-2.268,0.319-3.142,0.595s-1.592,0.647-2.152,1.115c-0.561,0.469-0.973,1.039-1.236,1.711s-0.396,1.46-0.396,2.363
+			c0,0.826,0.1,1.572,0.297,2.239c0.198,0.667,0.498,1.234,0.899,1.702c0.401,0.469,0.904,0.826,1.509,1.074
+			s1.313,0.372,2.128,0.372c0.582,0,1.129-0.077,1.641-0.231c0.511-0.154,1.006-0.366,1.484-0.637
+			c0.479-0.27,0.948-0.589,1.41-0.958s0.939-0.769,1.435-1.198v2.512h2.127V58.137c0-1.102-0.117-2.035-0.354-2.801
+			C101.007,54.57,100.628,53.947,100.105,53.468z M99.471,65.491c-0.616,0.528-1.171,0.989-1.666,1.38
+			c-0.494,0.391-0.956,0.711-1.385,0.958c-0.429,0.248-0.839,0.433-1.229,0.554c-0.391,0.122-0.789,0.182-1.196,0.182
+			c-1.077,0-1.869-0.283-2.375-0.851s-0.759-1.479-0.759-2.735c0-0.661,0.102-1.226,0.306-1.694
+			c0.203-0.468,0.525-0.858,0.965-1.173c0.439-0.313,1.009-0.562,1.707-0.743c0.698-0.183,1.542-0.322,2.531-0.422l3.101-0.298
+			V65.491z M133.89,52.319c-0.506,0-0.987,0.077-1.443,0.231s-0.907,0.372-1.353,0.652c-0.445,0.281-0.891,0.623-1.335,1.025
+			c-0.445,0.402-0.916,0.851-1.41,1.347v-2.991h-2.128V69.92h2.128V57.607c0.527-0.528,1.009-0.988,1.442-1.379
+			c0.435-0.392,0.86-0.72,1.278-0.983c0.418-0.265,0.844-0.463,1.278-0.596c0.435-0.132,0.915-0.198,1.443-0.198
+			c0.45,0,0.868,0.077,1.253,0.231l0.462-2.016c-0.23-0.122-0.479-0.21-0.742-0.266C134.5,52.348,134.209,52.319,133.89,52.319z
+			 M182.153,55.336c-0.236-0.766-0.615-1.389-1.138-1.868s-1.193-0.828-2.012-1.049c-0.819-0.221-1.812-0.331-2.977-0.331
+			c-0.88,0-1.647,0.077-2.301,0.231c-0.654,0.154-1.227,0.363-1.716,0.628s-0.901,0.573-1.236,0.926
+			c-0.336,0.353-0.624,0.727-0.866,1.124l1.699,1.041c0.164-0.275,0.362-0.54,0.594-0.793c0.23-0.254,0.52-0.477,0.865-0.67
+			c0.347-0.192,0.759-0.347,1.237-0.463c0.478-0.115,1.041-0.173,1.69-0.173c0.77,0,1.432,0.074,1.987,0.223
+			c0.555,0.148,1.011,0.389,1.368,0.719c0.357,0.331,0.619,0.752,0.783,1.265c0.165,0.512,0.248,1.132,0.248,1.859v0.876
+			l-3.876,0.38c-1.22,0.121-2.268,0.319-3.142,0.595s-1.592,0.647-2.152,1.115c-0.561,0.469-0.973,1.039-1.236,1.711
+			c-0.265,0.672-0.396,1.46-0.396,2.363c0,0.826,0.1,1.572,0.297,2.239c0.198,0.667,0.498,1.234,0.899,1.702
+			c0.401,0.469,0.904,0.826,1.509,1.074s1.313,0.372,2.127,0.372c0.583,0,1.13-0.077,1.642-0.231
+			c0.511-0.154,1.006-0.366,1.484-0.637c0.478-0.27,0.948-0.589,1.409-0.958c0.463-0.369,0.94-0.769,1.436-1.198v2.512h2.127V58.137
+			C182.508,57.035,182.39,56.102,182.153,55.336z M180.381,65.491c-0.616,0.528-1.171,0.989-1.666,1.38
+			c-0.494,0.391-0.956,0.711-1.385,0.958c-0.429,0.248-0.839,0.433-1.229,0.554c-0.391,0.122-0.789,0.182-1.196,0.182
+			c-1.077,0-1.869-0.283-2.375-0.851s-0.759-1.479-0.759-2.735c0-0.661,0.102-1.226,0.306-1.694
+			c0.203-0.468,0.524-0.858,0.965-1.173c0.439-0.313,1.009-0.562,1.707-0.743c0.698-0.183,1.542-0.322,2.531-0.422l3.101-0.298
+			V65.491z M165.273,52.319c-0.505,0-0.986,0.077-1.442,0.231s-0.907,0.372-1.353,0.652c-0.445,0.281-0.891,0.623-1.336,1.025
+			s-0.915,0.851-1.41,1.347v-2.991h-2.127V69.92h2.127V57.607c0.528-0.528,1.009-0.988,1.443-1.379
+			c0.435-0.392,0.86-0.72,1.278-0.983c0.417-0.265,0.844-0.463,1.278-0.596c0.434-0.132,0.915-0.198,1.442-0.198
+			c0.451,0,0.868,0.077,1.254,0.231l0.462-2.016c-0.231-0.122-0.479-0.21-0.742-0.266C165.884,52.348,165.593,52.319,165.273,52.319
+			z M150.77,54.6c-0.589-0.804-1.342-1.423-2.26-1.858s-2.021-0.653-3.307-0.653c-1.319,0-2.44,0.226-3.364,0.678
+			s-1.677,1.085-2.26,1.9s-1.006,1.788-1.27,2.917c-0.264,1.13-0.396,2.366-0.396,3.71c0,1.378,0.134,2.626,0.403,3.743
+			c0.27,1.118,0.695,2.08,1.278,2.884c0.583,0.805,1.336,1.425,2.26,1.859c0.924,0.436,2.039,0.653,3.348,0.653
+			s2.425-0.218,3.348-0.653c0.924-0.435,1.677-1.055,2.26-1.859c0.583-0.804,1.006-1.766,1.27-2.884
+			c0.264-1.117,0.396-2.365,0.396-3.743c0-1.398-0.138-2.663-0.413-3.792C151.789,56.371,151.357,55.404,150.77,54.6z
+			 M149.978,64.384c-0.182,0.903-0.473,1.669-0.874,2.297s-0.924,1.104-1.566,1.43c-0.644,0.325-1.422,0.487-2.334,0.487
+			c-0.935,0-1.727-0.165-2.375-0.495c-0.648-0.331-1.174-0.811-1.575-1.438s-0.692-1.394-0.874-2.297
+			c-0.181-0.903-0.271-1.928-0.271-3.074c0-1.146,0.088-2.173,0.264-3.082s0.464-1.68,0.865-2.313s0.927-1.118,1.575-1.455
+			c0.648-0.335,1.446-0.503,2.392-0.503c0.935,0,1.724,0.162,2.366,0.487c0.644,0.325,1.163,0.802,1.56,1.43
+			c0.396,0.628,0.681,1.399,0.857,2.313c0.176,0.915,0.264,1.956,0.264,3.123C150.25,62.45,150.159,63.48,149.978,64.384z"></path>
+	</g>
+</g>
+</svg></div>
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+</div>
+<p></p></div></div>
+</section>
+            </div>
+        </div>
+    </div>
+    
+    <div id="tm-footer" class="tm-block-footer">
+        <div class="tm-block-texture tm-block-noise tm-block-large-padding">
+            <div class="uk-container uk-container-center ">
+
+                        <section class="tm-footer-top uk-grid" data-uk-grid-match="{target:'&gt; div &gt; .uk-panel'}" data-uk-grid-margin="">
+<div class="uk-width-1-1 uk-width-large-1-2"><div style="min-height: 83px;" class="uk-panel uk-text-left jmoddiv" data-jmodediturl="http://crowdfunder.ru/index.php?option=com_config&amp;controller=config.display.modules&amp;id=135&amp;return=aHR0cDovL2Nyb3dkZnVuZGVyLnJ1Lw%3D%3D" data-jmodtip="&lt;strong&gt;Edit module&lt;/strong&gt;&lt;br /&gt;Footer Top Company Info&lt;br /&gt;Position: footer-top">
+	<h3 class="uk-margin-remove">КраудФандер</h3>
+<p>Серебряническая наб., 29, БЦ Сильвер Сити,&nbsp;109028&nbsp;Москва,&nbsp;Россия</p></div></div>
+
+<div class="uk-width-1-1 uk-width-large-1-2"><div style="min-height: 83px;" class="uk-panel uk-text-right jmoddiv" data-jmodediturl="http://crowdfunder.ru/index.php?option=com_config&amp;controller=config.display.modules&amp;id=136&amp;return=aHR0cDovL2Nyb3dkZnVuZGVyLnJ1Lw%3D%3D" data-jmodtip="&lt;strong&gt;Edit module&lt;/strong&gt;&lt;br /&gt;Footer Top Social Icons&lt;br /&gt;Position: footer-top">
+	<a class="uk-icon-button uk-icon-twitter" href="#"></a>
+<a class="uk-icon-button uk-icon-facebook" href="#"></a>
+<a class="uk-icon-button uk-icon-pinterest" href="#"></a>
+<a class="uk-icon-button uk-icon-linkedin" href="#"></a></div></div>
+</section>
+            <hr class="tm-divider">
+            
+                        <section class="tm-footer-bottom uk-grid" data-uk-grid-match="{target:'&gt; div &gt; .uk-panel'}" data-uk-grid-margin="">
+<div class="uk-width-1-1 uk-width-large-1-2"><div style="min-height: 98px;" class="uk-panel jmoddiv" data-jmodediturl="http://crowdfunder.ru/index.php?option=com_config&amp;controller=config.display.modules&amp;id=31&amp;return=aHR0cDovL2Nyb3dkZnVuZGVyLnJ1Lw%3D%3D" data-jmodtip="&lt;strong&gt;Edit module&lt;/strong&gt;&lt;br /&gt;Footer Bottom Menu&lt;br /&gt;Position: footer-bottom"><ul class="uk-subnav tm-subnav-bullet"><li><a href="http://crowdfunder.ru/index.php">Home</a></li><li><a href="http://crowdfunder.ru/index.php/component/content/?id=6&amp;Itemid=102">Theme</a></li><li><a href="http://crowdfunder.ru/index.php/component/content/?id=1&amp;Itemid=103">Layouts</a></li><li><a href="http://crowdfunder.ru/index.php/component/content/?id=4&amp;Itemid=104">UIkit</a></li><li><a href="http://crowdfunder.ru/index.php/component/content/?id=13&amp;Itemid=132">Widgetkit</a></li><li><a href="http://crowdfunder.ru/index.php/company/joomla">Blog</a></li><li><a href="http://crowdfunder.ru/index.php/company/services">Services</a></li><li><a href="http://crowdfunder.ru/index.php/company/about">About</a></li><li><a href="http://crowdfunder.ru/index.php/component/content/?id=6&amp;Itemid=102">Features</a></li></ul></div></div>
+
+<div class="uk-width-1-1 uk-width-large-1-2"><div style="min-height: 98px;" class="uk-panel uk-text-right jmoddiv" data-jmodediturl="http://crowdfunder.ru/index.php?option=com_config&amp;controller=config.display.modules&amp;id=137&amp;return=aHR0cDovL2Nyb3dkZnVuZGVyLnJ1Lw%3D%3D" data-jmodtip="&lt;strong&gt;Edit module&lt;/strong&gt;&lt;br /&gt;Footer Bottom Form&lt;br /&gt;Position: footer-bottom">
+	<form class="uk-form" data-uk-margin="">
+<input placeholder="Your email" type="text">
+<button class="uk-button uk-button-primary uk-margin-small-left">Try now!</button>
+</form></div></div>
+</section>
+            
+                        <footer class="tm-footer tm-link-muted">
+
+                                <a id="tm-anchor-bottom" class="tm-totop-scroller" data-uk-smooth-scroll="" href="#"></a>
+                
+                <div class="uk-panel jmoddiv" data-jmodediturl="http://crowdfunder.ru/index.php?option=com_config&amp;controller=config.display.modules&amp;id=32&amp;return=aHR0cDovL2Nyb3dkZnVuZGVyLnJ1Lw%3D%3D" data-jmodtip="&lt;strong&gt;Edit module&lt;/strong&gt;&lt;br /&gt;Footer&lt;br /&gt;Position: footer">
+	<p>Built with Warp Framework and Widgetkit 2<br> Copyright © 2015 CrowdFunder.ru</p></div>
+            </footer>
+            
+            </div>
+        </div>
+    </div>
+
+    
+        <div id="offcanvas" class="uk-offcanvas">
+        <div class="uk-offcanvas-bar"><div class="uk-panel jmoddiv" data-jmodediturl="http://crowdfunder.ru/index.php?option=com_config&amp;controller=config.display.modules&amp;id=123&amp;return=aHR0cDovL2Nyb3dkZnVuZGVyLnJ1Lw%3D%3D" data-jmodtip="&lt;strong&gt;Edit module&lt;/strong&gt;&lt;br /&gt;Offcanvas Search&lt;br /&gt;Position: offcanvas">
+<form id="search-123" class="uk-search" action="/index.php" method="post" role="search">
+	<input class="uk-search-field" name="searchword" placeholder="search..." type="search">
+	<input name="task" value="search" type="hidden">
+	<input name="option" value="com_search" type="hidden">
+	<input name="Itemid" value="107" type="hidden">
+</form></div>
+<ul class="uk-nav uk-nav-offcanvas jmoddiv" data-jmodediturl="http://crowdfunder.ru/index.php?option=com_config&amp;controller=config.display.modules&amp;id=94&amp;return=aHR0cDovL2Nyb3dkZnVuZGVyLnJ1Lw%3D%3D" data-jmodtip="&lt;strong&gt;Edit module&lt;/strong&gt;&lt;br /&gt;Offcanvas Menu&lt;br /&gt;Position: offcanvas"><li class="uk-active"><a href="http://crowdfunder.ru/index.php">Главная</a></li><li><a href="http://crowdfunder.ru/index.php/featured-projects">Проекты</a></li><li><a href="http://crowdfunder.ru/index.php/register">Регистрация</a></li><li class="uk-parent"><a href="#">
+	Компания</a>
+<ul class="uk-nav-sub"><li><a href="http://crowdfunder.ru/index.php/company/services">Услуги</a></li><li><a href="http://crowdfunder.ru/index.php/company/about">О нас</a></li><li><a href="http://crowdfunder.ru/index.php/company/blog-featured">Истории успеха</a></li><li><a href="http://crowdfunder.ru/index.php/company/joomla">Блог</a></li></ul></li></ul></div>
+    </div>
+    
+            <div class="tm-smoothscroll-bar uk-flex uk-flex-middle uk-hidden-small"><ul class="uk-dotnav uk-dotnav-contrast uk-flex-column" data-uk-scrollspy-nav="{smoothscroll: {offset: 90}, closest:'li'}">
+	<li class=""><a href="#tm-header"></a></li>
+<li class="uk-active"><a href="#tm-top-a"></a></li>
+<li><a href="#tm-main"></a></li>
+<li><a href="#tm-bottom-a"></a></li>
+<li><a href="#tm-bottom-b"></a></li>
+<li><a href="#tm-bottom-c"></a></li>
+<li><a href="#tm-bottom-d"></a></li>
+<li><a href="#tm-bottom-e"></a></li></ul></div>
+    <div style="position: absolute; top: 0px; left: -4123px;"><a href="http://joomix.org/" title="http://joomix.org/" target="_blank">http://joomix.org/</a><br>
+<a href="http://cms-joomla-help.com/" title="http://cms-joomla-help.com/" target="_blank">http://cms-joomla-help.com/</a></div>
+
+
+<a style="position: absolute; margin-left: 0px; margin-top: 0px; top: 1025px; left: 1562.2px; width: 18px; height: 32px;" data-original-title="&lt;strong&gt;Edit module&lt;/strong&gt;&lt;br /&gt;Home Grid Stack Top-A&lt;br /&gt;Position: top-a" title="" class="btn jmodedit" href="http://crowdfunder.ru/index.php?option=com_config&amp;controller=config.display.modules&amp;id=125&amp;return=aHR0cDovL2Nyb3dkZnVuZGVyLnJ1Lw%3D%3D"><span class="icon-edit"></span></a></body></html>
