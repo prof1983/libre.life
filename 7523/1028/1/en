@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Open Innovation Forum - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Open Innovation Forum</h1>
+
+<figure>
+<a href="00b.jpg"><img src="00.jpg"/></a>
+</figure>
+
+<p>
+Forum and Technology Show "Open Innovation" in 2015 - the largest in Russia event, reveals the theme of the future of technology in modern life, the economy and society. Discussion Forum built around the theme "Man at the crossroads of trends of the technological revolution" and focused on five key areas of human life, a dramatic change as technology: productivity, habitat, education, health and entertainment.
+</p>
+
+<br/>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/per/en">Future</a></p>
+
+</main>
+<footer><div>7523-10-28 - 7523-11-02</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
