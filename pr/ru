@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Презентации - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Презентации</h1>
+
+
+
+
+<h2>Bitcoinconf.moscow-2015</h2>
+<!-- 75230402 -->
+
+<p>
+Про Децентрализованные Автономные Компании и Организации (DAO, DAC), про юрисдикцию Интернета, Bitnation, виртуальное государство, Libre.Life, про методы познания и уровни осознания, про Всемирный Союз и про наше будущее.
+</p>
+
+<figure>
+<iframe src="//www.slideshare.net/slideshow/embed_code/46605967" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</figure>
+
+<p>
+<a href="bitcoinconf/ru">Децентрализованные автономные компании</a>
+<br/>
+<a href="bitcoinconf/bitcoinconf.pdf">PDF</a>
+<br/>
+<a href="bitcoinconf/bitcoinconf.odp">ODP</a>
+</p>
+
+<p>
+02.04.2015
+</p>
+
+
+
+
+<h2>CoinFest-2015-Moscow</h2>
+<!-- 75230221 -->
+
+<p>
+<b>Либертарианство, сложившаяся финансовая система, система нотариусов и юристов,
+новая экономическая система на основе ресурсно-репутационной модели, Государство 2.0.</b>
+</p>
+
+<figure>
+<iframe src="//www.slideshare.net/slideshow/embed_code/44946579" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<div style="margin-bottom:5px"><a href="//www.slideshare.net/prof1983/coinfest2015moscow" title="CoinFest-2015-Moscow" target="_blank">CoinFest-2015-Moscow</a></div>
+</figure>
+
+<p>
+<a href="coinfest/pr">Презентация</a>
+<br/>
+<a href="http://storage.libre.life/CoinFest-2015-Moscow-Presentation.odp">Скачать</a>
+<br/>
+<a href="http://www.slideshare.net/prof1983/coinfest2015moscow" target="_blank">slideshare.net/prof1983/coinfest2015moscow</a>
+</p>
+
+<p>
+21.02.2015
+</p>
+
+
+
+
+<h2>LibreMoney</h2>
+<!-- 75220623 -->
+
+<p>
+Сделал презентацию проекта LibreMoney
+</p>
+
+<figure>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2hyV5hs732dhAl" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<div style="margin-bottom:5px"> <a href="//www.slideshare.net/prof1983/libremoneypresentation1" title="LibreMoney-Presentation1" target="_blank">LibreMoney-Presentation1</a></div>
+</figure>
+
+<p>
+<a href="http://storage.libre.life/LibreMoney-Presentation1.odp">Скачать презентацию проекта LibreMoney</a> (3.8 MB)
+</p>
+
+<p>
+<a href="http://www.slideshare.net/prof1983/libremoneypresentation1" target="_blank">slideshare.net/prof1983/libremoneypresentation1</a>
+</p>
+
+<p>
+23.06.2014
+</p>
+
+
+
+
+<p class="h3">
+<a href="coinfest/ru">CoinFest-2015-Moscow</a><!-- 75230221 -->
+<br/>
+<a href="nxt">NXT (NextCoin)</a>
+</p>
+
+
+
+
+
+<h2>Публикации</h2>
+
+<div class="article">
+<a href="/7522/1225/1/ru"><img src="/7522/1225/1/logo-320x200.jpg"></a>
+<p><a href="/7522/1225/1/ru">Bitcoin Conference SPB 2014 Ярослав Логинов</a><p>
+<p>
+Выступление на конференции в 2014 году про юрисдикцию Интернета.
+<a href="/7522/1225/1/ru">Подробнее...</a>
+</p>
+</div>
+
+
+
+
+<nav class="main-footer-nav"><a href="/">Главная</a></nav>
+
+</main>
+<footer><div>7523-04-01 - 7524-12-25</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

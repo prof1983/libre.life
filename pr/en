@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Presentations - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Presentations</h1>
+
+<p>
+<a href="coinfest/en">CoinFest-2015-Moscow</a><!-- 75230221 -->
+<br/>
+<a href="bitcoinfest/en">Decentralized autonomous company</a><!-- 75230402 -->
+<br/>
+<a href="nxt">NXT (NextCoin)</a>
+</p>
+
+
+
+<h2>Публикации</h2>
+
+<div class="article">
+<a href="/7522/1225/1/en"><img src="/7522/1225/1/logo-320x200.jpg"></a>
+<p><a href="/7522/1225/1/en">Bitcoin Conference SPB 2014 Yaroslav Loginov</a><p>
+<p>
+Speech at the conference in 2014 about the Internet jurisdiction.
+<a href="/7522/1225/1/en">More...</a>
+</p>
+</div>
+
+
+
+
+<p class="h2">
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+</main>
+<footer><div>7523-04-01 - 7524-12-25</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
