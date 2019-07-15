@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css">
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Продажа токенов - Arctida</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Продажа токенов ARCTIDA</h1>
+
+<p>
+Пошаговая инструкция процесса продажи токенов ARCTIDA через внутреннюю биржу (DEX) <b>Waves</b>. Все картинки кликабельные.
+</p>
+
+<p>
+1. Заходим в список активов ("портфель"), находим ARCTIDA, нажимаем кнопку информации о токене. Скопируйте идентификатор токена ARCTIDA: <b>44E2d7yaEKoKQSbsr4HF998xtg5GuG2zRG52Aj6Pm5DJ</b>
+</p>
+
+<figure>
+<a href="img/sell/01.png"><img src="img/sell/01-1000.jpg"></a>
+<figure>
+
+<p>
+2. Вместо Bitcoin вставляем ранее скопированный идентификатор токена ARCTIDA. Если первый раз вставка не сработала, то повторить ещё раз. Нажимаем на предложенный выбор с идентификатором токена.
+</p>
+
+<figure>
+<a href="img/sell/02.png"><img src="img/sell/02-1000.jpg"></a>
+</figure>
+
+<p>
+3. Теперь мы видим торговую пару ARCTIDA-Waves.
+</p>
+
+<figure>
+<a href="img/sell/03.png"><img src="img/sell/03-1000.jpg"></a>
+</figure>
+
+<p>
+4. Пролистываем ниже. Смотрим предложения продажи в "стакане" слева (ARCTIDA sell orders).
+</p>
+
+<figure>
+<a href="img/sell/04.png"><img src="img/sell/04-1000.jpg"></a>
+</figure>
+
+<p>
+5. В поле "Buy ARCTIDA" вводим цену и желаемое колличество. Убедимся что для покупки есть необходимое кол-во токенов ARCTIDA в кошельке. Нажимаем кнопку "Sell".
+</p>
+
+<figure>
+<a href="img/sell/05.png"><img src="img/sell/05-1000.jpg"></a>
+</figure>
+
+<p>
+6. Ждём исполнения операции. Обычно это занимает около 1 минуты. Иногда может длится 10 минут и более.
+</p>
+
+<figure>
+<a href="img/sell/06.png"><img src="img/sell/06-1000.jpg"></a>
+</figure>
+
+<p>
+7. В списке "Trade history" отобразилась опарация покупки. Токены ARCTIDA почтупили в кошелёк, а Waves были списаны. Транзакция успешно исполнена.
+</p>
+
+<figure>
+<a href="img/sell/07.png"><img src="img/sell/07-1000.jpg"></a>
+</figure>
+
+
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/ru">Главная</a></p>
+
+</main>
+<footer><div>7527-06-21 - 7527-06-21</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

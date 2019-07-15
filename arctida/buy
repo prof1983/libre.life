@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css">
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Покупка токенов - Arctida</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Покупка токенов ARCTIDA</h1>
+
+<p>
+Пошаговая инструкция процесса приобретения токенов ARCTIDA через внутреннюю биржу (DEX) <b>Waves</b>. Все картинки кликабельные.
+</p>
+
+<p>
+1. Входим в свой кошелёк на <a href="https://waveswallet.io" target="_blank"><b>waveswallet.io</b></a>
+</p>
+
+<figure>
+<a href="img/buy/01.png"><img src="img/buy/01-1000.jpg"></a>
+<figure>
+
+<p>
+2. Вводим локальный пароль для разблокировки кошелька.
+</p>
+
+<figure>
+<a href="img/buy/02.png"><img src="img/buy/02-1000.jpg"></a>
+</figure>
+
+<p>
+3. Убедитесь что в кошельке есть хотя бы 1 Waves.
+</p>
+
+<figure>
+<a href="img/buy/03.png"><img src="img/buy/03-1000.jpg"></a>
+</figure>
+
+<p>
+4. Изначально в списке активов (в "портфеле") нет токена ARCTIDA.
+</p>
+
+<figure>
+<a href="img/buy/04.png"><img src="img/buy/04-1000.jpg"></a>
+</figure>
+
+<p>
+5. Скопируйте идентификатор токена ARCTIDA: <b>44E2d7yaEKoKQSbsr4HF998xtg5GuG2zRG52Aj6Pm5DJ</b>
+</p>
+
+<figure>
+<img src="img/buy/05.png">
+</figure>
+
+<p>
+6. Заходим на третью вкладку (Exchange). По умолчанию открыта торговая пара Waves-Bitcoin
+</p>
+
+<figure>
+<a href="img/buy/06.png"><img src="img/buy/06-1000.jpg"></a>
+</figure>
+
+<p>
+7. Вместо Bitcoin вставляем ранее скопированный идентификатор токена ARCTIDA.
+</p>
+
+<figure>
+<a href="img/buy/07.png"><img src="img/buy/07-1000.jpg"></a>
+</figure>
+
+<p>
+8. Если первый раз вставка не сработала, то повторить ещё раз. Нажимаем на предложенный выбор с идентификатором токена.
+</p>
+
+<figure>
+<a href="img/buy/08.png"><img src="img/buy/08-1000.jpg"></a>
+</figure>
+
+<p>
+9. Теперь мы видим торговую пару ARCTIDA-Waves.
+</p>
+
+<figure>
+<a href="img/buy/09.png"><img src="img/buy/09-1000.jpg"></a>
+</figure>
+
+<p>
+10. Пролистываем ниже. Смотрим предложения продажи в "стакане" слева (ARCTIDA sell orders). В поле "Buy ARCTIDA" вводим цену и желаемое колличество.
+</p>
+
+<figure>
+<a href="img/buy/10.png"><img src="img/buy/10-1000.jpg"></a>
+</figure>
+
+<p>
+11. Убедимся что для покупки есть необходимое кол-во Waves в кошельке. Нажимаем кнопку "Buy".
+</p>
+
+<figure>
+<a href="img/buy/11.png"><img src="img/buy/11-1000.jpg"></a>
+</figure>
+
+<p>
+12. Ждём исполнения операции. Обычно это занимает около 1 минуты. Иногда может длится 10 минут и более.
+</p>
+
+<figure>
+<a href="img/buy/12.png"><img src="img/buy/12-1000.jpg"></a>
+</figure>
+
+<p>
+13. В списке "Trade history" отобразилась опарация покупки. Токены ARCTIDA почтупили в кошелёк, а Waves были списаны.
+</p>
+
+<figure>
+<a href="img/buy/13.png"><img src="img/buy/13-1000.jpg"></a>
+</figure>
+
+<p>
+14. Транзакция успешно исполнена.
+</p>
+
+<figure>
+<a href="img/buy/14.png"><img src="img/buy/14-1000.jpg"></a>
+</figure>
+
+
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/ru">Главная</a></p>
+
+</main>
+<footer><div>7527-06-21 - 7527-06-21</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
