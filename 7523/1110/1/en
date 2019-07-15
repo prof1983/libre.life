@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Hostels of a new era - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Hostels of a new era</h1>
+
+<figure>
+<a href="00b.jpg"><img src="00.jpg"/></a>
+</figure>
+
+<p>
+Because of the huge housing prices in US cities, employees of IT sector have to look for less expensive options. New trend - coliving. At first glance, they are no different from the hostels, but it is not. Browser vc.ru says, what are they and how kolivingi millenialov relieve loneliness.
+</p>
+
+<br/>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/co/live/en">Coliving</a></p>
+
+</main>
+<footer><div>7524-02-22 - 7524-02-22</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
