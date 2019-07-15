@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>About SIMEX - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>About SIMEX</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+Not to be repeated - I have decided to make this post. Comments about the site of crowd-investing SIMEX, about MMM, about the economy and about the money.
+</p>
+
+<br/>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/money/en">Money</a></p>
+
+</main>
+<footer><div>7523-10-07 - 7523-10-11</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
