@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Caution - is the currency of the future - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Caution - is the currency of the future</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+Attention! Money! Pay attention! Just a moment of your attention!
+</p>
+
+<br/>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/money/en">Money</a></p>
+
+</main>
+<footer><div>7523-11-01 - 7523-11-01</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
