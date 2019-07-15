@@ -36,6 +36,14 @@ libre.money/res
 </p>
 
 <figure>
+<a href="img/1/0-User.psd"><img src="img/1/0-User.png"></a>
+<br/>
+<a href="img/1/1-Resource.psd"><img src="img/1/1-Resource.png"></a>
+<br/>
+<a href="img/1/2-Projects.psd"><img src="img/1/2-Projects.png"></a>
+</figure>
+
+<figure>
 <a href="img/danil/01-Moya_stranitsa.png"><img src="img/danil/01.jpg"></a>
 <br/>
 <a href="img/danil/02-Soobschenia.png"><img src="img/danil/02.jpg"></a>
@@ -90,6 +98,6 @@ https://docs.google.com/spreadsheets/d/1hch2Xf6Yd35osSvGuwerTYrwX9YFEk4tbS_0o5s0
 <nav class="main-footer-nav"><a href="/projects/ru">Проекты</a></nav>
 
 </main>
-<footer><div>7523-09-24 - 7524-07-05</div></footer><script src="/js/footer.js"></script>
+<footer><div>7523-09-24 - 7526-10-06</div></footer><script src="/js/footer.js"></script>
 </body>
 </html>
