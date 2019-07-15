@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Commune - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Commune</h1>
+
+<figure>
+<a href="img/00.jpg"><img src="img/logo/300x300.jpg"/></a>
+</figure>
+
+<p>
+A <b>commune</b> (the French word appearing in the 12th century from Medieval Latin communia, meaning a large gathering of people sharing a common life; from Latin communis, things held in common) is an intentional community of people living together, sharing common interests, property, possessions, resources, and, in some communes, work and income. <a href="https://en.wikipedia.org/wiki/Commune">Wikipedia</a>
+</p>
+
+<p class="h2">
+<a href="ru">RU</a>
+</p>
+
+
+
+
+<h2>Publishing</h2>
+
+<div class="article">
+<a href="/7520/0615/1/en"><img src="/7520/0615/1/logo-320x200.jpg"/></a>
+<p><a href="/7520/0615/1/en">Rachel Botsman: The currency of the new economy is trust</a></p>
+<p>There's been an explosion of collaborative consumption — web-powered sharing of cars, apartments, skills. Rachel Botsman explores the currency that makes systems like Airbnb and Taskrabbit work: trust, influence, and what she calls "reputation capital." <a href="/7520/0615/1/en">Read more...</a></p>
+</div>
+
+
+<p class="h2"><a href="/economy/en">Economy</a></p>
+
+</main>
+<footer><div>7523-04-04 - 7523-04-15</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
