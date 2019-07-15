@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Volition - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Volition</h1>
+
+<p class="h">
+Striving for a meaningful result
+</p>
+
+<figire>
+<a href="img/00b.jpg"><img src="img/00.jpg"></a>
+</figure>
+
+
+<br/><br/>
+
+
+
+
+<p>
+<a href="https://en.wikipedia.org/wiki/Volition_(psychology)" target="_blank">en.wikipedia.org/wiki/Volition_(psychology)</a>
+<br/>
+<a href="https://en.wikipedia.org/wiki/Will_(philosophy)" target="_blank">en.wikipedia.org/wiki/Will_(philosophy)</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/en">Main</a></nav>
+
+</main>
+<footer><div>7524-05-25 - 7524-06-22</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
