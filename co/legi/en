@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Collegium - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Collegium</h1>
+
+<figure>
+<a href="img/00b.jpg"><img src="img/00.jpg"/></a>
+</figure>
+
+<p>
+</p>
+
+
+<br/>
+<br/>
+
+<p class="h2"><a href="/co/en">Jointly</a></p>
+
+</main>
+<footer><div>7524-05-22 - 7524-05-22</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
