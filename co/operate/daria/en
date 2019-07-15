@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>DARIA - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>DARIA</h1>
+
+<figure>
+<img src="img/00.jpg"/>
+</figure>
+
+
+
+
+
+
+<p class="h2"><a href="/co/operate/en">Cooperate</a></p>
+
+</main>
+<footer><div>7523-04-22 - 7523-04-22</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Конференция - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Конференция</h1>
+
+<p>
+<b>20150226-Крым-Конференция-Рябов</b>
+<br/>
+Видео доступно по адресу
+<a href="http://youtu.be/Iak5aNsdqnY">http://youtu.be/Iak5aNsdqnY</a>
+</p>
+
+<p>
+<b>20150227-Крым-Конференция-ВикторАстахов</b>
+<br/>
+Видео доступно по адресу
+<a href="http://youtu.be/gj0FurQ6S8k">http://youtu.be/gj0FurQ6S8k</a>
+</p>
+
+</main>
+<footer><div>7523-03-06 - 7523-04-06</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Кооперация - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Кооперация</h1>
+
+<p class="h">Потребительские (паевые) общества</p>
+<p class="h">Создание ресурсно-репутационной экономики</p>
+
+<figure>
+<img src="img/edinenie-400x400.jpg"/>
+</figure>
+
+
+<div class="blocks">
+
+<a href="organization">
+<div><h3>Организация</h3></div>
+</a>
+
+<a href="concept">
+<div><h3>Концепт</h3></div>
+</a>
+
+<a href="people">
+<div><h3>Люди</h3></div>
+</a>
+
+<a href="/doc/law/co/ru">
+<div><h3>Закон о потребительской кооперации</h3></div>
+</a>
+
+<a href="/doc/co/operate/ru">
+<div><h3>Кооперация</h3></div>
+</a>
+
+</div>
+
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/tOYJAUnkU2w" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+
+<div class="blocks">
+<a href="http://kalenika.com" target="_blank"><div><h2>kalenika.com</h2></div></a>
+<a href="daria/ru"><div><h2>ДАРиЯ</h2></div></a>
+<a href="http://evira.org" target="_blank"><div><h2>evira.org</h2></div></a>
+<a href="http://ramera.ru" target="_blank"><div><h2>ramera.ru</h2></div></a>
+<a href="http://civilcom.org" target="_blank"><div><h2>civilcom.org</h2></div></a>
+<a href="http://vtu.su" target="_blank"><div><h2>vtu.su</h2></div></a>
+<a href="http://vzaimozachet.su" target="_blank"><div><h2>vzaimozachet.su</h2></div></a>
+<a href="http://xn--g1anhbdl8dl.xn--p1ai/" target="_blank"><div><h2>союзрусь.рф</h2></div></a>
+<a href="po-vo.ru"><div><h2>po-vo.ru</h2></div></a>
+</div>
+
+
+<h2>Шаймуратово</h2>
+
+<p>
+<a href="http://megamozg.ru/post/1736/" target="_blank">Практическое применение системы премирования Водянова на селе</a>
+<br/>
+<a href="http://megamozg.ru/post/10142/" target="_blank">Система мотивации c элементами рыночных отношений</a>
+<br/>
+<a href="https://youtu.be/UcVm0OJSxVM" target="_blank">youtu.be/UcVm0OJSxVM</a> - Организационная система Водянова Компас
+</p>
+
+<h3>Механика системы</h3>
+
+<p>
+Критерии применимости системы. Прежде чем излагать механику системы необходимо описать критерии ее применимости. Все критерии объединяются по условию «И». Итак система применима для:
+</p>
+
+<ol>
+<li>Коллективов (компаний) с числом сотрудников от 30 человек</li>
+<li>Коллективов (компаний), которые ведут преимущественно проектную, а не операционную деятельность</li>
+<li>Коллективов (компаний) в которых достаточно высокая связность графа производственных отношений. Иначе говоря, если каждый сотрудник взаимодействует не одним-двумя другими сотрудниками, а с достаточно большим количеством (например от 5 и более).</li>
+</ol>
+
+<h3>Механика системы</h3>
+
+<ol>
+<li>Весь рабочий процесс разбивается на короткие итерации длиной в неделю</li>
+<li>На весь рабочий коллектив (проект/компанию) на каждую итерацию резервируется определенная сумма рублей денег, которая называется общим премиальным фондом</li>
+<li>Размер премиального фонда должен быть сопоставим с «окладным» фондом</li>
+<li>Для каждого сотрудника из общего фонда формируется его персональный премиальный фонд, которым он праве распоряжаться по своему усмотрению (о правилах распределения общего фонда в следующей главе)</li>
+<li>Из своего персонального премиального фонда каждый сотрудник вправе премировать любого сотрудника (в том числе руководство), кроме себя</li>
+<li>Персональный премиальный фонд выдается сроком на итерацию и сотрудник обязан распределить его в течение итерации по своему усмотрению</li>
+<li>Каждое начисление премии желательно сопровождать комментарием за какие заслуги оно сделано</li>
+<li>Если сотрудник не распределяет свой фонд, то он штрафуется по установленному тарифу, а его фонд на эту итерацию сгорает</li>
+<li>Кроме премиальных начислений каждый сотрудник также имеет право и оштрафовать. Однако: 1) При штрафе сотрудник получает такой же штраф на вдвое меньшую сумму, 2) Штрафные деньги списываются из его премиального фонда, так же как и премиальные</li>
+<li>В конце каждой итерации, когда все премиальные фонды будут распределены, подсчитывается кто сколько получил</li>
+<li>Результаты сводятся в единую таблицу и вывешиваются на всеобщее обозрение</li>
+<li>Раз в месяц (квартал) производится выплата накопленной премии</li>
+</ol>
+
+
+
+<!--ul>
+<li><a href="01">01 - БАРС – Базовая Аналитико-Ресурсная Среда</a></li>
+<li><a href="02">02 - БАРС - Компоновка образа через назначение (Начало)</a></li>
+<li><a href="03">03 - БАРС - Отдельный функционал Компетенция</a></li>
+<li><a href="04">04 - Данил Дашкевич - КАРТА САЙТА</a></li>
+<li><a href="05">05 - 20150208</a></li>
+<li><a href="06">06</a></li>
+</ul-->
+
+<br/>
+
+
+
+
+<h2>Мастера Жизни</h2>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/E0A2E7yRAyQ" frameborder="0" allowfullscreen></iframe>
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/pfonoNRBIUw" frameborder="0" allowfullscreen></iframe>
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/QaeVWc_96jc" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/eaNm1EE-OQc" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+
+<p>
+<a href="http://proffitv.xn--80aaofffbzpzjm.com/">proffitv.мастеражизни.com</a>
+<br/>
+<a href="https://vk.com/ukrainecrowdfunding" target="_blank">vk.com/ukrainecrowdfunding</a>
+<br/>
+<a href="https://www.facebook.com/ukrainecrowdfunding" target="_blank">fb.com/ukrainecrowdfunding</a>
+<br/>
+<a href="https://www.youtube.com/channel/UC5kjP_Z45SelYiXCmxERxag" target="_blank">youtube.com/channel/UC5kjP_Z45SelYiXCmxERxag</a>
+</p>
+
+<br/>
+
+
+
+
+<h2>Литература</h2>
+
+<p>
+<a href="doc/Spravochnik_payshika.doc">Справочник пайщика</a> (426К)
+<br/>
+<a href="doc/SSSR.doc">СССР</a> (369К)
+<br/>
+<a href="doc/Kniga_i_ofits.dokumenti.doc">Практические рекомендации по организации деятельности и стратегии развития</a> (1,3М)
+<br/>
+<a href="doc/Dyachenko.pdf">Потребительская кооперация в социальной сфере, торговле и производстве. Дьяченко</a> (932К)
+<br/>
+<a href="doc/Nekommercheskij_karman_ili_Sekrety_potrebkooperacii.doc">"Некоммерческий карман" или Секреты потребкооперации Шишкин</a> (124К)
+<br/>
+<a href="doc/Estestvenniy_ekonomicheskiy_poryadok.doc">Сильвио Гезель "Естественный экономический порядок"</a> (1,7М)
+</p>
+
+<br/>
+
+
+
+
+<h2>Публикации</h2>
+
+<div class="article">
+<a href="/7521/1211/1/ru"><img src="/7521/1211/1/logo-320x200.jpg"/></a>
+<p><a href="/7521/1211/1/ru">Корпорация Мондрагон</a></p>
+<p>
+Корпорация Мондрагон - одна из ведущих бизнес-групп Испании. 289 компаний и кооперативов. Более 80 тыс. рабочих. Представительства в 41 стране. Продажи более чем в 150 странах.
+<a href="/7521/1211/1/ru">Подробнее...</a>
+</p>
+</div>
+
+
+
+
+<h2>Разное</h2>
+
+<p>
+<a href="http://agro-polis.ru/" target="_blank">agro-polis.ru</a>
+<br/>
+<a href="http://smpy.ru/" target="_blank">smpy.ru</a>
+<br/>
+<a href="http://po-tok.com/" target="_blank">po-tok.com</a>
+<br/>
+<a href="http://www.po-d.ru/paymentsystem" target="_blank">po-d.ru/paymentsystem</a>
+<br/>
+<a href="http://csc-oplata.ru/" target="_blank">csc-oplata.ru</a>
+<!--
+Евгений - https://vk.com/ekubran
+а про ту систему, севастопольцы просто сдули название. А это вот наша http://csc-oplata.ru/
+Данил - https://vk.com/dashkevich_danil
+Слушай а система кооперативных расчетов с открытым кодом? База децентрализована? Кто код писал процессинга?
+Евгений - https://vk.com/ekubran
+Все спец.вопросы Болтику Евгению. bstsoft@ya.ru
+-->
+<br/>
+<a href="http://www.belarp.by/" target="_blank">belarp.by</a>
+<!-- https://vk.com/okboh -->
+<br/>
+<a href="http://po-vo.ru/" target="_blank">po-vo.ru</a>
+<br/>
+<a href="http://svitograd.co.ua" target="_blank">svitograd.co.ua</a>
+</p>
+
+
+<!--
+Подобным делом на Украине занимается мой друг - Ковалев Сергей Александрович (Харьков, Луганск - Украина) – Друг, 
+E-mail:  egregor777@mail.ru     Skype:  skcentr
+Тел: +38 (099) 961 10 94 (МТС)   
+https://www.facebook.com/skcentr  -  Фейсбук
+https://plus.google.com/+SEICISSEO/posts   - Гугл + блог
+ОАО "Славянский коммерческий центр", Предс. Правления, ген. директор
+Сергей Ковалев
+-->
+
+
+
+
+<br/>
+<br/>
+
+<p class="h2"><a href="/co/ru">Сообщество</a></p>
+
+</main>
+<footer><div>7523-02-09 - 7524-05-25</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

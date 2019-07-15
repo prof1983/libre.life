@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Cooperation - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Cooperation</h1>
+
+<p class="h">
+Consumer cooperative
+<br/>
+Creating a resource and reputational economy
+</p>
+
+<figure>
+<img src="img/edinenie-400x400.jpg"/>
+</figure>
+
+
+<div class="blocks">
+
+<a href="organization">
+<div>
+<h3>Organization</h3>
+</div>
+</a>
+
+<a href="concept">
+<div>
+<h3>Concept</h3>
+</div>
+</a>
+
+<a href="people">
+<div>
+<h3>People</h3>
+</div>
+</a>
+
+<a href="/doc/law/co/ru">
+<div>
+<h3>The Law on Consumer Cooperatives</h3>
+</div>
+</a>
+
+<a href="/doc/co/operate/ru">
+<div>
+<h3>Cooperative</h3>
+<p>Documentation</p>
+</div>
+</a>
+
+</div>
+
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/tOYJAUnkU2w" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+
+<div class="blocks">
+<a href="daria/en"><div><h2>DARIA</h2></div></a>
+<a href="http://evira.org"><div><h2>evira.org</h2></div></a>
+<a href="http://ramera.ru"><div><h2>ramera.ru</h2></div></a>
+<a href="http://civilcom.org"><div><h2>civilcom.org</h2></div></a>
+<a href="http://vtu.su"><div><h2>vtu.su</h2></div></a>
+<a href="http://vzaimozachet.su"><div><h2>vzaimozachet.su</h2></div></a>
+</div>
+
+
+
+<!--ul>
+<li><a href="01">01 - БАРС – Базовая Аналитико-Ресурсная Среда</a></li>
+<li><a href="02">02 - БАРС - Компоновка образа через назначение (Начало)</a></li>
+<li><a href="03">03 - БАРС - Отдельный функционал Компетенция</a></li>
+<li><a href="04">04 - Данил Дашкевич - КАРТА САЙТА</a></li>
+<li><a href="05">05 - 20150208</a></li>
+<li><a href="06">06</a></li>
+</ul-->
+
+
+
+
+<h2>Publications</h2>
+
+<div class="article">
+<a href="/7522/1211/1/en"><img src="/7522/1211/1/logo-320x200.jpg"/></a>
+<p><a href="/7522/1211/1/en">Mondragon Corporation</a></p>
+<p>Mondragon Corporation - one of the leading business groups in Spain. 289 companies and cooperatives. More than 80 thousand. Workers. Offices in 41 countries. Sales in more than 150 countries. <a href="/7522/1211/1/en">Read more...</a></p>
+</div>
+
+
+
+
+<p class="h">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+<br/>
+<br/>
+
+<p class="h2"><a href="/co/en">Community</a></p>
+
+</main>
+<footer><div>7523-02-09 - 7524-05-25</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

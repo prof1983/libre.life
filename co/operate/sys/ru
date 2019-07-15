@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Расчётная система - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Расчётная система</h1>
+
+<p class="h">
+Потребительские (паевые) общества
+<br/>
+Создание ресурсно-репутационной экономики
+</p>
+
+<figure>
+<img src="img/00.jpg"/>
+</figure>
+
+<p>
+<a href="/p/18/ru">IT Расчётная Система</a> (IT-платформа «Расчётный центр для потребительских обществ и кооперативов»)
+<br/>
+<a href="/p/24/ru">Correlation Center</a>
+<br/>
+<a href="/p/36/ru">FreePe</a>
+</p>
+
+<p>
+<a href="/7524/0302/1/ru">Учётно-расчётная система (определяем список потребностей)</a>
+</p>
+
+
+<br/>
+<br/>
+
+<p class="h2"><a href="/co/operate/ru">Кооперация</a></p>
+
+</main>
+<footer><div>7524-05-31 - 7524-05-31</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

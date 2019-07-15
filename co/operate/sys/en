@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Clearing system - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Clearing system</h1>
+
+<p class="h">
+Consumer cooperative
+<br/>
+Creating a resource and reputational economy
+</p>
+
+<figure>
+<img src="img/00.jpg"/>
+</figure>
+
+
+
+<p class="h">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+<br/>
+<br/>
+
+<p class="h2"><a href="/co/operate/en">Cooperation</a></p>
+
+</main>
+<footer><div>7524-05-31 - 7524-05-31</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
