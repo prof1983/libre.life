@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>The report for the week (17) - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>The report for the week (17)</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<figure>
+<img src="01.jpg"/>
+</figure>
+
+<p>
+</p>
+
+<br/>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/person/1/en">Yaroslav Loginov</a></p>
+
+</main>
+<footer><div>7524-05-18 - 7524-05-18</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
