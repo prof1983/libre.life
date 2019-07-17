@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>People outside the state - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>People outside the state</h1>
+
+<figure>
+<a href="00b.jpg"><img src="00.jpg"/></a>
+</figure>
+
+<p>
+A new movement is spreading in Ukraine. Citizens, based on Article 5 of the Constitution to create a national enterprise, it does not pay taxes and do not obey the authorities. Special correspondent of "Country" was in Khmelnytsky, to see for myself how the "stateless" people's economy.
+</p>
+
+<br/>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/nation/en">Nation</a></nav>
+
+</main>
+<footer><div>7524-04-01 - 7525-03-20</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
