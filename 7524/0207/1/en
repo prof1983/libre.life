@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>IT settlement system - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>IT settlement system</h1>
+
+<figure>
+<a href="00b.jpg"><img src="00.jpg"/></a>
+</figure>
+
+<p>
+A brief description of the system that Rustam Davletbaev proposed and described. The primary purpose of the system is to survive the crisis, the drop in sales, the cash gaps, the ability to pay for the labor of its employees, even if there are currently no rubles, and receive interest-free loans (investments) to develop the business. Materials on the project are collected at the following link.
+<br/>
+<a href="/platform/ru">libre.life/platform/ru</a>
+<br/>
+<a href="/sys/ru">libre.life/sys/ru</a>
+</p>
+
+<br/>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/sys/en">System</a></nav>
+
+</main>
+<footer><div>7525-05-15 - 7525-05-15</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
