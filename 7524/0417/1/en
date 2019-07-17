@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>FinNet: Forsythe + Hackathon - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>FinNet: Forsythe + Hackathon</h1>
+
+<figure>
+<img src="photo/00.jpg"/>
+</figure>
+
+<figure>
+<img src="photo/01.jpg"/>
+</figure>
+
+<p>
+</p>
+
+<br/>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/dao/en">Decentralized Autonomous Organization (DAO)</a></nav>
+
+</main>
+<footer><div>7524-04-18 - 7524-07-04</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
