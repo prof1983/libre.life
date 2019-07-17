@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>A Crypto-Decentralist Manifesto - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>A Crypto-Decentralist Manifesto</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+Blokcchains will rule the world - a doubt in this shrinking with each passing day. Right before our eyes, this unique technology creates global environment and social and economic cooperation available not only to people, communities and associations, but also a wide variety of independent artificial agents.
+</p>
+
+<br/>
+
+<p class="h2">
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/ideo/en">Ideology</a></nav>
+
+</main>
+<footer><div>7524-12-03 - 7524-12-03</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
