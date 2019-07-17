@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Blockchain Hack - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Blockchain Hack</h1>
+
+<figure>
+<a href="00b.jpg"><img src="00.jpg"/></a>
+</figure>
+
+<p>
+В рамках образовательного проекта Blockchain School Центр прототипирования ВШЭ при поддержке Waves Platform и QIWI проводит хакатон по разработки блокчейн-проектов. За 48 часов команды создадут рабочий прототип продукта, протестируют на соответствие потребностям целевой аудитории и презентуют свои решения жюри. Помогать участникам будут эксперты по блокчейн, опытные разработчики и предприниматели.
+</p>
+
+
+
+
+<h2>Blockchain Hack. День 1. Часть 1</h2>
+
+<figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/59P1fbrG6aU" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+<p>
+<br><a href="https://youtu.be/59P1fbrG6aU" target="_blank">https://youtu.be/59P1fbrG6aU</a> - Часть 1
+<br><a href="https://youtu.be/52wgz1ZgL5A" target="_blank">https://youtu.be/52wgz1ZgL5A</a> - Часть 2
+<br><a href="https://youtu.be/_DpieprYKfU" target="_blank">https://youtu.be/_DpieprYKfU</a> - Часть 3
+<br><a href="https://youtu.be/baWWI6akbl4" target="_blank">https://youtu.be/baWWI6akbl4</a> - Часть 4
+<br><a href="https://youtu.be/Je-bn_-SVAM" target="_blank">https://youtu.be/Je-bn_-SVAM</a> - Часть 5
+<br><a href="https://youtu.be/JJhXvc7Wl3o" target="_blank">https://youtu.be/JJhXvc7Wl3o</a> - Часть 6
+<br><a href="https://youtu.be/4zMJTpQBGe0" target="_blank">https://youtu.be/4zMJTpQBGe0</a> - Часть 7
+<br><a href="https://youtu.be/-J0sx77LXjI" target="_blank">https://youtu.be/-J0sx77LXjI</a> - Часть 8
+<br><a href="https://youtu.be/zPjhLFL3z9o" target="_blank">https://youtu.be/zPjhLFL3z9o</a> - Часть 9
+<br><a href="https://youtu.be/5KzKY3JouSg" target="_blank">https://youtu.be/5KzKY3JouSg</a> - Часть 10
+<br><a href="https://youtu.be/jqhuxFodTTc" target="_blank">https://youtu.be/jqhuxFodTTc</a> - Часть 11
+<br><a href="https://youtu.be/dY8JDmSw2-I" target="_blank">https://youtu.be/dY8JDmSw2-I</a> - Часть 12
+<br><a href="https://youtu.be/5C-auPtDouU" target="_blank">https://youtu.be/5C-auPtDouU</a> - Часть 13
+<br><a href="https://youtu.be/4fDcbUYbm8w" target="_blank">https://youtu.be/4fDcbUYbm8w</a> - Часть 14
+<br><a href="https://youtu.be/6pU8Ox9xkRU" target="_blank">https://youtu.be/6pU8Ox9xkRU</a> - Часть 15
+<br><a href="https://youtu.be/vNtKALe_PSA" target="_blank">https://youtu.be/vNtKALe_PSA</a> - Часть 16
+<br><a href="https://youtu.be/tA1PIkk-GeE" target="_blank">https://youtu.be/tA1PIkk-GeE</a> - Часть 17
+<br><a href="https://youtu.be/KRnMOaGbRjc" target="_blank">https://youtu.be/KRnMOaGbRjc</a> - Часть 18
+<br><a href="https://youtu.be/f_9JJrPnHjU" target="_blank">https://youtu.be/f_9JJrPnHjU</a> - Часть 19
+<br><a href="https://youtu.be/h2ZWRxJuoWg" target="_blank">https://youtu.be/h2ZWRxJuoWg</a> - Часть 20
+<br><a href="https://youtu.be/xoWG4lp-Ahg" target="_blank">https://youtu.be/xoWG4lp-Ahg</a> - Часть 21
+<br><a href="https://youtu.be/n3TZkjhOWT8" target="_blank">https://youtu.be/n3TZkjhOWT8</a> - Часть 22
+<br><a href="https://youtu.be/kAPNgxTAm6k" target="_blank">https://youtu.be/kAPNgxTAm6k</a> - Часть 23
+<br><a href="https://youtu.be/OjcsuIYKb08" target="_blank">https://youtu.be/OjcsuIYKb08</a> - Часть 24
+<br><a href="https://youtu.be/BfG0Tz0uzx8" target="_blank">https://youtu.be/BfG0Tz0uzx8</a> - Часть 25
+<br><a href="https://youtu.be/znCGj0qf8aI" target="_blank">https://youtu.be/znCGj0qf8aI</a> - Часть 26
+<br><a href="https://youtu.be/JosSdHj_d6I" target="_blank">https://youtu.be/JosSdHj_d6I</a> - Часть 27
+</p>
+
+
+<p>
+1) A-smart - Визуальный конструктор smart-контрактов для непрограммистов (Петр Белоусов)
+<br/>
+2) Dolphin blockchain itelligence - Интеллектуальный анализ данных блокчейн (Сидоров Павел)
+<br/>
+3) Импорт из соцсетей в ГОЛОС (Капустин Анатолий)
+<br/>
+4) Команда № 4 - Смарт-контракт для госзакупок (Радкевич Иван)
+<br/>
+5) CHECK-NODE - Распределенная система проверки физлиц в банках (Ибрагимов Аднан)
+<br/>
+6) Агроквест - Постороение площадки для создания агробизнеса, геолокационная игра (Салагаев Антон)
+<br/>
+7) Dao casino - Интеграция рулетки на эфире с контарактом DAO Casino (Тарутов Илья)
+<br/>
+8) ГОЛОС - Библиотека-конструтор блогов (Дматрий )
+<br/>
+9) Команда А3 - Платная блокчейн-аутефикация в базу данных (Андреев Андрей)
+<br/>
+10) Рандом - Генерация случайного числа (Возохин Евгений)
+<br/>
+11) DAO platform - Оценка выполненных задач (Соловьев Евгений)
+<br/>
+12) Start Factor - IPO для физлиц, творческих проектов (Денис Крульчик)
+<br/>
+13) Smart gaming - Контроль версий для смарт-игр (Моисеев Роман)
+<br/>
+14) Система управления базами данных на блокчейн (Груша Вадим)
+<br/>
+15) Drug Discovery - децентрализованный поиск лекарств (Андрей Воронков)
+<br/>
+16) DarkChain - проект по привлечению средств для выпуска музыкальных альбомов и продажи произведений из выпущенных альбомов (Якубов Айрат)
+</p>
+
+<p class="h3">
+<a href="http://hack4people.ru/" target="_blank">hack4people.ru</a>
+</p>
+
+<p>
+Источник:
+<a href="https://hselab.timepad.ru/event/399946/" target="_blank">hselab.timepad.ru/event/399946/</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/ru">Главная</a></nav>
+
+</main>
+<footer><div>7524-11-11 - 7524-11-12</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

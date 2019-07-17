@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Blockchain Hack - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Blockchain Hack</h1>
+
+<figure>
+<a href="00b.jpg"><img src="00.jpg"/></a>
+</figure>
+
+<p>
+As part of the educational project Blockchain School Prototyping Center with the support of the HSE Waves Platform and conducts Hackathon QIWI blokcheyn for development projects. For 48 hours the team will create a working prototype of the product, will test for compliance with the requirements of the target audience and the jury will present their solutions. To help participants will be experts blokcheyn, experienced developers and entrepreneurs.
+</p>
+
+<p class="h3">
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+<nav class="main-footer-nav"><a href="/en">Main</a></nav>
+
+</main>
+<footer><div>7524-11-11 - 7524-11-11</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
