@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Lightning Network: all the technical details - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Lightning Network: all the technical details</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+Perhaps, Lightning Network - the most anticipated new technology for Bitcoin. It is assumed that this payment system, an idea which has been camping's a year ago, will allow almost free to perform a huge number of transactions is blokcheyna Bitcoin, and it does not have to sacrifice safety.
+</p>
+
+<br/>
+
+<p class="h2">
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/sys/en">System</a></nav>
+
+</main>
+<footer><div>7524-11-28 - 7524-11-28</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
