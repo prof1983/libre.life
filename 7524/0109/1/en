@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Economic literacy: «The Tale of the credit crunch» - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Economic literacy: «The Tale of the credit crunch»</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+Klava, known in the village hooch-maker, decided to expand his business and to oust from the market your competitor hooch-maker Masha.
+</p>
+
+<br/>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/economy/en">Economy</a></nav>
+
+</main>
+<footer><div>7525-01-23 - 7525-01-23</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
