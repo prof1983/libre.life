@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>The General Theory of Decentralized Applications, Dapps - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>The General Theory of Decentralized Applications, Dapps</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+A new model for building successful and massively scalable applications is emerging. Bitcoin led the way with its open-source, peer-to-peer nature, cryptographically-stored records (block chain), and limited number of tokens that power the use of its features.
+</p>
+
+<br/>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/dao/en">Decentralized Autonomous Organization (DAO)</a></p>
+
+</main>
+<footer><div>7524-05-10 - 7524-05-10</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
