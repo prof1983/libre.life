@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>The complexities of the project Lightning Network - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>The complexities of the project Lightning Network</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+This article looks at one of the proposed network scalability solutions Bitcoin - a very controversial project Lightning Network. Its author - Jameson Lopp, a software engineer in the company BitGo, creator and founder of the site Statoshi.info Bitcoinsig.com. He likes to create Web services, and he is very interested in the problem of scalability Bitcoins.
+</p>
+
+<br/>
+
+<p class="h2">
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/sys/en">System</a></nav>
+
+</main>
+<footer><div>7524-11-27 - 7524-11-27</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
