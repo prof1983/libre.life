@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>About Meanings Laboratory - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>About Meanings Laboratory</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+Now we are all together we form a new ecological environment (in return of capitalism, which is valid from 1991 to the present time). As will be named this system - I do not know yet. As an option: the USSR-2, Noospheric Democracy, Venus, Tehnokommunizm, Anarchism (without the control of the clan) or something else.
+</p>
+
+<br/>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/club/inno/meanings/en">Meanings Laboratory</a></nav>
+
+</main>
+<footer><div>7524-05-13 - 7525-05-15</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
