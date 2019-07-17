@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Crowdfunding to Ethereum - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Crowdfunding to Ethereum</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+Sometimes a good idea to require a lot of resources and collective efforts. You can ask for donations. But donors want to be sure that the whole project will receive adequate funding and startanet. In this case, crowdfunding is ideal: you declare a final amount which is necessary for the project and dates during which you plan to collect.
+</p>
+
+<br/>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/dao/en">Decentralized Autonomous Organization (DAO)</a></p>
+
+</main>
+<footer><div>7524-04-03 - 7524-04-03</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
