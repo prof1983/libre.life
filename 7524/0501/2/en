@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Visions, Part 1: The Value of Blockchain Technology - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Visions, Part 1: The Value of Blockchain Technology</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+One of the questions that has perhaps been central to my own research in blockchain technology is: ultimately, what is it even useful for? Why do we need blockchains for anything, what kinds of services should be run on blockchain-like architectures, and why specifically should services be run on blockchains instead of just living on plain old servers? Exactly how much value do blockchains provide: are they absolutely essential, or are they just nice to have? And, perhaps most importantly of all, what is the “killer app” going to be?
+</p>
+
+<br/>
+
+<p class="h2">
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/dao/en">Decentralized Autonomous Organization</a></nav>
+
+</main>
+<footer><div>7524-07-03 - 7524-07-03</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
