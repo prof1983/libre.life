@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Social chaperones - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Social chaperones</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+In this article the subject of decentralized cooperative networks that do not have a single leader (dominant, the boss...), so that their functioning is determined by complex interactions between the partial leaders.
+</p>
+
+<p class="h2">
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/cracy/net/en">Netocracy</a></nav>
+
+</main>
+<footer><div>7524-12-20 - 7524-12-20</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
