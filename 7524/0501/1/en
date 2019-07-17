@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>About resource Database - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>About resource Database</h1>
+
+<figure>
+<a href="00b.jpg"><img src="00.jpg"/></a>
+</figure>
+
+<figure>
+<a href="01b.jpg"><img src="01.jpg"/></a>
+</figure>
+
+<p>
+Now there is a question of creating a "Resource Database" - a decentralized database of various goods and services in order to, in the long term, to optimize searches and logistics. And most importantly make it more convenient sharing. In any case, it is now actively developing carsharing, uberisation, more comfortable rental of property (airbnb/booking/etc).
+</p>
+
+<br/>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/club/partners/en">Partners Club</a></nav>
+
+</main>
+<footer><div>7524-05-11 - 7525-01-30</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
