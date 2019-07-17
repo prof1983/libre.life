@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Moscow Blockchain Researchers Meetup - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Moscow Blockchain Researchers Meetup</h1>
+
+<figure>
+<a href="00b.jpg"><img src="00.jpg"/></a>
+</figure>
+
+<p>
+Это мероприятие для разработчиков и исследователей в области криптографии, p2p-систем, технологии блокчейн. 
+</p>
+
+<p>
+На первой встрече выступили:
+<br/>
+- Dmitry Meshkov, Research Fellow & Scorex Project Developer Input | Output с докладом: "Аутентифицированные структуры данных в блокчейн системах" 
+<br/>
+- Sasha Ivanov, Founder & CEO Wavesplatform с докладом: "Bitcoin NG и альтернативные подходы к масштабируемости блокчейн систем"
+</p>
+
+<figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CAS7-ORLdiI" frameborder="0" allowfullscreen></iframe>
+<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0x_gHDLgV7A" frameborder="0" allowfullscreen></iframe>
+<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tdb9h3FULhE" frameborder="0" allowfullscreen></iframe>
+<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/36EfSaBmNMs" frameborder="0" allowfullscreen></iframe>
+<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jye4DHkdUcg" frameborder="0" allowfullscreen></iframe>
+<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/09AxSNaH1ew" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+<p>
+<a href="https://www.facebook.com/events/145423002604918" target="_blank">fb.com/events/145423002604918</a>
+<br/>
+<a href="https://www.facebook.com/groups/1806287776292521" target="_blank">fb.com/groups/1806287776292521</a>
+</p>
+
+
+<p>
+Sasha Ivanov:
+<br/>
+Завтра проводим первое мероприятие, приглашаются люди которые понимают как блокчейн работает технически в первую очередь :) для более бизнес ориентированных людей может быть не очень интересно, но у нас для них есть другие мероприятия.
+<br/>
+О чем будем говорить завтра -
+<br/>
+Все знают что такое дерево Меркле. Но не все знают что это далеко не единственная такая структура которая может использоваться в блокчейн системах. Такие структуры называются "Аутентифицированные структуры данных", и их применения весьма многогранны. Самое естественное это применение для улучшения масштабируемости, когда, к примеру, проверка валидности транзакций производится без использования полной истории транзакций
+<br/>
+Также мы обсудим Bitcoin NG, предложение которое может существенно увеличить пропускную способность блокчейн систем, позволяя обрабатывать сотни транзакций в секунду.
+<br/>
+Подход не имеет серьезных минусов, и бесспорно будет скоро реализован в production системах.
+<br/>
+<a href="https://www.facebook.com/groups/1806287776292521/permalink/1810225855898713/" target="_blank">fb.com/groups/1806287776292521/permalink/1810225855898713</a>
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/sys/ru">Система</a></nav>
+
+</main>
+<footer><div>7524-12-09 - 7524-12-09</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
