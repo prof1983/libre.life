@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>How does the Lightning Network work? Part 1. Building a bi-directional payment channel - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>How does the Lightning Network work? Part 1. Building a bi-directional payment channel</h1>
+
+<figure>
+<img src="00.webp"/>
+</figure>
+
+<p>
+Perhaps the Lightning Network is the most anticipated technological novelty for Bitcoin. It is assumed that this payment system, the idea of which was put forward a year ago, will make it possible to carry out a huge number of transactions almost free of charge outside the bitcoyne blockade, and for this one will not have to sacrifice security.
+</p>
+
+<br/>
+
+<p class="h2">
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/net/en"></a></nav>
+
+</main>
+<footer><div>7526-07-17 - 7526-07-17</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
