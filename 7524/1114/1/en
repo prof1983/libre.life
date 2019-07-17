@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>The use of innovative financial technology - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>The use of innovative financial technology</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+Scientific-practical conference "The use of innovative financial technologies at the municipal level"
+</p>
+
+<p class="h3">
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/sys/en">System</a></nav>
+
+</main>
+<footer><div>7524-11-15 - 7524-11-15</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
