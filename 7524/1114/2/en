@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>In anticipation SegWit - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>In anticipation SegWit</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+The last few weeks Segwit - one of the most discussed topics in the Bitcoin community and will remain so for a long time. The latest release of Bitcoin Core 0.13.1 already contains Segwit, which was announced in the previous version 0.13, so it's time to tell us more about what kind of solution.
+</p>
+
+<p class="h3">
+<a href="ru">More...</a> (RU)
+</p>
+
+
+
+
+<nav class="main-footer-nav"><a href="/platform/en">Platform</a></nav>
+
+</main>
+<footer><div>7524-11-21 - 7524-11-21</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
