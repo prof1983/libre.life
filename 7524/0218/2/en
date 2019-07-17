@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>Network system Innovation Economy - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Network system Innovation Economy</h1>
+
+<figure>
+<img src="01.jpg"/>
+</figure>
+
+<p>
+Global trends and the realities of Russia. Natalia Smorodinskaya. Institute of Economics, Russian Academy of Sciences. Expert Workshop. February 15, 2016
+</p>
+
+<br/>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/economy/en">Economy</a></p>
+
+</main>
+<footer><div>7524-02-20 - 7524-02-20</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
