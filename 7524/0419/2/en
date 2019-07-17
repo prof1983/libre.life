@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>About Partners Club - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>About Partners Club</h1>
+
+<figure>
+<img src="00.jpg"/>
+</figure>
+
+<p>
+Project Partners Club - is an information system, where we connect producers and consumers. Club - a service for 1) consumers, 2) Manufacturers, 3) "Org's" - the organizers of joint purchases, 4) Logisticians - companies, drivers, warehouse, 5) Businesswomen / Businessmen / investors. In the future, connecting people from science (inventors, thinkers and cultural figures, etc.).
+</p>
+
+<br/>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/club/partners/en">Partners Club</a></p>
+
+</main>
+<footer><div>7524-05-13 - 7524-05-13</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
