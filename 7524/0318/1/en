@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>New Economic System - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>New Economic System</h1>
+
+<figure>
+<a href="00b.jpg"><img src="00.jpg"/></a>
+</figure>
+
+<p>
+At the current time, our country, Russia, is under sanctions of Western countries, the ruble depreciated against the dollar and the euro, the mood in the business environment, to put it mildly depressive - there is uncertainty about the future, it is unclear what will happen with the political and economic situation, increased excise taxes , taxes and fees…
+</p>
+
+<br/>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/economy/en">Economy</a></p>
+
+</main>
+<footer><div>7524-03-18 - 7524-03-18</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
