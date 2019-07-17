@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>The collective wisdom of the ants - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>The collective wisdom of the ants</h1>
+
+<figure>
+<a href="00b.jpg"><img src="00.jpg"/></a>
+</figure>
+
+<p>
+Ant colonies live without any centralized control. Knowing exactly how they do it, we will be able to understand and work of other systems that operate without the "pointers from above" - from the brain to the Internet.
+</p>
+
+<br/>
+
+<p class="h2">
+<a href="ru">Read more...</a> (RU)
+</p>
+
+
+<br/>
+<br/>
+
+<p class="h4"><a href="/co/en">Collective</a></p>
+
+<br/>
+
+<p class="h2"><a href="/co/mune/en">Commune</a></p>
+
+</main>
+<footer><div>7524-05-08 - 7524-05-08</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
